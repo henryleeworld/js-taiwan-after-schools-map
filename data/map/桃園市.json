@@ -1187,8 +1187,8 @@
                 "county": "桃園市",
                 "town": "蘆竹區",
                 "village": "長壽里",
-                "class": "外語類,其他類,",
-                "students": "國小,國小、國中、高中"
+                "class": "文理類,外語類,其他類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4056,8 +4056,8 @@
                 "county": "桃園市",
                 "town": "楊梅區",
                 "village": "楊明里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -10535,7 +10535,7 @@
                 "county": "桃園市",
                 "town": "大溪區",
                 "village": "仁和里",
-                "class": "外語類,商類：珠算、心算、會計,",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
                 "students": "國小,國中"
             },
             "geometry": {
