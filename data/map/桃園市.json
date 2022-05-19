@@ -9,8 +9,8 @@
                 "county": "桃園市",
                 "town": "大園區",
                 "village": "橫峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,其他類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -105,7 +105,7 @@
                 "town": "中壢區",
                 "village": "中原里",
                 "class": "文理類,外語類,資訊類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國小,國中,高中,成人(18歲以上)"
+                "students": "國小,成人(18歲以上),國中,高中"
             },
             "geometry": {
                 "type": "Point",
