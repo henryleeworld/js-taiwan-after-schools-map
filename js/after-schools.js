@@ -58,7 +58,7 @@ var content = document.getElementById('infoBox');
 var slipBox = document.getElementById('slipBox');
 
 var appView = new ol.View({
-    center: ol.proj.fromLonLat([120.721507, 23.700694]),
+    center: ol.proj.fromLonLat([121.563900, 25.034030]),
     zoom: 9
 });
 
