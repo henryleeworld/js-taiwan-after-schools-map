@@ -4,13 +4,113 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "69202403190001",
+                "name": "私立三之三才藝短期補習班",
+                "county": "澎湖縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.569372",
+                    "23.577061"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "69202401090001",
+                "name": "私立鹿鳴美術短期補習班",
+                "county": "澎湖縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "未填寫"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.577447",
+                    "23.574765"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "69202302130001",
+                "name": "私立萌芽短期補習班",
+                "county": "澎湖縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.574565",
+                    "23.572488"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "69202212090001",
+                "name": "私立美語習塾短期補習班",
+                "county": "澎湖縣",
+                "class": "外語類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.573632",
+                    "23.575837"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "69202206110001",
+                "name": "私立企鵝家族文理短期補習班",
+                "county": "澎湖縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.590906",
+                    "23.561428"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "69202201060001",
+                "name": "私立典典文理短期補習班",
+                "county": "澎湖縣",
+                "class": "文理類,",
+                "students": "學齡前、國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "119.575613",
+                    "23.570553"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "69202107290001",
                 "name": "私立愛彌兒短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "朝陽里",
-                "class": "文理類,外語類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -26,10 +126,8 @@
                 "code": "69202102170001",
                 "name": "私立艾妮塔英文短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "朝陽里",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -45,10 +143,8 @@
                 "code": "69201505290001",
                 "name": "私立舒飛美語文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "西文里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -64,8 +160,6 @@
                 "code": "69201401200001",
                 "name": "私立威莉文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "光榮里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -83,8 +177,6 @@
                 "code": "69201401200002",
                 "name": "私立英語角短期補習班",
                 "county": "澎湖縣",
-                "town": "湖西鄉",
-                "village": "湖西村",
                 "class": "外語類,",
                 "students": "國小、國中,不限"
             },
@@ -102,8 +194,6 @@
                 "code": "69201111030001",
                 "name": "私立易說學堂短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "陽明里",
                 "class": "外語類,",
                 "students": "成人、國中、國小"
             },
@@ -121,16 +211,14 @@
                 "code": "69200910120001",
                 "name": "私立小太陽短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "光榮里",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    119.571915,
-                    23.574081
+                    "119.571384",
+                    "23.576002"
                 ]
             }
         },
@@ -140,8 +228,6 @@
                 "code": "69200906220001",
                 "name": "私立樂高短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "光榮里",
                 "class": "外語類,",
                 "students": "高中,國小,國中"
             },
@@ -159,8 +245,6 @@
                 "code": "69200810290001",
                 "name": "私立朱老師文理短期補習班",
                 "county": "澎湖縣",
-                "town": "湖西鄉",
-                "village": "湖西村",
                 "class": "文理類,",
                 "students": "國中"
             },
@@ -178,10 +262,8 @@
                 "code": "69200806200001",
                 "name": "私立立德文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "光明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -197,8 +279,6 @@
                 "code": "69200806160001",
                 "name": "私立格林文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "陽明里",
                 "class": "文理類,",
                 "students": "國中,國小,國小,國中"
             },
@@ -213,30 +293,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "69200805020001",
-                "name": "私立智能數學短期補習班",
-                "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "光榮里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.572498,
-                    23.574596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "69200803130002",
                 "name": "私立金老師美語短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "東文里",
                 "class": "外語類,",
                 "students": "國小,國中"
             },
@@ -254,10 +313,8 @@
                 "code": "69200608180002",
                 "name": "私立皓學文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "光榮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -273,10 +330,8 @@
                 "code": "69200608180001",
                 "name": "私立宥朝短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "西文里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -289,30 +344,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "69200604040001",
-                "name": "私立小米菓短期補習班",
-                "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "東文里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.58241,
-                    23.561612
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "69200510120001",
                 "name": "私立全方位文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "西文里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -327,13 +361,28 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "69200604040001",
+                "name": "私立小米菓短期補習班",
+                "county": "澎湖縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.58241,
+                    23.561612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "69200406170001",
                 "name": "私立惠安文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "朝陽里",
-                "class": "文理類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -349,8 +398,6 @@
                 "code": "69200503300001",
                 "name": "私立成功短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "朝陽里",
                 "class": "文理類,",
                 "students": "國中,高中"
             },
@@ -365,32 +412,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "69200401070001",
-                "name": "私立阿甘語言短期補習班",
-                "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "西文里",
-                "class": "文理類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    119.58171,
-                    23.564302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "69200207180001",
                 "name": "私立龍之堡英語短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "朝陽里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -406,10 +432,8 @@
                 "code": "69200206110003",
                 "name": "私立以馬內利美語短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "陽明里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -425,10 +449,8 @@
                 "code": "69200206270002",
                 "name": "智基科技開發股份有限公司附設私立志光法商文理短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "朝陽里",
-                "class": "法政類,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -444,8 +466,6 @@
                 "code": "69200210150001",
                 "name": "私立奇瓦笛美語短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "光榮里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -463,8 +483,6 @@
                 "code": "69200206110001",
                 "name": "私立安老師美語短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "陽明里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -482,8 +500,6 @@
                 "code": "69200207240052",
                 "name": "私立明穗珠算美語會話短期補習班",
                 "county": "澎湖縣",
-                "town": "馬公市",
-                "village": "西衛里",
                 "class": "外語類,商類：珠算、心算、會計,",
                 "students": "國小"
             },

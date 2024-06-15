@@ -4,13 +4,232 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "53202404170001",
+                "name": "私立邦妮短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.172973",
+                    "23.388006"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202312190001",
+                "name": "私立育林文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.285927",
+                    "23.455581"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202312120001",
+                "name": "私立加勤短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.352094",
+                    "23.55453"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202307070001",
+                "name": "私立陳老師短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.397969",
+                    "23.425818"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202306160001",
+                "name": "私立雀瑞絲短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.297143",
+                    "23.454674"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202211230001",
+                "name": "私立金企鵝短期補習班南新分班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.382471",
+                    "23.497374"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202210140001",
+                "name": "嘉義縣私立貝思特文理短期補習班",
+                "county": "嘉義縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.292624",
+                    "23.487842"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202205200001",
+                "name": "私立熱氣球短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.452595",
+                    "23.528985"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202204270001",
+                "name": "私立安爾堡文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.238468",
+                    "23.462644"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202203210001",
+                "name": "嘉義縣私立均均文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.240164",
+                    "23.461516"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202111050001",
+                "name": "私立宇捷文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.397525",
+                    "23.4252"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202110180001",
+                "name": "私立牧樂短期補習班",
+                "county": "嘉義縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.463859",
+                    "23.601315"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202109060001",
+                "name": "私立茗群數學文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.179267",
+                    "23.381223"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "53202103260001",
                 "name": "私立艾瑞克英語短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮後村",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -26,8 +245,6 @@
                 "code": "53202103170001",
                 "name": "私立金典語文短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "中埔村",
                 "class": "外語類,",
                 "students": "國小,國中,高中"
             },
@@ -45,8 +262,6 @@
                 "code": "53202102040001",
                 "name": "私立優昇短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "竹崎村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中,學齡前"
             },
@@ -64,8 +279,6 @@
                 "code": "53202101130001",
                 "name": "私立登原短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮前村",
                 "class": "",
                 "students": ""
             },
@@ -83,16 +296,14 @@
                 "code": "53202012280001",
                 "name": "私立鵬嶺文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.451986,
-                    23.528707
+                    "120.451986",
+                    "23.528707"
                 ]
             }
         },
@@ -102,10 +313,8 @@
                 "code": "53202011160001",
                 "name": "私立佳音文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -121,10 +330,8 @@
                 "code": "53202008260001",
                 "name": "嘉義縣私立泓志文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -140,10 +347,8 @@
                 "code": "53202008170002",
                 "name": "嘉義縣私立樂芙文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "大葛里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -159,10 +364,8 @@
                 "code": "53202008170001",
                 "name": "嘉義縣私立主人翁文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -178,10 +381,8 @@
                 "code": "53202008060001",
                 "name": "私立勵學文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "中樂村",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -194,30 +395,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53202007240001",
-                "name": "私立明城短期補習班",
-                "county": "嘉義縣",
-                "town": "六腳鄉",
-                "village": "蒜南村",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.290745,
-                    23.490919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53202007010001",
                 "name": "嘉義縣私立百勝短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -235,10 +415,8 @@
                 "code": "53202007010002",
                 "name": "嘉義縣私立六藝文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水頭村",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -254,10 +432,8 @@
                 "code": "53202004240001",
                 "name": "嘉義縣私立辰冠短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -273,8 +449,6 @@
                 "code": "53202003240001",
                 "name": "私立耶米文理技藝短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
                 "class": "文理類,外語類,資訊類,",
                 "students": "國小,國中,高中,學齡前,成人(18歲以上)"
             },
@@ -292,10 +466,8 @@
                 "code": "53202002140001",
                 "name": "嘉義縣私立TOP頂尖文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "大葛里",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -311,10 +483,8 @@
                 "code": "53201911120001",
                 "name": "嘉義縣私立孟修短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "安仁里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -330,10 +500,8 @@
                 "code": "53201909190001",
                 "name": "私立貓頭鷹短期補習班大林分班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
-                "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -349,10 +517,8 @@
                 "code": "53201909180001",
                 "name": "私立寶貝王國短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -368,8 +534,6 @@
                 "code": "53201909110001",
                 "name": "嘉義縣私立全腦文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "竹圍里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -387,8 +551,6 @@
                 "code": "53201907160001",
                 "name": "嘉義縣私立雪倫美語短期補習班",
                 "county": "嘉義縣",
-                "town": "番路鄉",
-                "village": "下坑村",
                 "class": "外語類,",
                 "students": "國小,國中"
             },
@@ -406,8 +568,6 @@
                 "code": "53201906250001",
                 "name": "嘉義縣私立至德資優文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "中樂村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -425,8 +585,6 @@
                 "code": "53201901310001",
                 "name": "嘉義縣私立智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班中正分班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "三興村",
                 "class": "文理類,法政類,",
                 "students": "公職人員考試"
             },
@@ -444,8 +602,6 @@
                 "code": "53201809250001",
                 "name": "嘉義縣私立布萊爾美語短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
                 "class": "外語類,",
                 "students": "國小,國中,學齡前"
             },
@@ -460,30 +616,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53201809030001",
-                "name": "嘉義縣私立駿驊文理短期補習班",
-                "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.426505,
-                    23.554292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53201807030001",
-                "name": "高點數位科技股份有限公司附設嘉義縣私立高點建國文理短期補習班",
+                "name": "高點教育科技股份有限公司附設嘉義縣私立高點文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "三興村",
                 "class": "文理類,法政類,商類：珠算、心算、會計,",
                 "students": "成人(18歲以上)"
             },
@@ -501,8 +636,6 @@
                 "code": "53201805110001",
                 "name": "嘉義縣私立築勤文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
                 "class": "文理類,",
                 "students": "國中,高中,國小"
             },
@@ -520,8 +653,6 @@
                 "code": "53201712110001",
                 "name": "嘉義縣私立創新科學短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "東勢里",
                 "class": "文理類,",
                 "students": "其他"
             },
@@ -536,30 +667,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53201701130001",
-                "name": "嘉義縣私立惟榮國中文理短期補習班",
-                "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水頭村",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.399972,
-                    23.428567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53201610130001",
                 "name": "嘉義縣私立偉民文理短期補習班",
                 "county": "嘉義縣",
-                "town": "梅山鄉",
-                "village": "梅北村",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -574,30 +684,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53201509300001",
-                "name": "財團法人天主教會嘉義教區附設嘉義縣私立星海文理短期補習班",
-                "county": "嘉義縣",
-                "town": "義竹鄉",
-                "village": "仁里村",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.242529,
-                    23.336908
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53201504070001",
                 "name": "嘉義縣私立展文文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -615,10 +704,8 @@
                 "code": "53201503300001",
                 "name": "嘉義縣私立威爾登美語短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "東榮村",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中,成人(18歲以上),高中"
             },
             "geometry": {
                 "type": "Point",
@@ -634,10 +721,8 @@
                 "code": "53201502050001",
                 "name": "嘉義縣私立湯姆士文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和美村",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -650,32 +735,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53201501080002",
-                "name": "嘉義縣私立學毅文理短期補習班",
-                "county": "嘉義縣",
-                "town": "太保市",
-                "village": "過溝里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.364921,
-                    23.497568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53201501060001",
                 "name": "嘉義縣私立品昇全方位教育文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "福德村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -691,10 +755,8 @@
                 "code": "53201406160001",
                 "name": "嘉義縣私立喬大文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -710,10 +772,8 @@
                 "code": "53201406030001",
                 "name": "嘉義縣私立力碩文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "柳鄉村",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -729,8 +789,6 @@
                 "code": "53201402240001",
                 "name": "嘉義縣私立成碩文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "大葛里",
                 "class": "文理類,",
                 "students": "國小,國中,成人(18歲以上)"
             },
@@ -748,8 +806,6 @@
                 "code": "53201312120001",
                 "name": "嘉義縣私立至捷文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和美村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -767,8 +823,6 @@
                 "code": "53201312050001",
                 "name": "嘉義縣私立喬茵文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -786,8 +840,6 @@
                 "code": "53201311120001",
                 "name": "嘉義縣私立佳蓓爾音樂短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
                 "class": "音樂、舞蹈類,",
                 "students": "國小"
             },
@@ -805,8 +857,6 @@
                 "code": "53201310240001",
                 "name": "嘉義縣私立哈佛文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "春珠里",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -824,10 +874,8 @@
                 "code": "53201308190001",
                 "name": "嘉義縣私立輔升文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "竹圍里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -843,10 +891,8 @@
                 "code": "53201306180001",
                 "name": "嘉義縣私立頂尖文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -862,10 +908,8 @@
                 "code": "53201303010001",
                 "name": "嘉義縣私立承運文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "福德村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -881,10 +925,8 @@
                 "code": "53201301160001",
                 "name": "嘉義縣私立強數文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -900,10 +942,8 @@
                 "code": "53201301090001",
                 "name": "嘉義縣私立愛麗思文理短期補習班",
                 "county": "嘉義縣",
-                "town": "義竹鄉",
-                "village": "仁里村",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -919,8 +959,6 @@
                 "code": "53201211060001",
                 "name": "嘉義縣私立蘇老師文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和美村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -938,10 +976,8 @@
                 "code": "53201209140001",
                 "name": "嘉義縣私立立人文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "東榮村",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -957,8 +993,6 @@
                 "code": "53201207310001",
                 "name": "嘉義縣私立資優生文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "粗溪村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -976,8 +1010,6 @@
                 "code": "53201207040002",
                 "name": "嘉義縣私立崴聖文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "內埔村",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -995,8 +1027,6 @@
                 "code": "53201206040001",
                 "name": "嘉義縣私立高第文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "北新里",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -1014,8 +1044,6 @@
                 "code": "53201205100001",
                 "name": "嘉義縣私立勤益文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "竹崎村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -1030,30 +1058,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53201204230001",
-                "name": "嘉義縣私立金冠文理短期補習班",
-                "county": "嘉義縣",
-                "town": "太保市",
-                "village": "東勢里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.294585,
-                    23.466733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53201204160001",
                 "name": "嘉義縣私立學英文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "竹崎村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1071,8 +1078,6 @@
                 "code": "53201204050001",
                 "name": "嘉義縣私立加大文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "民生村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -1090,8 +1095,6 @@
                 "code": "53201203020001",
                 "name": "嘉義縣私立沈老師文理短期補習班",
                 "county": "嘉義縣",
-                "town": "溪口鄉",
-                "village": "溪東村",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -1109,10 +1112,8 @@
                 "code": "53201201060001",
                 "name": "嘉義縣私立慈惠文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "東勢里",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國中,國小,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1128,10 +1129,8 @@
                 "code": "53201201040001",
                 "name": "嘉義縣私立柏瀚文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水頭村",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1147,8 +1146,6 @@
                 "code": "53201112220001",
                 "name": "嘉義縣私立英典語文短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "東勢里",
                 "class": "外語類,",
                 "students": "成人(18歲以上),高中"
             },
@@ -1164,12 +1161,10 @@
             "type": "Feature",
             "properties": {
                 "code": "53201112070001",
-                "name": "嘉義縣私立何老師文理短期補習班",
+                "name": "嘉義縣私立科技人文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1185,10 +1180,8 @@
                 "code": "53201106220001",
                 "name": "嘉義縣私立學成文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1204,10 +1197,8 @@
                 "code": "53201106040001",
                 "name": "嘉義縣私立曾老師文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "博厚里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1223,10 +1214,8 @@
                 "code": "53201106020001",
                 "name": "嘉義縣私立摩爾美語短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1242,10 +1231,8 @@
                 "code": "53201105240001",
                 "name": "私立頂立文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "內埔村",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1261,10 +1248,8 @@
                 "code": "53201103280001",
                 "name": "私立小黑人音樂美語短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "福德村",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1280,8 +1265,6 @@
                 "code": "53201103280002",
                 "name": "私立僑英文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1299,8 +1282,6 @@
                 "code": "53201103150001",
                 "name": "私立偉文文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "三興村",
                 "class": "文理類,",
                 "students": "大專校院學生"
             },
@@ -1315,30 +1296,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53201102170001",
-                "name": "私立聖文美語短期補習班",
-                "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "明和里",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.448695,
-                    23.60648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53201102010001",
                 "name": "台灣知識庫股份有限公司民雄分公司附設嘉義縣私立數位學堂文理法政短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "三興村",
                 "class": "文理類,外語類,法政類,",
                 "students": "成人(18歲以上)"
             },
@@ -1356,8 +1316,6 @@
                 "code": "53201012300001",
                 "name": "私立聖光文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "福德村",
                 "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小"
             },
@@ -1375,8 +1333,6 @@
                 "code": "53201012130001",
                 "name": "私立聖達文理短期補習班",
                 "county": "嘉義縣",
-                "town": "溪口鄉",
-                "village": "坪頂村",
                 "class": "文理類,外語類,",
                 "students": "國小,高中,國中"
             },
@@ -1394,35 +1350,14 @@
                 "code": "53201012010001",
                 "name": "私立學成美語短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水頭村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.399989,
-                    23.427467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201010300001",
-                "name": "私立張傑文理短期補習班",
-                "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮前村",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.345623,
-                    23.554107
+                    "120.39997",
+                    "23.427761"
                 ]
             }
         },
@@ -1432,8 +1367,6 @@
                 "code": "53201010230001",
                 "name": "私立世群文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "東榮村",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -1451,10 +1384,8 @@
                 "code": "53201009210001",
                 "name": "私立正達文理短期補習班",
                 "county": "嘉義縣",
-                "town": "義竹鄉",
-                "village": "義竹村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1470,16 +1401,14 @@
                 "code": "53201009080001",
                 "name": "私立維妮美術短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和美村",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.463686,
-                    23.452165
+                    "120.470218",
+                    "23.451992"
                 ]
             }
         },
@@ -1489,10 +1418,8 @@
                 "code": "53201008270001",
                 "name": "私立嘉音英語短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "南新里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1508,10 +1435,8 @@
                 "code": "53201008130001",
                 "name": "私立資優美語短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "安仁里",
-                "class": "外語類,",
-                "students": "國小,其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1527,10 +1452,8 @@
                 "code": "53201006220001",
                 "name": "私立育埕文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "安福里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1546,10 +1469,8 @@
                 "code": "53201005200001",
                 "name": "私立三之三文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "舊埤里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1565,10 +1486,8 @@
                 "code": "53201005110001",
                 "name": "智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "東榮村",
-                "class": "文理類,外語類,法政類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1584,10 +1503,8 @@
                 "code": "53201005060001",
                 "name": "私立愛森堡文理短期補習班",
                 "county": "嘉義縣",
-                "town": "梅山鄉",
-                "village": "梅北村",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1603,8 +1520,6 @@
                 "code": "53201004120001",
                 "name": "私立仁仁語文短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "中埔村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -1619,32 +1534,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53201002060001",
-                "name": "私立育成文理短期補習班",
-                "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和睦村",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.463843,
-                    23.451385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53201002040001",
                 "name": "私立良育文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "福德村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1660,10 +1554,8 @@
                 "code": "53200912250001",
                 "name": "私立勵自向上文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水頭村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1679,8 +1571,6 @@
                 "code": "53200912180001",
                 "name": "私立令揚文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "竹崎村",
                 "class": "文理類,",
                 "students": "國中.國小,國小,國中"
             },
@@ -1698,10 +1588,8 @@
                 "code": "53200910140001",
                 "name": "私立全方位舞蹈短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "竹圍里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -1717,8 +1605,6 @@
                 "code": "53200909100001",
                 "name": "嘉義縣私立雙春文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "東勢里",
                 "class": "文理類,外語類,",
                 "students": "國中,國小"
             },
@@ -1736,10 +1622,8 @@
                 "code": "53200908310001",
                 "name": "私立智強文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1755,10 +1639,8 @@
                 "code": "53200907140001",
                 "name": "私立龍英文短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "安仁里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1774,10 +1656,8 @@
                 "code": "53200903270001",
                 "name": "私立英美語文短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1793,8 +1673,6 @@
                 "code": "53200903160001",
                 "name": "私立叡智文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "太保里",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -1812,8 +1690,6 @@
                 "code": "53200902040001",
                 "name": "私立藝宸文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮前村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -1831,8 +1707,6 @@
                 "code": "53200811200001",
                 "name": "私立京冠文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "南新里",
                 "class": "文理類,外語類,",
                 "students": "國中,國小,高中"
             },
@@ -1850,8 +1724,6 @@
                 "code": "53200811030001",
                 "name": "私立菁英文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮前村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1869,8 +1741,6 @@
                 "code": "53200809240001",
                 "name": "私立學廣文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮前村",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -1888,8 +1758,6 @@
                 "code": "53200809150001",
                 "name": "私立五餅二魚文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "興中村",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -1907,8 +1775,6 @@
                 "code": "53200809050001",
                 "name": "私立欣欣文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1923,38 +1789,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200807290001",
-                "name": "私立和星文理短期補習班",
-                "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和睦村",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459464,
-                    23.449522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200805300001",
                 "name": "私立育嘉文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "社口村",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.541944,
-                    23.443458
+                    "120.524405",
+                    "23.424199"
                 ]
             }
         },
@@ -1964,8 +1809,6 @@
                 "code": "53200805200001",
                 "name": "私立洋洋文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "中埔村",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1983,8 +1826,6 @@
                 "code": "53200803140001",
                 "name": "私立Do Re Mi 音樂短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水頭村",
                 "class": "音樂、舞蹈類,",
                 "students": "國小"
             },
@@ -2002,8 +1843,6 @@
                 "code": "53200802260001",
                 "name": "私立彼得潘文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "安福里",
                 "class": "音樂、舞蹈類,",
                 "students": "學齡前,國小,國中,高中,成人(18歲以上)"
             },
@@ -2021,8 +1860,6 @@
                 "code": "53200801160002",
                 "name": "私立諾貝爾音樂藝術短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "平和里",
                 "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小,國中"
             },
@@ -2040,8 +1877,6 @@
                 "code": "53200712060001",
                 "name": "私立非凡文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和美村",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2059,8 +1894,6 @@
                 "code": "53200709180001",
                 "name": "嘉義縣私立嘉中文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
                 "class": "文理類,外語類,",
                 "students": "國中,國小"
             },
@@ -2078,8 +1911,6 @@
                 "code": "53200708300001",
                 "name": "私立摩根美語短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "北斗村",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2097,8 +1928,6 @@
                 "code": "53200708130002",
                 "name": "私立達誠文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -2116,10 +1945,8 @@
                 "code": "53200707130001",
                 "name": "私立融達文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2135,10 +1962,8 @@
                 "code": "53200707020001",
                 "name": "私立晉昇文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2154,10 +1979,8 @@
                 "code": "53200706070001",
                 "name": "私立里米語文短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2173,8 +1996,6 @@
                 "code": "53200705160001",
                 "name": "私立睿文文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "大葛里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2192,8 +2013,6 @@
                 "code": "53200703220001",
                 "name": "私立小太陽文理短期補習班",
                 "county": "嘉義縣",
-                "town": "布袋鎮",
-                "village": "中安里",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2211,8 +2030,6 @@
                 "code": "53200704120001",
                 "name": "私立常春藤文理短期補習班",
                 "county": "嘉義縣",
-                "town": "梅山鄉",
-                "village": "梅東村",
                 "class": "文理類,",
                 "students": "國中"
             },
@@ -2230,8 +2047,6 @@
                 "code": "53200612270001",
                 "name": "私立義德文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮後村",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2246,30 +2061,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200612210001",
-                "name": "私立鴻源文理短期補習班",
-                "county": "嘉義縣",
-                "town": "太保市",
-                "village": "北新里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.378693,
-                    23.49858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200208012112",
-                "name": "私立科林語文短期補習班",
+                "name": "私立科林短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "南新里",
                 "class": "文理類,外語類,",
                 "students": "高中,國小,國中,學齡前"
             },
@@ -2287,10 +2081,8 @@
                 "code": "53200608300001",
                 "name": "私立雅智音樂、語文短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
-                "class": "",
-                "students": ""
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2306,8 +2098,6 @@
                 "code": "53200608080001",
                 "name": "私立佳言美語短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -2325,8 +2115,6 @@
                 "code": "53200605230001",
                 "name": "私立金企鵝英語短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "過溝里",
                 "class": "文理類,外語類,",
                 "students": "國中,國小"
             },
@@ -2341,30 +2129,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200605120001",
-                "name": "私立立淂文理短期補習班",
-                "county": "嘉義縣",
-                "town": "太保市",
-                "village": "太保里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.331701,
-                    23.454706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200604300002",
                 "name": "私立格林文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和美村",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2382,8 +2149,6 @@
                 "code": "53200603160001",
                 "name": "私立學文城文理才藝短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "中正里",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小"
             },
@@ -2401,8 +2166,6 @@
                 "code": "53200603060001",
                 "name": "私立小字典文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "大興村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2420,8 +2183,6 @@
                 "code": "53200602270001",
                 "name": "私立正統心算短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "明和里",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -2439,8 +2200,6 @@
                 "code": "53200602160001",
                 "name": "私立向日葵語文短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和美村",
                 "class": "外語類,",
                 "students": "國小,國中"
             },
@@ -2458,10 +2217,8 @@
                 "code": "53200602130001",
                 "name": "私立全美文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和興村",
-                "class": "文理類,",
-                "students": "國小,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2474,30 +2231,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200601200001",
-                "name": "私立智理成文理短期補習班",
-                "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "福德村",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.345108,
-                    23.556107
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200512290001",
                 "name": "私立巨果珠心算語文短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
                 "class": "",
                 "students": ""
             },
@@ -2515,8 +2251,6 @@
                 "code": "53200510270001",
                 "name": "私立英才文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "社口村",
                 "class": "",
                 "students": ""
             },
@@ -2531,32 +2265,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200509300001",
-                "name": "私立首席才藝短期補習班",
-                "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮後村",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.350491,
-                    23.55734
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200509060001",
                 "name": "私立瑪肯資優文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2572,10 +2285,8 @@
                 "code": "53200508260001",
                 "name": "私立允強文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "安仁里",
-                "class": "文理類,外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2591,10 +2302,8 @@
                 "code": "53200508240001",
                 "name": "私立顧勝文教事業有限公司附設文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "中樂村",
-                "class": "文理類,外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2610,8 +2319,6 @@
                 "code": "53200507280001",
                 "name": "私立雅勝珠心算短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "中樂村",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -2626,30 +2333,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200507220001",
-                "name": "私立大佳巧語文短期補習班",
-                "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "塩舘村",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.517103,
-                    23.427918
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200506130001",
                 "name": "私立高譽文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "大葛里",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2667,8 +2353,6 @@
                 "code": "53200505180001",
                 "name": "私立國華文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "北新里",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2686,8 +2370,6 @@
                 "code": "53200505160001",
                 "name": "私立誠楓文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和興村",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2705,8 +2387,6 @@
                 "code": "53200503250001",
                 "name": "智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班太保分班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "安仁里",
                 "class": "法政類,",
                 "students": "成人(18歲以上)"
             },
@@ -2724,8 +2404,6 @@
                 "code": "53200411220001",
                 "name": "私立奧林匹克文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "北新里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -2740,38 +2418,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200411170002",
-                "name": "私立日光藝術教育空間美術短期補習班",
-                "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.426674,
-                    23.556284
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200411120001",
                 "name": "私立世外桃源文理短期補習班",
                 "county": "嘉義縣",
-                "town": "番路鄉",
-                "village": "下坑村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.539061,
-                    23.47139
+                    "120.555032",
+                    "23.464315"
                 ]
             }
         },
@@ -2781,8 +2438,6 @@
                 "code": "53200410260001",
                 "name": "嘉義縣私立學府文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水頭村",
                 "class": "外語類,",
                 "students": "國小,國中,高中"
             },
@@ -2800,8 +2455,6 @@
                 "code": "53200410260002",
                 "name": "私立名興文理短期補習班",
                 "county": "嘉義縣",
-                "town": "番路鄉",
-                "village": "下坑村",
                 "class": "文理類,",
                 "students": "國中,國小,高中"
             },
@@ -2819,8 +2472,6 @@
                 "code": "53200407230001",
                 "name": "私立蔡老師文理短期補習班",
                 "county": "嘉義縣",
-                "town": "布袋鎮",
-                "village": "興中里",
                 "class": "文理類,外語類,",
                 "students": "國小"
             },
@@ -2836,12 +2487,10 @@
             "type": "Feature",
             "properties": {
                 "code": "53200404280001",
-                "name": "耐樂帝文理短期補習班",
+                "name": "私立耐樂帝文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,18 +2504,16 @@
             "type": "Feature",
             "properties": {
                 "code": "53200402260001",
-                "name": "嘉義縣私立育昇語文短期補習班",
+                "name": "嘉義縣私立TOP頂尖文理短期補習班太保分班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "前潭里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.344652,
-                    23.452625
+                    "120.344867",
+                    "23.452742"
                 ]
             }
         },
@@ -2876,8 +2523,6 @@
                 "code": "53200312100001",
                 "name": "私立碩博文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -2895,8 +2540,6 @@
                 "code": "53200310220001",
                 "name": "私立高陽文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2914,10 +2557,8 @@
                 "code": "53200307140002",
                 "name": "嘉義縣私立台大文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "南新里",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2930,32 +2571,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200307140001",
-                "name": "私立勢必得美語短期補習班",
-                "county": "嘉義縣",
-                "town": "太保市",
-                "village": "前潭里",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.344652,
-                    23.452608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200304230002",
                 "name": "私立弘揚文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "後潭里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2968,30 +2588,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200303200002",
-                "name": "私立世界村文理短期補習班",
-                "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "寬士村",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429738,
-                    23.447554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200303200001",
                 "name": "私立THE OWL美語短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "竹崎村",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -3009,10 +2608,8 @@
                 "code": "53200303190001",
                 "name": "私立貓頭鷹語文短期補習班",
                 "county": "嘉義縣",
-                "town": "梅山鄉",
-                "village": "梅北村",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3028,8 +2625,6 @@
                 "code": "53200301030001",
                 "name": "私立才育文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -3047,10 +2642,8 @@
                 "code": "53200209120001",
                 "name": "嘉義縣私立協同高級中學附設外國語文短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "文隆村",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -3063,32 +2656,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208012134",
-                "name": "嘉義縣私立ABC林老師文理短期補習班",
-                "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.451564,
-                    23.602702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200208012131",
                 "name": "私立喜學園文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "隆興村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "未載明"
             },
             "geometry": {
                 "type": "Point",
@@ -3104,10 +2676,8 @@
                 "code": "53200208012130",
                 "name": "私立羅傑文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "北斗村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "未載明"
             },
             "geometry": {
                 "type": "Point",
@@ -3123,10 +2693,8 @@
                 "code": "53200208012128",
                 "name": "私立吳老師文理短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "西林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3142,8 +2710,6 @@
                 "code": "53200208012121",
                 "name": "私立芥菜種(蒂娜)文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "和平村",
                 "class": "",
                 "students": ""
             },
@@ -3161,10 +2727,8 @@
                 "code": "53200208012118",
                 "name": "私立高效能正音文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "竹崎村",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3180,10 +2744,8 @@
                 "code": "53200208012117",
                 "name": "私立新時代技藝短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和睦村",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3197,12 +2759,10 @@
             "type": "Feature",
             "properties": {
                 "code": "53200208012113",
-                "name": "私立文林語文短期補習班",
+                "name": "嘉義縣私立文林語文短期補習班",
                 "county": "嘉義縣",
-                "town": "大林鎮",
-                "village": "平林里",
-                "class": "外語類,",
-                "students": "未載明"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3218,10 +2778,8 @@
                 "code": "53200208012114",
                 "name": "私立來恩文理短期補習班中華分班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "和平村",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3237,8 +2795,6 @@
                 "code": "53200208012110",
                 "name": "私立莫札特音樂短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "粗溪村",
                 "class": "音樂、舞蹈類,",
                 "students": "未載明"
             },
@@ -3256,8 +2812,6 @@
                 "code": "53200208012109",
                 "name": "私立心心文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "麻寮里",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -3275,8 +2829,6 @@
                 "code": "53200208012104",
                 "name": "私立建中文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
                 "class": "文理類,外語類,",
                 "students": "未載明"
             },
@@ -3294,10 +2846,8 @@
                 "code": "53200208012103",
                 "name": "嘉義縣私立資優生文教機構短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "竹圍里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3313,10 +2863,8 @@
                 "code": "53200208012102",
                 "name": "嘉義縣私立藍園文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "中樂村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "未填列"
             },
             "geometry": {
                 "type": "Point",
@@ -3332,8 +2880,6 @@
                 "code": "53200208012105",
                 "name": "私立健學文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
                 "class": "文理類,",
                 "students": "未載明"
             },
@@ -3351,8 +2897,6 @@
                 "code": "53200208010096",
                 "name": "私立天成文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮前村",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3370,8 +2914,6 @@
                 "code": "53200208010095",
                 "name": "私立李老師文理短期補習班",
                 "county": "嘉義縣",
-                "town": "新港鄉",
-                "village": "宮前村",
                 "class": "文理類,",
                 "students": "未載名"
             },
@@ -3389,8 +2931,6 @@
                 "code": "53200208010084",
                 "name": "嘉義縣私立鐘老師文理短期補習班",
                 "county": "嘉義縣",
-                "town": "中埔鄉",
-                "village": "和興村",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -3406,12 +2946,10 @@
             "type": "Feature",
             "properties": {
                 "code": "53200208010083",
-                "name": "嘉義縣私立中正芝麻開門美術語文短期補習班",
+                "name": "嘉義縣私立中正芝蔴開門美術語文短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小,不限對象"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3427,8 +2965,6 @@
                 "code": "53200208010077",
                 "name": "私立成大王牌文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "寬士村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -3446,8 +2982,6 @@
                 "code": "53200208010075",
                 "name": "私立文人文理短期補習班",
                 "county": "嘉義縣",
-                "town": "太保市",
-                "village": "北新里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3463,10 +2997,8 @@
             "type": "Feature",
             "properties": {
                 "code": "53200310220002",
-                "name": "私立童年故事才藝中心短期補習班",
+                "name": "私立童年故事短期補習班",
                 "county": "嘉義縣",
-                "town": "梅山鄉",
-                "village": "梅東村",
                 "class": "",
                 "students": ""
             },
@@ -3481,30 +3013,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208010071",
-                "name": "私立立德文理短期補習班",
-                "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "東榮村",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429107,
-                    23.551611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200208010069",
                 "name": "私立叮噹語文短期補習班",
                 "county": "嘉義縣",
-                "town": "鹿草鄉",
-                "village": "西井村",
                 "class": "",
                 "students": ""
             },
@@ -3522,10 +3033,8 @@
                 "code": "53200208010068",
                 "name": "私立世界美語文理短期補習班",
                 "county": "嘉義縣",
-                "town": "梅山鄉",
-                "village": "永興村",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "未填列"
             },
             "geometry": {
                 "type": "Point",
@@ -3541,10 +3050,8 @@
                 "code": "53200208010063",
                 "name": "私立大地電腦文理短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "水上村",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3560,16 +3067,14 @@
                 "code": "53200208010062",
                 "name": "私立懷軒文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "和平村",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.548177,
-                    23.516416
+                    "120.54819",
+                    "23.516448"
                 ]
             }
         },
@@ -3579,10 +3084,8 @@
                 "code": "53200208010061",
                 "name": "私立佳佳珠算短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "文化里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "未載明"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3598,10 +3101,8 @@
                 "code": "53200208020001",
                 "name": "私立采音音樂美語短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "永和里",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3617,8 +3118,6 @@
                 "code": "53200208010058",
                 "name": "私立姜老師珠算才藝短期補習班",
                 "county": "嘉義縣",
-                "town": "水上鄉",
-                "village": "民生村",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -3636,8 +3135,6 @@
                 "code": "53200208010050",
                 "name": "私立翰成升學文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "平和里",
                 "class": "文理類,外語類,",
                 "students": "高中,國中,國小"
             },
@@ -3652,49 +3149,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208010043",
-                "name": "私立秀田苑文理短期補習班",
-                "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "安福里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.24863,
-                    23.467572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010042",
-                "name": "私立敦煌文理短期補習班",
-                "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "西安村",
-                "class": "文理類,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.427242,
-                    23.558223
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200208010037",
                 "name": "私立學友文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "平和里",
                 "class": "文理類,電機、汽車修護、建築、工藝、製圖類,商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -3712,8 +3169,6 @@
                 "code": "53200208010034",
                 "name": "私立尉林文理短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "竹圍里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3731,16 +3186,14 @@
                 "code": "53200208010031",
                 "name": "私立漢唐語文珠算短期補習班",
                 "county": "嘉義縣",
-                "town": "朴子市",
-                "village": "順天里",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
                 "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.241968,
-                    23.466664
+                    "120.24201",
+                    "23.466603"
                 ]
             }
         },
@@ -3750,10 +3203,8 @@
                 "code": "53200208010030",
                 "name": "嘉義縣私立明仁文理短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "興中村",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3769,10 +3220,8 @@
                 "code": "53200208010029",
                 "name": "私立翰林珠算短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "中樂村",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "未載明"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3788,10 +3237,8 @@
                 "code": "53200208012129",
                 "name": "私立學林語文才藝短期補習班",
                 "county": "嘉義縣",
-                "town": "民雄鄉",
-                "village": "福樂村",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3807,10 +3254,8 @@
                 "code": "53200208010018",
                 "name": "私立健智文理短期補習班",
                 "county": "嘉義縣",
-                "town": "竹崎鄉",
-                "village": "灣橋村",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",

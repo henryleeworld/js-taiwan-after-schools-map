@@ -4,11 +4,162 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24202405100002",
+                "name": "基隆市私立吉美技藝文理短期補習班",
+                "county": "基隆市",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,幼兒、國民小學"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.748444",
+                    "25.128196"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202405100001",
+                "name": "基隆市私立喬語語文技藝短期補習班",
+                "county": "基隆市",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.717073",
+                    "25.121609"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202312130001",
+                "name": "基隆市私立逢士文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.777986",
+                    "25.135222"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202308170001",
+                "name": "基隆市私立城上城技藝文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.721443",
+                    "25.121166"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202211170001",
+                "name": "基隆市私立黃耀數學文理短期補習班",
+                "county": "基隆市",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.745362,
+                    25.132128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202211040001",
+                "name": "基隆市私立飛思文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.7482,
+                    25.127113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202209280001",
+                "name": "基隆市私立哈博士文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.777886",
+                    "25.136799"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202208240001",
+                "name": "基隆市私立自立文理才藝短期補習班",
+                "county": "基隆市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.727446",
+                    "25.148273"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202208020001",
+                "name": "基隆市私立尚格才藝文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.744123",
+                    "25.118025"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24202106210001",
                 "name": "基隆市私立育陽舞蹈短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "實踐里",
                 "class": "音樂、舞蹈類,瑜珈類,",
                 "students": "幼兒、國小、青少年、成人,學齡前,成人(18歲以上)"
             },
@@ -26,8 +177,6 @@
                 "code": "24202105190002",
                 "name": "基隆市私立文碩文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "和慶里",
                 "class": "文理類,",
                 "students": "國中"
             },
@@ -45,10 +194,8 @@
                 "code": "24202105190001",
                 "name": "基隆市私立宏觀圍棋才藝短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小、國中、高中、成人"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -64,8 +211,6 @@
                 "code": "24202104120001",
                 "name": "基隆市私立星時代舞蹈短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖西里",
                 "class": "音樂、舞蹈類,",
                 "students": "國小、青少年、成 人"
             },
@@ -83,10 +228,8 @@
                 "code": "24202103230001",
                 "name": "基隆市私立林老師文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "中濱里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -102,8 +245,6 @@
                 "code": "24202101040001",
                 "name": "基隆市私立紅腳文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝忠里",
                 "class": "",
                 "students": ""
             },
@@ -121,10 +262,8 @@
                 "code": "24202011240002",
                 "name": "基隆市私立啟賢文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "義和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -140,8 +279,6 @@
                 "code": "24202102010001",
                 "name": "基隆市私立佳興語文短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "德義里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -159,10 +296,8 @@
                 "code": "24202011100001",
                 "name": "基隆市私立寶拉文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "西康里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -178,10 +313,8 @@
                 "code": "24202008180002",
                 "name": "社團法人中國青年救國團附設基隆市私立銘傳語文技藝短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "水錦里",
-                "class": "",
-                "students": ""
+                "class": "外語類,資訊類,家政、插花、烹飪類,縫紉類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
+                "students": "國小以上（依規招收）"
             },
             "geometry": {
                 "type": "Point",
@@ -197,10 +330,8 @@
                 "code": "24202008180001",
                 "name": "基隆市私立日傑文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -216,10 +347,8 @@
                 "code": "24202004150001",
                 "name": "基隆市私立普利斯美語文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "玉田里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -235,8 +364,6 @@
                 "code": "24202002200001",
                 "name": "基隆市私立小倫敦文理才藝短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "義民里",
                 "class": "文理類,外語類,音樂、舞蹈類,商類：珠算、心算、會計,",
                 "students": "國小,國中"
             },
@@ -254,8 +381,6 @@
                 "code": "24201908060001",
                 "name": "基隆市私立小象暖暖文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖西里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -273,8 +398,6 @@
                 "code": "24201907160001",
                 "name": "基隆市私立齊英文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖西里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -292,8 +415,6 @@
                 "code": "24201906260002",
                 "name": "基隆市私立藝術池畔美學才藝短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "智慧里",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "幼兒、兒童、青少年、成人"
             },
@@ -311,8 +432,6 @@
                 "code": "24201906210001",
                 "name": "基隆市私立白盒子藝術美學短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "新店里",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小以上至成人"
             },
@@ -328,10 +447,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24201903070001",
-                "name": "基隆市私立巨匠語文短期補習班",
+                "name": "基隆市私立巨匠電腦語文短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "外語類,",
                 "students": "成人(18歲以上),高中,國小,國中"
             },
@@ -349,8 +466,6 @@
                 "code": "24201901150001",
                 "name": "基隆市私立佑准文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "文理類,",
                 "students": "國小,學齡前"
             },
@@ -368,10 +483,8 @@
                 "code": "24201811060001",
                 "name": "基隆市私立英悅文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "學齡前,成人(18歲以上),國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -387,10 +500,8 @@
                 "code": "24201807020001",
                 "name": "基隆市私立全芳文教文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "中和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -406,10 +517,8 @@
                 "code": "24201805280001",
                 "name": "基隆市私立詮優文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "五福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -425,10 +534,8 @@
                 "code": "24201804250002",
                 "name": "基隆市私立學而思文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -444,8 +551,6 @@
                 "code": "24201804250001",
                 "name": "冠鈞文教事業有限公司附設基隆市私立冠鈞文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖同里",
                 "class": "文理類,",
                 "students": "幼兒、兒童、青少年、成年人"
             },
@@ -463,8 +568,6 @@
                 "code": "24201712070001",
                 "name": "基隆市私立智立方文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "砂子里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -480,10 +583,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24201707270001",
-                "name": "基隆市私立天能文理短期補習班",
+                "name": "基隆市私立海洋文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -498,30 +599,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24201705310002",
-                "name": "基隆市私立綠葉方舟文理短期補習班",
-                "county": "基隆市",
-                "town": "七堵區",
-                "village": "友一里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.666641,
-                    25.09101
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24201705310001",
                 "name": "基隆市私立常容文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "正明里",
                 "class": "文理類,",
                 "students": "國中,高中"
             },
@@ -539,8 +619,6 @@
                 "code": "24201607070001",
                 "name": "基隆市私立興學文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "文理類,外語類,",
                 "students": "國小,學齡前,國中"
             },
@@ -558,10 +636,8 @@
                 "code": "24201703170001",
                 "name": "基隆市私立黌理文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "仁德里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -577,8 +653,6 @@
                 "code": "24201612140001",
                 "name": "基隆市私立鼎峰文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
                 "class": "文理類,",
                 "students": "國小、國中"
             },
@@ -593,30 +667,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24201611010001",
-                "name": "金品教育事業股份有限公司附設基隆市私立金品升大文理短期補習班",
-                "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
-                "class": "文理類,",
-                "students": "國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.745265,
-                    25.131951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24201608300002",
                 "name": "施化難陀有限公司附設基隆市私立境瑜珈短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "瑜珈類,",
                 "students": "國小、國中、高中、成人"
             },
@@ -632,10 +685,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24201608300001",
-                "name": "基隆市私立榮星短期補習班",
+                "name": "基隆市私立榮星文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "五福里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -653,8 +704,6 @@
                 "code": "24201607200001",
                 "name": "基隆市私立筱錄音樂短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "音樂、舞蹈類,",
                 "students": "幼兒\/兒童\/國中\/高中\/成人"
             },
@@ -672,8 +721,6 @@
                 "code": "24201601040001",
                 "name": "基隆市私立家仁短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "中正里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -688,30 +735,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24201208070001",
-                "name": "基隆市私立小象文教短期補習班",
-                "county": "基隆市",
-                "town": "七堵區",
-                "village": "正光里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.715346,
-                    25.097937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24201511160001",
                 "name": "基隆市私立左岸文理才藝短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "花崗里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -729,8 +755,6 @@
                 "code": "24201607040001",
                 "name": "基隆市私立多美文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖西里",
                 "class": "文理類,外語類,",
                 "students": "國小,學齡前"
             },
@@ -745,30 +769,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24201507140002",
-                "name": "基隆市私立柯博文文理短期補習班",
-                "county": "基隆市",
-                "town": "信義區",
-                "village": "仁義里",
-                "class": "文理類,",
-                "students": "國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.749458,
-                    25.12881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24201507140001",
                 "name": "基隆市私立上勤文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -783,13 +786,28 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24201507140002",
+                "name": "基隆市私立柯博文文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749458,
+                    25.12881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24201506170001",
                 "name": "基隆市私立品誠文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -805,8 +823,6 @@
                 "code": "24201503050001",
                 "name": "基隆市私立奇瓦迪文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝忠里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -824,10 +840,8 @@
                 "code": "24201412170001",
                 "name": "基隆市私立孟凱麗文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -840,49 +854,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24201412120002",
-                "name": "基隆市私立吹泡泡藝術才藝短期補習班",
-                "county": "基隆市",
-                "town": "七堵區",
-                "village": "百福里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.696422,
-                    25.082972
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24201412120001",
-                "name": "基隆市私立榮光文理短期補習班",
-                "county": "基隆市",
-                "town": "中正區",
-                "village": "建國里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.767996,
-                    25.144929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24201412040001",
                 "name": "基隆市私立格藍英語文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -900,8 +874,6 @@
                 "code": "24201410010001",
                 "name": "基隆市私立李詮數學文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "水錦里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -919,8 +891,6 @@
                 "code": "24201408290001",
                 "name": "基隆市私立隆華土木建築短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "文昌里",
                 "class": "電機、汽車修護、建築、工藝、製圖類,",
                 "students": "公職人員考試"
             },
@@ -938,8 +908,6 @@
                 "code": "24201408190001",
                 "name": "基隆市私立道生文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "東明里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -957,10 +925,8 @@
                 "code": "24201405300001",
                 "name": "基隆市私立海吉文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -976,8 +942,6 @@
                 "code": "24201407070001",
                 "name": "基隆市私立愛米爾文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "中和里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -995,8 +959,6 @@
                 "code": "24201402100001",
                 "name": "基隆市私立東美文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝賢里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1014,10 +976,8 @@
                 "code": "24201311220001",
                 "name": "基隆市私立向日葵短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "中和里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1033,8 +993,6 @@
                 "code": "24201310240001",
                 "name": "基隆市私立捷美語文短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝忠里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -1052,8 +1010,6 @@
                 "code": "24201309020002",
                 "name": "基隆市私立佳垛文理才藝短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "文理類,音樂、舞蹈類,",
                 "students": "國小,學齡前,國中"
             },
@@ -1071,8 +1027,6 @@
                 "code": "24201306100001",
                 "name": "基隆市私立魯曼英文短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "新店里",
                 "class": "外語類,",
                 "students": "國小,國中,高中"
             },
@@ -1090,8 +1044,6 @@
                 "code": "24201302040002",
                 "name": "基隆市私立晨宇文理才藝短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "四維里",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -1109,8 +1061,6 @@
                 "code": "24201302040001",
                 "name": "基隆市私立小天使文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "過港里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -1128,10 +1078,8 @@
                 "code": "24201212210001",
                 "name": "基隆市私立嘉人文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "內寮里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1147,10 +1095,8 @@
                 "code": "24201212100003",
                 "name": "基隆市私立健德吳平文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "四維里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1166,16 +1112,14 @@
                 "code": "24201212100001",
                 "name": "基隆市私立德育文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.708828,
-                    25.138822
+                    "121.708819",
+                    "25.139029"
                 ]
             }
         },
@@ -1185,10 +1129,8 @@
                 "code": "24201210250001",
                 "name": "基隆市私立名人文理才藝短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "百福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1204,10 +1146,8 @@
                 "code": "24202004140001",
                 "name": "基隆市私立小象短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "永平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1223,16 +1163,14 @@
                 "code": "24201208070002",
                 "name": "基隆市私立瑞卡家文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.709051,
-                    25.139823
+                    "121.709764",
+                    "25.14059"
                 ]
             }
         },
@@ -1242,8 +1180,6 @@
                 "code": "24201202010001",
                 "name": "基隆市私立大宇文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "水錦里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1261,8 +1197,6 @@
                 "code": "24201109270001",
                 "name": "基隆市私立欣欣學園文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "真砂里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -1280,8 +1214,6 @@
                 "code": "24201107010002",
                 "name": "基隆市私立傑優文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖同里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1299,8 +1231,6 @@
                 "code": "24201105200002",
                 "name": "基隆市私立唯鈞文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "六合里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1318,8 +1248,6 @@
                 "code": "24201105200001",
                 "name": "基隆市私立雪力文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "正濱里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1337,10 +1265,8 @@
                 "code": "24201103290002",
                 "name": "基隆市私立親親文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "鶯歌里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1353,19 +1279,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24201103290001",
-                "name": "基隆市私立英倫文理短期補習班",
+                "code": "24201103290002",
+                "name": "基隆市私立親親文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇安里",
-                "class": "文理類,",
-                "students": "國中.小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.7546,
-                    25.099191
+                    121.721864,
+                    25.122827
                 ]
             }
         },
@@ -1375,10 +1299,8 @@
                 "code": "24201101120001",
                 "name": "基隆市私立聯成電腦短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "新店里",
-                "class": "資訊類,",
-                "students": "高中\/職以上"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1394,8 +1316,6 @@
                 "code": "24201101040001",
                 "name": "基隆市私立濠銘文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "外寮里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1413,8 +1333,6 @@
                 "code": "24201009030001",
                 "name": "格達有限公司附設基隆市私立格蘭文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝忠里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1430,10 +1348,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24201008200001",
-                "name": "基隆市私立常春藤文理短期補習班",
+                "name": "基隆市私立百福全方位文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "堵北里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1451,8 +1367,6 @@
                 "code": "24201007280001",
                 "name": "基隆市私立育德文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇和里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1470,8 +1384,6 @@
                 "code": "24201001280001",
                 "name": "基隆市私立大智文殊文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝忠里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -1486,30 +1398,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200912150001",
-                "name": "基隆市私立通關英語短期補習班",
-                "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
-                "class": "外語類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.748476,
-                    25.136959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200912150002",
                 "name": "基隆市私立凱旋文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "德和里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -1527,8 +1418,6 @@
                 "code": "24200910270001",
                 "name": "基隆市私立大學豐文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇和里",
                 "class": "文理類,",
                 "students": "高中,國小,國中"
             },
@@ -1546,8 +1435,6 @@
                 "code": "24200304020001",
                 "name": "基隆市私立大豐文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇和里",
                 "class": "文理類,",
                 "students": "國小、國中、高中(教室A),國小、國中、高中(教室B),國小、國中、高中(教室C),國小、國中、高中(教室D)"
             },
@@ -1565,8 +1452,6 @@
                 "code": "24200307160001",
                 "name": "私立譜卡文化事業有限公司附設基隆市私立古岳音樂短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "音樂、舞蹈類,",
                 "students": "國小.國中"
             },
@@ -1584,10 +1469,8 @@
                 "code": "24200908250001",
                 "name": "基隆市私立全方位文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "正明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小、國中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1603,10 +1486,8 @@
                 "code": "24200206110002",
                 "name": "基隆市私立潘氏英日語短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -1622,10 +1503,8 @@
                 "code": "24200907170002",
                 "name": "基隆市私立劉鳳珠美術黏土才藝短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "鶯歌里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中小成人"
             },
             "geometry": {
                 "type": "Point",
@@ -1641,8 +1520,6 @@
                 "code": "24200906220002",
                 "name": "基隆市私立綠之苑文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇安里",
                 "class": "",
                 "students": ""
             },
@@ -1657,51 +1534,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200601110002",
-                "name": "基隆市私立吉得宝文理短期補習班",
+                "code": "24200902200001",
+                "name": "基隆市私立萊萊文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝忠里",
                 "class": "",
                 "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.782524,
-                    25.134643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24200905110001",
-                "name": "基隆市私立希望文理短期補習班",
-                "county": "基隆市",
-                "town": "安樂區",
-                "village": "鶯歌里",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.724333,
-                    25.12149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24200902200001",
-                "name": "基隆市私立萊萊語文短期補習班",
-                "county": "基隆市",
-                "town": "七堵區",
-                "village": "富民里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -1717,8 +1554,6 @@
                 "code": "24200901100001",
                 "name": "基隆市私立小吳平文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1736,8 +1571,6 @@
                 "code": "24200812050001",
                 "name": "基隆市私立明馨語文短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -1755,8 +1588,6 @@
                 "code": "24200809170001",
                 "name": "基隆市私立海大文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "新富里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1774,8 +1605,6 @@
                 "code": "24200807220001",
                 "name": "基隆市私立文馨卓越語文短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
@@ -1791,10 +1620,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24200807080001",
-                "name": "台灣知識庫股份有限公司附 設基隆市私立大碩洋碩數位學堂文理短期補習班",
+                "name": "台灣知識庫股份有限公司附設基隆市私立大碩洋碩數位學堂文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "文理類,",
                 "students": "研究所"
             },
@@ -1812,8 +1639,6 @@
                 "code": "24200807020001",
                 "name": "基隆市私立奇恩文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇安里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -1831,10 +1656,8 @@
                 "code": "24200805290001",
                 "name": "基隆市私立名仁文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "五福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1847,32 +1670,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200805090001",
-                "name": "基隆市私立天下文理短期補習班",
-                "county": "基隆市",
-                "town": "安樂區",
-                "village": "安和里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.733056,
-                    25.132148
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200805090002",
                 "name": "基隆市私立啟育文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "實踐里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1885,19 +1687,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200804010001",
-                "name": "基隆市私立東科文理短期補習班",
+                "code": "24200805090001",
+                "name": "基隆市私立天下文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇內里",
                 "class": "",
                 "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.754133,
-                    25.096689
+                    121.733056,
+                    25.132148
                 ]
             }
         },
@@ -1907,8 +1707,6 @@
                 "code": "24200803190001",
                 "name": "基隆市私立阿囉哈快樂美語短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
                 "class": "",
                 "students": ""
             },
@@ -1926,10 +1724,8 @@
                 "code": "24200802040001",
                 "name": "基隆市私立亞學文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "光華里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1945,16 +1741,14 @@
                 "code": "24200711220002",
                 "name": "基隆市私立學緣屋文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "正義里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.749962,
-                    25.133403
+                    121.752432,
+                    25.127801
                 ]
             }
         },
@@ -1964,10 +1758,8 @@
                 "code": "24200710120001",
                 "name": "基隆市私立昇揚珠心算文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇安里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1983,8 +1775,6 @@
                 "code": "24200710020001",
                 "name": "基隆市私立興平文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國中小"
             },
@@ -1999,30 +1789,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200709040001",
-                "name": "基隆市私立明日之星舞蹈短期補習班",
-                "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
-                "class": "音樂、舞蹈類,",
-                "students": "幼兒、國小、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.745265,
-                    25.131951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200708220001",
                 "name": "基隆市私立班恩邦尼美語短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖西里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -2040,8 +1809,6 @@
                 "code": "24200704140002",
                 "name": "基隆市私立暉弘文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "玉田里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -2059,8 +1826,6 @@
                 "code": "24200706010002",
                 "name": "基隆市私立哈利文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇安里",
                 "class": "文理類,外語類,",
                 "students": "國中,國小,學齡前"
             },
@@ -2078,8 +1843,6 @@
                 "code": "24200706220002",
                 "name": "基隆市私立育佳文理技藝短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "四維里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2097,8 +1860,6 @@
                 "code": "24200708100001",
                 "name": "基隆市私立小象文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "正明里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2116,8 +1877,6 @@
                 "code": "24200610240004",
                 "name": "基隆市私立精實文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "實踐里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2132,32 +1891,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200606230001",
-                "name": "基隆市私立捷登文理短期補習班",
-                "county": "基隆市",
-                "town": "中正區",
-                "village": "真砂里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.762078,
-                    25.140802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200606070001",
                 "name": "基隆市私立大喆文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "四維里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2173,8 +1911,6 @@
                 "code": "24200603170001",
                 "name": "基隆市私立奧林匹克文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "仁德里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2192,8 +1928,6 @@
                 "code": "24200204300001",
                 "name": "大總統文化事業有限公司附設基隆市私立大東海工商法短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "仁德里",
                 "class": "文理類,電機、汽車修護、建築、工藝、製圖類,商類：珠算、心算、會計,",
                 "students": "成人(18歲以上)"
             },
@@ -2208,11 +1942,26 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24200601110002",
+                "name": "基隆市私立吉得宝文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.782524,
+                    25.134643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24200601110001",
                 "name": "基隆市私立陳老師文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "德義里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2230,16 +1979,14 @@
                 "code": "24200208250021",
                 "name": "基隆市私立培利安文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "新豐里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.784735,
-                    25.135971
+                    "121.784839",
+                    "25.135993"
                 ]
             }
         },
@@ -2249,8 +1996,6 @@
                 "code": "24200511280001",
                 "name": "基隆市私立儒苑文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "玉田里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2268,8 +2013,6 @@
                 "code": "24200510200001",
                 "name": "基隆市私立耶魯文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "外寮里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2287,8 +2030,6 @@
                 "code": "24200510170001",
                 "name": "基隆市私立冠捷文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2303,32 +2044,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200509210003",
-                "name": "基隆市私立華盛頓語文短期補習班",
-                "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.747378,
-                    25.129266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200509210001",
                 "name": "基隆市私立五餅二魚文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2341,13 +2061,28 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24200509210003",
+                "name": "基隆市私立華盛頓語文短期補習班",
+                "county": "基隆市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "121.74732",
+                    "25.129299"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24200508240001",
                 "name": "基隆市私立大方文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖暖里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2360,32 +2095,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200508020001",
-                "name": "基隆市私立連老師瑜伽短期補習班",
-                "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖暖里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.734387,
-                    25.096613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200503230001",
                 "name": "基隆市私立青林文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "鶯安里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2401,10 +2115,8 @@
                 "code": "24200502030001",
                 "name": "基隆市私立暖暖芝麻街美語文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖西里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2420,8 +2132,6 @@
                 "code": "24200501140001",
                 "name": "基隆市私立文殊文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "德安里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2439,8 +2149,6 @@
                 "code": "24200501060001",
                 "name": "基隆市私立康捷文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2458,8 +2166,6 @@
                 "code": "24200411110001",
                 "name": "基隆市私立新吳平文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "文理類,",
                 "students": "高中"
             },
@@ -2477,8 +2183,6 @@
                 "code": "24200405170001",
                 "name": "基隆市私立大仁文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
                 "class": "文理類,",
                 "students": "國小,國中,高中,國小、國中、高中職"
             },
@@ -2496,8 +2200,6 @@
                 "code": "24200404290002",
                 "name": "基隆市私立韻文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "安民里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2515,8 +2217,6 @@
                 "code": "24200404070001",
                 "name": "基隆市私立華純逸舞藝短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "安民里",
                 "class": "音樂、舞蹈類,",
                 "students": "其他"
             },
@@ -2534,8 +2234,6 @@
                 "code": "24200404070002",
                 "name": "基隆市私立給我美語文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "和慶里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2553,8 +2251,6 @@
                 "code": "24200404050001",
                 "name": "基隆市私立日勝文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "堵北里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -2572,8 +2268,6 @@
                 "code": "24200403180001",
                 "name": "基隆市私立黃老師文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "實踐里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -2591,8 +2285,6 @@
                 "code": "24200403170002",
                 "name": "基隆市私立建德小牛頓文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "三民里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2610,8 +2302,6 @@
                 "code": "24200402020001",
                 "name": "基隆市私立立昇文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "中正里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2629,8 +2319,6 @@
                 "code": "24200311040001",
                 "name": "基隆市私立多元文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "實踐里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2648,8 +2336,6 @@
                 "code": "24200208240016",
                 "name": "基隆市私立康玄文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "七賢里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -2667,8 +2353,6 @@
                 "code": "24200310060002",
                 "name": "基隆市私立巧兒文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "義和里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2686,8 +2370,6 @@
                 "code": "24200309030001",
                 "name": "基隆市私立國民文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "和慶里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2705,8 +2387,6 @@
                 "code": "24200307250001",
                 "name": "基隆市私立宜人音樂短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "音樂、舞蹈類,",
                 "students": "國小.國中"
             },
@@ -2724,8 +2404,6 @@
                 "code": "24200306180001",
                 "name": "基隆市私立立敏文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "玉田里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2743,8 +2421,6 @@
                 "code": "24200305190001",
                 "name": "基隆市私立小苗圃文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "德安里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -2759,30 +2435,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200305150001",
-                "name": "基隆市私立金亞洲珠算短期補習班",
-                "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.709164,
-                    25.138704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200304100002",
                 "name": "基隆市私立深美文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝忠里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2800,8 +2455,6 @@
                 "code": "24200304100001",
                 "name": "基隆市私立快樂天堂文理技藝短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "碇安里",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小"
             },
@@ -2819,8 +2472,6 @@
                 "code": "24200304040001",
                 "name": "智基科技開發股份有限公司附設私立志光法商文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "新店里",
                 "class": "文理類,法政類,",
                 "students": "升四技二專大專,公職人員考試"
             },
@@ -2835,49 +2486,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200304020006",
-                "name": "基隆市私立半日通文理短期補習班",
-                "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.709563,
-                    25.140826
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24200208280003",
-                "name": "基隆市私立白蘭琪文理短期補習班",
-                "county": "基隆市",
-                "town": "仁愛區",
-                "village": "新店里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.739729,
-                    25.130151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208280002",
                 "name": "基隆市私立傑思文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "信綠里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2892,11 +2503,26 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24200208280003",
+                "name": "基隆市私立白蘭琪文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739729,
+                    25.130151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24200208280001",
                 "name": "基隆市私立吉吉童畫村短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小"
             },
@@ -2914,8 +2540,6 @@
                 "code": "24200208250027",
                 "name": "基隆市私立吳老師文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "文昌里",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "國小、國中,國小,國中"
             },
@@ -2933,10 +2557,8 @@
                 "code": "24200208250026",
                 "name": "基隆市私立文昱文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "鶯歌里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2952,10 +2574,8 @@
                 "code": "24200208250019",
                 "name": "基隆市私立茱莉安文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "外寮里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2968,38 +2588,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200208250018",
-                "name": "基隆市私立童老師教室短期補習班",
-                "county": "基隆市",
-                "town": "安樂區",
-                "village": "嘉仁里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.732149,
-                    25.127699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208250016",
-                "name": "基隆市私立岑英文理短期補習班",
+                "name": "岑英文教有限公司附設基隆市私立岑英文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.745362,
-                    25.132128
+                    121.747581,
+                    25.129165
                 ]
             }
         },
@@ -3009,8 +2608,6 @@
                 "code": "24200208250015",
                 "name": "基隆市私立名強文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
                 "class": "",
                 "students": ""
             },
@@ -3028,8 +2625,6 @@
                 "code": "24200208250014",
                 "name": "基隆市私立寶寶文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "孝德里",
                 "class": "",
                 "students": ""
             },
@@ -3045,18 +2640,16 @@
             "type": "Feature",
             "properties": {
                 "code": "24200208250012",
-                "name": "基隆市私立溫鴻文理短期補習班",
+                "name": "岑英文教有限公司附設基隆市私立証馨文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "七賢里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.724016,
-                    25.121592
+                    "121.724016",
+                    "25.121592"
                 ]
             }
         },
@@ -3066,10 +2659,8 @@
                 "code": "24200208250011",
                 "name": "基隆市私立筌威英語短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "長樂里",
-                "class": "外語類,",
-                "students": "學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3085,10 +2676,8 @@
                 "code": "24200208250007",
                 "name": "基隆市私立穎聰語文短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "富民里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3104,8 +2693,6 @@
                 "code": "24200208250009",
                 "name": "基隆市私立必勝文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3120,30 +2707,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200208250005",
-                "name": "基隆市私立均晨文理短期補習班",
-                "county": "基隆市",
-                "town": "仁愛區",
-                "village": "花崗里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.752432,
-                    25.127801
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208250008",
                 "name": "基隆市私立柏誠文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖西里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -3161,10 +2727,8 @@
                 "code": "24200208240010",
                 "name": "基隆市私立復興文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "德和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3180,10 +2744,8 @@
                 "code": "24200208240006",
                 "name": "基隆市私立佳英文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3199,8 +2761,6 @@
                 "code": "24200208240005",
                 "name": "基隆市私立文馨文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "博愛里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -3218,10 +2778,8 @@
                 "code": "24200208240001",
                 "name": "基隆市私立精湛文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "百福里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3237,10 +2795,8 @@
                 "code": "24200208230026",
                 "name": "基隆市私立蕾頓文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "中和里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3254,10 +2810,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24200208230022",
-                "name": "基隆市私立神奇寶貝語文短期補習班",
+                "name": "基隆市私立神奇寶貝文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "正明里",
                 "class": "",
                 "students": ""
             },
@@ -3275,8 +2829,6 @@
                 "code": "24200208230020",
                 "name": "基隆市私立安樂芝蔴街美語文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "鶯歌里",
                 "class": "",
                 "students": ""
             },
@@ -3292,10 +2844,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24200208230019",
-                "name": "基隆市私立孫淮修立行文理短期補習班",
+                "name": "基隆市私立孫力行文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
                 "class": "",
                 "students": ""
             },
@@ -3310,30 +2860,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200208230016",
-                "name": "基隆市私立博文文理短期補習班",
-                "county": "基隆市",
-                "town": "中山區",
-                "village": "和慶里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.716167,
-                    25.150165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208230015",
                 "name": "基隆市私立新文成文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "新富里",
                 "class": "",
                 "students": ""
             },
@@ -3351,10 +2880,8 @@
                 "code": "24200208230018",
                 "name": "基隆市私立學優文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3370,10 +2897,8 @@
                 "code": "24200208230012",
                 "name": "基隆市私立名家文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "過港里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3389,10 +2914,8 @@
                 "code": "24200208130013",
                 "name": "基隆市私立棒喬文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3405,30 +2928,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200208230009",
-                "name": "基隆市私立狀元文理短期補習班",
-                "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.7482,
-                    25.127113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208230007",
                 "name": "基隆市私立大成文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "西定里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -3446,8 +2948,6 @@
                 "code": "24200208230005",
                 "name": "基隆市私立筌易文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖同里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -3465,8 +2965,6 @@
                 "code": "24200207300001",
                 "name": "基隆市私立虹韻文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "西榮里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3482,10 +2980,8 @@
             "type": "Feature",
             "properties": {
                 "code": "24200208130011",
-                "name": "基隆市私立七堵芝蔴街美語短期補習班",
+                "name": "基隆市私立七堵芝蔴街美語文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "永平里",
                 "class": "文理類,",
                 "students": "國小、國中、高中、成人,國小,國中"
             },
@@ -3503,8 +2999,6 @@
                 "code": "24200205100005",
                 "name": "基隆市私立禾紜文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "中和里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -3519,30 +3013,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200204300007",
-                "name": "基隆市私立李碩士文理短期補習班",
-                "county": "基隆市",
-                "town": "信義區",
-                "village": "東明里",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.766474,
-                    25.127314
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208180014",
                 "name": "基隆市私立新華文文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "禮東里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -3557,30 +3030,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200208180008",
-                "name": "基隆市私立快樂短期補習班",
-                "county": "基隆市",
-                "town": "仁愛區",
-                "village": "玉田里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.744715,
-                    25.128651
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208180007",
                 "name": "基隆市私立頂尖語文短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "忠勇里",
                 "class": "文理類,外語類,",
                 "students": "國中,國小"
             },
@@ -3598,8 +3050,6 @@
                 "code": "24200208180006",
                 "name": "基隆市私立佳佳心算短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "堵北里",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -3617,8 +3067,6 @@
                 "code": "24200208170010",
                 "name": "基隆市私立大中文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "實踐里",
                 "class": "文理類,",
                 "students": "國中"
             },
@@ -3636,8 +3084,6 @@
                 "code": "24200208170004",
                 "name": "基隆市私立勿舍畫室短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "正光里",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "幼兒、兒童、青少年、成 人"
             },
@@ -3655,8 +3101,6 @@
                 "code": "24200208250003",
                 "name": "基隆市私立新學友才藝文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -3674,8 +3118,6 @@
                 "code": "24200208170003",
                 "name": "基隆市私立七堵小牛頓文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "永平里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -3690,30 +3132,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200208170001",
-                "name": "基隆市私立名宏文理短期補習班",
-                "county": "基隆市",
-                "town": "仁愛區",
-                "village": "龍門里",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.743036,
-                    25.11956
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208160005",
                 "name": "基隆市私立小博士文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "武崙里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -3731,8 +3152,6 @@
                 "code": "24200208160001",
                 "name": "基隆市私立賴老師文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "智仁里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3750,10 +3169,8 @@
                 "code": "24200206110003",
                 "name": "基隆市私立冠林文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3769,8 +3186,6 @@
                 "code": "24200208130008",
                 "name": "基隆市私立文昌文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "安民里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3788,10 +3203,8 @@
                 "code": "24200208130005",
                 "name": "基隆市私立長樂文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "六合里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3807,10 +3220,8 @@
                 "code": "24200208060004",
                 "name": "社團法人中國青年救國團附設基隆市私立語文技藝短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "光華里",
-                "class": "",
-                "students": ""
+                "class": "外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
+                "students": "國小以上（依規招收）"
             },
             "geometry": {
                 "type": "Point",
@@ -3826,8 +3237,6 @@
                 "code": "24200207300002",
                 "name": "基隆市私立林鵬文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "水錦里",
                 "class": "文理類,外語類,",
                 "students": "國中,國小,高中"
             },
@@ -3845,8 +3254,6 @@
                 "code": "24200204290002",
                 "name": "基隆市私立吳平文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "文理類,",
                 "students": "國中,高中"
             },
@@ -3861,19 +3268,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200207290007",
-                "name": "基隆市私立睿哲文理短期補習班",
+                "code": "24200208060001",
+                "name": "基隆市私立多多龍文理短期補習班",
                 "county": "基隆市",
-                "town": "中山區",
-                "village": "西定里",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.730357,
-                    25.138261
+                    "121.735069",
+                    "25.131575"
                 ]
             }
         },
@@ -3883,35 +3288,14 @@
                 "code": "24200207010006",
                 "name": "基隆市私立建德全方位文理短期補習班",
                 "county": "基隆市",
-                "town": "安樂區",
-                "village": "四維里",
                 "class": "文理類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.723426,
-                    25.126245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24200208060001",
-                "name": "基隆市私立多多龍文理短期補習班",
-                "county": "基隆市",
-                "town": "安樂區",
-                "village": "安和里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.73453,
-                    25.131723
+                    "121.723602",
+                    "25.126074"
                 ]
             }
         },
@@ -3921,8 +3305,6 @@
                 "code": "24200205070007",
                 "name": "基隆市私立崧濤文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "正砂里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -3937,57 +3319,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200204300009",
-                "name": "基隆市私立民昇文理短期補習班",
-                "county": "基隆市",
-                "town": "七堵區",
-                "village": "正光里",
-                "class": "文理類,",
-                "students": "高中,國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.713081,
-                    25.096696
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200205100009",
                 "name": "基隆市私立新上群文理短期補習班",
                 "county": "基隆市",
-                "town": "暖暖區",
-                "village": "暖暖里",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.735674,
-                    25.099018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24200205060002",
-                "name": "基隆市私立亞洲學舍技藝短期補習班",
-                "county": "基隆市",
-                "town": "仁愛區",
-                "village": "吉仁里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.743066,
-                    25.123716
+                    "121.735634",
+                    "25.098689"
                 ]
             }
         },
@@ -3997,10 +3339,8 @@
                 "code": "24200205010003",
                 "name": "基隆市私立地球村語文短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "仁德里",
-                "class": "外語類,",
-                "students": "國小以上（依規招收）"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4016,10 +3356,8 @@
                 "code": "24200204290001",
                 "name": "基隆市私立又福文理短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "砂子里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4032,32 +3370,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200205100007",
-                "name": "基隆市私立華興文理短期補習班",
-                "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.747581,
-                    25.129165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200205080399",
                 "name": "基隆市私立小紅帽文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4073,10 +3390,8 @@
                 "code": "24200208170002",
                 "name": "基隆市私立時代文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "永安里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4092,8 +3407,6 @@
                 "code": "24200208180004",
                 "name": "基隆市私立儒林文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "玉田里",
                 "class": "文理類,",
                 "students": "高中"
             },
@@ -4111,8 +3424,6 @@
                 "code": "24200204300002",
                 "name": "基隆市私立星辰文理短期補習班",
                 "county": "基隆市",
-                "town": "七堵區",
-                "village": "永平里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -4130,8 +3441,6 @@
                 "code": "24200207290005",
                 "name": "基隆市私立學文社文理短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "仁壽里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -4149,8 +3458,6 @@
                 "code": "24200205060005",
                 "name": "基隆市私立東明心珠算短期補習班",
                 "county": "基隆市",
-                "town": "信義區",
-                "village": "禮東里",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -4168,8 +3475,6 @@
                 "code": "24200205070006",
                 "name": "基隆市私立孫翠玲舞蹈短期補習班",
                 "county": "基隆市",
-                "town": "中正區",
-                "village": "港通里",
                 "class": "音樂、舞蹈類,",
                 "students": "幼兒以上至成人"
             },
@@ -4187,10 +3492,8 @@
                 "code": "24200205100010",
                 "name": "基隆市私立新民文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "玉田里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4206,35 +3509,14 @@
                 "code": "24200204300003",
                 "name": "基隆市私立芝蔴街美語文理短期補習班",
                 "county": "基隆市",
-                "town": "仁愛區",
-                "village": "文昌里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     121.739684,
                     25.131302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24200205060003",
-                "name": "基隆市私立佳佳文理短期補習班",
-                "county": "基隆市",
-                "town": "仁愛區",
-                "village": "和明里",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.745389,
-                    25.128043
                 ]
             }
         }

@@ -4,11 +4,281 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49202107270001",
-                "name": "私立傑耀文理短期補習班",
+                "code": "49202308210001",
+                "name": "南投縣私立梁老師文理短期補習班",
                 "county": "南投縣",
-                "town": "名間鄉",
-                "village": "中山村",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.678148",
+                    "23.912183"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202306260001",
+                "name": "南投縣私立暘光文理短期補習班",
+                "county": "南投縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.682394",
+                    "23.907"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202304140001",
+                "name": "南投縣私立種子學園文理技藝短期補習班",
+                "county": "南投縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.674055",
+                    "23.928212"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202211180001",
+                "name": "南投縣私立華爾登文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.682077",
+                    "23.965764"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202211160001",
+                "name": "南投縣私立山姆英文文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.721625",
+                    "23.978906"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202210170001",
+                "name": "南投縣私立博苑文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.852769",
+                    "23.812081"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202209050001",
+                "name": "南投縣私立何老師文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.692309",
+                    "23.759175"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202205300001",
+                "name": "南投縣私立碧山文理技藝短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.674925",
+                    "23.978075"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202204070001",
+                "name": "南投縣私立明欣文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.856506",
+                    "24.041555"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202202250001",
+                "name": "南投縣私立彼得美語東美校文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國中,國中生以上"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.685669",
+                    "23.982216"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202201270001",
+                "name": "南投縣私立杰成文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.67262",
+                    "23.931133"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202201210001",
+                "name": "南投縣私立宇凡文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.854693,
+                    23.81371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202110120001",
+                "name": "南投縣私立大碩文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.68538",
+                    "23.973586"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202109130001",
+                "name": "南投縣私立大熊英文文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.96656",
+                    "23.96743"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202109060001",
+                "name": "南投縣私立林芳堯文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.852683",
+                    "23.809937"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202108200001",
+                "name": "南投縣私立弘勵文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.687868",
+                    "23.976218"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202107270001",
+                "name": "南投縣私立傑耀文理短期補習班",
+                "county": "南投縣",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -26,8 +296,6 @@
                 "code": "49202107220001",
                 "name": "南投縣私立辰品文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
                 "class": "文理類,",
                 "students": "學齡前,國小,國中,高中"
             },
@@ -43,10 +311,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49202106090001",
-                "name": "私立優加學院文理短期補習班",
+                "name": "南投縣私立優加學院文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "龍泉里",
                 "class": "文理類,",
                 "students": "國小,國中,高中"
             },
@@ -64,10 +330,8 @@
                 "code": "49202103150001",
                 "name": "南投縣私立永倫文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北門里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -83,10 +347,8 @@
                 "code": "49202011300001",
                 "name": "南投縣私立特斯拉文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "杷城里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -99,32 +361,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49202008250001",
-                "name": "私立湯姆文理短期補習班",
-                "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.690102,
-                    23.760283
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49202005180001",
                 "name": "南投縣私立佳培文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "和平里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -138,12 +379,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49202005150001",
-                "name": "私立富森文理短期補習班",
+                "name": "南投縣私立富森文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -157,12 +396,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49202004290001",
-                "name": "私立智瀠文理短期補習班",
+                "name": "南投縣私立智瀠文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "雲林里",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -178,8 +415,6 @@
                 "code": "49202003180001",
                 "name": "南投縣私立愛蜜莉文理短期補習班",
                 "county": "南投縣",
-                "town": "集集鎮",
-                "village": "永昌里",
                 "class": "",
                 "students": ""
             },
@@ -197,8 +432,6 @@
                 "code": "49201911270001",
                 "name": "南投縣私立絕藝圍棋文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "桂林里",
                 "class": "",
                 "students": ""
             },
@@ -216,10 +449,8 @@
                 "code": "49201911080001",
                 "name": "南投縣私立勁綸文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "嘉和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -235,10 +466,8 @@
                 "code": "49201909300001",
                 "name": "鎮大教育股份有限公司附設南投縣私立慕師文理外語短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "東門里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -251,51 +480,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201908290002",
-                "name": "私立贏家文理短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "嘉和里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.681589,
-                    23.898817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49201907290001",
-                "name": "私立飛揚文理短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "營北里",
-                "class": "文理類,",
-                "students": "國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.693504,
-                    23.943773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201907120001",
                 "name": "南投縣私立成真文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "杷城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -309,12 +498,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201906260001",
-                "name": "私立明冠文理短期補習班",
+                "name": "南投縣私立明冠文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小(12歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -328,12 +515,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201903280001",
-                "name": "私立霍爾技藝短期補習班",
+                "name": "南投縣私立霍爾文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -349,8 +534,6 @@
                 "code": "49201811080001",
                 "name": "南投縣私立鐘晨文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "富寮里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -366,10 +549,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201801190002",
-                "name": "私立瑪仕特文理短期補習班",
+                "name": "南投縣私立瑪仕特文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -385,10 +566,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201801190001",
-                "name": "私立橄欖樹兒童藝術技藝短期補習班",
+                "name": "南投縣私立橄欖樹兒童藝術技藝短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三興里",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國中"
             },
@@ -403,32 +582,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201210170001",
-                "name": "私立精英文理短期補習班",
-                "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "大城里",
-                "class": "文理類,",
-                "students": "高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.959008,
-                    23.968564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201708310002",
                 "name": "南投縣私立愛葳美語短期補習班",
                 "county": "南投縣",
-                "town": "國姓鄉",
-                "village": "國姓村",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -444,10 +602,8 @@
                 "code": "49201708310001",
                 "name": "南投縣私立翼躍英語文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "和平里",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -461,12 +617,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201708220001",
-                "name": "私立耕讀園文理短期補習班",
+                "name": "南投縣私立耕讀園文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -482,8 +636,6 @@
                 "code": "49201707140001",
                 "name": "南投縣私立日碩文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "碧峰里",
                 "class": "",
                 "students": ""
             },
@@ -501,8 +653,6 @@
                 "code": "49201703310001",
                 "name": "南投縣私立松鶴文理短期補習班",
                 "county": "南投縣",
-                "town": "鹿谷鄉",
-                "village": "廣興村",
                 "class": "",
                 "students": ""
             },
@@ -518,12 +668,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201701090001",
-                "name": "私立洪榮隆音樂技藝短期補習班",
+                "name": "南投縣私立洪榮隆音樂技藝文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "枇杷里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -536,32 +684,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201612010001",
-                "name": "南投縣私立冠霖文理短期補習班",
-                "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北安里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.973609,
-                    23.969266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201610060001",
                 "name": "南投縣私立博克萊文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "山腳里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -577,10 +704,8 @@
                 "code": "49201705150001",
                 "name": "南投縣私立金牌文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "軍功里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -593,30 +718,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201608040001",
-                "name": "私立立呈文理短期補習班",
-                "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.692749,
-                    23.75756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201608040002",
-                "name": "私立史丹佛文理短期補習班",
+                "name": "南投縣私立史丹佛文理短期補習班",
                 "county": "南投縣",
-                "town": "名間鄉",
-                "village": "中正村",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -631,11 +735,26 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201607180001",
-                "name": "私立育苗文理短期補習班",
+                "code": "49201608040001",
+                "name": "南投縣私立立呈文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北梅里",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.692749,
+                    23.75756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49201607180001",
+                "name": "南投縣私立育苗文理短期補習班",
+                "county": "南投縣",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -651,10 +770,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201607050001",
-                "name": "私立彼得美語文理技藝短期補習班",
+                "name": "南投縣私立彼得美語文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "玉峰里",
                 "class": "文理類,外語類,音樂、舞蹈類,",
                 "students": "國中,國小"
             },
@@ -670,12 +787,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201605170001",
-                "name": "私立米娜美語文理短期補習班",
+                "name": "南投縣私立米娜美語文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
-                "class": "文理類,外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -689,12 +804,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201604070001",
-                "name": "私立立喬文理短期補習班",
+                "name": "南投縣私立立喬文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "杷城里",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -708,10 +821,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201603290001",
-                "name": "私立向陽文理短期補習班",
+                "name": "南投縣私立向陽文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "崇文里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -727,12 +838,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201606230001",
-                "name": "私立優加文理短期補習班",
+                "name": "南投縣私立優加文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "龍泉里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -746,12 +855,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201510300001",
-                "name": "私立快樂樹英語文理短期補習班",
+                "name": "南投縣私立快樂樹英語文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "中山里",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -765,10 +872,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201508030001",
-                "name": "私立佳銘文理短期補習班",
+                "name": "南投縣私立佳銘文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "南門里",
                 "class": "",
                 "students": ""
             },
@@ -784,10 +889,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201508040001",
-                "name": "私立佳鑫文理短期補習班",
+                "name": "南投縣私立佳鑫文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "內興里",
                 "class": "",
                 "students": ""
             },
@@ -802,49 +905,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201504230001",
-                "name": "私立哥白尼文理短期補習班",
-                "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "同聲里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.969179,
-                    23.961804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49201503230003",
-                "name": "私立遠筧文理短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "內興里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.694703,
-                    23.929369
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201503230002",
-                "name": "私立正學文理短期補習班",
+                "name": "南投縣私立正學文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "內興里",
                 "class": "",
                 "students": ""
             },
@@ -860,12 +923,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201312020001",
-                "name": "私立達文西資優數學短期補習班",
+                "name": "南投縣私立達文西資優數學短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,小三至國三"
             },
             "geometry": {
                 "type": "Point",
@@ -879,10 +940,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201305230001",
-                "name": "私立高澄短期補習班",
+                "name": "南投縣私立高澄文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "山腳里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -898,10 +957,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201211190001",
-                "name": "私立嘉宏文理短期補習班",
+                "name": "南投縣私立嘉宏文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -919,8 +976,6 @@
                 "code": "49201210170003",
                 "name": "南投縣私立姜老師文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "杷城里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -936,10 +991,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201210170002",
-                "name": "私立先格文理短期補習班",
+                "name": "南投縣私立先格文理短期補習班",
                 "county": "南投縣",
-                "town": "水里鄉",
-                "village": "農富村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -954,30 +1007,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201208160001",
-                "name": "私立高飛文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.686543,
-                    23.979832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201206270001",
-                "name": "私立國瑞文理短期補習班",
+                "name": "南投縣私立國瑞文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "雙冬里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -995,10 +1027,8 @@
                 "code": "49201204130001",
                 "name": "益兼教育科技股份有限公司附設南投縣私立益兼文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "山腳里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1012,12 +1042,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201111240001",
-                "name": "私立立智文理短期補習班",
+                "name": "南投縣私立立智文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "大城里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1031,12 +1059,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201110070002",
-                "name": "私立育林文理短期補習班",
+                "name": "南投縣私立育林文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1050,12 +1076,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201110070001",
-                "name": "私立英達資優文理短期補習班",
+                "name": "南投縣私立英達資優文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "中山里",
-                "class": "文理類,",
-                "students": "高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1069,12 +1093,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201109290001",
-                "name": "私立勤學園文理短期補習班",
+                "name": "南投縣私立勤學園文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1088,10 +1110,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201109010001",
-                "name": "私立喬智文理短期補習班竹山分班",
+                "name": "南投縣私立喬智文理短期補習班竹山分班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "竹山里",
                 "class": "",
                 "students": ""
             },
@@ -1107,10 +1127,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201107080001",
-                "name": "私立學冊文理短期補習班",
+                "name": "南投縣私立學冊文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
                 "class": "",
                 "students": ""
             },
@@ -1125,32 +1143,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201106020001",
-                "name": "私立傑立文理短期補習班",
+                "code": "49201103140001",
+                "name": "南投縣私立博士門音樂短期補習班",
                 "county": "南投縣",
-                "town": "名間鄉",
-                "village": "中山村",
                 "class": "",
                 "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.692685,
-                    23.841842
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49201103140001",
-                "name": "私立博士門音樂短期補習班",
-                "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "西門里",
-                "class": "音樂、舞蹈類,",
-                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1164,12 +1161,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201103140004",
-                "name": "私立開莘文理短期補習班",
+                "name": "南投縣私立開莘文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "內興里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1183,12 +1178,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201012140002",
-                "name": "私立鴨子學苑文理技藝短期補習班",
+                "name": "南投縣私立鴨子學苑文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1201,32 +1194,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201012140003",
-                "name": "私立高林文理短期補習班",
-                "county": "南投縣",
-                "town": "中寮鄉",
-                "village": "永平村",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.765956,
-                    23.880714
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201012140004",
-                "name": "私立樂音音樂短期補習班",
+                "name": "南投縣私立樂音音樂短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三興里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -1240,12 +1212,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201011150001",
-                "name": "私立?立文理短期補習班",
+                "name": "南投縣私立?立文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "桂林里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1258,49 +1228,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201009260003",
-                "name": "私立凱群文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "復興里",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.666927,
-                    23.975473
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49201009260004",
-                "name": "私立優德文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "中山里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682833,
-                    23.974716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201009260005",
-                "name": "私立偉達文理短期補習班南投分班",
+                "name": "南投縣私立偉達文理短期補習班南投分班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "康壽里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -1315,13 +1245,28 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201009260006",
-                "name": "私立向上文理短期補習班",
+                "code": "49201009260004",
+                "name": "南投縣私立優德文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "營北里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682833,
+                    23.974716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49201009260006",
+                "name": "南投縣私立向上文理短期補習班",
+                "county": "南投縣",
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1335,12 +1280,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201009260001",
-                "name": "私立頂尖美語文理短期補習班",
+                "name": "南投縣私立頂尖美語文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "和平里",
-                "class": "外語類,",
-                "students": "國小,國中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1354,12 +1297,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49201004010004",
-                "name": "私立沛妮文理短期補習班",
+                "name": "南投縣私立沛妮文理短期補習班",
                 "county": "南投縣",
-                "town": "鹿谷鄉",
-                "village": "彰雅村",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1372,49 +1313,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49201004010003",
-                "name": "私立喬心文理短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "崇文里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.687698,
-                    23.906514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49201004010002",
-                "name": "私立北育文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "北勢里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.716584,
-                    23.995066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49201004010001",
-                "name": "私立睿爾文理短期補習班",
+                "name": "南投縣私立睿爾文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "雲林里",
                 "class": "",
                 "students": ""
             },
@@ -1430,10 +1331,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49201001250001",
-                "name": "私立翌勝文理短期補習班",
+                "name": "南投縣私立翌勝文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
                 "class": "",
                 "students": ""
             },
@@ -1449,10 +1348,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200910220001",
-                "name": "私立翰霖文理短期補習班",
+                "name": "南投縣私立翰霖文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "崇文里",
                 "class": "",
                 "students": ""
             },
@@ -1470,8 +1367,6 @@
                 "code": "49200910220004",
                 "name": "智基科技開發股份有限公司附設南投私立志光法商短期補習班草屯分班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "中正里",
                 "class": "",
                 "students": ""
             },
@@ -1487,10 +1382,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200910220006",
-                "name": "私立達程文理短期補習班",
+                "name": "南投縣私立達程文理短期補習班",
                 "county": "南投縣",
-                "town": "水里鄉",
-                "village": "北埔村",
                 "class": "",
                 "students": ""
             },
@@ -1506,12 +1399,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200910220005",
-                "name": "私立守嶍文理短期補習班",
+                "name": "南投縣私立守嶍文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1524,32 +1415,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200905110009",
-                "name": "私立高老師文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684203,
-                    23.973694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200905110013",
-                "name": "南投縣私立高登科文理短期補習班",
+                "name": "南投縣私立盈加文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -1562,38 +1432,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200905060002",
-                "name": "私立麗達文理短期補習班",
+                "code": "49200905110009",
+                "name": "南投縣私立高老師文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延平里",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.70681,
-                    23.767662
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49200905110001",
-                "name": "私立真善美慧聖賢教育機構文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "山腳里",
-                "class": "文理類,",
+                "class": "外語類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.684428,
-                    23.966329
+                    120.684203,
+                    23.973694
                 ]
             }
         },
@@ -1603,8 +1452,6 @@
                 "code": "49200905110006",
                 "name": "智基科技開發股份有限公司附設南投私立志光法商補習班埔里分班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "南門里",
                 "class": "法政類,商類：珠算、心算、會計,",
                 "students": "公職人員考試,高中"
             },
@@ -1622,8 +1469,6 @@
                 "code": "49200905110007",
                 "name": "智基科技開發股份有限公司附設南投私立志光法商補習班南投分班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
                 "class": "法政類,商類：珠算、心算、會計,",
                 "students": "高中,公職人員考試"
             },
@@ -1638,11 +1483,26 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200905110003",
-                "name": "私立大高徒文理短期補習班",
+                "code": "49200905110001",
+                "name": "南投縣私立真善美慧聖賢教育機構文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684428,
+                    23.966329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200905110003",
+                "name": "南投縣私立大高徒文理短期補習班",
+                "county": "南投縣",
                 "class": "文理類,",
                 "students": "高中,國中"
             },
@@ -1658,10 +1518,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200905060001",
-                "name": "私立宇林創意文理短期補習班",
+                "name": "南投縣私立宇林創意文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北梅里",
                 "class": "",
                 "students": ""
             },
@@ -1676,32 +1534,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200905110002",
-                "name": "私立佳鴻文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "中原里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.719652,
-                    23.983893
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200905110004",
-                "name": "私立李德文理短期補習班",
+                "name": "南投縣私立李德文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "敦和里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1714,30 +1551,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200901190001",
-                "name": "私立昱昇文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.687878,
-                    23.976341
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200901190002",
-                "name": "私立弘智文理短期補習班",
+                "name": "南投縣私立弘智文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
                 "class": "",
                 "students": ""
             },
@@ -1752,11 +1568,26 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200811260002",
-                "name": "私立喬智文理短期補習班",
+                "code": "49200901190001",
+                "name": "南投縣私立昱昇文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延平里",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687878,
+                    23.976341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200811260002",
+                "name": "南投縣私立喬智文理短期補習班",
+                "county": "南投縣",
                 "class": "",
                 "students": ""
             },
@@ -1772,10 +1603,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200811260001",
-                "name": "私立艾老師文理短期補習班",
+                "name": "南投縣私立艾老師文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "清新里",
                 "class": "",
                 "students": ""
             },
@@ -1791,10 +1620,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200811130003",
-                "name": "私立林老師文理短期補習班",
+                "name": "南投縣私立林老師文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三民里",
                 "class": "",
                 "students": ""
             },
@@ -1810,12 +1637,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200811130001",
-                "name": "私立寰宇文理短期補習班",
+                "name": "南投縣私立寰宇文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "南埔里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -1831,8 +1656,6 @@
                 "code": "49200811130002",
                 "name": "私立救國團南投縣團委會草屯區附設技藝語文短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
                 "class": "外語類,家政、插花、烹飪類,音樂、舞蹈類,",
                 "students": "不限,成人(18歲以上)"
             },
@@ -1848,10 +1671,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200803110001",
-                "name": "私立祥春藤文理短期補習班",
+                "name": "南投縣私立祥春藤文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "龍泉里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -1867,10 +1688,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200711280003",
-                "name": "私立兒培禮文理短期補習班",
+                "name": "南投縣私立兒培禮文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
                 "class": "外語類,",
                 "students": "國小,國中"
             },
@@ -1886,10 +1705,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200711280002",
-                "name": "私立志學文理短期補習班",
+                "name": "南投縣私立志學文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
                 "class": "文理類,",
                 "students": "國中"
             },
@@ -1905,10 +1722,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200711280001",
-                "name": "私立樂活瑜伽中心技藝短期補習班",
+                "name": "南投縣私立樂活瑜珈中心技藝短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
                 "class": "瑜珈類,",
                 "students": "7歲以上之男女性"
             },
@@ -1923,38 +1738,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200708100002",
-                "name": "私立鈺汝文理技藝短期補習班",
-                "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "雲林里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.680045,
-                    23.753952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200708070001",
-                "name": "私立格翊文理短期補習班",
+                "name": "南投縣私立格翊文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.690382,
-                    23.905805
+                    "120.687654",
+                    "23.912943"
                 ]
             }
         },
@@ -1962,10 +1756,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200707240001",
-                "name": "私立大航海文理短期補習班",
+                "name": "南投縣私立大航海文理短期補習班",
                 "county": "南投縣",
-                "town": "水里鄉",
-                "village": "南光村",
                 "class": "",
                 "students": ""
             },
@@ -1980,11 +1772,26 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200707120001",
-                "name": "私立培根短期補習班",
+                "code": "49200707120002",
+                "name": "南投縣私立向日葵文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "桂林里",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678291,
+                    23.752244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200707120001",
+                "name": "南投縣私立培根短期補習班",
+                "county": "南投縣",
                 "class": "",
                 "students": ""
             },
@@ -1999,32 +1806,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200707120002",
-                "name": "私立向日葵文理短期補習班",
-                "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "中山里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.678291,
-                    23.752244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200706210001",
-                "name": "私立夏天童畫技藝短期補習班",
+                "name": "南投縣私立夏天童畫技藝短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
-                "class": "",
-                "students": ""
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2038,10 +1824,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200706130002",
-                "name": "私立吉爾登文理短期補習班",
+                "name": "南投縣私立吉爾登文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "西門里",
                 "class": "",
                 "students": ""
             },
@@ -2057,12 +1841,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200706130001",
-                "name": "私立集賢文理短期補習班",
+                "name": "南投縣私立集賢文理短期補習班",
                 "county": "南投縣",
-                "town": "集集鎮",
-                "village": "玉映里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2076,12 +1858,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200706130003",
-                "name": "私立詹姆士的家文理短期補習班",
+                "name": "南投縣私立詹姆士的家文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "營北里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2095,10 +1875,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200705310001",
-                "name": "私立資優文理短期補習班",
+                "name": "南投縣私立資優文理短期補習班",
                 "county": "南投縣",
-                "town": "名間鄉",
-                "village": "中正村",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2113,30 +1891,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200704090002",
-                "name": "私立智達文理短期補習班",
-                "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "桂林里",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.69105,
-                    23.75648
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200704090003",
-                "name": "私立大育文理短期補習班",
+                "name": "南投縣私立大育文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "嘉和里",
                 "class": "文理類,",
                 "students": "國中"
             },
@@ -2151,11 +1908,26 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200704090001",
-                "name": "私立梅根尼美語短期補習班",
+                "code": "49200704090002",
+                "name": "南投縣私立智達文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "山腳里",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69105,
+                    23.75648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200704090001",
+                "name": "南投縣私立梅根尼美語短期補習班",
+                "county": "南投縣",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -2171,10 +1943,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200703070001",
-                "name": "私立文新文理技藝短期補習班",
+                "name": "南投縣私立文新文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "枇杷里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2190,12 +1960,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200702160001",
-                "name": "私立百分百文理短期補習班",
+                "name": "南投縣私立百分百文理短期補習班",
                 "county": "南投縣",
-                "town": "水里鄉",
-                "village": "城中村",
-                "class": "外語類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2209,12 +1977,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200701080002",
-                "name": "私立奕升外語短期補習班",
+                "name": "南投縣私立奕升外語短期補習班",
                 "county": "南投縣",
-                "town": "水里鄉",
-                "village": "南光村",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2227,30 +1993,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200704090005",
-                "name": "私立格林文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "山腳里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683929,
-                    23.96319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200701110001",
                 "name": "巨匠電腦股份有限公司草屯分公司附設南投縣私立巨匠電腦美語短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "和平里",
                 "class": "",
                 "students": ""
             },
@@ -2266,10 +2011,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200612290001",
-                "name": "私立伊勵特美語短期補習班",
+                "name": "南投縣私立伊勵特美語短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "龍泉里",
                 "class": "",
                 "students": ""
             },
@@ -2285,10 +2028,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200612210001",
-                "name": "私立欣宜文理短期補習班",
+                "name": "南投縣私立欣宜文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北安里",
                 "class": "",
                 "students": ""
             },
@@ -2304,10 +2045,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200612140001",
-                "name": "私立功學文理技藝短期補習班",
+                "name": "南投縣私立功學文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "大城里",
                 "class": "",
                 "students": ""
             },
@@ -2323,12 +2062,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200612140002",
-                "name": "私立新興威文理短期補習班",
+                "name": "南投縣私立新興威文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "內興里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2341,30 +2078,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200610160001",
-                "name": "私立典傳文理短期補習班",
-                "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北安里",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.972703,
-                    23.970611
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200610140001",
-                "name": "私立至揚文理短期補習班",
+                "name": "南投縣私立至揚文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平山里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2380,10 +2096,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200610020002",
-                "name": "私立美數館文理短期補習班",
+                "name": "南投縣私立美數館文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "西門里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2399,10 +2113,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200610020001",
-                "name": "私立英中語文短期補習班",
+                "name": "南投縣私立英中語文短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "薰化里",
                 "class": "外語類,",
                 "students": "國小"
             },
@@ -2418,10 +2130,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200609190001",
-                "name": "私立小天才文理短期補習班",
+                "name": "南投縣私立小天才文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "嘉和里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -2437,12 +2147,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200608020003",
-                "name": "私立大學仕文理短期補習班",
+                "name": "南投縣私立大學仕文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "中山里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2456,12 +2164,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200608020002",
-                "name": "私立希望種子文理短期補習班",
+                "name": "南投縣私立希望種子文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2474,30 +2180,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200608020004",
-                "name": "私立李揚文理短期補習班",
-                "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.688163,
-                    23.978584
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200608020006",
-                "name": "私立朱帝文理短期補習班",
+                "name": "南投縣私立朱帝文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "敦和里",
                 "class": "",
                 "students": ""
             },
@@ -2513,10 +2198,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200605260001",
-                "name": "南投縣大鴻海文化有限公司附設私立大東海法商短期補習班",
+                "name": "大鴻海文化有限公司附設南投縣私立大東海法商短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "明正里",
                 "class": "",
                 "students": ""
             },
@@ -2532,10 +2215,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200603200001",
-                "name": "私立尚霖文理-南投分班短期補習班",
+                "name": "南投縣私立尚霖文理-南投分班短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三興里",
                 "class": "",
                 "students": ""
             },
@@ -2550,30 +2231,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200602200001",
-                "name": "私立宣音美語短期補習班",
-                "county": "南投縣",
-                "town": "名間鄉",
-                "village": "濁水村",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.705152,
-                    23.836089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200511230001",
-                "name": "私立IE文理短期補習班",
+                "name": "南投縣私立IE文理短期補習班",
                 "county": "南投縣",
-                "town": "水里鄉",
-                "village": "北埔村",
                 "class": "",
                 "students": ""
             },
@@ -2589,10 +2249,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200601200001",
-                "name": "私立蕭老師繪畫短期補習班",
+                "name": "南投縣私立蕭老師繪畫短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
                 "class": "",
                 "students": ""
             },
@@ -2608,12 +2266,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200510270001",
-                "name": "私立優仕文理短期補習班",
+                "name": "南投縣私立優仕文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "康壽里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2627,12 +2283,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200509280004",
-                "name": "私立活力文理短期補習班",
+                "name": "南投縣私立活力文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "漳興里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2645,32 +2299,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200509280006",
-                "name": "私立龍郡文理短期補習班",
-                "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "硘磘里",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.676576,
-                    23.748121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200509280005",
-                "name": "私立柯林頓文理短期補習班",
+                "name": "南投縣私立柯林頓文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2684,12 +2317,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200509270001",
-                "name": "私立吉佑文理短期補習班",
+                "name": "南投縣私立吉佑文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2702,19 +2333,34 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200605160001",
-                "name": "私立愛迪生文理短期補習班",
+                "code": "49200509280006",
+                "name": "南投縣私立龍郡文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.676947",
+                    "23.746018"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200605160001",
+                "name": "南投縣私立愛迪生文理短期補習班",
+                "county": "南投縣",
                 "class": "文理類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.689995,
-                    23.760269
+                    "120.689996",
+                    "23.760269"
                 ]
             }
         },
@@ -2724,8 +2370,6 @@
                 "code": "49200508150001",
                 "name": "地球村出版有限公司南投分公司附設南投縣私立地球村美日語短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "明正里",
                 "class": "外語類,",
                 "students": "國中、高中、社會人士"
             },
@@ -2741,12 +2385,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200509280001",
-                "name": "私立領導者文理短期補習班",
+                "name": "南投縣私立領導者文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "杷城里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2759,51 +2401,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200506270004",
-                "name": "私立志展文理短期補習班",
-                "county": "南投縣",
-                "town": "集集鎮",
-                "village": "集集里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.782566,
-                    23.826832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49200506280001",
-                "name": "私立蒲公英文理短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.685533,
-                    23.904758
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200507010001",
-                "name": "私立獅子王美語短期補習班",
+                "name": "南投縣私立獅子王美語短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "竹山里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2816,13 +2418,28 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200506270001",
-                "name": "私立趙老師文理技藝短期補習班",
+                "code": "49200506280001",
+                "name": "南投縣私立蒲公英文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北門里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685533,
+                    23.904758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200506270001",
+                "name": "南投縣私立趙老師文理技藝短期補習班",
+                "county": "南投縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2836,12 +2453,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200506270002",
-                "name": "私立千九文理短期補習班",
+                "name": "南投縣私立蘇老師文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北門里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,10 +2470,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200505240001",
-                "name": "私立蘋果屋美術短期補習班草屯分班",
+                "name": "南投縣私立蘋果屋美術短期補習班草屯分班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
                 "class": "",
                 "students": ""
             },
@@ -2874,10 +2487,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200505040001",
-                "name": "私立立揚文理短期補習班",
+                "name": "南投縣私立立揚文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "富寮里",
                 "class": "",
                 "students": ""
             },
@@ -2893,18 +2504,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200503310003",
-                "name": "私立育成文理短期補習班",
+                "name": "南投縣私立育成文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "崇文里",
                 "class": "",
                 "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.685304,
-                    23.90603
+                    "120.685304",
+                    "23.906031"
                 ]
             }
         },
@@ -2912,12 +2521,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200503230001",
-                "name": "私立鴻儒文理短期補習班",
+                "name": "南投縣私立鴻儒文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "中山里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2931,12 +2538,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190049",
-                "name": "私立遠見文理短期補習班",
+                "name": "南投縣私立遠見文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "營北里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2950,12 +2555,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190038",
-                "name": "私立陳老師文理短期補習班",
+                "name": "南投縣私立陳老師文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "康壽里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2969,12 +2572,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200501040005",
-                "name": "私立鄒老師文理短期補習班",
+                "name": "南投縣私立鄒老師文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北梅里",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -2988,12 +2589,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200501040001",
-                "name": "私立檸檬樹文理短期補習班",
+                "name": "南投縣私立檸檬樹文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "內興里",
-                "class": "文理類,",
-                "students": "國中,高中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3007,10 +2606,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200501040004",
-                "name": "私立名人文理短期補習班",
+                "name": "南投縣私立名人文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "杷城里",
                 "class": "文理類,",
                 "students": "國小"
             },
@@ -3026,12 +2623,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200410190001",
-                "name": "私立文林文理短期補習班",
+                "name": "南投縣私立文林文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3045,12 +2640,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200408190003",
-                "name": "私立喬帝美語短期補習班",
+                "name": "南投縣私立喬帝美語短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北安里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3064,10 +2657,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200405200001",
-                "name": "私立康乃爾文理技藝短期補習班",
+                "name": "南投縣私立康乃爾文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "敦和里",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "國小"
             },
@@ -3082,32 +2673,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200404220003",
-                "name": "私立學霖文理短期補習班埔中分班",
-                "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "西門里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.967477,
-                    23.966352
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200404220002",
-                "name": "私立余老師美語短期補習班",
+                "name": "南投縣私立余老師美語短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "東門里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3121,12 +2691,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200402260002",
-                "name": "私立周琳文理短期補習班",
+                "name": "南投縣私立周琳文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3139,30 +2707,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200401270005",
-                "name": "私立蘋果屋技藝短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "三民里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682598,
-                    23.908814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200401270002",
-                "name": "私立富蘭克林文理短期補習班",
+                "name": "南投縣私立富蘭克林文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "龍泉里",
                 "class": "",
                 "students": ""
             },
@@ -3177,13 +2724,28 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200401270001",
-                "name": "私立理想文理技藝短期補習班",
+                "code": "49200401270005",
+                "name": "南投縣私立蘋果屋技藝短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北門里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682598,
+                    23.908814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200401270001",
+                "name": "南投縣私立理想文理技藝短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3197,10 +2759,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200310300002",
-                "name": "私立旭英文理短期補習班",
+                "name": "南投縣私立旭英文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "竹山里",
                 "class": "文理類,",
                 "students": "國中"
             },
@@ -3216,10 +2776,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200308260001",
-                "name": "私立巧姿舞蹈短期補習班",
+                "name": "南投縣私立巧姿舞蹈短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "硘磘里",
                 "class": "音樂、舞蹈類,",
                 "students": "成人(18歲以上),國小"
             },
@@ -3235,18 +2793,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200309160001",
-                "name": "私立美語家美語短期補習班",
+                "name": "南投縣私立美語家美語短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "泰安里",
                 "class": "外語類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.974566,
-                    23.967459
+                    "120.974493",
+                    "23.966936"
                 ]
             }
         },
@@ -3254,10 +2810,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200308080002",
-                "name": "私立正一心算文理短期補習班",
+                "name": "南投縣私立正一心算文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小,國中"
             },
@@ -3272,11 +2826,26 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200302260001",
-                "name": "私立文人文理短期補習班",
+                "code": "49200303040003",
+                "name": "南投縣私立孟坊美術短期補習班",
                 "county": "南投縣",
-                "town": "名間鄉",
-                "village": "中山村",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "120.686766",
+                    "23.902566"
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200302260001",
+                "name": "南投縣私立文人文理短期補習班",
+                "county": "南投縣",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -3291,32 +2860,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200303040005",
-                "name": "私立加州美語文理短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
-                "class": "外語類,",
-                "students": "國中,成人(18歲以上),國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.680355,
-                    23.917425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200303040004",
-                "name": "私立安鑫文理技藝短期補習班",
+                "name": "南投縣私立安鑫文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3330,12 +2878,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200209020001",
-                "name": "私立摩根美語文理短期補習班",
+                "name": "南投縣私立摩根美語文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3349,12 +2895,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200210020002",
-                "name": "私立惠美文理短期補習班",
+                "name": "南投縣私立惠美文理短期補習班",
                 "county": "南投縣",
-                "town": "魚池鄉",
-                "village": "魚池村",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3368,12 +2912,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207192101",
-                "name": "私立大碩文理短期補習班",
+                "name": "南投縣私立未來式美語文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中,高中,成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3387,10 +2929,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207160001",
-                "name": "私立建國文理短期補習班",
+                "name": "南投縣私立建國文理短期補習班",
                 "county": "南投縣",
-                "town": "名間鄉",
-                "village": "中正村",
                 "class": "",
                 "students": ""
             },
@@ -3406,10 +2946,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270040",
-                "name": "私立小巨人文理短期補習班",
+                "name": "南投縣私立小巨人文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "枇杷里",
                 "class": "",
                 "students": ""
             },
@@ -3425,10 +2963,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190052",
-                "name": "私立學者超越文理短期補習班",
+                "name": "南投縣私立學者超越文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "營北里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3444,18 +2980,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270012",
-                "name": "私立學風文理短期補習班",
+                "name": "南投縣私立學風文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "玉峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.685097,
-                    23.981573
+                    120.688163,
+                    23.978584
                 ]
             }
         },
@@ -3463,12 +2997,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190007",
-                "name": "私立史古比文理短期補習班",
+                "name": "南投縣私立史古比文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "西門里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小,幼童"
             },
             "geometry": {
                 "type": "Point",
@@ -3482,12 +3014,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190059",
-                "name": "私立保進文理短期補習班",
+                "name": "南投縣私立保進文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3503,10 +3033,8 @@
                 "code": "49200207270011",
                 "name": "南投縣私立劍橋文理技藝短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3520,10 +3048,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190090",
-                "name": "私立佳音英語會話短期補習班",
+                "name": "南投縣私立佳音英語會話短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
                 "class": "",
                 "students": ""
             },
@@ -3539,12 +3065,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190047",
-                "name": "私立勵宇文理短期補習班",
+                "name": "南投縣私立勵宇文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3558,12 +3082,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270036",
-                "name": "私立美奇文理短期補習班",
+                "name": "南投縣私立美奇文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北安里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3576,30 +3098,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200207190045",
-                "name": "私立莎士比亞文理短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.677398,
-                    23.913536
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200207190044",
-                "name": "私立依德文理短期補習班",
+                "name": "南投縣私立依德文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "崇文里",
                 "class": "文理類,",
                 "students": "國小,國中"
             },
@@ -3615,12 +3116,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270026",
-                "name": "私立兒福文理短期補習班",
+                "name": "南投縣私立兒福文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北安里",
-                "class": "文理類,",
-                "students": "國小、國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3634,10 +3133,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207192103",
-                "name": "私立明澤美語短期補習班",
+                "name": "南投縣私立明澤美語短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
                 "class": "外語類,",
                 "students": "國中"
             },
@@ -3653,18 +3150,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190042",
-                "name": "私立華盛頓美語短期補習班",
+                "name": "南投縣私立華盛頓美語短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
-                "class": "外語類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.676608,
-                    23.91553
+                    "120.675364",
+                    "23.917866"
                 ]
             }
         },
@@ -3672,18 +3167,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190019",
-                "name": "私立學廬文理短期補習班",
+                "name": "南投縣私立學廬文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三興里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.683186,
-                    23.900545
+                    "120.683186",
+                    "23.900545"
                 ]
             }
         },
@@ -3693,8 +3186,6 @@
                 "code": "49200207190073",
                 "name": "南投縣基督教青年會附設私立外語(英日)短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
                 "class": "外語類,",
                 "students": "成人(18歲以上)"
             },
@@ -3709,51 +3200,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200207190055",
-                "name": "私立巧登美語短期補習班",
-                "county": "南投縣",
-                "town": "集集鎮",
-                "village": "和平里",
-                "class": "外語類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.778527,
-                    23.827069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49200207190065",
-                "name": "私立民傳文理短期補習班",
-                "county": "南投縣",
-                "town": "魚池鄉",
-                "village": "魚池村",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.938011,
-                    23.897068
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200207190096",
-                "name": "私立偉達文理短期補習班",
+                "name": "南投縣私立偉達文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
-                "class": "",
-                "students": ""
+                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3769,10 +3220,8 @@
                 "code": "49200207190095",
                 "name": "南投縣私立博克萊圓環校文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -3786,12 +3235,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190077",
-                "name": "私立世雯舞蹈短期補習班",
+                "name": "南投縣私立世雯舞蹈短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中、成人（18歲以上）"
             },
             "geometry": {
                 "type": "Point",
@@ -3805,12 +3252,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190094",
-                "name": "私立真善美文理短期補習班",
+                "name": "南投縣私立真善美文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "和平里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -3824,12 +3269,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190037",
-                "name": "私立正北文理短期補習班",
+                "name": "南投縣私立正北文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "漳和里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
@@ -3843,10 +3286,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190078",
-                "name": "私立宏文文理短期補習班",
+                "name": "南投縣私立宏文文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "山腳里",
                 "class": "文理類,",
                 "students": "國中,國小"
             },
@@ -3862,18 +3303,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190012",
-                "name": "私立愛心心算美語短期補習班",
+                "name": "南投縣私立愛心心算美語短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "營北里",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.690178,
-                    23.941879
+                    "120.690178",
+                    "23.941879"
                 ]
             }
         },
@@ -3881,12 +3320,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270032",
-                "name": "私立學霖文理短期補習班",
+                "name": "南投縣私立學霖文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "西門里",
-                "class": "文理類,",
-                "students": "其他"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3900,18 +3337,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190034",
-                "name": "私立政文文理短期補習班",
+                "name": "南投縣私立政文文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "平和里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.693449,
-                    23.912973
+                    "120.693449",
+                    "23.912973"
                 ]
             }
         },
@@ -3919,12 +3354,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190091",
-                "name": "私立旺旺珠心算美語短期補習班",
+                "name": "南投縣私立旺旺珠心算美語短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "玉峰里",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3938,18 +3371,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190060",
-                "name": "私立模範生文理短期補習班",
+                "name": "南投縣私立模範生文理短期補習班",
                 "county": "南投縣",
-                "town": "竹山鎮",
-                "village": "延和里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.691122,
-                    23.760228
+                    "120.691122",
+                    "23.760229"
                 ]
             }
         },
@@ -3957,12 +3388,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270029",
-                "name": "私立好朋友美語短期補習班",
+                "name": "南投縣私立好朋友美語短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北門里",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -3975,49 +3404,9 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200207270019",
-                "name": "私立正心文理短期補習班",
-                "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北梅里",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.970461,
-                    23.972239
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49200207190030",
-                "name": "私立李靜枝舞蹈短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "龍泉里",
-                "class": "音樂、舞蹈類,",
-                "students": "幼兒,國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.68866,
-                    23.906811
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200207270004",
                 "name": "私立救國團南投縣團委會附設技藝語文短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
                 "class": "文理類,",
                 "students": "成人(18歲以上),幼兒至成人"
             },
@@ -4032,13 +3421,28 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200207270025",
-                "name": "私立E-Z語文短期補習班",
+                "code": "49200207190030",
+                "name": "南投縣私立李靜枝舞蹈短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "清新里",
-                "class": "",
-                "students": ""
+                "class": "音樂、舞蹈類,",
+                "students": "幼兒,國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.68866,
+                    23.906811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49200207270025",
+                "name": "南投縣私立E-Z語文短期補習班",
+                "county": "南投縣",
+                "class": "外語類,",
+                "students": "國小、國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -4052,12 +3456,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190089",
-                "name": "私立樹人文理短期補習班",
+                "name": "南投縣私立樹人文理短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "玉峰里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4070,32 +3472,11 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200207190025",
-                "name": "私立台大文理技藝短期補習班",
-                "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
-                "class": "",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.687332,
-                    23.903822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200207190087",
                 "name": "南投縣私立優蓓仕英語會話短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "新厝里",
-                "class": "",
-                "students": ""
+                "class": "外語類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4109,12 +3490,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190029",
-                "name": "私立博智文理短期補習班",
+                "name": "南投縣私立博智文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4128,12 +3507,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270003",
-                "name": "私立卓能珠心算短期補習班",
+                "name": "南投縣私立卓能文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "福興里",
-                "class": "",
-                "students": ""
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4147,10 +3524,8 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270002",
-                "name": "私立多加英語會話作文短期補習班",
+                "name": "南投縣私立多加英語會話作文短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三和里",
                 "class": "",
                 "students": ""
             },
@@ -4166,12 +3541,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270016",
-                "name": "私立明明舞蹈短期補習班",
+                "name": "南投縣私立明明舞蹈短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北門里",
-                "class": "音樂、舞蹈類,",
-                "students": "國中、成人(18歲以上)"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4185,12 +3558,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270018",
-                "name": "私立立人文理短期補習班",
+                "name": "南投縣私立立人文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "西門里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4204,18 +3575,16 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190017",
-                "name": "私立中興文理短期補習班",
+                "name": "南投縣私立中興文理短期補習班",
                 "county": "南投縣",
-                "town": "南投市",
-                "village": "三興里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.682702,
-                    23.901527
+                    "120.682702",
+                    "23.901528"
                 ]
             }
         },
@@ -4223,12 +3592,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207190081",
-                "name": "私立文心作文繪畫短期補習班",
+                "name": "南投縣私立文心作文繪畫短期補習班",
                 "county": "南投縣",
-                "town": "草屯鎮",
-                "village": "炎峰里",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
@@ -4242,12 +3609,10 @@
             "type": "Feature",
             "properties": {
                 "code": "49200207270014",
-                "name": "私立成功文理短期補習班",
+                "name": "南投縣私立成功文理短期補習班",
                 "county": "南投縣",
-                "town": "埔里鎮",
-                "village": "北安里",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "",
+                "students": ""
             },
             "geometry": {
                 "type": "Point",
