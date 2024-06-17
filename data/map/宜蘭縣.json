@@ -3285,23 +3285,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39200605230001",
-                "name": "私立建宏文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.749123,
-                    24.748743
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39200604260001",
                 "name": "私立資優珠心算短期補習班",
                 "county": "宜蘭縣",
@@ -3313,6 +3296,23 @@
                 "coordinates": [
                     121.759321,
                     24.674461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200605230001",
+                "name": "私立建宏文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.749123,
+                    24.748743
                 ]
             }
         },
@@ -3778,23 +3778,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39200408110001",
-                "name": "私立友聞文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.761062,
-                    24.677198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39200408030001",
                 "name": "私立向虹珠心算文理短期補習班",
                 "county": "宜蘭縣",
@@ -3806,6 +3789,23 @@
                 "coordinates": [
                     121.765559,
                     24.680204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39200408110001",
+                "name": "私立友聞文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.761062,
+                    24.677198
                 ]
             }
         },

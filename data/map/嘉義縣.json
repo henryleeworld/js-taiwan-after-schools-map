@@ -2724,23 +2724,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208012118",
-                "name": "私立高效能正音文理短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548886,
-                    23.521027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200208012117",
                 "name": "私立新時代技藝短期補習班",
                 "county": "嘉義縣",
@@ -2752,6 +2735,23 @@
                 "coordinates": [
                     120.461613,
                     23.451606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208012118",
+                "name": "私立高效能正音文理短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548886,
+                    23.521027
                 ]
             }
         },

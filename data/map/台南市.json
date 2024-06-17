@@ -9133,6 +9133,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201112060003",
+                "name": "高點教育科技股份有限公司附設臺南市私立高點文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.210356,
+                    22.995728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201112060002",
                 "name": "臺南市私立育學苑文理短期補習班",
                 "county": "台南市",
@@ -9161,23 +9178,6 @@
                 "coordinates": [
                     120.234825,
                     22.96989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62201112060003",
-                "name": "高點教育科技股份有限公司附設臺南市私立高點文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.210356,
-                    22.995728
                 ]
             }
         },
@@ -9609,23 +9609,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201102010002",
-                "name": "數位地球村語文資訊有限公司附設臺南市私立中正地球村美日語短期補習班",
-                "county": "台南市",
-                "class": "文理類,外語類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291442,
-                    23.074093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201102010001",
                 "name": "臺南市私立悅智文教文理短期補習班",
                 "county": "台南市",
@@ -9637,6 +9620,23 @@
                 "coordinates": [
                     120.197038,
                     23.026968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62201102010002",
+                "name": "數位地球村語文資訊有限公司附設臺南市私立中正地球村美日語短期補習班",
+                "county": "台南市",
+                "class": "文理類,外語類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291442,
+                    23.074093
                 ]
             }
         },
