@@ -2758,23 +2758,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208012113",
-                "name": "嘉義縣私立文林語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.463832,
-                    23.601192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200208012114",
                 "name": "私立來恩文理短期補習班中華分班",
                 "county": "嘉義縣",
@@ -2786,6 +2769,23 @@
                 "coordinates": [
                     120.548886,
                     23.518094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208012113",
+                "name": "嘉義縣私立文林語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "未載明"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463832,
+                    23.601192
                 ]
             }
         },

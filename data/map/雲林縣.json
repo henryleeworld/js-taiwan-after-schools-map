@@ -3132,23 +3132,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200607170001",
-                "name": "私立資優生文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.255436,
-                    23.747993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200607180001",
                 "name": "私立明哲文理短期補習班",
                 "county": "雲林縣",
@@ -3160,6 +3143,23 @@
                 "coordinates": [
                     120.455972,
                     23.798178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55200607170001",
+                "name": "私立資優生文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255436,
+                    23.747993
                 ]
             }
         },
@@ -3591,23 +3591,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200503160002",
-                "name": "私立小南瓜文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.472354,
-                    23.668907
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200503160003",
                 "name": "私立慈惠珠心算短期補習班",
                 "county": "雲林縣",
@@ -3619,6 +3602,23 @@
                 "coordinates": [
                     120.300392,
                     23.575645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55200503160002",
+                "name": "私立小南瓜文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.472354,
+                    23.668907
                 ]
             }
         },
@@ -3761,17 +3761,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200411090002",
-                "name": "私立瀚文文理短期補習班",
+                "code": "55200411090003",
+                "name": "私立方圓圍棋教室短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "未填寫"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.309721,
-                    23.698709
+                    120.478421,
+                    23.682524
                 ]
             }
         },
@@ -3795,17 +3795,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200411090003",
-                "name": "私立方圓圍棋教室短期補習班",
+                "code": "55200411090002",
+                "name": "私立瀚文文理短期補習班",
                 "county": "雲林縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "未填寫"
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.478421,
-                    23.682524
+                    120.309721,
+                    23.698709
                 ]
             }
         },
@@ -4084,23 +4084,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200403090003",
-                "name": "私立安齊兒文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.539406,
-                    23.716667
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200403090002",
                 "name": "私立昌明文理短期補習班",
                 "county": "雲林縣",
@@ -4112,6 +4095,23 @@
                 "coordinates": [
                     120.395315,
                     23.67647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55200403090003",
+                "name": "私立安齊兒文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539406,
+                    23.716667
                 ]
             }
         },

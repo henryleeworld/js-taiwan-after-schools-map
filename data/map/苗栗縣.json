@@ -599,23 +599,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "37202105120002",
-                "name": "苗栗縣私立紅豆文理技藝短期補習班",
-                "county": "苗栗縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,幼兒,國中小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.899852,
-                    24.694004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "37202105120003",
                 "name": "苗栗縣私立辰功教育機構文理短期補習班",
                 "county": "苗栗縣",
@@ -627,6 +610,23 @@
                 "coordinates": [
                     120.905761,
                     24.689056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202105120002",
+                "name": "苗栗縣私立紅豆文理技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,幼兒,國中小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.899852,
+                    24.694004
                 ]
             }
         },
@@ -667,23 +667,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "37202012070002",
-                "name": "苗栗縣私立WE文理短期補習班",
-                "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.876907,
-                    24.684712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "37202012070001",
                 "name": "苗栗縣私立地球村出版有限公司附設苗栗縣私立地球村文理短期補習班竹南分班",
                 "county": "苗栗縣",
@@ -695,6 +678,23 @@
                 "coordinates": [
                     120.879829,
                     24.686572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202012070002",
+                "name": "苗栗縣私立WE文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "國小,國高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.876907,
+                    24.684712
                 ]
             }
         },

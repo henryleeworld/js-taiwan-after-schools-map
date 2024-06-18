@@ -17191,23 +17191,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201411280001",
-                "name": "私立名冠文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中,不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.474003,
-                    25.017737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201411280002",
                 "name": "私立加合文理語文短期補習班",
                 "county": "新北市",
@@ -17225,6 +17208,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201411280001",
+                "name": "私立名冠文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中,不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.474003,
+                    25.017737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201411260001",
                 "name": "宏驊語文文理短期補習班",
                 "county": "新北市",
@@ -17236,6 +17236,23 @@
                 "coordinates": [
                     121.477493,
                     25.065812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201411250004",
+                "name": "私立啟淯學園文理短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "不限年齡(A班21人、B班12人、C班14人、D班11人)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42713,
+                    25.044305
                 ]
             }
         },
@@ -17270,23 +17287,6 @@
                 "coordinates": [
                     121.372536,
                     25.079671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201411250004",
-                "name": "私立啟淯學園文理短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "不限年齡(A班21人、B班12人、C班14人、D班11人)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.42713,
-                    25.044305
                 ]
             }
         },
