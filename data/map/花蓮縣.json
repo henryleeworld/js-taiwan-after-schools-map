@@ -4,45 +4,62 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38202406130001",
-                "name": "私立邱名文理短期補習班",
+                "code": "38200208050051",
+                "name": "私立大成文理技藝短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,",
-                "students": "國中.高中,國小.國中.高中,學齡前.國小.國中.高中.成人,學齡前.國小"
+                "students": "國小、國中、高中,國中、高中,國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.603611,
-                    23.979611
+                    121.605698,
+                    23.980647
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38202406130002",
-                "name": "私立張華新美術技藝短期補習班",
+                "code": "38200208050056",
+                "name": "私立巨人文理短期補習班",
                 "county": "花蓮縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前"
+                "class": "文理類,",
+                "students": "國小.國中,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.602768,
-                    23.977348
+                    121.60566,
+                    23.978708
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38202404290001",
-                "name": "私立小羊的家短期補習班",
+                "code": "38200208050058",
+                "name": "私立巨匠電腦文理技藝短期補習班",
                 "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中"
+                "class": "資訊類,",
+                "students": "國小、國中、高中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608801,
+                    23.97792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208050062",
+                "name": "私立中國青年救國團花蓮縣團委會附設社會教育研習中心技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,資訊類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
@@ -55,79 +72,96 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38202401310001",
-                "name": "私立夢想家蒔荐教室文理短期補習班",
+                "code": "38200208050063",
+                "name": "私立鷹架教育文理短期補習班",
                 "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中,國小.國中.高中.成人(18歲以上),國小.國中,國中"
+                "class": "文理類,外語類,",
+                "students": "國小.國中.高中.成人,國小.國中.高中,國中.高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.62365,
-                    23.989065
+                    121.603611,
+                    23.97961
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38202207260001",
-                "name": "私立樂畫17美術音樂技藝短期補習班",
+                "code": "38200208050066",
+                "name": "小荳荳語文補習班",
                 "county": "花蓮縣",
-                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前、國小、國中、高中、成人"
+                "class": "外語類,其他類,",
+                "students": "國中,國小,國小.國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.593057,
-                    23.981869
+                    121.602406,
+                    23.98843
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38202207150001",
-                "name": "私立健弘文理短期補習班",
+                "code": "38200208050069",
+                "name": "私立桑德斯文理短期補習班",
                 "county": "花蓮縣",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中,學齡前至成人,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600874,
+                    23.985576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208050075",
+                "name": "私立斯威特文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國小.國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599729,
+                    23.98026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208050081",
+                "name": "私立全方位文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,資訊類,商類：珠算、心算、會計,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.602013,
-                    23.987832
+                    121.601355,
+                    23.970831
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38202203070001",
-                "name": "私立巧巧國文創意作文短期補習班",
+                "code": "38200208050082",
+                "name": "私立彭晨數學文理短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,",
-                "students": "國小,國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.628285,
-                    23.994476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202201200001",
-                "name": "私立承億文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中"
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -140,1938 +174,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38202201040001",
-                "name": "私立林碧珠陶藝技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前、國小、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.593029,
-                    23.988686
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202108310001",
-                "name": "私立高傑數學短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、高中,國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.592515,
-                    23.981436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202107300001",
-                "name": "私立香柏樹短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "學齡前、國小、國中,學齡前、國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.595577,
-                    23.986281
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202107130001",
-                "name": "私立頂勝文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599588,
-                    23.969104
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202104150001",
-                "name": "私立美育文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "學齡前,學齡前、國小、國中、高中、成人,學齡前、國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.598213,
-                    23.994857
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202104070001",
-                "name": "伯爵教育科技股份有限公司附設英爵文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599729,
-                    23.977841
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202012020001",
-                "name": "私立巨人太昌短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.573577,
-                    23.992303
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202009210001",
-                "name": "私立益光文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605286,
-                    23.980091
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38202006220001",
-                "name": "私立新學賦文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前、國小、國中、高中,國小、國中、高中,學齡前、國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.589999,
-                    23.974354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201910050002",
-                "name": "私立鄭傳英文短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597059,
-                    23.978059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201910050001",
-                "name": "私立學承短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中,國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.589795,
-                    23.974076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201907190001",
-                "name": "私立為碩短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.380171,
-                    23.494641
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201906170001",
-                "name": "私立向日葵短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.569514,
-                    23.996155
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201901220001",
-                "name": "私立丹尼爾創客短期補習班",
-                "county": "花蓮縣",
-                "class": "資訊類,",
-                "students": "學齡前、國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.629625,
-                    24.000174
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201809110001",
-                "name": "伯爵教育科技股份有限公司附設莘爵文理短期補習班",
+                "code": "38200208050087",
+                "name": "私立徐氏英語會話短期補習班",
                 "county": "花蓮縣",
                 "class": "外語類,",
-                "students": "國小.國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605548,
-                    23.978642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201801180001",
-                "name": "私立夢想家文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
                 "students": "國小.國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.620276,
-                    23.984553
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201703230001",
-                "name": "私立站前地球村短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中.成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60096,
-                    23.989326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201612140001",
-                "name": "私立高登短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中,國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605586,
-                    23.979158
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201611030001",
-                "name": "私立永丞文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中,國小.國中.高中.成人,國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.609087,
-                    23.984438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201610250001",
-                "name": "台灣知識庫股份有限公司附設私立大碩洋碩甄戰數位學堂文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "研究所"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.532944,
-                    23.90526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201610050001",
-                "name": "私立蕭彰文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603787,
-                    24.031548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201608020001",
-                "name": "私立賽恩斯資優科學教室短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "學齡前.國小.國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597309,
-                    23.974034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201607200001",
-                "name": "私立蔡銘文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中.高中.大專"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.608853,
-                    23.98085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201604120001",
-                "name": "私立家私塾短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "學齡前、國小,國小、國中.高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597696,
-                    23.977232
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201604010001",
-                "name": "私立發現蛋短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小、國中．成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599332,
-                    23.984936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201511110001",
-                "name": "私立躍昇文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國中、高中,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601671,
-                    23.976019
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201507210001",
-                "name": "私立楊老師英文教室短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.606499,
-                    24.027467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201505210001",
-                "name": "私立小加拿大短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "學齡前、國小、國中．高中．成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.615828,
-                    23.977753
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201410060001",
-                "name": "私立博達文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601564,
-                    23.969358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201408180001",
-                "name": "私立躍進文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601442,
-                    23.976006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201406200001",
-                "name": "私立鍾老師文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國中小,國中小及成人,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601761,
-                    23.976783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201310160001",
-                "name": "私立夏綠蒂音樂教室技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "音樂、舞蹈類,",
-                "students": "學齡前、國小、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.622479,
-                    23.986453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201301070001",
-                "name": "私立將軍文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.576076,
-                    23.973883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201209050001",
-                "name": "私立秀林學苑文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.570241,
-                    23.965004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201206250001",
-                "name": "私立默善小書苑文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597019,
-                    23.996884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201205290001",
-                "name": "私立健喬文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前、國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.572913,
-                    23.991022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201211200001",
-                "name": "私立智慧森林文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前、國小、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601789,
-                    23.983053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201203070001",
-                "name": "私立茁苗文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小.國中,國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.62399,
-                    23.990169
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201112270001",
-                "name": "私立亞典技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.602536,
-                    23.971924
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201107210001",
-                "name": "私立思達文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "學齡前.國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603926,
-                    23.97918
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201107120001",
-                "name": "私立文揚文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "學齡前、國小、國中、高中、成人,國小、國中、高中,國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605586,
-                    23.979158
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201101180001",
-                "name": "智基科技開發股份有限公司附設志光文理法商短期補習班玉里分班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "公職人員考試"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.312658,
-                    23.332712
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201007050001",
-                "name": "私立得勝文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.608039,
-                    23.978916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38201005030001",
-                "name": "私立吉米的英文工廠文理短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小.國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597382,
-                    23.97777
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200911030001",
-                "name": "私立劉洋文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599463,
-                    23.974402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200910050002",
-                "name": "私立格林美語文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小、國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.62371,
-                    23.989139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200612080001",
-                "name": "私立麗姿坊文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前、國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.606478,
-                    24.030614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200905190001",
-                "name": "私立謝老師珠心算技藝短期補習班富國分班",
-                "county": "花蓮縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.595496,
-                    23.99077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200905140001",
-                "name": "私立小丫文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,資訊類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.581293,
-                    23.971713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200901060001",
-                "name": "私立有容文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,其他類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.315796,
-                    23.327387
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200812110001",
-                "name": "私立及人文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601749,
-                    23.977305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200811140001",
-                "name": "私立廣大文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.317415,
-                    23.32899
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200812090001",
-                "name": "私立頌恩音樂中心文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,音樂、舞蹈類,其他類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.314705,
-                    23.331206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200809010001",
-                "name": "私立快樂寶貝園文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國小、國中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.632988,
-                    23.994177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200806250002",
-                "name": "私立超越文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.316146,
-                    23.332754
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200806250003",
-                "name": "私立遠景文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小、國中,國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.448846,
-                    23.746288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200805270001",
-                "name": "私立吉力亞文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.649308,
-                    24.12824
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200804220001",
-                "name": "私立周揚英文文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前.國小.國中.高中.成人,國中.高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.604832,
-                    23.978165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200804140001",
-                "name": "私立亞倫美語文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中、高中、成人,國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.380135,
-                    23.498961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200803190001",
-                "name": "私立茱莉亞音樂教室技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.602406,
-                    23.981736
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200803170001",
-                "name": "私立才智文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小、國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.570863,
-                    23.994368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200801030001",
-                "name": "私立劍橋花蓮英語文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.622519,
-                    23.988458
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200712280001",
-                "name": "私立冠軍文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.596562,
-                    23.974418
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200711290001",
-                "name": "私立成長之樂文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,音樂、舞蹈類,",
-                "students": "國小、國中、高中、成人,學齡前、國小,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.589912,
-                    23.976279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200710280001",
-                "name": "私立王朝數學短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597565,
-                    23.977339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200709110001",
-                "name": "私立小森林文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.609578,
-                    23.980219
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200707170001",
-                "name": "私立全功文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.600515,
-                    23.983184
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200707100001",
-                "name": "私立小精靈文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.592039,
-                    23.98665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200707090001",
-                "name": "私立小飛象文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597176,
-                    23.962883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200706210001",
-                "name": "私立學暘文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中,學齡前、國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.570969,
-                    23.96441
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200706020002",
-                "name": "私立倍斯特文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605025,
-                    24.033394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200706130001",
-                "name": "私立喬依學園文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.425732,
-                    23.665579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200706020001",
-                "name": "私立翰霖文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.59614,
-                    23.978332
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200705080001",
-                "name": "私立喬登美語文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前、國小、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599103,
-                    23.972386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200704110001",
-                "name": "私立文星文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小、國中,國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599853,
-                    23.970842
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208060011",
-                "name": "私立新唯勤外語補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.318731,
-                    23.329463
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200703160002",
-                "name": "私立小太陽文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小.國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.607319,
-                    24.046676
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200211130001",
-                "name": "私立諾貝爾文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小.國中,國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.590608,
-                    23.989774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200702090002",
-                "name": "私立耕讀園文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小、國中,學齡前、國小、國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.451809,
-                    23.748768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200612080005",
-                "name": "私立岳老師文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中,國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.624145,
-                    23.990354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200612080004",
-                "name": "私立吉甫文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,資訊類,音樂、舞蹈類,",
-                "students": "國小、國中,國小、國中、成人,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.606607,
-                    24.030065
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200612080002",
-                "name": "私立捷紳文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前、國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.570172,
-                    23.977397
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200611160003",
-                "name": "私立溫老師文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小.國中,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.423466,
-                    23.670669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200611160002",
-                "name": "私立安格文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "學齡前、國小、國中,國小、國中、高中、升四技二專大專、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.596883,
-                    23.976302
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200610200001",
-                "name": "私立八分音符文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "學齡前、國小,學齡前、國小、國中、高中,學齡前、國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.622742,
-                    23.988723
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200610260002",
-                "name": "私立歡樂美語文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.448213,
-                    23.745813
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200611080002",
-                "name": "私立水牛城文理短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,其他類,",
-                "students": "國小,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601119,
-                    23.971018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200611140001",
-                "name": "夢想家民權教室文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.624194,
-                    23.991076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200611080001",
-                "name": "私立頂尖文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.584729,
-                    23.96966
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200605120001",
-                "name": "私立傑出兒童文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.621827,
-                    23.989747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200604240001",
-                "name": "私立小畫家文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國小、國中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603102,
-                    23.98321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200602150001",
-                "name": "私立一加一文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.425681,
-                    23.665469
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200512270001",
-                "name": "私立華盛頓美語文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中、高中,國小、國中、高中、成人,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601851,
-                    23.978416
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200512270002",
-                "name": "私立種籽文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "學齡前、國小、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.595866,
-                    23.985085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200512050001",
-                "name": "私立哈佛文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,資訊類,",
-                "students": "國小、國中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.594555,
-                    23.9938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200511170002",
-                "name": "私立文林文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.602243,
-                    23.976749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200510200001",
-                "name": "私立強生文理短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小、國中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.42315,
-                    23.667252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200506150001",
-                "name": "私立宏儒文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國小、國中、高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.624105,
-                    23.98984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200506020002",
-                "name": "私立創新文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,音樂、舞蹈類,其他類,",
-                "students": "學齡前、國小、國中,學齡前、國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.583233,
-                    23.970841
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200503310001",
-                "name": "私立羅揚文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597004,
-                    23.979023
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200409120002",
-                "name": "私立華陽文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.59902,
-                    23.969322
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200408020004",
-                "name": "私立哈囉巨人文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中、高中,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.593459,
-                    23.989466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200408020001",
-                "name": "私立比佛利文理短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小,國中、高中,成人(18歲以上),學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.622386,
-                    23.986511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200406150001",
-                "name": "私立勝一文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.61087,
-                    23.976147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200405180002",
-                "name": "私立建林文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國中、高中,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601893,
-                    23.979244
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200404090001",
-                "name": "私立全位文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.595341,
-                    23.973911
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200401020003",
-                "name": "私立杰生文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.578631,
-                    23.972382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200401020001",
-                "name": "私立亞瑟王美語短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "高中,成人(18歲以上),國中,國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601288,
-                    23.970884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200310090004",
-                "name": "私立小博士文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.595156,
-                    23.987151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200310090001",
-                "name": "私立春田文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.590767,
-                    23.988295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200310130001",
-                "name": "私立經緯文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,資訊類,商類：珠算、心算、會計,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.597693,
-                    23.9734
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200310070001",
-                "name": "私立謝老師珠心算文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "學齡前、國小、國中,國小.國中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599776,
-                    23.980305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200303120001",
-                "name": "私立小叮噹文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.316387,
-                    23.331365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200311140001",
-                "name": "私立三元文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "升二技插大、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.567245,
-                    23.995532
+                    121.599359,
+                    23.968945
                 ]
             }
         },
@@ -2095,17 +208,272 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38200211130007",
-                "name": "私立富泰水電技藝短期補習班",
+                "code": "38200208050098",
+                "name": "私立小牛津文理短期補習班",
                 "county": "花蓮縣",
-                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "class": "文理類,",
+                "students": "學齡前、國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606855,
+                    23.990902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052103",
+                "name": "薛老師補習班",
+                "county": "花蓮縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.627185,
+                    23.993216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052106",
+                "name": "大總統文化事業有限公司附設大東海法商電腦短期補習班負責人高朝棟",
+                "county": "花蓮縣",
+                "class": "文理類,法政類,資訊類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上),公職人員考試"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604494,
+                    23.983539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052112",
+                "name": "私立小登科文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510376,
+                    23.870773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052119",
+                "name": "私立佳英英語會話短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604552,
+                    23.979378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052127",
+                "name": "私立藍海資訊技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "資訊類,",
+                "students": "國小、國中、高中、成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608896,
+                    23.981929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052133",
+                "name": "私立大亞文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.58926,
+                    23.978149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052137",
+                "name": "美如玉美容美髮短期職業補習班",
+                "county": "花蓮縣",
+                "class": "美容、美髮理髮類,",
                 "students": "成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.582392,
-                    24.011952
+                    121.594982,
+                    23.973072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052146",
+                "name": "私立新天地文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.625864,
+                    23.994192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208052152",
+                "name": "智基科技開發股份有限公司附設志光文理法商短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,法政類,",
+                "students": "成人、公職人員考試"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60202,
+                    23.990373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208060011",
+                "name": "私立新唯勤外語補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.318731,
+                    23.329463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200208060014",
+                "name": "功學社音樂中心股份有限公司附設洄瀾音樂短期補習班",
+                "county": "花蓮縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小.國中.成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603447,
+                    23.984324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200211130001",
+                "name": "私立諾貝爾文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小.國中,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590608,
+                    23.989774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200211130002",
+                "name": "私立何嘉仁文理短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小.國中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602099,
+                    23.982102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200211130003",
+                "name": "私立聖漢克英文補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601502,
+                    23.976044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200211130004",
+                "name": "私立前山文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,資訊類,",
+                "students": "國小、國中、高中、成人,國小,國小、國中、高中、升四技二專大專、研究所、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605065,
+                    23.978085
                 ]
             }
         },
@@ -2146,62 +514,1932 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38200211130004",
-                "name": "私立前山文理技藝短期補習班",
+                "code": "38200211130007",
+                "name": "私立富泰水電技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.582392,
+                    24.011952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200303120001",
+                "name": "私立小叮噹文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.316387,
+                    23.331365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200310070001",
+                "name": "私立謝老師珠心算文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "學齡前、國小、國中,國小.國中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599776,
+                    23.980305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200310090001",
+                "name": "私立春田文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.590767,
+                    23.988295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200310090004",
+                "name": "私立小博士文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595156,
+                    23.987151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200310130001",
+                "name": "私立經緯文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,資訊類,商類：珠算、心算、會計,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597693,
+                    23.9734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200311140001",
+                "name": "私立三元文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "升二技插大、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567245,
+                    23.995532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200401020001",
+                "name": "私立亞瑟王美語短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "高中,成人(18歲以上),國中,國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601288,
+                    23.970884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200401020003",
+                "name": "私立杰生文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.578631,
+                    23.972382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200404090001",
+                "name": "私立全位文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595341,
+                    23.973911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200405180002",
+                "name": "私立建林文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國中、高中,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601893,
+                    23.979244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200406150001",
+                "name": "私立勝一文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.61087,
+                    23.976147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200408020001",
+                "name": "私立比佛利文理短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小,國中、高中,成人(18歲以上),學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.622386,
+                    23.986511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200408020004",
+                "name": "私立哈囉巨人文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593459,
+                    23.989466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200409120002",
+                "name": "私立華陽文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59902,
+                    23.969322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200503310001",
+                "name": "私立羅揚文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597004,
+                    23.979023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200506020002",
+                "name": "私立創新文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,音樂、舞蹈類,其他類,",
+                "students": "學齡前、國小、國中,學齡前、國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.583233,
+                    23.970841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200506150001",
+                "name": "私立宏儒文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國小、國中、高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.624105,
+                    23.98984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200510200001",
+                "name": "私立強生文理短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小、國中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.42315,
+                    23.667252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200511170002",
+                "name": "私立文林文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602243,
+                    23.976749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200512050001",
+                "name": "私立哈佛文理技藝短期補習班",
                 "county": "花蓮縣",
                 "class": "外語類,資訊類,",
-                "students": "國小、國中、高中、成人,國小,國小、國中、高中、升四技二專大專、研究所、成人"
+                "students": "國小、國中、成人"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.605065,
-                    23.978085
+                    121.594555,
+                    23.9938
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200211130003",
-                "name": "私立聖漢克英文補習班",
+                "code": "38200512270001",
+                "name": "私立華盛頓美語文理短期補習班",
                 "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "高中"
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中,國小、國中、高中、成人,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.601502,
-                    23.976044
+                    121.601851,
+                    23.978416
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200211130002",
-                "name": "私立何嘉仁文理短期補習班",
+                "code": "38200512270002",
+                "name": "私立種籽文理技藝短期補習班",
                 "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小.國中,國中"
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "學齡前、國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.602099,
-                    23.982102
+                    121.595866,
+                    23.985085
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208050082",
-                "name": "私立彭晨數學文理短期補習班",
+                "code": "38200602150001",
+                "name": "私立一加一文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425681,
+                    23.665469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200604240001",
+                "name": "私立小畫家文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "國小、國中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603102,
+                    23.98321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200605120001",
+                "name": "私立傑出兒童文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.621827,
+                    23.989747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200610200001",
+                "name": "私立八分音符文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "學齡前、國小,學齡前、國小、國中、高中,學齡前、國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.622742,
+                    23.988723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200610260002",
+                "name": "私立歡樂美語文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448213,
+                    23.745813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200611080001",
+                "name": "私立頂尖文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.584729,
+                    23.96966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200611080002",
+                "name": "私立水牛城文理短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,其他類,",
+                "students": "國小,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601119,
+                    23.971018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200611140001",
+                "name": "夢想家民權教室文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.624194,
+                    23.991076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200611160002",
+                "name": "私立安格文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "學齡前、國小、國中,國小、國中、高中、升四技二專大專、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.596883,
+                    23.976302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200611160003",
+                "name": "私立溫老師文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小.國中,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.423466,
+                    23.670669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200612080001",
+                "name": "私立麗姿坊文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前、國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606478,
+                    24.030614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200612080002",
+                "name": "私立捷紳文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前、國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570172,
+                    23.977397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200612080004",
+                "name": "私立吉甫文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,資訊類,音樂、舞蹈類,",
+                "students": "國小、國中,國小、國中、成人,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606607,
+                    24.030065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200612080005",
+                "name": "私立岳老師文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.624145,
+                    23.990354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200702090002",
+                "name": "私立耕讀園文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小、國中,學齡前、國小、國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451809,
+                    23.748768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200703160002",
+                "name": "私立小太陽文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小.國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.607319,
+                    24.046676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200704110001",
+                "name": "私立文星文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小、國中,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599853,
+                    23.970842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200705080001",
+                "name": "私立喬登美語文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前、國小、國中、高中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599103,
+                    23.972386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200706020001",
+                "name": "私立翰霖文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.59614,
+                    23.978332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200706020002",
+                "name": "私立倍斯特文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小、國中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605025,
+                    24.033394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200706130001",
+                "name": "私立喬依學園文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425732,
+                    23.665579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200706210001",
+                "name": "私立學暘文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小、國中,學齡前、國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570969,
+                    23.96441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200707090001",
+                "name": "私立小飛象文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597176,
+                    23.962883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200707100001",
+                "name": "私立小精靈文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592039,
+                    23.98665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200707170001",
+                "name": "私立全功文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.600515,
+                    23.983184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200709110001",
+                "name": "私立小森林文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609578,
+                    23.980219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200710280001",
+                "name": "私立王朝數學短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597565,
+                    23.977339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200711290001",
+                "name": "私立成長之樂文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "國小、國中、高中、成人,學齡前、國小,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.589912,
+                    23.976279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200712280001",
+                "name": "私立冠軍文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.596562,
+                    23.974418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200801030001",
+                "name": "私立劍橋花蓮英語文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.622519,
+                    23.988458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200803170001",
+                "name": "私立才智文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小、國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570863,
+                    23.994368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200803190001",
+                "name": "私立茱莉亞音樂教室技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602406,
+                    23.981736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200804140001",
+                "name": "私立亞倫美語文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中、成人,國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.380135,
+                    23.498961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200804220001",
+                "name": "私立周揚英文文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前.國小.國中.高中.成人,國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.604832,
+                    23.978165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200805270001",
+                "name": "私立吉力亞文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.649308,
+                    24.12824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200806250002",
+                "name": "私立超越文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.316146,
+                    23.332754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200806250003",
+                "name": "私立遠景文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448846,
+                    23.746288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200809010001",
+                "name": "私立快樂寶貝園文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國小、國中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.632988,
+                    23.994177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200811140001",
+                "name": "私立廣大文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.317415,
+                    23.32899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200812090001",
+                "name": "私立頌恩音樂中心文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,音樂、舞蹈類,其他類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314705,
+                    23.331206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200812110001",
+                "name": "私立及人文理短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,",
                 "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601749,
+                    23.977305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200901060001",
+                "name": "私立有容文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,其他類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.315796,
+                    23.327387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200905140001",
+                "name": "私立小丫文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,資訊類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.581293,
+                    23.971713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200905190001",
+                "name": "私立謝老師珠心算技藝短期補習班富國分班",
+                "county": "花蓮縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595496,
+                    23.99077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200910050002",
+                "name": "私立格林美語文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小、國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62371,
+                    23.989139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200911030001",
+                "name": "私立劉洋文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599463,
+                    23.974402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201005030001",
+                "name": "私立吉米的英文工廠文理短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小.國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597382,
+                    23.97777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201007050001",
+                "name": "私立得勝文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608039,
+                    23.978916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201101180001",
+                "name": "智基科技開發股份有限公司附設志光文理法商短期補習班玉里分班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "公職人員考試"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.312658,
+                    23.332712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201107120001",
+                "name": "私立文揚文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "學齡前、國小、國中、高中、成人,國小、國中、高中,國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605586,
+                    23.979158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201107210001",
+                "name": "私立思達文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "學齡前.國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603926,
+                    23.97918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201112270001",
+                "name": "私立亞典技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602536,
+                    23.971924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201203070001",
+                "name": "私立茁苗文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小.國中,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.62399,
+                    23.990169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201205290001",
+                "name": "私立健喬文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前、國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.572913,
+                    23.991022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201206250001",
+                "name": "私立默善小書苑文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597019,
+                    23.996884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201209050001",
+                "name": "私立秀林學苑文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570241,
+                    23.965004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201211200001",
+                "name": "私立智慧森林文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前、國小、國中、高中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601789,
+                    23.983053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201301070001",
+                "name": "私立將軍文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.576076,
+                    23.973883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201310160001",
+                "name": "私立夏綠蒂音樂教室技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前、國小、國中、高中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.622479,
+                    23.986453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201406200001",
+                "name": "私立鍾老師文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國中小,國中小及成人,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601761,
+                    23.976783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201408180001",
+                "name": "私立躍進文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601442,
+                    23.976006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201410060001",
+                "name": "私立博達文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601564,
+                    23.969358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201505210001",
+                "name": "私立小加拿大短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "學齡前、國小、國中．高中．成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.615828,
+                    23.977753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201507210001",
+                "name": "私立楊老師英文教室短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606499,
+                    24.027467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201511110001",
+                "name": "私立躍昇文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "國中、高中,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601671,
+                    23.976019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201604010001",
+                "name": "私立發現蛋短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小、國中．成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599332,
+                    23.984936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201604120001",
+                "name": "私立家私塾短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "學齡前、國小,國小、國中.高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597696,
+                    23.977232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201607200001",
+                "name": "私立蔡銘文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中.高中.大專"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.608853,
+                    23.98085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201608020001",
+                "name": "私立賽恩斯資優科學教室短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "學齡前.國小.國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597309,
+                    23.974034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201610050001",
+                "name": "私立蕭彰文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.603787,
+                    24.031548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201610250001",
+                "name": "台灣知識庫股份有限公司附設私立大碩洋碩甄戰數位學堂文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "研究所"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532944,
+                    23.90526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201611030001",
+                "name": "私立永丞文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中.高中,國小.國中.高中.成人,國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.609087,
+                    23.984438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201612140001",
+                "name": "私立高登短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中.高中,國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605586,
+                    23.979158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201703230001",
+                "name": "私立站前地球村短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中.高中.成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.60096,
+                    23.989326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201801180001",
+                "name": "私立夢想家文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.620276,
+                    23.984553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201809110001",
+                "name": "伯爵教育科技股份有限公司附設莘爵文理短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "國小.國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605548,
+                    23.978642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201901220001",
+                "name": "私立丹尼爾創客短期補習班",
+                "county": "花蓮縣",
+                "class": "資訊類,",
+                "students": "學齡前、國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.629625,
+                    24.000174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201906170001",
+                "name": "私立向日葵短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.569514,
+                    23.996155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201907190001",
+                "name": "私立為碩短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中.高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.380171,
+                    23.494641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201910050001",
+                "name": "私立學承短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中,國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.589795,
+                    23.974076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38201910050002",
+                "name": "私立鄭傳英文短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.597059,
+                    23.978059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202006220001",
+                "name": "私立新學賦文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前、國小、國中、高中,國小、國中、高中,學齡前、國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.589999,
+                    23.974354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202009210001",
+                "name": "私立益光文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.605286,
+                    23.980091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202012020001",
+                "name": "私立巨人太昌短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.573577,
+                    23.992303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202104070001",
+                "name": "伯爵教育科技股份有限公司附設英爵文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599729,
+                    23.977841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202104150001",
+                "name": "私立美育文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "學齡前,學齡前、國小、國中、高中、成人,學齡前、國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598213,
+                    23.994857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202107130001",
+                "name": "私立頂勝文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.599588,
+                    23.969104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202107300001",
+                "name": "私立香柏樹短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "學齡前、國小、國中,學齡前、國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595577,
+                    23.986281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202108310001",
+                "name": "私立高傑數學短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中、高中,國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.592515,
+                    23.981436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202201040001",
+                "name": "私立林碧珠陶藝技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前、國小、國中、高中、成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593029,
+                    23.988686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202201200001",
+                "name": "私立承億文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2214,144 +2452,25 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208050081",
-                "name": "私立全方位文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,資訊類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601355,
-                    23.970831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208052133",
-                "name": "私立大亞文理短期補習班",
+                "code": "38202203070001",
+                "name": "私立巧巧國文創意作文短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中、高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.58926,
-                    23.978149
+                    121.628285,
+                    23.994476
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208050075",
-                "name": "私立斯威特文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國小.國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599729,
-                    23.98026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208052112",
-                "name": "私立小登科文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.510376,
-                    23.870773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208050098",
-                "name": "私立小牛津文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "學齡前、國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.606855,
-                    23.990902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208052127",
-                "name": "私立藍海資訊技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "資訊類,",
-                "students": "國小、國中、高中、成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.608896,
-                    23.981929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208052106",
-                "name": "大總統文化事業有限公司附設大東海法商電腦短期補習班負責人高朝棟",
-                "county": "花蓮縣",
-                "class": "文理類,法政類,資訊類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上),公職人員考試"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.604494,
-                    23.983539
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208050069",
-                "name": "私立桑德斯文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小、國中、高中,學齡前至成人,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.600874,
-                    23.985576
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208052146",
-                "name": "私立新天地文理短期補習班",
+                "code": "38202207150001",
+                "name": "私立健弘文理短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,",
                 "students": "國小"
@@ -2359,87 +2478,53 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.625864,
-                    23.994192
+                    121.602013,
+                    23.987832
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208052103",
-                "name": "薛老師補習班",
+                "code": "38202207260001",
+                "name": "私立樂畫17美術音樂技藝短期補習班",
                 "county": "花蓮縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前、國小、國中、高中、成人"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.627185,
-                    23.993216
+                    121.593057,
+                    23.981869
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208052152",
-                "name": "智基科技開發股份有限公司附設志光文理法商短期補習班",
+                "code": "38202401310001",
+                "name": "私立夢想家蒔荐教室文理短期補習班",
                 "county": "花蓮縣",
-                "class": "文理類,外語類,法政類,",
-                "students": "成人、公職人員考試"
+                "class": "文理類,",
+                "students": "國小.國中.高中,國小.國中.高中.成人(18歲以上),國小.國中,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.60202,
-                    23.990373
+                    121.62365,
+                    23.989065
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208050087",
-                "name": "私立徐氏英語會話短期補習班",
+                "code": "38202404290001",
+                "name": "私立小羊的家短期補習班",
                 "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小.國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.599359,
-                    23.968945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208050066",
-                "name": "小荳荳語文補習班",
-                "county": "花蓮縣",
-                "class": "外語類,其他類,",
-                "students": "國中,國小,國小.國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.602406,
-                    23.98843
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208050063",
-                "name": "私立鷹架教育文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,外語類,",
-                "students": "國小.國中.高中.成人,國小.國中.高中,國中.高中"
+                "class": "文理類,",
+                "students": "國小.國中.高中"
             },
             "geometry": {
                 "type": "Point",
@@ -2452,119 +2537,34 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208050062",
-                "name": "私立中國青年救國團花蓮縣團委會附設社會教育研習中心技藝短期補習班",
+                "code": "38202406130001",
+                "name": "私立邱名文理短期補習班",
                 "county": "花蓮縣",
-                "class": "文理類,外語類,資訊類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小、國中、高中、成人"
+                "class": "文理類,",
+                "students": "國中.高中,國小.國中.高中,學齡前.國小.國中.高中.成人,學齡前.國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     121.603611,
-                    23.97961
+                    23.979611
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "38200208050058",
-                "name": "私立巨匠電腦文理技藝短期補習班",
+                "code": "38202406130002",
+                "name": "私立張華新美術技藝短期補習班",
                 "county": "花蓮縣",
-                "class": "資訊類,",
-                "students": "國小、國中、高中、成人"
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.608801,
-                    23.97792
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208050056",
-                "name": "私立巨人文理短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小.國中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.60566,
-                    23.978708
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208052119",
-                "name": "私立佳英英語會話短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.604552,
-                    23.979378
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208050051",
-                "name": "私立大成文理技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "文理類,",
-                "students": "國小、國中、高中,國中、高中,國小、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.605698,
-                    23.980647
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208060014",
-                "name": "功學社音樂中心股份有限公司附設洄瀾音樂短期補習班",
-                "county": "花蓮縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小.國中.成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603447,
-                    23.984324
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200208052137",
-                "name": "美如玉美容美髮短期職業補習班",
-                "county": "花蓮縣",
-                "class": "美容、美髮理髮類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.594982,
-                    23.973072
+                    121.602768,
+                    23.977348
                 ]
             }
         }

@@ -4,25 +4,178 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53202404170001",
-                "name": "私立邦妮短期補習班",
+                "code": "53200208010018",
+                "name": "私立健智文理短期補習班",
                 "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中,高中"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.172973,
-                    23.388006
+                    120.507883,
+                    23.489864
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53202312190001",
-                "name": "私立育林文理短期補習班",
+                "code": "53200208010029",
+                "name": "私立翰林珠算短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "未載明"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429078,
+                    23.552389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010030",
+                "name": "嘉義縣私立明仁文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4197,
+                    23.526378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010031",
+                "name": "私立漢唐語文珠算短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.24201,
+                    23.466603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010034",
+                "name": "私立尉林文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.242633,
+                    23.461545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010037",
+                "name": "私立學友文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.248369,
+                    23.465288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010050",
+                "name": "私立翰成升學文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "高中,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247138,
+                    23.461195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010058",
+                "name": "私立姜老師珠算才藝短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433049,
+                    23.447904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010061",
+                "name": "私立佳佳珠算短期補習班",
+                "county": "嘉義縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "未載明"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.244839,
+                    23.461621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010062",
+                "name": "私立懷軒文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.54819,
+                    23.516448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010063",
+                "name": "私立大地電腦文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,",
                 "students": "國小,國中,高中"
@@ -30,16 +183,33 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.285927,
-                    23.455581
+                    120.399268,
+                    23.427223
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53202312120001",
-                "name": "私立加勤短期補習班",
+                "code": "53200208010068",
+                "name": "私立世界美語文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "未填列"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.554458,
+                    23.573436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010069",
+                "name": "私立叮噹語文短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
@@ -47,169 +217,101 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.352094,
-                    23.55453
+                    120.30614,
+                    23.408407
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53202307070001",
-                "name": "私立陳老師短期補習班",
+                "code": "53200208010075",
+                "name": "私立文人文理短期補習班",
                 "county": "嘉義縣",
-                "class": "文理類,外語類,",
+                "class": "文理類,",
                 "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.397969,
-                    23.425818
+                    120.381034,
+                    23.498376
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53202306160001",
-                "name": "私立雀瑞絲短期補習班",
+                "code": "53200208010077",
+                "name": "私立成大王牌文理短期補習班",
                 "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.297143,
-                    23.454674
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202211230001",
-                "name": "私立金企鵝短期補習班南新分班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.382471,
-                    23.497374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202210140001",
-                "name": "嘉義縣私立貝思特文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
+                "class": "文理類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.292624,
-                    23.487842
+                    120.426771,
+                    23.445053
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53202205200001",
-                "name": "私立熱氣球短期補習班",
+                "code": "53200208010083",
+                "name": "嘉義縣私立中正芝蔴開門美術語文短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小,不限對象"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.426821,
+                    23.556137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208010084",
+                "name": "嘉義縣私立鐘老師文理短期補習班",
+                "county": "嘉義縣",
+                "class": "商類：珠算、心算、會計,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.452595,
-                    23.528985
+                    120.458397,
+                    23.451657
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53202204270001",
-                "name": "私立安爾堡文理短期補習班",
+                "code": "53200208010095",
+                "name": "私立李老師文理短期補習班",
                 "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "class": "文理類,",
+                "students": "未載名"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.238468,
-                    23.462644
+                    120.345253,
+                    23.554093
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53202203210001",
-                "name": "嘉義縣私立均均文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.240164,
-                    23.461516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202111050001",
-                "name": "私立宇捷文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.397525,
-                    23.4252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202110180001",
-                "name": "私立牧樂短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.463859,
-                    23.601315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202109060001",
-                "name": "私立茗群數學文理短期補習班",
+                "code": "53200208010096",
+                "name": "私立天成文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,",
                 "students": "國中,國小"
@@ -217,1486 +319,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.179267,
-                    23.381223
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202103260001",
-                "name": "私立艾瑞克英語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.348236,
-                    23.558959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202103170001",
-                "name": "私立金典語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.520872,
-                    23.424952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202102040001",
-                "name": "私立優昇短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548091,
-                    23.520902
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202101130001",
-                "name": "私立登原短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.348816,
-                    23.555472
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202012280001",
-                "name": "私立鵬嶺文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.451986,
-                    23.528707
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202011160001",
-                "name": "私立佳音文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.397791,
-                    23.425716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202008260001",
-                "name": "嘉義縣私立泓志文理短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.398385,
-                    23.426641
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202008170002",
-                "name": "嘉義縣私立樂芙文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.285968,
-                    23.45557
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202008170001",
-                "name": "嘉義縣私立主人翁文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.448103,
-                    23.526975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202008060001",
-                "name": "私立勵學文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.428434,
-                    23.552076
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202007010001",
-                "name": "嘉義縣私立百勝短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4278,
-                    23.557185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202007010002",
-                "name": "嘉義縣私立六藝文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.401619,
-                    23.43166
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202004240001",
-                "name": "嘉義縣私立辰冠短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.457057,
-                    23.601227
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202003240001",
-                "name": "私立耶米文理技藝短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,資訊類,",
-                "students": "國小,國中,高中,學齡前,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460857,
-                    23.600176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53202002140001",
-                "name": "嘉義縣私立TOP頂尖文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.287319,
-                    23.4554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201911120001",
-                "name": "嘉義縣私立孟修短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.297764,
-                    23.456356
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201909190001",
-                "name": "私立貓頭鷹短期補習班大林分班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460706,
-                    23.60003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201909180001",
-                "name": "私立寶貝王國短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.398751,
-                    23.42568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201909110001",
-                "name": "嘉義縣私立全腦文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.239636,
-                    23.461942
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201907160001",
-                "name": "嘉義縣私立雪倫美語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.538348,
-                    23.472026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201906250001",
-                "name": "嘉義縣私立至德資優文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429025,
-                    23.555699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201901310001",
-                "name": "嘉義縣私立智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班中正分班",
-                "county": "嘉義縣",
-                "class": "文理類,法政類,",
-                "students": "公職人員考試"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.471086,
-                    23.556664
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201809250001",
-                "name": "嘉義縣私立布萊爾美語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.451791,
-                    23.60207
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201807030001",
-                "name": "高點教育科技股份有限公司附設嘉義縣私立高點文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,法政類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.469824,
-                    23.558104
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201805110001",
-                "name": "嘉義縣私立築勤文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,高中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.396109,
-                    23.425647
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201712110001",
-                "name": "嘉義縣私立創新科學短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.299434,
-                    23.464486
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201610130001",
-                "name": "嘉義縣私立偉民文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.551388,
-                    23.586742
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201504070001",
-                "name": "嘉義縣私立展文文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.395149,
-                    23.426349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201503300001",
-                "name": "嘉義縣私立威爾登美語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中,成人(18歲以上),高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.430514,
-                    23.552501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201502050001",
-                "name": "嘉義縣私立湯姆士文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.461607,
-                    23.451827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201501060001",
-                "name": "嘉義縣私立品昇全方位教育文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.342018,
-                    23.557355
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201406160001",
-                "name": "嘉義縣私立喬大文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45962,
-                    23.60208
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201406030001",
-                "name": "嘉義縣私立力碩文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.423193,
-                    23.443546
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201402240001",
-                "name": "嘉義縣私立成碩文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.288082,
-                    23.455221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201312120001",
-                "name": "嘉義縣私立至捷文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.463279,
-                    23.45164
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201312050001",
-                "name": "嘉義縣私立喬茵文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.453017,
-                    23.529377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201311120001",
-                "name": "嘉義縣私立佳蓓爾音樂短期補習班",
-                "county": "嘉義縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.451603,
-                    23.601203
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201310240001",
-                "name": "嘉義縣私立哈佛文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.333924,
-                    23.453527
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201308190001",
-                "name": "嘉義縣私立輔升文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.239413,
-                    23.461793
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201306180001",
-                "name": "嘉義縣私立頂尖文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.454883,
-                    23.605847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201303010001",
-                "name": "嘉義縣私立承運文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.343309,
-                    23.559519
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201301160001",
-                "name": "嘉義縣私立強數文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.460751,
-                    23.600027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201301090001",
-                "name": "嘉義縣私立愛麗思文理短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.243993,
-                    23.33631
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201211060001",
-                "name": "嘉義縣私立蘇老師文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.465577,
-                    23.453078
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201209140001",
-                "name": "嘉義縣私立立人文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.432329,
-                    23.555439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201207310001",
-                "name": "嘉義縣私立資優生文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.398371,
-                    23.432981
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201207040002",
-                "name": "嘉義縣私立崴聖文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.55965,
-                    23.484787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201206040001",
-                "name": "嘉義縣私立高第文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.384118,
-                    23.498677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201205100001",
-                "name": "嘉義縣私立勤益文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.549775,
-                    23.51959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201204160001",
-                "name": "嘉義縣私立學英文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.549144,
-                    23.522168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201204050001",
-                "name": "嘉義縣私立加大文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.434234,
-                    23.447002
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201203020001",
-                "name": "嘉義縣私立沈老師文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.397676,
-                    23.60591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201201060001",
-                "name": "嘉義縣私立慈惠文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295963,
-                    23.466578
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201201040001",
-                "name": "嘉義縣私立柏瀚文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.40221,
-                    23.430361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201112220001",
-                "name": "嘉義縣私立英典語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "成人(18歲以上),高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.294756,
-                    23.466698
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201112070001",
-                "name": "嘉義縣私立科技人文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.452456,
-                    23.528934
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201106220001",
-                "name": "嘉義縣私立學成文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.427588,
-                    23.556238
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201106040001",
-                "name": "嘉義縣私立曾老師文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.238873,
-                    23.465944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201106020001",
-                "name": "嘉義縣私立摩爾美語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.423272,
-                    23.557863
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201105240001",
-                "name": "私立頂立文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.560789,
-                    23.484705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201103280001",
-                "name": "私立小黑人音樂美語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.342763,
-                    23.557506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201103280002",
-                "name": "私立僑英文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.451117,
-                    23.602488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201103150001",
-                "name": "私立偉文文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "大專校院學生"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.469609,
-                    23.558776
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201102010001",
-                "name": "台灣知識庫股份有限公司民雄分公司附設嘉義縣私立數位學堂文理法政短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,法政類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.467191,
-                    23.554237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201012300001",
-                "name": "私立聖光文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.344255,
-                    23.554151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201012130001",
-                "name": "私立聖達文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.400293,
-                    23.604106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201012010001",
-                "name": "私立學成美語短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.39997,
-                    23.427761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201010230001",
-                "name": "私立世群文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.434374,
-                    23.557081
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201009210001",
-                "name": "私立正達文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.248352,
-                    23.336725
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201009080001",
-                "name": "私立維妮美術短期補習班",
-                "county": "嘉義縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.470218,
-                    23.451992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201008270001",
-                "name": "私立嘉音英語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.383004,
-                    23.497101
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201008130001",
-                "name": "私立資優美語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29477,
-                    23.455715
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201006220001",
-                "name": "私立育埕文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.249424,
-                    23.467168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201005200001",
-                "name": "私立三之三文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.33906,
-                    23.497889
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201005110001",
-                "name": "智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,法政類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.433712,
-                    23.556988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201005060001",
-                "name": "私立愛森堡文理短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.55734,
-                    23.587413
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201004120001",
-                "name": "私立仁仁語文短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.524081,
-                    23.423984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53201002040001",
-                "name": "私立良育文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.342465,
-                    23.556996
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200912250001",
-                "name": "私立勵自向上文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.398905,
-                    23.431391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200912180001",
-                "name": "私立令揚文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中.國小,國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548519,
-                    23.52194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200910140001",
-                "name": "私立全方位舞蹈短期補習班",
-                "county": "嘉義縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.236856,
-                    23.461714
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200909100001",
-                "name": "嘉義縣私立雙春文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.294318,
-                    23.467848
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200908310001",
-                "name": "私立智強文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.398239,
-                    23.426632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200907140001",
-                "name": "私立龍英文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295078,
-                    23.454758
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200903270001",
-                "name": "私立英美語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.453357,
-                    23.60171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200903160001",
-                "name": "私立叡智文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.333232,
-                    23.461632
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200902040001",
-                "name": "私立藝宸文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.349427,
+                    120.349473,
                     23.554117
                 ]
             }
@@ -1704,280 +327,25 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200811200001",
-                "name": "私立京冠文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.3789,
-                    23.498284
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200811030001",
-                "name": "私立菁英文理短期補習班",
+                "code": "53200208012102",
+                "name": "嘉義縣私立藍園文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "未填列"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.349002,
-                    23.555672
+                    120.42852,
+                    23.552821
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53200809240001",
-                "name": "私立學廣文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35136,
-                    23.554846
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200809150001",
-                "name": "私立五餅二魚文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.42077,
-                    23.527358
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200809050001",
-                "name": "私立欣欣文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.458561,
-                    23.598512
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200805300001",
-                "name": "私立育嘉文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.524405,
-                    23.424199
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200805200001",
-                "name": "私立洋洋文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.536415,
-                    23.42434
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200803140001",
-                "name": "私立Do Re Mi 音樂短期補習班",
-                "county": "嘉義縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.402135,
-                    23.430185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200802260001",
-                "name": "私立彼得潘文理短期補習班",
-                "county": "嘉義縣",
-                "class": "音樂、舞蹈類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.253463,
-                    23.466242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200801160002",
-                "name": "私立諾貝爾音樂藝術短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.248048,
-                    23.465195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200712060001",
-                "name": "私立非凡文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.464033,
-                    23.453339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200709180001",
-                "name": "嘉義縣私立嘉中文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45226,
-                    23.528877
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200708300001",
-                "name": "私立摩根美語短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.455555,
-                    23.533106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200708130002",
-                "name": "私立達誠文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.397551,
-                    23.425098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200707130001",
-                "name": "私立融達文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.465102,
-                    23.598455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200707020001",
-                "name": "私立晉昇文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.45565,
-                    23.606473
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200706070001",
-                "name": "私立里米語文短期補習班",
+                "code": "53200208012103",
+                "name": "嘉義縣私立資優生文教機構短期補習班",
                 "county": "嘉義縣",
                 "class": "外語類,",
                 "students": "國小"
@@ -1985,76 +353,76 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.452214,
-                    23.604355
+                    120.23771,
+                    23.46167
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53200705160001",
-                "name": "私立睿文文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.286949,
-                    23.458071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200703220001",
-                "name": "私立小太陽文理短期補習班",
+                "code": "53200208012104",
+                "name": "私立建中文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,",
-                "students": "國小"
+                "students": "未載明"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.1782,
-                    23.41618
+                    120.448657,
+                    23.5288
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53200704120001",
-                "name": "私立常春藤文理短期補習班",
+                "code": "53200208012105",
+                "name": "私立健學文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "未載明"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.559406,
-                    23.579253
+                    120.445306,
+                    23.527782
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53200612270001",
-                "name": "私立義德文理短期補習班",
+                "code": "53200208012109",
+                "name": "私立心心文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.351776,
-                    23.556253
+                    120.373512,
+                    23.499245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208012110",
+                "name": "私立莫札特音樂短期補習班",
+                "county": "嘉義縣",
+                "class": "音樂、舞蹈類,",
+                "students": "未載明"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394377,
+                    23.434833
                 ]
             }
         },
@@ -2078,646 +446,34 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200608300001",
-                "name": "私立雅智音樂、語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.452016,
-                    23.604012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200608080001",
-                "name": "私立佳言美語短期補習班",
+                "code": "53200208012113",
+                "name": "嘉義縣私立文林語文短期補習班",
                 "county": "嘉義縣",
                 "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.397782,
-                    23.425677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200605230001",
-                "name": "私立金企鵝英語短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.361801,
-                    23.500515
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200604300002",
-                "name": "私立格林文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.463933,
-                    23.453009
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200603160001",
-                "name": "私立學文城文理才藝短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.242802,
-                    23.46471
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200603060001",
-                "name": "私立小字典文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.344634,
-                    23.560617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200602270001",
-                "name": "私立正統心算短期補習班",
-                "county": "嘉義縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.453248,
-                    23.606233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200602160001",
-                "name": "私立向日葵語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.463741,
-                    23.452351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200602130001",
-                "name": "私立全美文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.459894,
-                    23.450778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200512290001",
-                "name": "私立巨果珠心算語文短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.452432,
-                    23.529191
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200510270001",
-                "name": "私立英才文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542559,
-                    23.443152
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200509060001",
-                "name": "私立瑪肯資優文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.42296,
-                    23.557669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200508260001",
-                "name": "私立允強文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.298111,
-                    23.457819
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200508240001",
-                "name": "私立顧勝文教事業有限公司附設文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429025,
-                    23.555699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200507280001",
-                "name": "私立雅勝珠心算短期補習班",
-                "county": "嘉義縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.428407,
-                    23.552509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200506130001",
-                "name": "私立高譽文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.285112,
-                    23.456866
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200505180001",
-                "name": "私立國華文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.381788,
-                    23.499603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200505160001",
-                "name": "私立誠楓文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.458755,
-                    23.448646
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200503250001",
-                "name": "智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班太保分班",
-                "county": "嘉義縣",
-                "class": "法政類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.297676,
-                    23.459313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200411220001",
-                "name": "私立奧林匹克文理短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.381465,
-                    23.499742
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200411120001",
-                "name": "私立世外桃源文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.555032,
-                    23.464315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200410260001",
-                "name": "嘉義縣私立學府文理短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.402158,
-                    23.428992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200410260002",
-                "name": "私立名興文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.553199,
-                    23.464362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200407230001",
-                "name": "私立蔡老師文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.167595,
-                    23.378077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200404280001",
-                "name": "私立耐樂帝文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.247623,
-                    23.4617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200402260001",
-                "name": "嘉義縣私立TOP頂尖文理短期補習班太保分班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.344867,
-                    23.452742
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200312100001",
-                "name": "私立碩博文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.451928,
-                    23.529872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200310220001",
-                "name": "私立高陽文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.424815,
-                    23.557786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200307140002",
-                "name": "嘉義縣私立台大文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.380155,
-                    23.498173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200304230002",
-                "name": "私立弘揚文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34292,
-                    23.451163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200303200001",
-                "name": "私立THE OWL美語短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.554325,
-                    23.518929
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200303190001",
-                "name": "私立貓頭鷹語文短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.55115,
-                    23.588988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200301030001",
-                "name": "私立才育文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.450669,
-                    23.527867
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200209120001",
-                "name": "嘉義縣私立協同高級中學附設外國語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "國小,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.435913,
-                    23.532979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012131",
-                "name": "私立喜學園文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
                 "students": "未載明"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.528709,
-                    23.433525
+                    120.463832,
+                    23.601192
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208012130",
-                "name": "私立羅傑文理短期補習班",
+                "code": "53200208012114",
+                "name": "私立來恩文理短期補習班中華分班",
                 "county": "嘉義縣",
                 "class": "文理類,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.456681,
-                    23.533567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012128",
-                "name": "私立吳老師文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.451266,
-                    23.602726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012121",
-                "name": "私立芥菜種(蒂娜)文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "學齡前,國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548906,
-                    23.518311
+                    120.548886,
+                    23.518094
                 ]
             }
         },
@@ -2758,476 +514,34 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208012114",
-                "name": "私立來恩文理短期補習班中華分班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548886,
-                    23.518094
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012113",
-                "name": "嘉義縣私立文林語文短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.463832,
-                    23.601192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012110",
-                "name": "私立莫札特音樂短期補習班",
-                "county": "嘉義縣",
-                "class": "音樂、舞蹈類,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.394377,
-                    23.434833
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012109",
-                "name": "私立心心文理短期補習班",
+                "code": "53200208012121",
+                "name": "私立芥菜種(蒂娜)文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.373512,
-                    23.499245
+                    120.548906,
+                    23.518311
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208012104",
-                "name": "私立建中文理短期補習班",
+                "code": "53200208012128",
+                "name": "私立吳老師文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.448657,
-                    23.5288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012103",
-                "name": "嘉義縣私立資優生文教機構短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.23771,
-                    23.46167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012102",
-                "name": "嘉義縣私立藍園文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "未填列"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.42852,
-                    23.552821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208012105",
-                "name": "私立健學文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.445306,
-                    23.527782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010096",
-                "name": "私立天成文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.349473,
-                    23.554117
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010095",
-                "name": "私立李老師文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "未載名"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.345253,
-                    23.554093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010084",
-                "name": "嘉義縣私立鐘老師文理短期補習班",
-                "county": "嘉義縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.458397,
-                    23.451657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010083",
-                "name": "嘉義縣私立中正芝蔴開門美術語文短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小,不限對象"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.426821,
-                    23.556137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010077",
-                "name": "私立成大王牌文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.426771,
-                    23.445053
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010075",
-                "name": "私立文人文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.381034,
-                    23.498376
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200310220002",
-                "name": "私立童年故事短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.560225,
-                    23.581872
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010069",
-                "name": "私立叮噹語文短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.30614,
-                    23.408407
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010068",
-                "name": "私立世界美語文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "未填列"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.554458,
-                    23.573436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010063",
-                "name": "私立大地電腦文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.399268,
-                    23.427223
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010062",
-                "name": "私立懷軒文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54819,
-                    23.516448
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010061",
-                "name": "私立佳佳珠算短期補習班",
-                "county": "嘉義縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.244839,
-                    23.461621
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208020001",
-                "name": "私立采音音樂美語短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.23895,
-                    23.463766
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010058",
-                "name": "私立姜老師珠算才藝短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.433049,
-                    23.447904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010050",
-                "name": "私立翰成升學文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,",
-                "students": "高中,國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.247138,
-                    23.461195
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010037",
-                "name": "私立學友文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.248369,
-                    23.465288
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010034",
-                "name": "私立尉林文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.242633,
-                    23.461545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010031",
-                "name": "私立漢唐語文珠算短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.24201,
-                    23.466603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010030",
-                "name": "嘉義縣私立明仁文理短期補習班",
-                "county": "嘉義縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.4197,
-                    23.526378
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "53200208010029",
-                "name": "私立翰林珠算短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "未載明"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.429078,
-                    23.552389
+                    120.451266,
+                    23.602726
                 ]
             }
         },
@@ -3251,17 +565,2703 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208010018",
-                "name": "私立健智文理短期補習班",
+                "code": "53200208012130",
+                "name": "私立羅傑文理短期補習班",
                 "county": "嘉義縣",
-                "class": "文理類,商類：珠算、心算、會計,",
+                "class": "文理類,",
+                "students": "未載明"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.456681,
+                    23.533567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208012131",
+                "name": "私立喜學園文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "未載明"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.528709,
+                    23.433525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200208020001",
+                "name": "私立采音音樂美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,音樂、舞蹈類,",
                 "students": "國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.507883,
-                    23.489864
+                    120.23895,
+                    23.463766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200209120001",
+                "name": "嘉義縣私立協同高級中學附設外國語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.435913,
+                    23.532979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200301030001",
+                "name": "私立才育文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.450669,
+                    23.527867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200303190001",
+                "name": "私立貓頭鷹語文短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55115,
+                    23.588988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200303200001",
+                "name": "私立THE OWL美語短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.554325,
+                    23.518929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200304230002",
+                "name": "私立弘揚文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.34292,
+                    23.451163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200307140002",
+                "name": "嘉義縣私立台大文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.380155,
+                    23.498173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200310220001",
+                "name": "私立高陽文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.424815,
+                    23.557786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200310220002",
+                "name": "私立童年故事短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560225,
+                    23.581872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200312100001",
+                "name": "私立碩博文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451928,
+                    23.529872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200402260001",
+                "name": "嘉義縣私立TOP頂尖文理短期補習班太保分班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344867,
+                    23.452742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200404280001",
+                "name": "私立耐樂帝文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247623,
+                    23.4617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200407230001",
+                "name": "私立蔡老師文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.167595,
+                    23.378077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200410260001",
+                "name": "嘉義縣私立學府文理短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.402158,
+                    23.428992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200410260002",
+                "name": "私立名興文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553199,
+                    23.464362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200411120001",
+                "name": "私立世外桃源文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.555032,
+                    23.464315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200411220001",
+                "name": "私立奧林匹克文理短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.381465,
+                    23.499742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200503250001",
+                "name": "智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班太保分班",
+                "county": "嘉義縣",
+                "class": "法政類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297676,
+                    23.459313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200505160001",
+                "name": "私立誠楓文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458755,
+                    23.448646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200505180001",
+                "name": "私立國華文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.381788,
+                    23.499603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200506130001",
+                "name": "私立高譽文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285112,
+                    23.456866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200507280001",
+                "name": "私立雅勝珠心算短期補習班",
+                "county": "嘉義縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428407,
+                    23.552509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200508240001",
+                "name": "私立顧勝文教事業有限公司附設文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429025,
+                    23.555699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200508260001",
+                "name": "私立允強文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298111,
+                    23.457819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200509060001",
+                "name": "私立瑪肯資優文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42296,
+                    23.557669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200510270001",
+                "name": "私立英才文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542559,
+                    23.443152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200512290001",
+                "name": "私立巨果珠心算語文短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452432,
+                    23.529191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200602130001",
+                "name": "私立全美文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.459894,
+                    23.450778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200602160001",
+                "name": "私立向日葵語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463741,
+                    23.452351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200602270001",
+                "name": "私立正統心算短期補習班",
+                "county": "嘉義縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453248,
+                    23.606233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200603060001",
+                "name": "私立小字典文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344634,
+                    23.560617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200603160001",
+                "name": "私立學文城文理才藝短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.242802,
+                    23.46471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200604300002",
+                "name": "私立格林文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463933,
+                    23.453009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200605230001",
+                "name": "私立金企鵝英語短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.361801,
+                    23.500515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200608080001",
+                "name": "私立佳言美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397782,
+                    23.425677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200608300001",
+                "name": "私立雅智音樂、語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452016,
+                    23.604012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200612270001",
+                "name": "私立義德文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.351776,
+                    23.556253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200703220001",
+                "name": "私立小太陽文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.1782,
+                    23.41618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200704120001",
+                "name": "私立常春藤文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.559406,
+                    23.579253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200705160001",
+                "name": "私立睿文文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286949,
+                    23.458071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200706070001",
+                "name": "私立里米語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452214,
+                    23.604355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200707020001",
+                "name": "私立晉昇文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45565,
+                    23.606473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200707130001",
+                "name": "私立融達文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.465102,
+                    23.598455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200708130002",
+                "name": "私立達誠文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397551,
+                    23.425098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200708300001",
+                "name": "私立摩根美語短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455555,
+                    23.533106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200709180001",
+                "name": "嘉義縣私立嘉中文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45226,
+                    23.528877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200712060001",
+                "name": "私立非凡文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.464033,
+                    23.453339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200801160002",
+                "name": "私立諾貝爾音樂藝術短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.248048,
+                    23.465195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200802260001",
+                "name": "私立彼得潘文理短期補習班",
+                "county": "嘉義縣",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.253463,
+                    23.466242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200803140001",
+                "name": "私立Do Re Mi 音樂短期補習班",
+                "county": "嘉義縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.402135,
+                    23.430185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200805200001",
+                "name": "私立洋洋文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536415,
+                    23.42434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200805300001",
+                "name": "私立育嘉文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524405,
+                    23.424199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200809050001",
+                "name": "私立欣欣文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.458561,
+                    23.598512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200809150001",
+                "name": "私立五餅二魚文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42077,
+                    23.527358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200809240001",
+                "name": "私立學廣文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35136,
+                    23.554846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200811030001",
+                "name": "私立菁英文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349002,
+                    23.555672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200811200001",
+                "name": "私立京冠文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3789,
+                    23.498284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200902040001",
+                "name": "私立藝宸文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349427,
+                    23.554117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200903160001",
+                "name": "私立叡智文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333232,
+                    23.461632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200903270001",
+                "name": "私立英美語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453357,
+                    23.60171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200907140001",
+                "name": "私立龍英文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295078,
+                    23.454758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200908310001",
+                "name": "私立智強文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398239,
+                    23.426632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200909100001",
+                "name": "嘉義縣私立雙春文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294318,
+                    23.467848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200910140001",
+                "name": "私立全方位舞蹈短期補習班",
+                "county": "嘉義縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.236856,
+                    23.461714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200912180001",
+                "name": "私立令揚文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中.國小,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548519,
+                    23.52194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53200912250001",
+                "name": "私立勵自向上文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398905,
+                    23.431391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201002040001",
+                "name": "私立良育文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342465,
+                    23.556996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201004120001",
+                "name": "私立仁仁語文短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524081,
+                    23.423984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201005060001",
+                "name": "私立愛森堡文理短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55734,
+                    23.587413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201005110001",
+                "name": "智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433712,
+                    23.556988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201005200001",
+                "name": "私立三之三文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33906,
+                    23.497889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201006220001",
+                "name": "私立育埕文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.249424,
+                    23.467168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201008130001",
+                "name": "私立資優美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29477,
+                    23.455715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201008270001",
+                "name": "私立嘉音英語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.383004,
+                    23.497101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201009080001",
+                "name": "私立維妮美術短期補習班",
+                "county": "嘉義縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.470218,
+                    23.451992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201009210001",
+                "name": "私立正達文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.248352,
+                    23.336725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201010230001",
+                "name": "私立世群文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434374,
+                    23.557081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201012010001",
+                "name": "私立學成美語短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39997,
+                    23.427761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201012130001",
+                "name": "私立聖達文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.400293,
+                    23.604106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201012300001",
+                "name": "私立聖光文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344255,
+                    23.554151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201102010001",
+                "name": "台灣知識庫股份有限公司民雄分公司附設嘉義縣私立數位學堂文理法政短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,法政類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.467191,
+                    23.554237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201103150001",
+                "name": "私立偉文文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "大專校院學生"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.469609,
+                    23.558776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201103280001",
+                "name": "私立小黑人音樂美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342763,
+                    23.557506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201103280002",
+                "name": "私立僑英文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451117,
+                    23.602488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201105240001",
+                "name": "私立頂立文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.560789,
+                    23.484705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201106020001",
+                "name": "嘉義縣私立摩爾美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.423272,
+                    23.557863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201106040001",
+                "name": "嘉義縣私立曾老師文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.238873,
+                    23.465944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201106220001",
+                "name": "嘉義縣私立學成文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.427588,
+                    23.556238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201112070001",
+                "name": "嘉義縣私立科技人文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452456,
+                    23.528934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201112220001",
+                "name": "嘉義縣私立英典語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "成人(18歲以上),高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294756,
+                    23.466698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201201040001",
+                "name": "嘉義縣私立柏瀚文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.40221,
+                    23.430361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201201060001",
+                "name": "嘉義縣私立慈惠文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295963,
+                    23.466578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201203020001",
+                "name": "嘉義縣私立沈老師文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397676,
+                    23.60591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201204050001",
+                "name": "嘉義縣私立加大文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434234,
+                    23.447002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201204160001",
+                "name": "嘉義縣私立學英文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549144,
+                    23.522168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201205100001",
+                "name": "嘉義縣私立勤益文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549775,
+                    23.51959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201206040001",
+                "name": "嘉義縣私立高第文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.384118,
+                    23.498677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201207040002",
+                "name": "嘉義縣私立崴聖文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55965,
+                    23.484787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201207310001",
+                "name": "嘉義縣私立資優生文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398371,
+                    23.432981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201209140001",
+                "name": "嘉義縣私立立人文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.432329,
+                    23.555439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201211060001",
+                "name": "嘉義縣私立蘇老師文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.465577,
+                    23.453078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201301090001",
+                "name": "嘉義縣私立愛麗思文理短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.243993,
+                    23.33631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201301160001",
+                "name": "嘉義縣私立強數文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460751,
+                    23.600027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201303010001",
+                "name": "嘉義縣私立承運文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343309,
+                    23.559519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201306180001",
+                "name": "嘉義縣私立頂尖文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.454883,
+                    23.605847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201308190001",
+                "name": "嘉義縣私立輔升文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239413,
+                    23.461793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201310240001",
+                "name": "嘉義縣私立哈佛文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333924,
+                    23.453527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201311120001",
+                "name": "嘉義縣私立佳蓓爾音樂短期補習班",
+                "county": "嘉義縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451603,
+                    23.601203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201312050001",
+                "name": "嘉義縣私立喬茵文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.453017,
+                    23.529377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201312120001",
+                "name": "嘉義縣私立至捷文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463279,
+                    23.45164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201402240001",
+                "name": "嘉義縣私立成碩文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288082,
+                    23.455221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201406030001",
+                "name": "嘉義縣私立力碩文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.423193,
+                    23.443546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201406160001",
+                "name": "嘉義縣私立喬大文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45962,
+                    23.60208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201501060001",
+                "name": "嘉義縣私立品昇全方位教育文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342018,
+                    23.557355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201502050001",
+                "name": "嘉義縣私立湯姆士文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461607,
+                    23.451827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201503300001",
+                "name": "嘉義縣私立威爾登美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,成人(18歲以上),高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.430514,
+                    23.552501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201504070001",
+                "name": "嘉義縣私立展文文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.395149,
+                    23.426349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201610130001",
+                "name": "嘉義縣私立偉民文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.551388,
+                    23.586742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201712110001",
+                "name": "嘉義縣私立創新科學短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299434,
+                    23.464486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201805110001",
+                "name": "嘉義縣私立築勤文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.396109,
+                    23.425647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201807030001",
+                "name": "高點教育科技股份有限公司附設嘉義縣私立高點文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.469824,
+                    23.558104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201809250001",
+                "name": "嘉義縣私立布萊爾美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451791,
+                    23.60207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201901310001",
+                "name": "嘉義縣私立智基科技開發股份有限公司嘉義分公司附設嘉義縣私立志光法商短期補習班中正分班",
+                "county": "嘉義縣",
+                "class": "文理類,法政類,",
+                "students": "公職人員考試"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.471086,
+                    23.556664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201906250001",
+                "name": "嘉義縣私立至德資優文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429025,
+                    23.555699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201907160001",
+                "name": "嘉義縣私立雪倫美語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.538348,
+                    23.472026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201909110001",
+                "name": "嘉義縣私立全腦文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.239636,
+                    23.461942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201909180001",
+                "name": "私立寶貝王國短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398751,
+                    23.42568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201909190001",
+                "name": "私立貓頭鷹短期補習班大林分班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460706,
+                    23.60003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53201911120001",
+                "name": "嘉義縣私立孟修短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297764,
+                    23.456356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202002140001",
+                "name": "嘉義縣私立TOP頂尖文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.287319,
+                    23.4554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202003240001",
+                "name": "私立耶米文理技藝短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,資訊類,",
+                "students": "國小,國中,高中,學齡前,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.460857,
+                    23.600176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202004240001",
+                "name": "嘉義縣私立辰冠短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.457057,
+                    23.601227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202007010001",
+                "name": "嘉義縣私立百勝短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.4278,
+                    23.557185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202007010002",
+                "name": "嘉義縣私立六藝文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.401619,
+                    23.43166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202008060001",
+                "name": "私立勵學文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428434,
+                    23.552076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202008170001",
+                "name": "嘉義縣私立主人翁文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.448103,
+                    23.526975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202008170002",
+                "name": "嘉義縣私立樂芙文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285968,
+                    23.45557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202008260001",
+                "name": "嘉義縣私立泓志文理短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.398385,
+                    23.426641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202011160001",
+                "name": "私立佳音文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397791,
+                    23.425716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202012280001",
+                "name": "私立鵬嶺文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.451986,
+                    23.528707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202101130001",
+                "name": "私立登原短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348816,
+                    23.555472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202102040001",
+                "name": "私立優昇短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548091,
+                    23.520902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202103170001",
+                "name": "私立金典語文短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.520872,
+                    23.424952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202103260001",
+                "name": "私立艾瑞克英語短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348236,
+                    23.558959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202109060001",
+                "name": "私立茗群數學文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.179267,
+                    23.381223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202110180001",
+                "name": "私立牧樂短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.463859,
+                    23.601315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202111050001",
+                "name": "私立宇捷文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397525,
+                    23.4252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202203210001",
+                "name": "嘉義縣私立均均文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.240164,
+                    23.461516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202204270001",
+                "name": "私立安爾堡文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.238468,
+                    23.462644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202205200001",
+                "name": "私立熱氣球短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.452595,
+                    23.528985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202210140001",
+                "name": "嘉義縣私立貝思特文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292624,
+                    23.487842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202211230001",
+                "name": "私立金企鵝短期補習班南新分班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.382471,
+                    23.497374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202306160001",
+                "name": "私立雀瑞絲短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297143,
+                    23.454674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202307070001",
+                "name": "私立陳老師短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.397969,
+                    23.425818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202312120001",
+                "name": "私立加勤短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352094,
+                    23.55453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202312190001",
+                "name": "私立育林文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.285927,
+                    23.455581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "53202404170001",
+                "name": "私立邦妮短期補習班",
+                "county": "嘉義縣",
+                "class": "外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.172973,
+                    23.388006
                 ]
             }
         }
