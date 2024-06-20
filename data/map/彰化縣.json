@@ -4326,7 +4326,7 @@
                 "name": "私立高仲文理短期補習班",
                 "county": "彰化縣",
                 "class": "外語類,",
-                "students": "未填寫"
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16590,6 +16590,23 @@
                 "coordinates": [
                     120.493938,
                     24.104806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202406180001",
+                "name": "彰化縣私立仁美文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.500205,
+                    24.107792
                 ]
             }
         }

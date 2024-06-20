@@ -294,7 +294,7 @@
             "type": "Feature",
             "properties": {
                 "code": "35200207050003",
-                "name": "新竹市私立精英兒童美語短期補習班",
+                "name": "新竹市私立精英文理短期補習班",
                 "county": "新竹市",
                 "class": "外語類,",
                 "students": "國小"
@@ -302,8 +302,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.982251,
-                    24.799496
+                    120.982616,
+                    24.800013
                 ]
             }
         },
@@ -5597,23 +5597,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35201807120002",
-                "name": "新竹市私立優學文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.971996,
-                    24.806992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35201808060001",
                 "name": "新竹市私立艾學爾文理短期補習班頂埔分班",
                 "county": "新竹市",
@@ -6866,6 +6849,23 @@
                 "coordinates": [
                     120.986558,
                     24.779271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202109080002",
+                "name": "新竹市私立愛學文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002497,
+                    24.795689
                 ]
             }
         },
