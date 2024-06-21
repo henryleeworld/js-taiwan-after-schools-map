@@ -5597,6 +5597,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201807120002",
+                "name": "新竹市私立優學文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971996,
+                    24.806992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201808060001",
                 "name": "新竹市私立艾學爾文理短期補習班頂埔分班",
                 "county": "新竹市",
@@ -7869,6 +7886,23 @@
                 "coordinates": [
                     121.009225,
                     24.793115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202406190001",
+                "name": "新竹市私立三民文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.980658,
+                    24.812992
                 ]
             }
         }
