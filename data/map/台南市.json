@@ -7314,23 +7314,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200412020002",
-                "name": "臺南市私立品傑文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.238346,
-                    22.983039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200412060001",
                 "name": "臺南市私立學優音樂英文短期補習班",
                 "county": "台南市",
@@ -12618,23 +12601,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200907279001",
-                "name": "臺南市私立傑登文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295323,
-                    23.079166
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200907279002",
                 "name": "臺南市私立力成文理短期補習班",
                 "county": "台南市",
@@ -16420,23 +16386,6 @@
                 "coordinates": [
                     120.239733,
                     22.983393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62201501130002",
-                "name": "臺南市私立品翰文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.18072,
-                    23.051647
                 ]
             }
         },
@@ -23696,6 +23645,23 @@
                 "coordinates": [
                     120.179792,
                     22.994965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202406200001",
+                "name": "瑀睿文教事業有限公司附設臺南市私立恩睿文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.231007,
+                    23.021327
                 ]
             }
         }

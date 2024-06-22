@@ -735,23 +735,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200207250002",
-                "name": "私立競文文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.148491,
-                    24.902847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200207250006",
                 "name": "私立誠功文理短期補習班",
                 "county": "桃園市",
@@ -2242,23 +2225,6 @@
                 "coordinates": [
                     121.320239,
                     24.977197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33200209160029",
-                "name": "私立佑育語文文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.162745,
-                    24.956693
                 ]
             }
         },
@@ -3772,23 +3738,6 @@
                 "coordinates": [
                     121.22364,
                     24.954694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33200310280001",
-                "name": "私立文琳文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.209695,
-                    24.916288
                 ]
             }
         },
@@ -22472,6 +22421,23 @@
                 "coordinates": [
                     121.381986,
                     25.048502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202406200001",
+                "name": "私立嘉分文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.217785,
+                    24.940696
                 ]
             }
         }
