@@ -123,23 +123,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319052",
-                "name": "臺中市私立樹德昇榮文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.711072,
-                    24.152266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319057",
                 "name": "臺中市私立超越文理短期補習班",
                 "county": "台中市",
@@ -18840,17 +18823,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200910149004",
-                "name": "私立上好文理短期補習班",
+                "code": "42200910149005",
+                "name": "臺中市私立競浤文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.724048,
-                    24.247579
+                    120.650042,
+                    24.216405
                 ]
             }
         },
@@ -20092,6 +20075,23 @@
                 "coordinates": [
                     120.701749,
                     24.086172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201008059003",
+                "name": "臺中市私立琴弦音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.67794,
+                    24.114415
                 ]
             }
         },
@@ -22121,23 +22121,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201111030001",
-                "name": "臺中市私立華盛頓美語會話短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.640198,
-                    24.147185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201111070001",
                 "name": "臺中市私立艾迪生文理短期補習班",
                 "county": "台中市",
@@ -23237,23 +23220,6 @@
                 "coordinates": [
                     120.659409,
                     24.257192
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201208230001",
-                "name": "臺中市私立曙光千樹文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.611307,
-                    24.187197
                 ]
             }
         },

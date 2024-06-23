@@ -16804,7 +16804,7 @@
                 "name": "私立拓宇文理語文短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國小,高中,國中"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -22438,6 +22438,23 @@
                 "coordinates": [
                     121.217785,
                     24.940696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202406210001",
+                "name": "私立上課囉文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226757,
+                    24.946358
                 ]
             }
         }
