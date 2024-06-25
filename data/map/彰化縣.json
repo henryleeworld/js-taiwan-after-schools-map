@@ -13553,6 +13553,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47202001210002",
+                "name": "彰化縣私立立人薪育糧文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546049,
+                    24.08237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47202001310001",
                 "name": "彰化縣私立小燕技藝文理短期補習班",
                 "county": "彰化縣",
@@ -13785,6 +13802,23 @@
                 "coordinates": [
                     120.570162,
                     23.96188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202005130002",
+                "name": "彰化縣私立泰瑞莎文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578416,
+                    24.083788
                 ]
             }
         },
