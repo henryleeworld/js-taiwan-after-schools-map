@@ -11989,23 +11989,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201711160001",
-                "name": "彰化縣私立冠登文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.441748,
-                    24.059004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201711160002",
                 "name": "彰化縣私立元氣日語短期補習班",
                 "county": "彰化縣",
@@ -12221,23 +12204,6 @@
                 "coordinates": [
                     120.62041,
                     23.809396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47201803130001",
-                "name": "彰化縣私立孟林文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548767,
-                    23.92216
                 ]
             }
         },
@@ -16607,6 +16573,23 @@
                 "coordinates": [
                     120.500205,
                     24.107792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202406240001",
+                "name": "彰化縣私立蘋果美日語短期補習班員林分班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小至成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.58147,
+                    23.959549
                 ]
             }
         }

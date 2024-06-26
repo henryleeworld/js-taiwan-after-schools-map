@@ -4203,6 +4203,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201604270002",
+                "name": "新竹縣私立鄧哲文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.055873,
+                    24.767703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201604270003",
                 "name": "新竹縣私立創智積木園地技藝短期補習班",
                 "county": "新竹縣",
@@ -5676,6 +5693,23 @@
                 "coordinates": [
                     121.040726,
                     24.90153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202003100001",
+                "name": "新竹縣私立勁權文教事業有限公司附設新竹縣私立勁權文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016974,
+                    24.817488
                 ]
             }
         },

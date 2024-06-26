@@ -24909,6 +24909,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201109080002",
+                "name": "私立煒群文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "小學、國中、高中,不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.486525,
+                    25.057925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201109080003",
                 "name": "私立英帆文理語文電腦音樂美術珠算短期補習班",
                 "county": "新北市",
@@ -25634,6 +25651,23 @@
                 "coordinates": [
                     121.445909,
                     25.053642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201201190001",
+                "name": "私立陳曦文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425099,
+                    25.020814
                 ]
             }
         },
@@ -36419,7 +36453,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201809060001",
-                "name": "私立四季小鹿文理短期補習班",
+                "name": "私立四季小鹿文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -48244,6 +48278,23 @@
                 "coordinates": [
                     121.502379,
                     25.001124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202406240001",
+                "name": "高點教育科技股份有限公司附設私立北大高點文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,法政類,商類：珠算、心算、會計,其他類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.373099,
+                    24.946011
                 ]
             }
         }

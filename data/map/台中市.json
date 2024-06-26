@@ -7403,7 +7403,7 @@
                 "name": "臺中市私立曠闊文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22683,7 +22683,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201204130001",
-                "name": "臺中市私立啟逹文理短期補習班",
+                "name": "臺中市私立啟達文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小"
@@ -34875,7 +34875,7 @@
                 "name": "約書亞探索體驗有限公司附設臺中市私立約書亞文理短期補習班軍功分班",
                 "county": "台中市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,高中,國小"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -40084,6 +40084,23 @@
                 "coordinates": [
                     120.572366,
                     24.219826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202406190001",
+                "name": "臺中市私立崇光維尼文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680742,
+                    24.112842
                 ]
             }
         }
