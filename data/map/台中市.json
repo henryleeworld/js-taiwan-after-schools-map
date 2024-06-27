@@ -33120,6 +33120,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42202004300001",
+                "name": "臺中市私立弘林文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "高中,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.578593,
+                    24.181808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42202005130001",
                 "name": "臺中市私立互動文理技藝短期補習班霧峰分班",
                 "county": "台中市",

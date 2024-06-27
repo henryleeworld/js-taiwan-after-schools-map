@@ -3986,7 +3986,7 @@
                 "name": "新竹縣私立嘉德琳文理短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -5699,23 +5699,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36202003100001",
-                "name": "新竹縣私立勁權文教事業有限公司附設新竹縣私立勁權文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.016974,
-                    24.817488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36202003100002",
                 "name": "新竹縣私立勁棋文教事業有限公司附設新竹縣私立勁棋文理短期補習班",
                 "county": "新竹縣",
@@ -7318,7 +7301,7 @@
                 "name": "新竹縣私立EZ英語學園文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7420,7 +7403,7 @@
                 "name": "新竹縣私立翰師教育學院文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
