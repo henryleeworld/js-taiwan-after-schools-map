@@ -5342,23 +5342,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35201711010001",
-                "name": "新竹市私立A1智慧教室文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020621,
-                    24.783003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35201711010002",
                 "name": "新竹市私立奕碩文理短期補習班",
                 "county": "新竹市",
@@ -5370,6 +5353,23 @@
                 "coordinates": [
                     120.979515,
                     24.813907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201711010003",
+                "name": "新竹市私立杜克美語文理短期補習班",
+                "county": "新竹市",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011928,
+                    24.789047
                 ]
             }
         },
@@ -7556,7 +7556,7 @@
                 "name": "新竹市私立光點學學文理短期補習班",
                 "county": "新竹市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
