@@ -6859,7 +6859,7 @@
                 "name": "私立一信文理語文數學短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22455,6 +22455,23 @@
                 "coordinates": [
                     121.226757,
                     24.946358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202406270001",
+                "name": "私立麋爾頓文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,資訊類,",
+                "students": "國小,成人(18歲以上),國小、國中,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.218471,
+                    25.019589
                 ]
             }
         }
