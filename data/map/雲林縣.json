@@ -3966,7 +3966,7 @@
             "type": "Feature",
             "properties": {
                 "code": "55201106140001",
-                "name": "雲林縣私立大美加文理短期補習班",
+                "name": "私立大美加文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
                 "students": "國小"
@@ -5948,6 +5948,23 @@
                 "coordinates": [
                     120.441132,
                     23.711396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202406280001",
+                "name": "私立卡爾蕎短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.416775,
+                    23.725214
                 ]
             }
         }

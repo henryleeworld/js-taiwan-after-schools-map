@@ -1535,7 +1535,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022353",
-                "name": "私立博浩語文文理短期補習班",
+                "name": "博浩語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡"
@@ -24926,6 +24926,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201109080003",
+                "name": "私立英帆文理語文電腦音樂美術珠算短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小、國中、高中,不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.486525,
+                    25.057925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201109090001",
                 "name": "私立意蕓國際股份有限公司附設康禾文理短期補習班",
                 "county": "新北市",
@@ -25396,6 +25413,23 @@
                 "coordinates": [
                     121.375889,
                     25.082553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201111220001",
+                "name": "私立日興文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小以上"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472835,
+                    25.009913
                 ]
             }
         },
@@ -48261,6 +48295,40 @@
                 "coordinates": [
                     121.373099,
                     24.946011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202406280001",
+                "name": "伺服器測試",
+                "county": "新北市",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39295,
+                    24.85669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202406280002",
+                "name": "私立吳限成雅文理短期補習班",
+                "county": "新北市",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39295,
+                    24.85669
                 ]
             }
         }
