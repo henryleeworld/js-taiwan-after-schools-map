@@ -106,23 +106,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200208020064",
-                "name": "私立嘉得英語文理短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小、國中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.496981,
-                    25.065788
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200208020066",
                 "name": "宜欣舞蹈短期補習班",
                 "county": "新北市",
@@ -1861,7 +1844,7 @@
                 "name": "私立萬勝文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,資訊類,",
-                "students": "國小,高中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7148,7 +7131,7 @@
                 "name": "強哥文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -12211,7 +12194,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200509190001",
-                "name": "創曄文筆語文短期補習班",
+                "name": "創曄文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡"
@@ -23363,7 +23346,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201011290003",
-                "name": "私立光耀文理短期補習班",
+                "name": "光耀文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中"
@@ -23371,8 +23354,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.662888,
-                    25.067069
+                    121.663064,
+                    25.067044
                 ]
             }
         },
@@ -24943,17 +24926,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201109090001",
-                "name": "私立意蕓國際股份有限公司附設康禾文理短期補習班",
+                "code": "21201109090002",
+                "name": "私立傑斯文理語文短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "國中,國小、國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.445763,
-                    25.053929
+                    121.447744,
+                    25.049786
                 ]
             }
         },
@@ -28473,6 +28456,23 @@
                 "coordinates": [
                     121.4441,
                     25.051501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201308020001",
+                "name": "私立未來領袖教育股份有限公司附設允騰文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37535,
+                    25.078087
                 ]
             }
         },
@@ -48287,14 +48287,14 @@
                 "code": "21202406280002",
                 "name": "私立吳限成雅文理短期補習班",
                 "county": "新北市",
-                "class": "",
-                "students": ""
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.39295,
-                    24.85669
+                    121.379409,
+                    24.946413
                 ]
             }
         }

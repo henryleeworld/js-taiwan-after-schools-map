@@ -12397,23 +12397,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33201212100003",
-                "name": "私立葳士頓美語短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.304934,
-                    24.96542
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33201212170001",
                 "name": "私立勵成語文文理短期補習班",
                 "county": "桃園市",
@@ -12510,23 +12493,6 @@
                 "coordinates": [
                     121.342801,
                     25.004167
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33201304080001",
-                "name": "私立謝老師美術短期補習班",
-                "county": "桃園市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小-大學"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.208763,
-                    24.954191
                 ]
             }
         },
@@ -18687,23 +18653,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33202006010001",
-                "name": "私立新冠智文理語文數學短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,其他類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.31471,
-                    24.994714
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33202006020001",
                 "name": "私立逸學文理語文數學短期補習班",
                 "county": "桃園市",
@@ -18936,23 +18885,6 @@
                 "coordinates": [
                     121.304146,
                     25.020605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33202010080001",
-                "name": "私立蓋文文理語文短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.213432,
-                    25.006755
                 ]
             }
         },
@@ -19201,7 +19133,7 @@
                 "name": "私立天堂鳥英語短期補習班",
                 "county": "桃園市",
                 "class": "外語類,",
-                "students": "國小,國中,高中,成人(18歲以上)"
+                "students": "成人(18歲以上),國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -22448,7 +22380,7 @@
                 "name": "私立上課囉文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22472,6 +22404,40 @@
                 "coordinates": [
                     121.218471,
                     25.019589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202407010001",
+                "name": "私立政大聯合文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14779,
+                    24.910799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202407010002",
+                "name": "私立放學堂文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.248079,
+                    24.975342
                 ]
             }
         }

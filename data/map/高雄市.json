@@ -16239,6 +16239,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200701260001",
+                "name": "私立高名文理短期補習班左營分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.304175,
+                    22.680589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200702020002",
                 "name": "私立承和文理短期補習班",
                 "county": "高雄市",
@@ -31890,6 +31907,23 @@
                 "coordinates": [
                     120.308648,
                     22.658845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202405140001",
+                "name": "私立傳鵬文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.390685,
+                    22.560834
                 ]
             }
         }
