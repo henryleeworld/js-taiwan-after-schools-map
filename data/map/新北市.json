@@ -22189,23 +22189,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201007010001",
-                "name": "私立台灣知識庫股份有限公司新莊分公司附設數位學堂建興文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.450012,
-                    25.036142
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201007010002",
                 "name": "私立金正言文理短期補習班",
                 "county": "新北市",
@@ -24920,6 +24903,23 @@
                 "coordinates": [
                     121.486525,
                     25.057925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201109090001",
+                "name": "私立意蕓國際股份有限公司附設康禾文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.445763,
+                    25.053929
                 ]
             }
         },
@@ -45412,7 +45412,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202301050001",
-                "name": "私立卓岳文理短期補習班",
+                "name": "卓岳文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -47962,7 +47962,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202405140001",
-                "name": "私立欣欣文理短期補習班短期補習班",
+                "name": "私立欣欣文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"

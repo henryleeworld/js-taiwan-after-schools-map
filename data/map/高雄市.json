@@ -15525,23 +15525,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200610169004",
-                "name": "私立翰橋文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.300045,
-                    22.82297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200610169006",
                 "name": "私立育誠文理技藝短期補習班",
                 "county": "高雄市",
@@ -31924,6 +31907,23 @@
                 "coordinates": [
                     120.390685,
                     22.560834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202407020001",
+                "name": "高雄市私立耶加短期補習班左新分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307399,
+                    22.679587
                 ]
             }
         }

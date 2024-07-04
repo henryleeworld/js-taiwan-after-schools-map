@@ -331,7 +331,7 @@
                 "name": "私立大全文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13513,6 +13513,23 @@
                 "coordinates": [
                     120.581063,
                     23.966526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202001210002",
+                "name": "彰化縣私立立人薪育糧文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546049,
+                    24.08237
                 ]
             }
         },
