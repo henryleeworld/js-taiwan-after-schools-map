@@ -22312,7 +22312,7 @@
                 "name": "臺中市私立展妍文心文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -30394,23 +30394,6 @@
                 "coordinates": [
                     120.640629,
                     24.156013
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201808030001",
-                "name": "臺中市私立一塊錢文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.673416,
-                    24.168575
                 ]
             }
         },
@@ -39999,6 +39982,23 @@
                 "coordinates": [
                     120.680742,
                     24.112842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202407030001",
+                "name": "創意數理事業有限公司附設臺中市私立創意文華文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661206,
+                    24.171984
                 ]
             }
         }

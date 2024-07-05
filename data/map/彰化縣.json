@@ -3506,23 +3506,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200404060002",
-                "name": "私立英群數學短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.440496,
-                    24.062242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200404210001",
                 "name": "私立萬冠美語短期補習班",
                 "county": "彰化縣",
@@ -3685,8 +3668,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.494305,
-                    24.113482
+                    120.493969,
+                    24.11074
                 ]
             }
         },
@@ -3864,10 +3847,10 @@
             "type": "Feature",
             "properties": {
                 "code": "47200411150002",
-                "name": "私立金大東海美語短期補習班",
+                "name": "彰化縣私立金大東海文理短期補習班",
                 "county": "彰化縣",
                 "class": "外語類,",
-                "students": "未填寫"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4775,23 +4758,6 @@
                 "coordinates": [
                     120.495244,
                     24.145851
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47200511080002",
-                "name": "私立佳陽文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.548074,
-                    24.044713
                 ]
             }
         },
