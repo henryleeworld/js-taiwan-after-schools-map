@@ -11530,23 +11530,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33201110040002",
-                "name": "高點教育科技股份有限公司附設私立來勝文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "成人(18歲以上),公職人員考試"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.226079,
-                    24.955549
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33201110070001",
                 "name": "私立子涵音樂短期補習班",
                 "county": "桃園市",
@@ -13930,8 +13913,8 @@
                 "code": "33201409190001",
                 "name": "私立宏海文理短期補習班",
                 "county": "桃園市",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22540,6 +22523,40 @@
                 "coordinates": [
                     121.300071,
                     24.960446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202407040001",
+                "name": "私立文山美語文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.294129,
+                    24.997322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202407040002",
+                "name": "私立昇華文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.299083,
+                    24.9602
                 ]
             }
         }
