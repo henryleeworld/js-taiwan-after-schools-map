@@ -24841,23 +24841,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201109080001",
-                "name": "私立大項語文美術短期補習班",
-                "county": "新北市",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.448397,
-                    25.012751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201109080002",
                 "name": "私立煒群文理語文短期補習班",
                 "county": "新北市",
@@ -24903,6 +24886,23 @@
                 "coordinates": [
                     121.445763,
                     25.053929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201109090002",
+                "name": "私立傑斯文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447744,
+                    25.049786
                 ]
             }
         },
@@ -27901,6 +27901,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201303220001",
+                "name": "私立大友誠作文語文文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "年齡不拘"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.426606,
+                    25.018263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201303250001",
                 "name": "私立聯發文理短期補習班",
                 "county": "新北市",
@@ -30026,6 +30043,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201408080001",
+                "name": "私立中國青年救國團附設明得語文技藝短期補習班",
+                "county": "新北市",
+                "class": "外語類,家政、插花、烹飪類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,其他類,",
+                "students": "兒童及成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448802,
+                    24.982669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201408080002",
                 "name": "私立哈佛學園文理美語短期補習班",
                 "county": "新北市",
@@ -30241,6 +30275,23 @@
                 "coordinates": [
                     121.654041,
                     25.065483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201409180001",
+                "name": "私立妙妙熊美術短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡(2班各15人、11人)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.347178,
+                    24.954718
                 ]
             }
         },
@@ -32049,6 +32100,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201511240001",
+                "name": "私立全方位長樂英語文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461772,
+                    25.088267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201511240002",
                 "name": "私立閣英嵐文理語文短期補習班",
                 "county": "新北市",
@@ -32332,23 +32400,6 @@
                 "coordinates": [
                     121.462044,
                     25.02538
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201602250003",
-                "name": "私立安德列畫室美術短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.44576,
-                    25.048397
                 ]
             }
         },
@@ -32808,23 +32859,6 @@
                 "coordinates": [
                     121.504617,
                     24.991916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201606010001",
-                "name": "私立貝迪菲教育事業有限公司附設貝迪菲美語文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.66181,
-                    25.063203
                 ]
             }
         },
@@ -37422,7 +37456,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201904160001",
-                "name": "私立萊譽美語文理短期補習班",
+                "name": "萊譽文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -44001,7 +44035,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202205140001",
-                "name": "私立根基教育事業股份有限公司附設根基一對一文理短期補習班",
+                "name": "根基教育事業股份有限公司附設根基一對一文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -48193,6 +48227,40 @@
                 "coordinates": [
                     121.4931,
                     25.062497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202407050001",
+                "name": "私立加分好空間文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45208,
+                    24.984872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202407050002",
+                "name": "私立崇樂文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.663971,
+                    25.072832
                 ]
             }
         }

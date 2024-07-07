@@ -17990,6 +17990,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200905189006",
+                "name": "臺中市私立育誠文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714718,
+                    24.306905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200905199002",
                 "name": "臺中市私立想像力文理短期補習班",
                 "county": "台中市",
@@ -36495,8 +36512,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.683952,
-                    24.115736
+                    120.694298,
+                    24.11038
                 ]
             }
         },

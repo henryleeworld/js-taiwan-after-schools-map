@@ -2384,6 +2384,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "52201305010001",
+                "name": "嘉義市私立溫揚文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.52067,
+                    24.090145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "52201305010002",
                 "name": "嘉義市私立藝翔空間技藝短期補習班",
                 "county": "嘉義市",
@@ -2541,13 +2558,13 @@
                 "name": "嘉義市私立廣達文理短期補習班",
                 "county": "嘉義市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.50523,
-                    25.012968
+                    120.451608,
+                    23.477667
                 ]
             }
         },

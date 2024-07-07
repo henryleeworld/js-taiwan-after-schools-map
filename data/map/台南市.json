@@ -2673,23 +2673,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200208069005",
-                "name": "臺南市私立慈幼文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.317325,
-                    23.316931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200208069006",
                 "name": "臺南市私立學達文理短期補習班",
                 "county": "台南市",
@@ -23451,7 +23434,7 @@
                 "name": "臺南市私立學養文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

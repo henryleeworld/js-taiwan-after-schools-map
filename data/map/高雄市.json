@@ -10918,6 +10918,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200402049039",
+                "name": "私立喬智文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307422,
+                    22.750637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200402139001",
                 "name": "私立吉尼士文理短期補習班",
                 "county": "高雄市",
@@ -15502,23 +15519,6 @@
                 "coordinates": [
                     120.326517,
                     22.5939
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200610169004",
-                "name": "私立翰橋文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.300045,
-                    22.82297
                 ]
             }
         },
