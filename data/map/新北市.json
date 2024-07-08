@@ -23770,6 +23770,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201101280002",
+                "name": "私立德碩文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中,(不現年齡)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.487987,
+                    25.055454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201101280003",
                 "name": "私立新重新語文短期補習班",
                 "county": "新北市",
@@ -32406,6 +32423,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201602250003",
+                "name": "私立安德列畫室美術短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.44576,
+                    25.048397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201603090001",
                 "name": "私立學悟處文理語文短期補習班",
                 "county": "新北市",
@@ -32859,6 +32893,23 @@
                 "coordinates": [
                     121.504617,
                     24.991916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201606010001",
+                "name": "私立貝迪菲教育事業有限公司附設貝迪菲美語文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.66181,
+                    25.063203
                 ]
             }
         },
@@ -33369,6 +33420,23 @@
                 "coordinates": [
                     121.462556,
                     25.091351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201609180004",
+                "name": "私立政華文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517484,
+                    25.00103
                 ]
             }
         },
