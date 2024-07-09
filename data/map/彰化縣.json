@@ -11972,6 +11972,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201711160003",
+                "name": "沃登教育股份有限公司附設彰化縣私立沃登文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546916,
+                    23.920518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201711160004",
                 "name": "彰化縣私立儒林文理短期補習班",
                 "county": "彰化縣",
@@ -12680,6 +12697,23 @@
                 "coordinates": [
                     120.579486,
                     23.965444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201903060001",
+                "name": "彰化縣私立貝思特文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522848,
+                    23.874911
                 ]
             }
         },
@@ -13955,6 +13989,23 @@
                 "coordinates": [
                     120.443557,
                     24.059155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202008280001",
+                "name": "彰化縣私立小角落文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545907,
+                    24.080663
                 ]
             }
         },
