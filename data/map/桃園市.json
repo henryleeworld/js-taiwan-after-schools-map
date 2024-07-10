@@ -6209,23 +6209,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200612210042",
-                "name": "私立學勤文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.290906,
-                    25.044609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200612220003",
                 "name": "何嘉仁文教事業股份有限公司附設私立智妍英語短期補習班",
                 "county": "桃園市",
@@ -11524,6 +11507,23 @@
                 "coordinates": [
                     121.273867,
                     24.977429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33201110040002",
+                "name": "高點教育科技股份有限公司附設私立來勝文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "成人(18歲以上),公職人員考試"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.226079,
+                    24.955549
                 ]
             }
         },
@@ -19225,23 +19225,6 @@
                 "coordinates": [
                     121.363108,
                     25.051672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33202012300001",
-                "name": "極合教育科技股份有限公司附設私立極上一對一站前文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.311935,
-                    24.99244
                 ]
             }
         },

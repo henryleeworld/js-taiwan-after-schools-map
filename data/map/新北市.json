@@ -28479,23 +28479,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201308050002",
-                "name": "私立巧可麗語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小至成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.477307,
-                    25.030532
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201308050004",
                 "name": "私立曼漢音樂短期補習班",
                 "county": "新北市",
@@ -29306,23 +29289,6 @@
                 "coordinates": [
                     121.422512,
                     24.993385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201401090001",
-                "name": "私立思韡文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.445587,
-                    25.18615
                 ]
             }
         },
@@ -34345,7 +34311,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201705030001",
-                "name": "私立名門文理短期補習班",
+                "name": "名門文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中"
