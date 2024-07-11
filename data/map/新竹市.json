@@ -5376,6 +5376,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201711010003",
+                "name": "新竹市私立杜克美語文理短期補習班",
+                "county": "新竹市",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011928,
+                    24.789047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201801020001",
                 "name": "新竹市私立潔西文理短期補習班",
                 "county": "新竹市",
@@ -7886,6 +7903,23 @@
                 "coordinates": [
                     120.980658,
                     24.812992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202407090001",
+                "name": "新竹市私立小繪日子技藝短期補習班",
+                "county": "新竹市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "成人(18歲以上),國小以上"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013888,
+                    24.792253
                 ]
             }
         }

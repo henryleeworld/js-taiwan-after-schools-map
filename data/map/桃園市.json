@@ -19231,6 +19231,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202012300001",
+                "name": "極合教育科技股份有限公司附設私立極上一對一站前文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311935,
+                    24.99244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202012300002",
                 "name": "私立莫大衛英語短期補習班",
                 "county": "桃園市",
