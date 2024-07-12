@@ -23600,23 +23600,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62202406070001",
-                "name": "典陸教育科技股份有限公司附設臺南市私立典陸文理短期補習班北門分班(為比對教職員工資料預登立案資訊)",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.211744,
-                    22.99603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62202406120001",
                 "name": "臺南市私立金鑫安文理短期補習班",
                 "county": "台南市",
@@ -23679,6 +23662,23 @@
                 "coordinates": [
                     120.179471,
                     23.047974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202407100001",
+                "name": "臺南市私立陞達文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200021,
+                    23.016089
                 ]
             }
         }

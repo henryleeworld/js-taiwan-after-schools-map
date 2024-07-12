@@ -15950,6 +15950,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200803060002",
+                "name": "私立前程文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637608,
+                    24.151107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200804090001",
                 "name": "臺中市私立築光文理短期補習班",
                 "county": "台中市",
