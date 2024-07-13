@@ -19775,23 +19775,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201006080001",
-                "name": "臺中市私立傅野音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.700708,
-                    24.167308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201006230003",
                 "name": "臺中市私立百大福科文理短期補習班",
                 "county": "台中市",
@@ -31339,13 +31322,13 @@
                 "name": "樹人文教有限公司附設臺中市私立明光新光文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,高中,國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.713534,
-                    24.159116
+                    120.713589,
+                    24.159121
                 ]
             }
         },
@@ -39958,7 +39941,7 @@
                 "name": "宜禾文教事業有限公司附設臺中市私立宜禾文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",

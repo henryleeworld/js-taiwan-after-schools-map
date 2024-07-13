@@ -2538,7 +2538,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47200208012381",
-                "name": "私立大同水電工程短期補習班",
+                "name": "私立大同水電工程短期職業補習班",
                 "county": "彰化縣",
                 "class": "電機、汽車修護、建築、工藝、製圖類,",
                 "students": ""
@@ -7127,23 +7127,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200905080001",
-                "name": "私立金奧林匹克文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.476125,
-                    23.964366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200905080003",
                 "name": "彰化縣私立快樂私塾文理短期補習班",
                 "county": "彰化縣",
@@ -7342,23 +7325,6 @@
                 "coordinates": [
                     120.577096,
                     24.084643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47200909210004",
-                "name": "私立正典語文短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.527514,
-                    23.877775
                 ]
             }
         },
@@ -9637,6 +9603,23 @@
                 "coordinates": [
                     120.544374,
                     24.090468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305270001",
+                "name": "彰化縣私立允程文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553929,
+                    24.094187
                 ]
             }
         },
@@ -13400,23 +13383,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47202001210002",
-                "name": "彰化縣私立立人薪育糧文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.546049,
-                    24.08237
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47202001310002",
                 "name": "彰化縣私立學而樂文理短期補習班",
                 "county": "彰化縣",
@@ -13904,6 +13870,23 @@
                 "coordinates": [
                     120.443557,
                     24.059155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202008280001",
+                "name": "彰化縣私立小角落文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545907,
+                    24.080663
                 ]
             }
         },

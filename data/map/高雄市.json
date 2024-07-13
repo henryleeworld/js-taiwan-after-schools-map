@@ -13247,23 +13247,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200505090003",
-                "name": "私立黃明文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.29524,
-                    22.626031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200505110001",
                 "name": "私立揚育文理短期補習班",
                 "county": "高雄市",
@@ -16607,23 +16590,6 @@
                 "coordinates": [
                     120.392962,
                     22.662656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200705019007",
-                "name": "私立哈佛菁英文理技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,資訊類,",
-                "students": "國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35003,
-                    22.630818
                 ]
             }
         },
@@ -29894,7 +29860,7 @@
                 "name": "私立奧斯福爾文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國小,國中,學齡前,高中"
+                "students": "高中,國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
