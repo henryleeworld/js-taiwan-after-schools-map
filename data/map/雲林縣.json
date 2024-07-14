@@ -2044,23 +2044,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200410130001",
-                "name": "私立皇家文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國小,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.539522,
-                    23.716501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200410130002",
                 "name": "私立張淑惠英文短期補習班",
                 "county": "雲林縣",
@@ -5856,7 +5839,7 @@
                 "name": "私立語響力文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
-                "students": "國中,高中,國小"
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",

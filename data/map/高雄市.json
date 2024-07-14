@@ -16596,6 +16596,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200705019007",
+                "name": "私立哈佛菁英文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,資訊類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.35003,
+                    22.630818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200705019008",
                 "name": "私立貓頭鷹文理技藝短期補習班",
                 "county": "高雄市",
@@ -27174,7 +27191,7 @@
                 "name": "明光文教事業股份有限公司附設明光義塾語文文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小,高中"
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
