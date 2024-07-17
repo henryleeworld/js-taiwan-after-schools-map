@@ -17276,23 +17276,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200811189002",
-                "name": "私立明昌文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.688038,
-                    24.099703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200811189003",
                 "name": "優迪文教科技股份有限公司附設臺中市私立優迪文理短期補習班瑞穗分班",
                 "county": "台中市",
@@ -18942,23 +18925,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200911249001",
-                "name": "私立西布倫文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.726343,
-                    24.247782
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200911249002",
                 "name": "私立小瓢蟲美術短期補習班",
                 "county": "台中市",
@@ -19021,23 +18987,6 @@
                 "coordinates": [
                     120.718832,
                     24.244448
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200911270002",
-                "name": "臺中市私立締蔚文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.696496,
-                    24.180883
                 ]
             }
         },
@@ -20558,7 +20507,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201011030001",
-                "name": "臺中市私立緁鼎文理短期補習班文心分班",
+                "name": "臺中市私立恆睿文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,國中"
@@ -39999,6 +39948,23 @@
                 "coordinates": [
                     120.719154,
                     24.126082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202407150001",
+                "name": "臺中市私立班堡文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.697954,
+                    24.136549
                 ]
             }
         }

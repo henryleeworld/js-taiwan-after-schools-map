@@ -8402,6 +8402,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201106080001",
+                "name": "智基科技開發股份有限公司溪湖分公司附設私立大志光法商短期補習班",
+                "county": "彰化縣",
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上),升大學"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477296,
+                    23.957464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201106130002",
                 "name": "私立林正文理短期補習班",
                 "county": "彰化縣",
@@ -12469,7 +12486,7 @@
                 "name": "彰化縣私立游月說舞蹈美術短期補習班",
                 "county": "彰化縣",
                 "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "成人(18歲以上),國中,高中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -12843,7 +12860,7 @@
                 "name": "彰化縣私立績優泰和文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16488,6 +16505,23 @@
                 "coordinates": [
                     120.547638,
                     23.952709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202407150001",
+                "name": "彰化縣私立鼎盛文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.535821,
+                    24.07341
                 ]
             }
         }
