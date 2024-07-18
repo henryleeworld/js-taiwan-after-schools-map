@@ -18925,6 +18925,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200911249001",
+                "name": "私立西布倫文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726343,
+                    24.247782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200911249002",
                 "name": "私立小瓢蟲美術短期補習班",
                 "county": "台中市",
@@ -18987,6 +19004,23 @@
                 "coordinates": [
                     120.718832,
                     24.244448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200911270002",
+                "name": "臺中市私立締蔚文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.696496,
+                    24.180883
                 ]
             }
         },
