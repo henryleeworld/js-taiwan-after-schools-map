@@ -1892,7 +1892,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33200209130007",
-                "name": "私立同德文理美語短期補習班",
+                "name": "",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
                 "students": "國中"
@@ -7250,7 +7250,7 @@
                 "name": "私立一文美語文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -13880,7 +13880,7 @@
                 "name": "私立宏海文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22523,6 +22523,23 @@
                 "coordinates": [
                     121.299083,
                     24.9602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202407170001",
+                "name": "私立方華文理短期補習班東興分班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中,高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.229674,
+                    24.94939
                 ]
             }
         }

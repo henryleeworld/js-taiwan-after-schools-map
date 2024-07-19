@@ -39971,6 +39971,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42202407080001",
+                "name": "臺中市私立加分文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.628176,
+                    24.119925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42202407090001",
                 "name": "臺中市私立小博士精智美語短期補習班",
                 "county": "台中市",

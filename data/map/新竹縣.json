@@ -3965,6 +3965,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201507160001",
+                "name": "新竹縣私立富田文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99191,
+                    24.868867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201507160002",
                 "name": "新竹縣私立嘉德琳文理短期補習班",
                 "county": "新竹縣",
@@ -4452,6 +4469,23 @@
                 "coordinates": [
                     121.005238,
                     24.836872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36201704180001",
+                "name": "新竹縣私立愛林文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,外語類,",
+                "students": "學齡前-國小,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.008939,
+                    24.821826
                 ]
             }
         },
@@ -7954,6 +7988,23 @@
                 "coordinates": [
                     121.010177,
                     24.821424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202407170001",
+                "name": "新竹縣私立竹中橋文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.020223,
+                    24.832174
                 ]
             }
         }

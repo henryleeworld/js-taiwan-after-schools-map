@@ -4377,7 +4377,7 @@
                 "name": "私立楠一文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "高中,國小,國中"
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5064,23 +5064,6 @@
                 "coordinates": [
                     120.353511,
                     22.619551
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200205089009",
-                "name": "私立莘莘文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.353278,
-                    22.702604
                 ]
             }
         },
@@ -15519,23 +15502,6 @@
                 "coordinates": [
                     120.433768,
                     22.687439
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200610169007",
-                "name": "私立菁樺文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.34862,
-                    22.699251
                 ]
             }
         },
@@ -31880,7 +31846,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202407020001",
-                "name": "高雄市私立耶加短期補習班左新分班",
+                "name": "私立耶加短期補習班左新分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "學齡前,國小,國中,高中"
