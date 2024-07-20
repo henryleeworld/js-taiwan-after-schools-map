@@ -889,10 +889,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022242",
-                "name": "私立春池文理語文美術短期補習班",
+                "name": "私立春池文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "成人及兒童,國小、國中,學齡前"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -11819,6 +11819,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200508010001",
+                "name": "私立群英語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.365902,
+                    24.927392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200508020001",
                 "name": "私立文強文理語文短期補習班",
                 "county": "新北市",
@@ -15179,23 +15196,6 @@
                 "coordinates": [
                     121.429659,
                     25.0581
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200611130002",
-                "name": "私立新快樂堡美語短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.466227,
-                    24.987736
                 ]
             }
         },
@@ -20677,7 +20677,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200910230001",
-                "name": "私立勤學文理技藝短期補習班",
+                "name": "領袖菁英文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
