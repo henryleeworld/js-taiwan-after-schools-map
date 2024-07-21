@@ -6944,7 +6944,7 @@
                 "name": "私立周老師創意文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國小、國中"
+                "students": "國小、國中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17083,23 +17083,6 @@
                 "coordinates": [
                     121.442153,
                     25.179922
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200711300001",
-                "name": "私立新邦仁語文文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中,國小、幼兒"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.498071,
-                    25.058185
                 ]
             }
         },
