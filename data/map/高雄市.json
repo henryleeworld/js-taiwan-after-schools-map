@@ -1551,6 +1551,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022223",
+                "name": "私立超博士文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319467,
+                    22.681953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022224",
                 "name": "私立全碩文理短期補習班",
                 "county": "高雄市",
@@ -5047,6 +5064,23 @@
                 "coordinates": [
                     120.353511,
                     22.619551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200205089009",
+                "name": "私立莘莘文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353278,
+                    22.702604
                 ]
             }
         },

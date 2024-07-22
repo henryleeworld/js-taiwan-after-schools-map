@@ -17089,6 +17089,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200711300001",
+                "name": "私立新邦仁語文文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小、幼兒"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498071,
+                    25.058185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200711300002",
                 "name": "私立智耀文理語文短期補習班",
                 "county": "新北市",
@@ -25107,23 +25124,6 @@
                 "coordinates": [
                     121.452633,
                     25.045093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201110060002",
-                "name": "私立鄭撼文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.511129,
-                    24.959862
                 ]
             }
         },
@@ -34712,23 +34712,6 @@
                 "coordinates": [
                     121.468565,
                     25.007897
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201708290002",
-                "name": "私立名凱文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.504883,
-                    25.004543
                 ]
             }
         },
