@@ -7246,23 +7246,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200909210002",
-                "name": "私立伊步文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.577096,
-                    24.084643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200909210004",
                 "name": "私立正典語文短期補習班",
                 "county": "彰化縣",
@@ -8311,6 +8294,23 @@
                 "coordinates": [
                     120.547747,
                     23.921855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201106080001",
+                "name": "智基科技開發股份有限公司溪湖分公司附設私立大志光法商短期補習班",
+                "county": "彰化縣",
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上),升大學"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477296,
+                    23.957464
                 ]
             }
         },
@@ -9575,6 +9575,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201305270002",
+                "name": "私立小巨人電腦短期補習班",
+                "county": "彰化縣",
+                "class": "資訊類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543235,
+                    24.08622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201306060001",
                 "name": "私立名鈞文理短期補習班",
                 "county": "彰化縣",
@@ -10555,6 +10572,23 @@
                 "coordinates": [
                     120.580288,
                     23.960846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201501280002",
+                "name": "彰化縣私立嬅的音樂短期補習班",
+                "county": "彰化縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.549986,
+                    24.083651
                 ]
             }
         },

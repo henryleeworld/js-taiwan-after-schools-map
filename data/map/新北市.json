@@ -25130,6 +25130,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201110060002",
+                "name": "私立鄭撼文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511129,
+                    24.959862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201110120001",
                 "name": "私立洪堯順美術語文短期補習班",
                 "county": "新北市",
