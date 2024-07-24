@@ -2333,23 +2333,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200504210002",
-                "name": "私立憲儒文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.388988,
-                    23.6823
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200504210003",
                 "name": "私立貓頭鷹英文短期補習班",
                 "county": "雲林縣",
@@ -5839,7 +5822,7 @@
                 "name": "私立語響力文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
-                "students": "高中,國中,國小"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",

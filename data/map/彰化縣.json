@@ -2334,7 +2334,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47200208012357",
-                "name": "私立楊氏速讀短期補習班",
+                "name": "私立楊氏速讀技能短期職業補習班",
                 "county": "彰化縣",
                 "class": "速讀類,",
                 "students": ""
@@ -7246,6 +7246,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47200909210002",
+                "name": "私立伊步文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.577096,
+                    24.084643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47200909210004",
                 "name": "私立正典語文短期補習班",
                 "county": "彰化縣",
@@ -9575,23 +9592,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201305270002",
-                "name": "私立小巨人電腦短期補習班",
-                "county": "彰化縣",
-                "class": "資訊類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.543235,
-                    24.08622
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201306060001",
                 "name": "私立名鈞文理短期補習班",
                 "county": "彰化縣",
@@ -10572,23 +10572,6 @@
                 "coordinates": [
                     120.580288,
                     23.960846
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47201501280002",
-                "name": "彰化縣私立嬅的音樂短期補習班",
-                "county": "彰化縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.549986,
-                    24.083651
                 ]
             }
         },
