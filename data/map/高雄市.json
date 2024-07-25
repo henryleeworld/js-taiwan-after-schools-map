@@ -3472,23 +3472,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022628",
-                "name": "私立光武外語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.335877,
-                    22.639778
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022631",
                 "name": "私立長春藤文理短期補習班",
                 "county": "高雄市",
@@ -19368,7 +19351,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200904209001",
-                "name": "私立台大專業文理短期補習班",
+                "name": "私立宏大文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國中"
@@ -26783,7 +26766,7 @@
                 "name": "私立Fun學院文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,國中,國小"
+                "students": "國小,國中,高中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -31880,7 +31863,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202407090001",
-                "name": "私立志光教育科技股份有限公司附設學儒法商文理公職證照短期補習班",
+                "name": "志光教育科技股份有限公司附設學儒法商文理公職證照短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "成人(18歲以上)"

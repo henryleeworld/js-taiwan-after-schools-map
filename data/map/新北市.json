@@ -29398,10 +29398,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201401230003",
-                "name": "私立揚信股份有限公司附設威士頓文理短期補習班",
+                "name": "私立思躍軟實力文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -48244,6 +48244,23 @@
                 "coordinates": [
                     121.444183,
                     25.086359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202407230001",
+                "name": "私立日光美語文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.429889,
+                    25.197099
                 ]
             }
         }

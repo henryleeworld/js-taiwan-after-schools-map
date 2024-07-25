@@ -8861,23 +8861,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200606029003",
-                "name": "臺南市私立聖葛文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.251129,
-                    22.9081
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200606030002",
                 "name": "臺南市私立威斯康辛文理短期補習班",
                 "county": "台南市",
@@ -23662,6 +23645,23 @@
                 "coordinates": [
                     120.200021,
                     23.016089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202407230001",
+                "name": "臺南市私立雪人文理短期補習班安南分班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.176216,
+                    23.048925
                 ]
             }
         }
