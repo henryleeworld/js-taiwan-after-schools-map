@@ -8317,23 +8317,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201106080001",
-                "name": "智基科技開發股份有限公司溪湖分公司附設私立大志光法商短期補習班",
-                "county": "彰化縣",
-                "class": "法政類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上),升大學"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.477296,
-                    23.957464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201106130002",
                 "name": "私立林正文理短期補習班",
                 "county": "彰化縣",
@@ -10555,6 +10538,23 @@
                 "coordinates": [
                     120.493723,
                     24.113413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201501280001",
+                "name": "彰化縣私立奧大文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580288,
+                    23.960846
                 ]
             }
         },
