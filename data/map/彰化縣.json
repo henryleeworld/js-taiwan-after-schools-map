@@ -2095,23 +2095,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012327",
-                "name": "私立巧宜智珠心算短期補習班",
-                "county": "彰化縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.50138,
-                    24.114319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012328",
                 "name": "彰化縣私立立昇文理短期補習班",
                 "county": "彰化縣",
@@ -2327,23 +2310,6 @@
                 "coordinates": [
                     120.523514,
                     23.873645
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47200208012357",
-                "name": "私立楊氏速讀技能短期職業補習班",
-                "county": "彰化縣",
-                "class": "速讀類,",
-                "students": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.541927,
-                    24.082293
                 ]
             }
         },
@@ -5563,23 +5529,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200702150006",
-                "name": "私立陳三元美語會話短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.462081,
-                    24.105678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200702160001",
                 "name": "私立世揚電腦技藝短期補習班",
                 "county": "彰化縣",
@@ -8300,17 +8249,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201106030001",
-                "name": "私立利陽文理短期補習班",
+                "code": "47201106080001",
+                "name": "智基科技開發股份有限公司溪湖分公司附設私立大志光法商短期補習班",
                 "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上),升大學"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.547747,
-                    23.921855
+                    120.477296,
+                    23.957464
                 ]
             }
         },
@@ -8946,23 +8895,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201206120002",
-                "name": "私立懷葉文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.533473,
-                    24.103248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201206120003",
                 "name": "私立育展文理短期補習班",
                 "county": "彰化縣",
@@ -9569,6 +9501,23 @@
                 "coordinates": [
                     120.553929,
                     24.094187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305270002",
+                "name": "私立小巨人電腦短期補習班",
+                "county": "彰化縣",
+                "class": "資訊類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543235,
+                    24.08622
                 ]
             }
         },
@@ -16386,6 +16335,23 @@
                 "coordinates": [
                     120.535821,
                     24.07341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202407260001",
+                "name": "彰化縣私立諭兒舞蹈技藝短期補習班",
+                "county": "彰化縣",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前,成人(18歲以上),國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.529088,
+                    24.06269
                 ]
             }
         }

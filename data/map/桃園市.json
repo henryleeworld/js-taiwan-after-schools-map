@@ -7025,23 +7025,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200708130003",
-                "name": "私立里茲文理語文短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.259648,
-                    25.074373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200708130013",
                 "name": "私立顧群數學作文文理短期補習班",
                 "county": "桃園市",
@@ -22574,6 +22557,23 @@
                 "coordinates": [
                     121.253236,
                     24.965127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202407260001",
+                "name": "私立嘉麒語文文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213356,
+                    25.005254
                 ]
             }
         }
