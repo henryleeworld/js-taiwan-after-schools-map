@@ -23719,6 +23719,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201101270001",
+                "name": "私立陳麗如音樂短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.487829,
+                    25.057535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201101280002",
                 "name": "私立德碩文理語文短期補習班",
                 "county": "新北市",
@@ -25124,6 +25141,23 @@
                 "coordinates": [
                     121.511129,
                     24.959862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201110120001",
+                "name": "私立洪堯順美術語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496109,
+                    25.066503
                 ]
             }
         },
@@ -48227,6 +48261,23 @@
                 "coordinates": [
                     121.459302,
                     25.002021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202407280001",
+                "name": "私立test短期補習班",
+                "county": "新北市",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39295,
+                    24.85669
                 ]
             }
         }
