@@ -10476,6 +10476,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200311140001",
+                "name": "私立水筆仔美術短期補習班",
+                "county": "高雄市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,成人(18歲以上),國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.342505,
+                    22.645973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200311170001",
                 "name": "私立魔法楊格文理短期補習班",
                 "county": "高雄市",
@@ -25627,7 +25644,7 @@
                 "name": "私立恩爸人文教室文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31390,7 +31407,7 @@
                 "name": "私立培力文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小,學齡前"
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",

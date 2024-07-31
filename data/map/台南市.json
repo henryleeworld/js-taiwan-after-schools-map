@@ -12091,23 +12091,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200903119001",
-                "name": "臺南市私立誠育文理短期補習班劍橋分班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.415482,
-                    23.352851
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200903200001",
                 "name": "臺南市私立一成文理短期補習班",
                 "county": "台南市",
@@ -16817,6 +16800,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201512080001",
+                "name": "臺南市私立林恩文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22744,
+                    22.993334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201512080002",
                 "name": "臺南市私立揚傑文理短期補習班",
                 "county": "台南市",
@@ -17780,6 +17780,23 @@
                 "coordinates": [
                     120.173765,
                     23.163247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62201707180002",
+                "name": "臺南市私立大王文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259536,
+                    23.005739
                 ]
             }
         },
@@ -20058,6 +20075,23 @@
                 "coordinates": [
                     120.191577,
                     22.998799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202007280001",
+                "name": "接棒科技股份有限公司附設臺南市私立接棒程式設計學院文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,資訊類,",
+                "students": "成人(18歲以上),高中,研究所,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.219607,
+                    22.963431
                 ]
             }
         },
@@ -23431,7 +23465,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202405280001",
-                "name": "嶺瀚文教事業有限公司附設臺南市私立非凡文理短期補習班海佃分班(為比對教職員工資料預登立案資訊)",
+                "name": "嶺瀚文教事業有限公司附設臺南市私立非凡文理短期補習班海佃分班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國中,國小"
