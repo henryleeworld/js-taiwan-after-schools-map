@@ -8538,23 +8538,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200603019002",
-                "name": "臺南市私立鳳庭文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.262808,
-                    23.006267
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200603019003",
                 "name": "臺南市私立智友文理短期補習班",
                 "county": "台南市",
@@ -12085,6 +12068,23 @@
                 "coordinates": [
                     120.228913,
                     22.993734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200903119001",
+                "name": "臺南市私立誠育文理短期補習班劍橋分班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.415482,
+                    23.352851
                 ]
             }
         },
@@ -20510,13 +20510,13 @@
                 "name": "臺南市私立安睿文理技藝短期補習班",
                 "county": "台南市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.200258,
-                    23.013007
+                    120.200245,
+                    23.013135
                 ]
             }
         },
