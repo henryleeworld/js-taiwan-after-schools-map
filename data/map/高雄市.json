@@ -990,23 +990,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022113",
-                "name": "私立學築文理短期補習班陽明分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.341008,
-                    22.642572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022114",
                 "name": "私立鴻達文理短期補習班",
                 "county": "高雄市",
@@ -2027,23 +2010,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022315",
-                "name": "資訊地球村語文有限公司附設私立國際村文理短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32756,
-                    22.641548
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022319",
                 "name": "私立締高文理短期補習班",
                 "county": "高雄市",
@@ -2949,7 +2915,7 @@
                 "name": "私立高名文理短期補習班大昌分班",
                 "county": "高雄市",
                 "class": "外語類,",
-                "students": "學齡前,國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -11072,7 +11038,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200403080001",
-                "name": "私立全球通文理短期補習班",
+                "name": "全能外語文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小,國中"
@@ -14713,7 +14679,7 @@
                 "name": "私立冠南文理短期補習班光華分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31696,7 +31662,7 @@
                 "name": "私立主人翁文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,高中,國中,國小,成人(18歲以上)"
+                "students": "學齡前,高中,國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
