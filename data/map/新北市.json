@@ -379,7 +379,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022111",
-                "name": "私立黃瓊慧文理短期補習班",
+                "name": "黃瓊慧文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中"
@@ -23142,9 +23142,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21201011190001",
-                "name": "私立科見鷺江語文文理短期補習班",
+                "name": "科見文教資訊股份有限公司附設私立科見文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -48244,6 +48244,40 @@
                 "coordinates": [
                     121.39295,
                     24.85669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408010001",
+                "name": "私立品赫文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.469391,
+                    25.084572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408010002",
+                "name": "五花果教育股份有限公司附設私立木林森文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.359752,
+                    25.072032
                 ]
             }
         }

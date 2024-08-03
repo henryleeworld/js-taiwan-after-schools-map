@@ -990,6 +990,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022113",
+                "name": "私立學築文理短期補習班陽明分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.341008,
+                    22.642572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022114",
                 "name": "私立鴻達文理短期補習班",
                 "county": "高雄市",
@@ -20031,10 +20048,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70200911040001",
-                "name": "私立巧智文理短期補習班",
+                "name": "中華立威國際教育股份有限公司附設高雄市私立道淵文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,高中,國中"
+                "students": "國小,學齡前,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",

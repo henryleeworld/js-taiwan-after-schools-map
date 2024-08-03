@@ -1382,10 +1382,10 @@
             "type": "Feature",
             "properties": {
                 "code": "62200205200032",
-                "name": "臺南市私立第一美語短期補習班",
+                "name": "臺南市私立第一文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -6006,7 +6006,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62200311100001",
-                "name": "臺南市私立霈熊氏美語短期補習班",
+                "name": "臺南市私立霈熊氏文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國小"
@@ -23645,6 +23645,40 @@
                 "coordinates": [
                     120.176216,
                     23.048925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202408010001",
+                "name": "臺南市私立叡德文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.231334,
+                    22.96856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202408010002",
+                "name": "臺南市私立小金羊文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.233904,
+                    23.025395
                 ]
             }
         }

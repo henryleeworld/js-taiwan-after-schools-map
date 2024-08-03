@@ -311,9 +311,9 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319091",
-                "name": "臺中市私立喬伊美語短期補習班",
+                "name": "臺中市私立喬伊文理短期補習班",
                 "county": "台中市",
-                "class": "外語類,",
+                "class": "文理類,",
                 "students": "國小"
             },
             "geometry": {
@@ -7518,23 +7518,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200304070001",
-                "name": "臺中市私立傑尼斯美語會話短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.703847,
-                    24.136172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200304219002",
                 "name": "臺中市私立龍鳳數學短期補習班",
                 "county": "台中市",
@@ -13767,7 +13750,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.664175,
-                    24.234286
+                    24.234287
                 ]
             }
         },
@@ -20728,10 +20711,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42201012030002",
-                "name": "艾爾文創有限公司附設臺中市私立文學趣文理短期補習班",
+                "name": "艾爾文創有限公司附設臺中市私立文學趣文理技藝短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "成人(18歲以上),國小,國中"
+                "students": "國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -38095,23 +38078,6 @@
                 "coordinates": [
                     120.697924,
                     24.135509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42202308030004",
-                "name": "臺中市私立鐵三角文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.696702,
-                    24.167357
                 ]
             }
         },
