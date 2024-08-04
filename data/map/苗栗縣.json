@@ -297,7 +297,7 @@
                 "name": "苗栗縣私立育成文理短期補習班",
                 "county": "苗栗縣",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -1443,6 +1443,23 @@
                 "coordinates": [
                     120.882467,
                     24.654389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37200605110001",
+                "name": "苗栗縣私立超強文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654915,
+                    24.443166
                 ]
             }
         },
@@ -3143,23 +3160,6 @@
                 "coordinates": [
                     120.652135,
                     24.441472
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "37201206010001",
-                "name": "苗栗縣私立柏克萊文理短期補習班",
-                "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.823632,
-                    24.565058
                 ]
             }
         },

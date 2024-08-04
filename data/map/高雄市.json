@@ -1568,23 +1568,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022224",
-                "name": "私立全碩文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.334939,
-                    22.645161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022226",
                 "name": "私立高名文理短期補習班建國分班",
                 "county": "高雄市",
@@ -14577,7 +14560,7 @@
                 "name": "私立高名文理短期補習班東光分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -30910,6 +30893,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202212060002",
+                "name": "私立成大文理短期補習班龍新分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299042,
+                    22.655013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202212060003",
                 "name": "私立成大文理短期補習班仁新分班",
                 "county": "高雄市",
@@ -31720,6 +31720,23 @@
                 "coordinates": [
                     120.295241,
                     22.671394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202310250002",
+                "name": "私立達標文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.298528,
+                    22.692268
                 ]
             }
         },
