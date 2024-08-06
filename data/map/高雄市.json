@@ -1568,6 +1568,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022224",
+                "name": "私立全碩文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,學齡前,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334939,
+                    22.645161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022226",
                 "name": "私立高名文理短期補習班建國分班",
                 "county": "高雄市",

@@ -13281,6 +13281,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47202002210001",
+                "name": "彰化縣私立韻杰文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548306,
+                    24.071318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47202002260001",
                 "name": "彰化縣私立林飛數學短期補習班",
                 "county": "彰化縣",
