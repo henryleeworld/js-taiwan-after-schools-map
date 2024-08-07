@@ -2061,23 +2061,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200411080001",
-                "name": "私立名家文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.534047,
-                    23.701706
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200411090002",
                 "name": "私立瀚文文理短期補習班",
                 "county": "雲林縣",
@@ -5359,23 +5342,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55202001210001",
-                "name": "私立小蝌蚪音樂短期補習班",
-                "county": "雲林縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.452171,
-                    23.796616
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55202001310001",
                 "name": "私立阡禾文理短期補習班",
                 "county": "雲林縣",
@@ -5822,7 +5788,7 @@
                 "name": "私立格律音樂技藝短期補習班",
                 "county": "雲林縣",
                 "class": "音樂、舞蹈類,",
-                "students": "國中,國小,高中,成人(18歲以上),學齡前"
+                "students": "高中,成人(18歲以上),國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",

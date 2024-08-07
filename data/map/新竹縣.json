@@ -1058,6 +1058,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36200511230002",
+                "name": "私立凱斯美語會話短期補習班",
+                "county": "新竹縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.086092,
+                    24.745008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36200601030001",
                 "name": "私立傑晟文理短期補習班",
                 "county": "新竹縣",
@@ -6730,23 +6747,6 @@
                 "coordinates": [
                     121.03265,
                     24.826188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36202205040002",
-                "name": "新竹縣私立博宸文理技藝短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,其他類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.091686,
-                    24.735527
                 ]
             }
         },

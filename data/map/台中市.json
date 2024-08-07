@@ -2949,7 +2949,7 @@
                 "name": "臺中市私立夏琳文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,高中,國小"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -13808,23 +13808,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200703289004",
-                "name": "私立家嘉文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.728451,
-                    24.246721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200703289005",
                 "name": "臺中市私立陳慧宜語文短期補習班",
                 "county": "台中市",
@@ -19180,6 +19163,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201003059001",
+                "name": "私立嘉勝英語短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.723087,
+                    24.245533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201003059003",
                 "name": "臺中市私立典冠文理美術短期補習班",
                 "county": "台中市",
@@ -21911,6 +21911,23 @@
                 "coordinates": [
                     120.645664,
                     24.148242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201110190004",
+                "name": "臺中市私立博葳文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.64978,
+                    24.163972
                 ]
             }
         },
@@ -38003,7 +38020,7 @@
                 "name": "臺中市私立柏瑞特文理技藝短期補習班廍子分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "students": "國中,國小,學齡前"
             },
             "geometry": {
                 "type": "Point",

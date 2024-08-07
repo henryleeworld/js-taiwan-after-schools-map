@@ -11279,7 +11279,7 @@
                 "name": "私立摩爾語文短期補習班",
                 "county": "高雄市",
                 "class": "外語類,",
-                "students": "國小,升二技插大"
+                "students": "高中,國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31771,6 +31771,23 @@
                 "coordinates": [
                     120.304056,
                     22.659457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202401220003",
+                "name": "私立劉威宏資優數學文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.31589,
+                    22.620182
                 ]
             }
         },
