@@ -23635,10 +23635,10 @@
             "type": "Feature",
             "properties": {
                 "code": "62202407230001",
-                "name": "臺南市私立雪人文理短期補習班安南分班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立雪人文理短期補習班安南分班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -23679,6 +23679,23 @@
                 "coordinates": [
                     120.233904,
                     23.025395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202408060001",
+                "name": "臺南市私立迎家文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.174953,
+                    22.993568
                 ]
             }
         }

@@ -13808,6 +13808,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200703289004",
+                "name": "私立家嘉文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728451,
+                    24.246721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200703289005",
                 "name": "臺中市私立陳慧宜語文短期補習班",
                 "county": "台中市",
@@ -20425,7 +20442,7 @@
                 "name": "臺中市私立高仁文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,高中,國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",

@@ -6753,6 +6753,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202205040002",
+                "name": "新竹縣私立博宸文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,其他類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.091686,
+                    24.735527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202206110001",
                 "name": "新竹縣私立樂惟文理短期補習班",
                 "county": "新竹縣",
@@ -7556,7 +7573,7 @@
                 "name": "新竹縣私立妮可菁英文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "高中,成人(18歲以上),學齡前,國小,國中"
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
