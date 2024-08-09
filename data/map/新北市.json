@@ -35569,10 +35569,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201805050001",
-                "name": "私立蓁凱寧文理技藝短期補習班",
+                "name": "蓁凱寧文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "文理類,外語類,資訊類,",
+                "students": "國小、國中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -35943,7 +35943,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201806300001",
-                "name": "私立三民唐吉君文理短期補習班",
+                "name": "三民唐吉君文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上"
@@ -48278,6 +48278,23 @@
                 "coordinates": [
                     121.374805,
                     24.937339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408070001",
+                "name": "私立全慧文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.502379,
+                    25.001124
                 ]
             }
         }
