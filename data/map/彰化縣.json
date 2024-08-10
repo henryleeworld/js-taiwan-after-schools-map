@@ -6158,23 +6158,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200710290004",
-                "name": "私立安聖數學短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.502703,
-                    24.110043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200711010002",
                 "name": "私立童畫美術設計短期補習班",
                 "county": "彰化縣",
@@ -8175,6 +8158,23 @@
                 "coordinates": [
                     120.546941,
                     24.082595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201106030001",
+                "name": "私立利陽文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547747,
+                    23.921855
                 ]
             }
         },

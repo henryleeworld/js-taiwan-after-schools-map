@@ -6685,23 +6685,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120755",
-                "name": "臺中市私立楊氏速讀附設英文短期補習班",
-                "county": "台中市",
-                "class": "文理類,速讀類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.686401,
-                    24.148675
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120757",
                 "name": "臺中市私立超越才藝中心",
                 "county": "台中市",
@@ -13741,10 +13724,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200703239005",
-                "name": "臺中市私立翰禧美語短期補習班",
+                "name": "臺中市私立翰禧文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -18279,23 +18262,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200907179001",
-                "name": "臺中市私立獅子王文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.70636,
-                    24.161422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200907179002",
                 "name": "臺中市私立揚洋文理短期補習班",
                 "county": "台中市",
@@ -20167,7 +20133,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201009099004",
-                "name": "臺中市私立發明開關私塾文理短期補習班",
+                "name": "臺中市私立鎵文私塾文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,國中,高中"
@@ -21156,7 +21122,7 @@
                 "name": "臺中市私立星辰文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -25046,10 +25012,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42201405020001",
-                "name": "臺中市私立足夢文理短期補習班",
+                "name": "臺中市私立悠墨文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -28853,23 +28819,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201707210001",
-                "name": "臺中市私立育成文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.698199,
-                    24.135027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201707280001",
                 "name": "臺中市私立真力文理技藝短期補習班",
                 "county": "台中市",
@@ -29238,23 +29187,6 @@
                 "coordinates": [
                     120.687995,
                     24.183156
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201710020003",
-                "name": "臺中市私立王瑜文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "高中,國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.649139,
-                    24.229191
                 ]
             }
         },
