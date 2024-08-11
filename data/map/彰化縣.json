@@ -293,23 +293,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208010088",
-                "name": "私立埔上文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "未填寫"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.542512,
-                    23.952722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208010093",
                 "name": "私立名嘉文理短期補習班",
                 "county": "彰化縣",
@@ -16284,6 +16267,23 @@
                 "coordinates": [
                     120.443571,
                     24.058758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202408090001",
+                "name": "彰化縣私立亞瑟文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.550168,
+                    23.947962
                 ]
             }
         }
