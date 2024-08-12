@@ -16239,6 +16239,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200706110002",
+                "name": "私立帝凡美術電腦短期補習班",
+                "county": "新北市",
+                "class": "資訊類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小~成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449753,
+                    24.987545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200706110009",
                 "name": "私立美季美語短期補習班",
                 "county": "新北市",
@@ -17763,6 +17780,23 @@
                 "coordinates": [
                     121.499573,
                     25.062987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200805020004",
+                "name": "私立聯大教育股份有限公司附設聯大文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430948,
+                    25.053533
                 ]
             }
         },
