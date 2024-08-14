@@ -2911,23 +2911,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200208069058",
-                "name": "臺南市私立劉叔叔文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.328057,
-                    22.951654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200208069060",
                 "name": "臺南市私立昕揚文理短期補習班",
                 "county": "台南市",
@@ -5073,7 +5056,7 @@
                 "code": "62200210290001",
                 "name": "臺南市私立大美美語短期補習班",
                 "county": "台南市",
-                "class": "外語類,",
+                "class": "文理類,",
                 "students": "國小"
             },
             "geometry": {
@@ -13054,23 +13037,6 @@
                 "coordinates": [
                     120.305853,
                     23.131757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62201003180001",
-                "name": "臺南市私立學亨文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.132735,
-                    23.064337
                 ]
             }
         },

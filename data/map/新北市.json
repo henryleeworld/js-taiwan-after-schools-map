@@ -16001,23 +16001,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200705080001",
-                "name": "私立巨擘珠心算短期補習班",
-                "county": "新北市",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.378579,
-                    24.928381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200705080004",
                 "name": "私立豆采龍藝術短期補習班",
                 "county": "新北市",
@@ -25447,6 +25430,23 @@
                 "coordinates": [
                     121.456871,
                     25.017533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201201050002",
+                "name": "私立若仁語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "一般大眾"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472627,
+                    25.027457
                 ]
             }
         },
@@ -48278,6 +48278,23 @@
                 "coordinates": [
                     121.502379,
                     25.001124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408120001",
+                "name": "福禧文教有限公司附設私立福禧文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.452499,
+                    24.985753
                 ]
             }
         }

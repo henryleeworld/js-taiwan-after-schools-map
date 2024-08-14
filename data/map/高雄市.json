@@ -1653,23 +1653,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022241",
-                "name": "志光教育科技股份有限公司附設學廬法商文理公職證照短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "公職人員考試"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307241,
-                    22.637737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022242",
                 "name": "私立偉肯文理短期補習班",
                 "county": "高雄市",
@@ -23260,23 +23243,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70201209250001",
-                "name": "志光教育科技股份有限公司附設正學廬法商文理公職證照短期補習班",
-                "county": "高雄市",
-                "class": "法政類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307241,
-                    22.637737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70201210050001",
                 "name": "私立鯨魚技藝文理短期補習班",
                 "county": "高雄市",
@@ -30591,7 +30557,7 @@
                 "name": "私立方殷塗畫仔文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+                "students": "學齡前,國小,成人(18歲以上),國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -31353,7 +31319,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202305100001",
-                "name": "私立學城文理短期補習班三民分班",
+                "name": "傳奇文教有限公司附設學城文理短期補習班三民分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國中,高中"
@@ -31805,6 +31771,23 @@
                 "coordinates": [
                     120.336371,
                     22.675062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202404230002",
+                "name": "私立新夢想文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,學齡前,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.28323,
+                    22.792534
                 ]
             }
         },
