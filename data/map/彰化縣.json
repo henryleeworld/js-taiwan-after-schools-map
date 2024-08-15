@@ -2299,23 +2299,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012358",
-                "name": "私立東亞插花短期補習班",
-                "county": "彰化縣",
-                "class": "家政、插花、烹飪類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.572132,
-                    23.960273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012359",
                 "name": "私立旻芬美術美語短期補習班",
                 "county": "彰化縣",
@@ -9949,6 +9932,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201404140001",
+                "name": "私立高維文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "高中,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580839,
+                    23.964784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201404150001",
                 "name": "私立品佳文理短期補習班",
                 "county": "彰化縣",
@@ -16267,6 +16267,23 @@
                 "coordinates": [
                     120.550168,
                     23.947962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202408130001",
+                "name": "彰化縣私立沐樂音樂藝術短期補習班",
+                "county": "彰化縣",
+                "class": "音樂、舞蹈類,",
+                "students": "幼兒-成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.378186,
+                    23.902776
                 ]
             }
         }

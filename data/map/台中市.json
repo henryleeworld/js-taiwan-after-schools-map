@@ -2538,10 +2538,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319447",
-                "name": "私立小紅帽電腦短期補習班",
+                "name": "臺中市私立小紅帽電腦短期補習班",
                 "county": "台中市",
                 "class": "資訊類,",
-                "students": "其他"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -3558,7 +3558,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319587",
-                "name": "私立成皓英語短期補習班",
+                "name": "臺中市私立成皓英語短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "國中"
@@ -9015,7 +9015,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200407289001",
-                "name": "私立正英文理短期補習班",
+                "name": "臺中市私立正英文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小"
@@ -15723,6 +15723,23 @@
                 "coordinates": [
                     120.719415,
                     24.154897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200802219008",
+                "name": "臺中市私立揚名文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716967,
+                    24.241389
                 ]
             }
         },

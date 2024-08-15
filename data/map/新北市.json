@@ -16001,6 +16001,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200705080001",
+                "name": "私立巨擘珠心算短期補習班",
+                "county": "新北市",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.378579,
+                    24.928381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200705080004",
                 "name": "私立豆采龍藝術短期補習班",
                 "county": "新北市",
@@ -44902,7 +44919,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202211140001",
-                "name": "私立滿額有限公司附設滿滿文理短期補習班",
+                "name": "滿額有限公司附設滿滿文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"

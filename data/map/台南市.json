@@ -13043,6 +13043,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201003180001",
+                "name": "臺南市私立學亨文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.132735,
+                    23.064337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201003180002",
                 "name": "臺南市私立金甲文理短期補習班",
                 "county": "台南市",
@@ -23662,6 +23679,23 @@
                 "coordinates": [
                     120.174953,
                     22.993568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202408130001",
+                "name": "臺南市私立瑞希文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.25696,
+                    23.005239
                 ]
             }
         }

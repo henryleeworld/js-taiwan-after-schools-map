@@ -3880,23 +3880,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35201210290003",
-                "name": "新竹市私立親仁科園文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.018706,
-                    24.787338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35201210290004",
                 "name": "新竹市私立普林斯頓文理短期補習班",
                 "county": "新竹市",
@@ -7879,7 +7862,7 @@
                 "name": "新竹市私立小繪日子技藝短期補習班",
                 "county": "新竹市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "成人(18歲以上),國小以上"
+                "students": "國小以上,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
