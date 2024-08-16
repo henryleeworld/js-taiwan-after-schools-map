@@ -31608,10 +31608,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201508270001",
-                "name": "私立嘉民語文文理短期補習班",
+                "name": "嘉民語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "不限年齡,國中以上"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -37456,7 +37456,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201904250002",
-                "name": "私立學悟處一對一重慶教室文理短期補習班",
+                "name": "學悟處一對一重慶教室文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡(A班23人、B班28人、C班28人、D班13人)"
@@ -38357,7 +38357,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201910220002",
-                "name": "私立樂學習文理短期補習班",
+                "name": "樂學習文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小"
@@ -40499,7 +40499,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202009150001",
-                "name": "私立翊華三民文理技藝短期補習班",
+                "name": "翊華三民文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,資訊類,",
                 "students": "6歲以上"
@@ -48312,6 +48312,23 @@
                 "coordinates": [
                     121.452499,
                     24.985753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408140001",
+                "name": "私立晨翔文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.490094,
+                    25.054196
                 ]
             }
         }
