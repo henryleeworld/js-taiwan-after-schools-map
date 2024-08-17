@@ -3983,10 +3983,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70200204022751",
-                "name": "私立瑞比堤外語短期補習班",
+                "name": "私立思倍佳文理短期補習班民權分班",
                 "county": "高雄市",
-                "class": "外語類,",
-                "students": "學齡前"
+                "class": "文理類,",
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -10289,6 +10289,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200309170001",
+                "name": "私立沅昊文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309763,
+                    22.682655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200309290001",
                 "name": "私立金名文理短期補習班陽明分班",
                 "county": "高雄市",
@@ -10963,23 +10980,6 @@
                 "coordinates": [
                     120.302167,
                     22.664434
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200402249002",
-                "name": "私立永先文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.182948,
-                    22.907029
                 ]
             }
         },

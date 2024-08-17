@@ -4662,23 +4662,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200208280032",
-                "name": "臺南市私立葡萄園美語短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.180321,
-                    23.005277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200208280033",
                 "name": "臺南市私立葳斯康辛美語短期補習班",
                 "county": "台南市",
@@ -5054,10 +5037,10 @@
             "type": "Feature",
             "properties": {
                 "code": "62200210290001",
-                "name": "臺南市私立大美美語短期補習班",
+                "name": "臺南市私立大美文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6152,23 +6135,6 @@
                 "coordinates": [
                     120.192453,
                     22.977121
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62200401050001",
-                "name": "臺南市私立A與A+文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.215776,
-                    22.966913
                 ]
             }
         },
@@ -15509,10 +15475,10 @@
             "type": "Feature",
             "properties": {
                 "code": "62201307230001",
-                "name": "樂學網科技股份有限公司附設臺南市私立旭文文理短期補習班",
+                "name": "旭文教育科技股份有限公司附設臺南市私立旭文文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -23635,10 +23601,10 @@
             "type": "Feature",
             "properties": {
                 "code": "62202408010001",
-                "name": "臺南市私立叡德文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立叡德文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",

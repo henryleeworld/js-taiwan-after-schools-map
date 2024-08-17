@@ -5359,23 +5359,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201904220001",
-                "name": "新竹縣私立華盛頓文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.081356,
-                    24.747993
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201905290001",
                 "name": "新竹縣私立藝家北畫社文理技藝短期補習班",
                 "county": "新竹縣",
@@ -8015,7 +7998,7 @@
                 "name": "新竹縣私立竹中橋文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "students": "國中,學齡前,國小,高中"
             },
             "geometry": {
                 "type": "Point",
