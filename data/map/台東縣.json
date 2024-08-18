@@ -344,6 +344,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200701120002",
+                "name": "臺東縣私立銘仁文理短期補習班",
+                "county": "台東縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.150151,
+                    22.754524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200701120006",
                 "name": "臺東縣私立美佳美語短期補習班",
                 "county": "台東縣",
@@ -518,7 +535,7 @@
                 "name": "臺東縣私立椰林文理短期補習班",
                 "county": "台東縣",
                 "class": "文理類,",
-                "students": "國中,國小,高中"
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",

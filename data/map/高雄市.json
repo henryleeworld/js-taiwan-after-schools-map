@@ -10986,6 +10986,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200402249002",
+                "name": "私立永先文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.182948,
+                    22.907029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200403030002",
                 "name": "私立麥米倫外語短期補習班",
                 "county": "高雄市",
@@ -31703,6 +31720,23 @@
                 "coordinates": [
                     120.31589,
                     22.620182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202402230001",
+                "name": "私立敲一敲藝術空間文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.297171,
+                    22.664837
                 ]
             }
         },

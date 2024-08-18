@@ -11445,6 +11445,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200506160008",
+                "name": "私立企鵝文理語文珠心算美術短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.477521,
+                    25.06697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200506160010",
                 "name": "私立勵成文理短期補習班",
                 "county": "新北市",

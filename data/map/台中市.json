@@ -13571,10 +13571,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200701249003",
-                "name": "臺中市私立新雅洲文理短期補習班",
+                "name": "臺中市私立新亞洲圍棋文理短期補習班",
                 "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -39948,6 +39948,23 @@
                 "coordinates": [
                     120.690335,
                     24.108792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202408160001",
+                "name": "臺中市私立盈家文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710109,
+                    24.250586
                 ]
             }
         }

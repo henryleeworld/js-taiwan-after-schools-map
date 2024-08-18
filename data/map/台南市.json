@@ -4662,6 +4662,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200208280032",
+                "name": "臺南市私立葡萄園美語短期補習班",
+                "county": "台南市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.180321,
+                    23.005277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200208280033",
                 "name": "臺南市私立葳斯康辛美語短期補習班",
                 "county": "台南市",
@@ -8593,7 +8610,7 @@
                 "name": "臺南市私立金仁文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -13513,23 +13530,6 @@
                 "coordinates": [
                     120.225691,
                     22.97921
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62201009039001",
-                "name": "臺南市私立菖鴻文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.227901,
-                    23.020462
                 ]
             }
         },
