@@ -3999,6 +3999,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201507160002",
+                "name": "新竹縣私立嘉德琳文理短期補習班",
+                "county": "新竹縣",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030429,
+                    24.822078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201507300001",
                 "name": "新竹縣私立程品文理短期補習班",
                 "county": "新竹縣",
