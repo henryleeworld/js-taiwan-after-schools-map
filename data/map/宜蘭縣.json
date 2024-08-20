@@ -5117,6 +5117,74 @@
                     24.755119
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202408180001",
+                "name": "私立職創美髮技藝短期補習班",
+                "county": "宜蘭縣",
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.74968,
+                    24.757577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202408180002",
+                "name": "私立柏克萊文理短期補習班校舍分班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762494,
+                    24.749073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202408180003",
+                "name": "私立柏克萊文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762646,
+                    24.749114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202408180004",
+                "name": "私立柏克萊文理短期補習班陽明分班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,未填寫"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762664,
+                    24.749025
+                ]
+            }
         }
     ]
 }
