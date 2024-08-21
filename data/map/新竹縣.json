@@ -8007,6 +8007,40 @@
                     24.832174
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202408190001",
+                "name": "新竹縣私立學吧文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,高中,國中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.079425,
+                    24.776052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202408190002",
+                "name": "新竹縣私立知識家文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.026401,
+                    24.828203
+                ]
+            }
         }
     ]
 }

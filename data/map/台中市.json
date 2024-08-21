@@ -39967,6 +39967,57 @@
                     24.250586
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202408190001",
+                "name": "臺中市私立慧雯文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614934,
+                    24.347532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202408190002",
+                "name": "臺中市私立聯合文理短期補習班大德分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545784,
+                    24.242646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202408190003",
+                "name": "臺中市私立昕進文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.719466,
+                    24.154758
+                ]
+            }
         }
     ]
 }

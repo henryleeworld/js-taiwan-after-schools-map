@@ -395,6 +395,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200701190001",
+                "name": "臺東縣私立宏奇文理短期補習班",
+                "county": "台東縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.140733,
+                    22.762547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200710260001",
                 "name": "臺東縣私立翰中文理短期補習班",
                 "county": "台東縣",
@@ -722,7 +739,7 @@
                 "name": "臺東縣私立阿坤數學教室短期補習班",
                 "county": "台東縣",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",

@@ -15542,6 +15542,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200701190002",
+                "name": "私立學喆文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.445262,
+                    25.050322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200701190003",
                 "name": "私立巨匠電腦股份有限公司三重美語分公司附設鉅匠美語短期補習班",
                 "county": "新北市",
@@ -25797,7 +25814,7 @@
                 "name": "私立數研文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "(國中、成人)"
+                "students": "(國小以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -42437,7 +42454,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202108230001",
-                "name": "私立建中教育文理短期補習班",
+                "name": "建中教育文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -48312,6 +48329,40 @@
                 "coordinates": [
                     121.490094,
                     25.054196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408190001",
+                "name": "裕元文教有限公司附設私立裕元文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372223,
+                    25.077897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408190002",
+                "name": "私立采藝技藝短期補習班豐和分班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.526722,
+                    24.977963
                 ]
             }
         }
