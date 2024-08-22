@@ -3544,7 +3544,7 @@
                 "name": "臺中市私立傑弗遜美語短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -7988,6 +7988,23 @@
                 "coordinates": [
                     120.701381,
                     24.207733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200308280004",
+                "name": "臺中市私立立卓珠心算附設美語會話短期補習班",
+                "county": "台中市",
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.669851,
+                    24.116787
                 ]
             }
         },
@@ -28564,23 +28581,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201704210001",
-                "name": "臺中市私立愛爾斯文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.57338,
-                    24.266342
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201704240001",
                 "name": "悅界國際股份有限公司附設臺中市私立優特文理短期補習班",
                 "county": "台中市",
@@ -39958,7 +39958,7 @@
                 "name": "臺中市私立盈家文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",

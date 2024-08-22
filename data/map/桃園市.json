@@ -6091,10 +6091,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33200612210024",
-                "name": "私立崴廉美語短期補習班",
+                "name": "私立崴廉文理短期補習班",
                 "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6329,10 +6329,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33200701020003",
-                "name": "私立祥恩英語短期補習班",
+                "name": "私立祥恩文理短期補習班 ]",
                 "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小,國中,其他"
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -13120,8 +13120,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.296729,
-                    24.958551
+                    121.299063,
+                    24.960036
                 ]
             }
         },
@@ -15903,7 +15903,7 @@
                 "name": "私立大翰文理美語短期補習班草漯分班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20594,7 +20594,7 @@
                 "code": "33202207290001",
                 "name": "赫連電腦有限公司附設私立赫連技藝短期補習班",
                 "county": "桃園市",
-                "class": "資訊類,",
+                "class": "資訊類,美術、書法、攝影、美工設計、圍棋類,其他類,",
                 "students": "成人(18歲以上)"
             },
             "geometry": {
@@ -22591,6 +22591,23 @@
                 "coordinates": [
                     121.249812,
                     24.974106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202408200001",
+                "name": "私立知悉文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225918,
+                    24.944985
                 ]
             }
         }

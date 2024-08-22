@@ -23277,23 +23277,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201011290003",
-                "name": "光耀文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小、國中、高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.663064,
-                    25.067044
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201011290004",
                 "name": "私立大豐音樂短期補習班",
                 "county": "新北市",
@@ -25692,7 +25675,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201202150001",
-                "name": "私立品亮語文文理短期補習班",
+                "name": "品亮語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡"
@@ -36249,7 +36232,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201808300002",
-                "name": "私立科揚文理短期補習班",
+                "name": "科揚文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中"
@@ -48363,6 +48346,23 @@
                 "coordinates": [
                     121.526722,
                     24.977963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408200001",
+                "name": "凱霖文教事業股份有限公司附設私立凱琳文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,電機、汽車修護、建築、工藝、製圖類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.454983,
+                    25.04117
                 ]
             }
         }
