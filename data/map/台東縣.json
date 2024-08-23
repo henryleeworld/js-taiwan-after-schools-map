@@ -667,6 +667,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89201207170001",
+                "name": "臺東縣私立愛兒堡文理短期補習班",
+                "county": "台東縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.047527,
+                    22.708257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89201208060001",
                 "name": "臺東縣私立方舟文理短期補習班",
                 "county": "台東縣",
@@ -1351,7 +1368,7 @@
                 "name": "臺東縣私立康橋文理短期補習班",
                 "county": "台東縣",
                 "class": "文理類,外語類,",
-                "students": "其他,國小"
+                "students": "國小,其他"
             },
             "geometry": {
                 "type": "Point",

@@ -5359,23 +5359,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35201801260001",
-                "name": "欣牧文教事業有限公司附設新竹市私立欣晴語文文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020759,
-                    24.787099
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35201801260002",
                 "name": "新竹市私立誼寶文理短期補習班",
                 "county": "新竹市",
@@ -6872,23 +6855,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35202110250001",
-                "name": "新竹市私立沃思文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.976188,
-                    24.807149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35202110260001",
                 "name": "新竹市私立水水美術短期補習班",
                 "county": "新竹市",
@@ -7886,6 +7852,23 @@
                 "coordinates": [
                     120.9719,
                     24.80627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202408210001",
+                "name": "新竹市私立奧格文理技藝短期補習班",
+                "county": "新竹市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小,國中,國小到國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.01565,
+                    24.791718
                 ]
             }
         }

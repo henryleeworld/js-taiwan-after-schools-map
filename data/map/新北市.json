@@ -23277,6 +23277,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201011290003",
+                "name": "光耀文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.663064,
+                    25.067044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201011290004",
                 "name": "私立大豐音樂短期補習班",
                 "county": "新北市",
@@ -38799,7 +38816,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201912190002",
-                "name": "私立全真一對一文理短期補習班",
+                "name": "全真一對一文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上"
@@ -44904,7 +44921,7 @@
                 "code": "21202211140001",
                 "name": "滿額有限公司附設滿滿文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "不限年齡"
             },
             "geometry": {
