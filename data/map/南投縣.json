@@ -1789,6 +1789,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "49200707120001",
+                "name": "南投縣私立培根短期補習班",
+                "county": "南投縣",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.689915,
+                    23.758122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "49200707120002",
                 "name": "南投縣私立向日葵文理短期補習班",
                 "county": "南投縣",

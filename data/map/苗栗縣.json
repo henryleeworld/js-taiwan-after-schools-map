@@ -4033,6 +4033,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37201907260002",
+                "name": "苗栗縣私立杜威文教機構文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.885955,
+                    24.693307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37201907260003",
                 "name": "苗栗縣私立富瑞爾文理短期補習班",
                 "county": "苗栗縣",

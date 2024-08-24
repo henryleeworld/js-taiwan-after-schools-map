@@ -5720,7 +5720,7 @@
                 "name": "私立必勝文理美語數學短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14625,7 +14625,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33201507210001",
-                "name": "私立回藝美術短期補習班",
+                "name": "私立傑作美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小"
@@ -15883,10 +15883,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33201703030002",
-                "name": "私立大翰文理美語短期補習班草漯分班",
+                "name": "私立大翰文理美語短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22591,6 +22591,23 @@
                 "coordinates": [
                     121.225918,
                     24.944985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202408220001",
+                "name": "私立科達文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,其他類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304091,
+                    24.967277
                 ]
             }
         }

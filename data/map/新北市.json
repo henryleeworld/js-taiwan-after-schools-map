@@ -16784,9 +16784,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21200709270005",
-                "name": "私立美樂地語文短期補習班",
+                "name": "私立美德生文理短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {
@@ -47757,23 +47757,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21202405140001",
-                "name": "私立欣欣文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.430156,
-                    25.196426
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21202405140002",
                 "name": "私立貝蓓文理技藝短期補習班",
                 "county": "新北市",
@@ -48380,6 +48363,23 @@
                 "coordinates": [
                     121.454983,
                     25.04117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408220001",
+                "name": "私立欣欣文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430156,
+                    25.196426
                 ]
             }
         }
