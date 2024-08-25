@@ -2303,7 +2303,7 @@
                 "name": "私立宜學語文短期補習班",
                 "county": "宜蘭縣",
                 "class": "外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -5166,6 +5166,23 @@
                 "coordinates": [
                     121.762664,
                     24.749025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202408230001",
+                "name": "私立興東文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.767765,
+                    24.680266
                 ]
             }
         }

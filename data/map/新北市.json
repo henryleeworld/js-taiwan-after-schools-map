@@ -18996,7 +18996,7 @@
                 "code": "21200811190002",
                 "name": "私立A+諾貝兒文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -26031,23 +26031,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201205080002",
-                "name": "學仕語文文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.490207,
-                    25.058702
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201205080003",
                 "name": "私立兔子屋美術短期補習班",
                 "county": "新北市",
@@ -27249,23 +27232,6 @@
                 "coordinates": [
                     121.520039,
                     24.997394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201212060002",
-                "name": "私立智仁文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.479679,
-                    25.077729
                 ]
             }
         },
@@ -35688,7 +35654,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201805150002",
-                "name": "私立勤朗文理短期補習班",
+                "name": "勤朗文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小,國中"
