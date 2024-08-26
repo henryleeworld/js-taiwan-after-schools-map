@@ -3544,7 +3544,7 @@
                 "name": "臺中市私立傑弗遜美語短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12601,23 +12601,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200607269014",
-                "name": "臺中市私立豐碩文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.712058,
-                    24.248874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200607280002",
                 "name": "臺中市私立賢儒電腦附設美語短期補習班",
                 "county": "台中市",
@@ -14454,23 +14437,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200707109017",
-                "name": "優迪文教科技股份有限公司附設台中市私立優迪文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.7148,
-                    24.262391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200707109018",
                 "name": "臺中市私立雋永文理短期補習班",
                 "county": "台中市",
@@ -14567,23 +14533,6 @@
                 "coordinates": [
                     120.724504,
                     24.248196
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200707119004",
-                "name": "臺中市私立智登文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.715509,
-                    24.306625
                 ]
             }
         },
@@ -18290,6 +18239,23 @@
                 "coordinates": [
                     120.70636,
                     24.161422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200907179002",
+                "name": "臺中市私立揚洋文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.699768,
+                    24.092189
                 ]
             }
         },
