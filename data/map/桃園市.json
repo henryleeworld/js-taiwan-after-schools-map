@@ -3744,23 +3744,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200311120004",
-                "name": "私立華陞文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.320078,
-                    24.997748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200311120007",
                 "name": "私立新橋文理語文短期補習班",
                 "county": "桃園市",
@@ -6329,7 +6312,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33200701020003",
-                "name": "私立祥恩文理短期補習班 ]",
+                "name": "私立祥恩文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
                 "students": "國中,國小"
@@ -14114,23 +14097,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33201501270002",
-                "name": "私立奈特爾美語文理數學作文美術短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.209402,
-                    24.950658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33201501270003",
                 "name": "志光教育科技股份有限公司附設私立正志光文理法商短期補習班",
                 "county": "桃園市",
@@ -21139,7 +21105,7 @@
                 "name": "私立弘勗文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,高中,國小"
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22608,6 +22574,23 @@
                 "coordinates": [
                     121.304091,
                     24.967277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202408260001",
+                "name": "私立奇士威文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.29539,
+                    25.047773
                 ]
             }
         }

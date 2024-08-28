@@ -24773,23 +24773,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201108250001",
-                "name": "私立陽光森林文教股份有限公司臺北縣分公司附設陽光森林新二語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.538338,
-                    24.979807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201108250003",
                 "name": "私立彩繪專業畫室美術短期補習班",
                 "county": "新北市",
@@ -27034,6 +27017,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201211010001",
+                "name": "私立善若水畫室美術短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513962,
+                    24.986781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201211070001",
                 "name": "私立未來領袖教育股份有限公司附設業鴻文理短期補習班",
                 "county": "新北市",
@@ -27547,8 +27547,8 @@
                 "code": "21201302040001",
                 "name": "私立達億文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -30520,9 +30520,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21201411040001",
-                "name": "私立DreamPex Education Studio 實現夢想國際教育文理短期補習班",
+                "name": "Absoiute Jolly Academy 艾傑國際教育文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -39615,9 +39615,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21202005290001",
-                "name": "私立愛笛亞文理短期補習班",
+                "name": "私立愛笛亞文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -48363,6 +48363,23 @@
                 "coordinates": [
                     121.430156,
                     25.196426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408260001",
+                "name": "私立歐汎文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.486588,
+                    25.060321
                 ]
             }
         }
