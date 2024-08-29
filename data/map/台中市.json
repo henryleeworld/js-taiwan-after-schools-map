@@ -2248,23 +2248,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319419",
-                "name": "臺中市私立言展語文短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.622479,
-                    24.348704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319420",
                 "name": "臺中市私立三育美語短期補習班",
                 "county": "台中市",
@@ -11819,23 +11802,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200603210001",
-                "name": "臺中市私立百宏文理短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.693668,
-                    24.16861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200603210003",
                 "name": "臺中市私立祥育文理短期補習班",
                 "county": "台中市",
@@ -14448,23 +14414,6 @@
                 "coordinates": [
                     120.52378,
                     24.202836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200707109017",
-                "name": "優迪文教科技股份有限公司附設台中市私立優迪文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.7148,
-                    24.262391
                 ]
             }
         },
@@ -40042,14 +39991,14 @@
                 "code": "42202408260001",
                 "name": "臺中市私立東昇文理短期補習班",
                 "county": "台中市",
-                "class": "",
-                "students": ""
+                "class": "文理類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.679909,
-                    24.14259
+                    120.723063,
+                    24.133943
                 ]
             }
         }
