@@ -5359,6 +5359,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201801260001",
+                "name": "欣牧文教事業有限公司附設新竹市私立欣晴語文文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.020759,
+                    24.787099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201801260002",
                 "name": "新竹市私立誼寶文理短期補習班",
                 "county": "新竹市",

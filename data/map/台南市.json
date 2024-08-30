@@ -7460,7 +7460,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.253441,
-                    22.96297
+                    22.962969
                 ]
             }
         },
@@ -15118,7 +15118,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62201211200001",
-                "name": "臺南市私立李品易文理短期補習班",
+                "name": "臺南市私立好老師文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國中"
@@ -15801,7 +15801,7 @@
                 "name": "臺南市私立悅讀文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22812,23 +22812,6 @@
                 "coordinates": [
                     120.231757,
                     23.021256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62202309220001",
-                "name": "臺南市私立樹人文理短期補習班海佃分班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.197715,
-                    23.027054
                 ]
             }
         },

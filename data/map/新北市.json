@@ -532,7 +532,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022139",
-                "name": "私立卡爾登語文補習班",
+                "name": "私立卡爾登語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "(3至18歲)"
@@ -24790,6 +24790,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201108250003",
+                "name": "私立彩繪專業畫室美術短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481164,
+                    24.999952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201109080002",
                 "name": "私立煒群文理語文短期補習班",
                 "county": "新北市",
@@ -47452,7 +47469,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202403190001",
-                "name": "私立韋德文理短期補習班",
+                "name": "韋德文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡,未填寫"
@@ -48380,6 +48397,23 @@
                 "coordinates": [
                     121.486588,
                     25.060321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202408280001",
+                "name": "私立韋德文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37724,
+                    24.940093
                 ]
             }
         }
