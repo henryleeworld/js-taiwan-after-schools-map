@@ -9456,23 +9456,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201306130002",
-                "name": "私立寶傑美語短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.53479,
-                    24.069918
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201306170001",
                 "name": "私立星星學苑文理短期補習班",
                 "county": "彰化縣",
@@ -16267,6 +16250,23 @@
                 "coordinates": [
                     120.378186,
                     23.902776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202408290001",
+                "name": "彰化縣私立育維文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44012,
+                    24.053484
                 ]
             }
         }

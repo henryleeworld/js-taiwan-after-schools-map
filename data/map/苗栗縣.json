@@ -1381,6 +1381,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37200601170001",
+                "name": "大鴻海文化有限公司附設大東海法商文理短期補習班（苗栗班）",
+                "county": "苗栗縣",
+                "class": "文理類,法政類,",
+                "students": "公職人員考試,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.823268,
+                    24.569794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37200601260001",
                 "name": "智基科技開發股份有限公司附設苗栗縣私立志光法商文理短期補習班（苗栗班）",
                 "county": "苗栗縣",
@@ -1426,23 +1443,6 @@
                 "coordinates": [
                     120.882467,
                     24.654389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "37200605110001",
-                "name": "苗栗縣私立超強文理短期補習班",
-                "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.654915,
-                    24.443166
                 ]
             }
         },
