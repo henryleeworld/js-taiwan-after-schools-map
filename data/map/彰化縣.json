@@ -9456,6 +9456,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201306130002",
+                "name": "私立寶傑美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53479,
+                    24.069918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201306170001",
                 "name": "私立星星學苑文理短期補習班",
                 "county": "彰化縣",
@@ -16223,7 +16240,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47202408090001",
-                "name": "彰化縣私立亞瑟文理短期補習班",
+                "name": "彰化縣私立亞瑟文理技藝短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
                 "students": "學齡前,國小"
@@ -16267,6 +16284,40 @@
                 "coordinates": [
                     120.44012,
                     24.053484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202408300001",
+                "name": "彰化縣私立智多星文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533643,
+                    24.084309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202408300002",
+                "name": "彰化縣私立吉佑文理短期補習班湖東分班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.485572,
+                    23.963604
                 ]
             }
         }
