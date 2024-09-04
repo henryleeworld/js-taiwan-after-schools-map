@@ -11038,7 +11038,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200510199007",
-                "name": "私立品致語文珠心算短期補習班",
+                "name": "臺中市私立品致語文珠心算短期補習班",
                 "county": "台中市",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小,國中"
@@ -12595,6 +12595,23 @@
                 "coordinates": [
                     120.65351,
                     24.382926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200607269014",
+                "name": "臺中市私立豐碩文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.712058,
+                    24.248874
                 ]
             }
         },
@@ -16358,23 +16375,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200806260001",
-                "name": "數位地球村語文資訊有限公司附設臺中市私立數位地球村語文短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,國中,高中,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.679531,
-                    24.120847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200806300001",
                 "name": "陳立教育事業股份有限公司附設臺中市私立陳立文理短期補習班",
                 "county": "台中市",
@@ -16580,7 +16580,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200807239006",
-                "name": "私立學達文理短期補習班",
+                "name": "臺中市私立學達文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,國中"
@@ -39999,6 +39999,23 @@
                 "coordinates": [
                     120.719466,
                     24.154758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202408210001",
+                "name": "臺中市私立納菓語文短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6236,
+                    24.350706
                 ]
             }
         },

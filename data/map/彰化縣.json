@@ -7093,23 +7093,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200909210004",
-                "name": "私立正典語文短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.527514,
-                    23.877775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200909210005",
                 "name": "私立依綠瑜珈短期補習班",
                 "county": "彰化縣",
@@ -16318,6 +16301,23 @@
                 "coordinates": [
                     120.485572,
                     23.963604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202409020001",
+                "name": "彰化縣私立第七樂章音樂技藝短期補習班",
+                "county": "彰化縣",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前至成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544092,
+                    24.063388
                 ]
             }
         }

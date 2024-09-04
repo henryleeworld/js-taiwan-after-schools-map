@@ -25096,23 +25096,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201110060001",
-                "name": "私立中國青年救國團附設中安語文美容插花電腦太極拳短期補習班",
-                "county": "新北市",
-                "class": "外語類,資訊類,家政、插花、烹飪類,美容、美髮理髮類,其他類,",
-                "students": "一般兒童及成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.452633,
-                    25.045093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201110060002",
                 "name": "私立鄭撼文理短期補習班",
                 "county": "新北市",
@@ -27113,23 +27096,6 @@
                 "coordinates": [
                     121.480827,
                     25.077134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201211190001",
-                "name": "私立璟瀚文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小以上,不限年齡(A班2小時、B班3小時)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.369065,
-                    24.934683
                 ]
             }
         },
@@ -32376,7 +32342,7 @@
                 "name": "學悟處文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "不限年齡,國中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -46859,7 +46825,7 @@
                 "code": "21202311210001",
                 "name": "私立漫蒔技藝短期補習班",
                 "county": "新北市",
-                "class": "音樂、舞蹈類,",
+                "class": "音樂、舞蹈類,瑜珈類,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -48431,6 +48397,40 @@
                 "coordinates": [
                     121.421627,
                     25.025292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409020001",
+                "name": "私立海蒂芙技藝文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,瑜珈類,",
+                "students": "幼兒、國小,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377723,
+                    24.938953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409020002",
+                "name": "私立田馥真寶貝熊文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450445,
+                    24.98608
                 ]
             }
         }
