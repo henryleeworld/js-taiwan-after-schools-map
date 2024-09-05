@@ -25096,6 +25096,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201110060001",
+                "name": "私立中國青年救國團附設中安語文美容插花電腦太極拳短期補習班",
+                "county": "新北市",
+                "class": "外語類,資訊類,家政、插花、烹飪類,美容、美髮理髮類,其他類,",
+                "students": "一般兒童及成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.452633,
+                    25.045093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201110060002",
                 "name": "私立鄭撼文理短期補習班",
                 "county": "新北市",
@@ -27102,6 +27119,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201211190001",
+                "name": "私立璟瀚文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小以上,不限年齡(A班2小時、B班3小時)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.369065,
+                    24.934683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201211200001",
                 "name": "私立育田文理短期補習班",
                 "county": "新北市",
@@ -27827,23 +27861,6 @@
                 "coordinates": [
                     121.426606,
                     25.018263
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201303250001",
-                "name": "私立聯發文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "(國中、高中)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.493104,
-                    25.071597
                 ]
             }
         },
@@ -32015,23 +32032,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201511240001",
-                "name": "私立全方位長樂英語文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.461772,
-                    25.088267
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201511240002",
                 "name": "私立閣英嵐文理語文短期補習班",
                 "county": "新北市",
@@ -33267,23 +33267,6 @@
                 "coordinates": [
                     121.476173,
                     25.087401
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201609180002",
-                "name": "私立彼哈德文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.37724,
-                    24.940093
                 ]
             }
         },
