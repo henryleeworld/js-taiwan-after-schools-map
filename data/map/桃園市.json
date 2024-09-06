@@ -13638,6 +13638,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33201407140001",
+                "name": "私立芝加哥語文文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.139011,
+                    25.011234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33201407140002",
                 "name": "私立世一語文數學短期補習班",
                 "county": "桃園市",
@@ -22601,13 +22618,30 @@
                 "name": "崝藝術股份有限公司附設私立崝藝術技藝文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,音樂、舞蹈類,",
-                "students": "國小,國中,小一至成人"
+                "students": "國小,小一至成人,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     121.391924,
                     25.046413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202409040001",
+                "name": "勝騰國際文化有限公司附設私立孟林文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.205108,
+                    24.952532
                 ]
             }
         }

@@ -12720,6 +12720,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200502230002",
+                "name": "私立名威文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32256,
+                    22.654046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200502240001",
                 "name": "私立培林文理短期補習班",
                 "county": "高雄市",
@@ -31628,7 +31645,7 @@
                 "name": "私立強納生美語文理短期補習班華泰分班",
                 "county": "高雄市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小,學齡前"
+                "students": "學齡前,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31669,6 +31686,23 @@
                 "coordinates": [
                     120.304056,
                     22.659457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202311300001",
+                "name": "私立題卜英文文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小,學齡前,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313098,
+                    22.69015
                 ]
             }
         },
