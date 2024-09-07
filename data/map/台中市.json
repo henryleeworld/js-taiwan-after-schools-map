@@ -11819,23 +11819,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200603210001",
-                "name": "臺中市私立百宏文理短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.693668,
-                    24.16861
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200603210003",
                 "name": "臺中市私立祥育文理短期補習班",
                 "county": "台中市",
@@ -18426,6 +18409,23 @@
                 "coordinates": [
                     120.712835,
                     24.24818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200907309002",
+                "name": "臺中市私立娃娃國美術美語短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.723989,
+                    24.247357
                 ]
             }
         },

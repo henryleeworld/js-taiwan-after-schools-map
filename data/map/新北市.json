@@ -22121,23 +22121,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201007010001",
-                "name": "私立台灣知識庫股份有限公司新莊分公司附設數位學堂建興文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.450012,
-                    25.036142
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201007010002",
                 "name": "私立金正言文理短期補習班",
                 "county": "新北市",
@@ -24852,6 +24835,23 @@
                 "coordinates": [
                     121.445763,
                     25.053929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201109090002",
+                "name": "私立傑斯文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447744,
+                    25.049786
                 ]
             }
         },
@@ -48448,6 +48448,23 @@
                 "coordinates": [
                     121.482178,
                     25.062164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409050001",
+                "name": "私立贏家義學文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.429275,
+                    25.052681
                 ]
             }
         }
