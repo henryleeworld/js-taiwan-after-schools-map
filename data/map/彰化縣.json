@@ -10221,6 +10221,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201411140001",
+                "name": "私立艾蒂兒美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547619,
+                    24.067975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201411240001",
                 "name": "私立崇文文理短期補習班",
                 "county": "彰化縣",
@@ -13417,23 +13434,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47202007020001",
-                "name": "彰化縣私立立和文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.494848,
-                    24.11266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47202007020002",
                 "name": "彰化縣私立立東文理短期補習班",
                 "county": "彰化縣",
@@ -13462,6 +13462,23 @@
                 "coordinates": [
                     120.532698,
                     24.084513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202007030001",
+                "name": "彰化縣私立功騰文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43998,
+                    24.058093
                 ]
             }
         },
@@ -13706,23 +13723,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47202010210001",
-                "name": "彰化縣私立功名文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.56399,
-                    23.947735
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47202011020001",
                 "name": "彰化縣私立高軒文理短期補習班",
                 "county": "彰化縣",
@@ -13955,23 +13955,6 @@
                 "coordinates": [
                     120.442723,
                     24.082415
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47202102250002",
-                "name": "彰化縣私立博恩文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.534428,
-                    24.068932
                 ]
             }
         },

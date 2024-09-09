@@ -5019,23 +5019,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089009",
-                "name": "私立莘莘文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.353278,
-                    22.702604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089013",
                 "name": "私立狀元文理短期補習班",
                 "county": "高雄市",
@@ -8168,7 +8151,7 @@
                 "name": "私立育名文理短期補習班",
                 "county": "高雄市",
                 "class": "外語類,",
-                "students": "國小,國中,高中"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -15689,6 +15672,23 @@
                 "coordinates": [
                     120.288403,
                     22.673109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200611209001",
+                "name": "私立學澄文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.369505,
+                    22.629597
                 ]
             }
         },

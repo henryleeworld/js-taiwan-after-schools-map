@@ -25130,6 +25130,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201110120001",
+                "name": "私立洪堯順美術語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.496109,
+                    25.066503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201110120002",
                 "name": "私立捷越文理短期補習班",
                 "county": "新北市",
@@ -31267,6 +31284,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201505280002",
+                "name": "私立聖雅文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中,不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448674,
+                    25.096229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201505280003",
                 "name": "私立赫全電腦有限公司附設赫全電腦短期補習班",
                 "county": "新北市",
@@ -32298,6 +32332,23 @@
                 "coordinates": [
                     121.461063,
                     25.004996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201602250002",
+                "name": "私立日光畫室美術短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462044,
+                    25.02538
                 ]
             }
         },
