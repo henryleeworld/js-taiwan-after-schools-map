@@ -616,6 +616,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "38200401020001",
+                "name": "私立亞瑟王美語短期補習班",
+                "county": "花蓮縣",
+                "class": "外語類,",
+                "students": "高中,成人(18歲以上),國中,國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601288,
+                    23.970884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "38200401020003",
                 "name": "私立杰生文理短期補習班",
                 "county": "花蓮縣",
