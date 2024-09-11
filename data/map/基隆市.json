@@ -2707,6 +2707,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24201507140001",
+                "name": "基隆市私立上勤文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747367,
+                    25.127489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24201507140002",
                 "name": "基隆市私立柯博文文理短期補習班",
                 "county": "基隆市",

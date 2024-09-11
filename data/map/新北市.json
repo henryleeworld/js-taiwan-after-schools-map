@@ -8267,7 +8267,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200403310004",
-                "name": "私立育群文理語文短期補習班",
+                "name": "育群文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡"
@@ -13843,7 +13843,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200604170002",
-                "name": "私立林澈文理短期補習班",
+                "name": "林澈文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -48499,6 +48499,40 @@
                 "coordinates": [
                     121.486257,
                     25.087244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409090001",
+                "name": "私立錡宏文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "幼兒、國小生,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.455584,
+                    25.055512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409090002",
+                "name": "私立建宏文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.413602,
+                    25.022681
                 ]
             }
         }

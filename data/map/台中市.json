@@ -16766,6 +16766,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200808259001",
+                "name": "私立布里恩文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715166,
+                    24.261362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200808259003",
                 "name": "私立文聖文理短期補習班",
                 "county": "台中市",
@@ -32434,6 +32451,23 @@
                 "coordinates": [
                     120.574669,
                     24.275324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202001220001",
+                "name": "臺中市私立士綸文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.618789,
+                    24.103219
                 ]
             }
         },
