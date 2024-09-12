@@ -7518,23 +7518,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200503089001",
-                "name": "臺南市私立快樂寶貝文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,資訊類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.317248,
-                    23.305171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200503149001",
                 "name": "臺南市私立聖祐文理短期補習班",
                 "county": "台南市",
@@ -20782,7 +20765,7 @@
                 "name": "臺南市私立優力美文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

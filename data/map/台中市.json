@@ -11038,10 +11038,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200510199007",
-                "name": "臺中市私立品致語文珠心算短期補習班",
+                "name": "臺中市私立維仁文理短期補習班",
                 "county": "台中市",
                 "class": "商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -40135,6 +40135,23 @@
                 "coordinates": [
                     120.723063,
                     24.133943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202409100001",
+                "name": "臺中市私立幼宜文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720635,
+                    24.158696
                 ]
             }
         }

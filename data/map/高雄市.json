@@ -5852,23 +5852,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089179",
-                "name": "私立志勝文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.350838,
-                    22.70005
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089181",
                 "name": "私立王碩文理短期補習班五甲分班",
                 "county": "高雄市",
@@ -8022,23 +8005,6 @@
                 "coordinates": [
                     120.333493,
                     22.608222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200207110002",
-                "name": "志光教育科技股份有限公司附設學儒法商文理公職證照短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307241,
-                    22.637737
                 ]
             }
         },
@@ -15338,6 +15304,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200608299002",
+                "name": "私立頂成文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32877,
+                    22.79886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200609040001",
                 "name": "私立百世文理短期補習班瑞祥分班",
                 "county": "高雄市",
@@ -17304,23 +17287,6 @@
                 "coordinates": [
                     120.310289,
                     22.659185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200710220004",
-                "name": "私立百博文理短期補習班新館分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.339865,
-                    22.641303
                 ]
             }
         },
@@ -31849,7 +31815,7 @@
                 "name": "私立高名文理短期補習班五福分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小,高中"
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",

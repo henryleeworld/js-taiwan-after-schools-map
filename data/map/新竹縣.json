@@ -4288,23 +4288,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201608240001",
-                "name": "新竹縣私立好地美語文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國中.高中.成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.033908,
-                    24.806177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201608250001",
                 "name": "新竹縣私立菲翌術文理技藝短期補習班",
                 "county": "新竹縣",
@@ -5795,23 +5778,6 @@
                 "coordinates": [
                     121.022156,
                     24.81575
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36202003310001",
-                "name": "新竹縣私立瀚鐸文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,外語類,",
-                "students": "高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.031657,
-                    24.811363
                 ]
             }
         },
@@ -8039,6 +8005,23 @@
                 "coordinates": [
                     121.026401,
                     24.828203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202409100001",
+                "name": "私立東昇勝利文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027163,
+                    24.829502
                 ]
             }
         }
