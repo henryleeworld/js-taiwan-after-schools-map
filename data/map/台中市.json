@@ -18450,7 +18450,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200907309003",
-                "name": "臺中市私立康可兒文理短期補習班",
+                "name": "私立康可兒文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,國中"
@@ -19548,23 +19548,6 @@
                 "coordinates": [
                     120.700557,
                     24.090779
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201005109002",
-                "name": "臺中市私立宥晨文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.562533,
-                    24.243003
                 ]
             }
         },
@@ -23927,7 +23910,7 @@
                 "name": "臺中市私立雙贏文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -39193,7 +39176,7 @@
                 "name": "臺中市私立宇芳文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國小,學齡前,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -39975,7 +39958,7 @@
                 "name": "臺中市私立馬克唐恩文理短期補習班馬克分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國中,學齡前,國小"
             },
             "geometry": {
                 "type": "Point",

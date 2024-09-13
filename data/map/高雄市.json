@@ -1926,9 +1926,9 @@
             "type": "Feature",
             "properties": {
                 "code": "70200204022305",
-                "name": "私立佳昇外語短期補習班",
+                "name": "私立佳昇外語文理短期補習班",
                 "county": "高雄市",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "學齡前,國小"
             },
             "geometry": {
@@ -3160,23 +3160,6 @@
                 "coordinates": [
                     120.308687,
                     22.642029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200204022577",
-                "name": "長頸鹿文化事業股份有限公司附設高雄市私立長頸鹿美語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小,國中,高中,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.330055,
-                    22.640395
                 ]
             }
         },
@@ -4928,23 +4911,6 @@
                 "coordinates": [
                     120.28261,
                     22.629445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200204022993",
-                "name": "私立清淨文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,外語類,",
-                "students": "國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.298835,
-                    22.649961
                 ]
             }
         },

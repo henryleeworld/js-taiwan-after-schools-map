@@ -20099,10 +20099,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200907170002",
-                "name": "私立蘇老師兒童美語短期補習班",
+                "name": "蘇老師兒童美語短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "文理類,",
+                "students": "國小、國中、高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21367,6 +21367,23 @@
                 "coordinates": [
                     121.503027,
                     25.001245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201003010001",
+                "name": "私立巴洛克音樂短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.422144,
+                    24.993725
                 ]
             }
         },
@@ -23414,7 +23431,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201012220001",
-                "name": "私立百世教育科技股份有限公司附設百仕文理短期補習班",
+                "name": "百世教育科技股份有限公司附設百仕文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -25107,23 +25124,6 @@
                 "coordinates": [
                     121.511129,
                     24.959862
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201110120001",
-                "name": "私立洪堯順美術語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.496109,
-                    25.066503
                 ]
             }
         },
@@ -33784,7 +33784,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201612270001",
-                "name": "私立昊一文理短期補習班",
+                "name": "昊一文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中、小"
