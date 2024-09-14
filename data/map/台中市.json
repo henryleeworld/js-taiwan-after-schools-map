@@ -18636,23 +18636,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200910149002",
-                "name": "臺中市私立崇恩文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.697061,
-                    24.194533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200910149003",
                 "name": "誠浩西點文教事業有限公司附設臺中市私立誠儒文理短期補習班",
                 "county": "台中市",
@@ -19548,6 +19531,23 @@
                 "coordinates": [
                     120.700557,
                     24.090779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201005109002",
+                "name": "臺中市私立宥晨文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.562533,
+                    24.243003
                 ]
             }
         },
@@ -22631,23 +22631,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201205070003",
-                "name": "臺中市私立亞提思音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.642187,
-                    24.171641
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201205140002",
                 "name": "臺中市私立英博文理短期補習班",
                 "county": "台中市",
@@ -22879,7 +22862,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.653668,
-                    24.226026
+                    24.226027
                 ]
             }
         },
@@ -23237,23 +23220,6 @@
                 "coordinates": [
                     120.568189,
                     24.274221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201210170001",
-                "name": "臺中市私立悅進文理、技藝短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.668031,
-                    24.16797
                 ]
             }
         },
@@ -26093,23 +26059,6 @@
                 "coordinates": [
                     120.634696,
                     24.107969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201502060001",
-                "name": "大都會文教事業有限公司附設臺中市私立大都會福和美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.620966,
-                    24.177717
                 ]
             }
         },
@@ -40135,6 +40084,23 @@
                 "coordinates": [
                     120.720635,
                     24.158696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202409120001",
+                "name": "臺中市私立木橋文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647679,
+                    24.138981
                 ]
             }
         }

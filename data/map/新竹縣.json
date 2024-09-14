@@ -583,7 +583,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36200210310001",
-                "name": "私立米妮美語會話短期補習班",
+                "name": "新竹縣私立米妮美語會話短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,",
                 "students": "國小"
@@ -889,7 +889,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36200501130001",
-                "name": "私立米芝霓美語會話短期補習班",
+                "name": "新竹縣私立米芝霓美語會話短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,",
                 "students": "國小"
@@ -1810,7 +1810,7 @@
                 "name": "私立捷恩文理才藝短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中"
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -3575,7 +3575,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36201403140001",
-                "name": "新竹縣私立傑瑞米短期補習班",
+                "name": "新竹縣政府消防局私立傑瑞米短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
                 "students": "國小,成人(18歲以上)"
@@ -4288,23 +4288,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201608240001",
-                "name": "新竹縣私立好地美語文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國中.高中.成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.033908,
-                    24.806177
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201608250001",
                 "name": "新竹縣私立菲翌術文理技藝短期補習班",
                 "county": "新竹縣",
@@ -4343,7 +4326,7 @@
                 "name": "新竹縣私立吉米英語文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,外語類,",
-                "students": "學齡前,成人(18歲以上),國小"
+                "students": "學齡前,國中,國小,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -5812,23 +5795,6 @@
                 "coordinates": [
                     121.031657,
                     24.811363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36202004080001",
-                "name": "新竹縣私立達文西文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.029398,
-                    24.825793
                 ]
             }
         },

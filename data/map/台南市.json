@@ -12278,6 +12278,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200906309001",
+                "name": "臺南市私立楷斯英文短期補習班",
+                "county": "台南市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247598,
+                    23.015851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200907030001",
                 "name": "臺南市私立鄭喬文理短期補習班文元分班",
                 "county": "台南市",
