@@ -13485,23 +13485,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200602100003",
-                "name": "私立威肯珠心算語文文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國中,其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.6316,
-                    25.065435
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200602170002",
                 "name": "私立敦璦文理語文短期補習班",
                 "county": "新北市",
@@ -18996,14 +18979,14 @@
                 "code": "21200811190002",
                 "name": "私立A+諾貝兒文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,外語類,",
+                "class": "文理類,",
                 "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.441346,
-                    24.974451
+                    121.441392,
+                    24.974491
                 ]
             }
         },
@@ -20194,23 +20177,6 @@
                 "coordinates": [
                     121.48871,
                     25.062638
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200908120001",
-                "name": "私立毅學學園美語短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.446067,
-                    25.048573
                 ]
             }
         },
@@ -27153,6 +27119,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201211290001",
+                "name": "私立心和平文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中,其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458122,
+                    25.016741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201211300001",
                 "name": "私立艾樂兒音樂舞蹈語文短期補習班",
                 "county": "新北市",
@@ -27408,6 +27391,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201301040003",
+                "name": "私立士大文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.490376,
+                    25.071269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201301040004",
                 "name": "私立悅讀文理語文短期補習班",
                 "county": "新北市",
@@ -27426,10 +27426,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201301040005",
-                "name": "私立曾老師文理短期補習班",
+                "name": "曾老師文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國小、國中、高中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -41995,9 +41995,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21202107290003",
-                "name": "私立探索者語文文理短期補習班",
+                "name": "探索者文教事業股份有限公司附設私立探索者語文文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -42284,7 +42284,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202108100004",
-                "name": "私立大博教育文創有限公司附設太傅文理技藝短期補習班",
+                "name": "大博教育文創有限公司附設太傅文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,資訊類,",
                 "students": "不限年齡"
@@ -48482,6 +48482,57 @@
                 "coordinates": [
                     121.470072,
                     25.087915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409130001",
+                "name": "明光文教事業股份有限公司附設私立明光文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.460611,
+                    25.024339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409130002",
+                "name": "私立多芮米藝術中心技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.416824,
+                    24.984936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409130003",
+                "name": "私立緻遠數學博愛校文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516344,
+                    25.015737
                 ]
             }
         }

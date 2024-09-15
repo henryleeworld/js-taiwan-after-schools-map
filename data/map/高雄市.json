@@ -1178,10 +1178,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70200204022148",
-                "name": "私立日月文理短期補習班",
+                "name": "私立愛學館文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -7471,7 +7471,7 @@
                 "name": "私立漢林文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國中"
             },
             "geometry": {
                 "type": "Point",
@@ -12510,23 +12510,6 @@
                 "coordinates": [
                     120.394264,
                     22.606839
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200501219012",
-                "name": "私立布魯卡美語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.255172,
-                    22.861619
                 ]
             }
         },
