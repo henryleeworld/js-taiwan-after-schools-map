@@ -8215,6 +8215,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201107010002",
+                "name": "私立劉老師文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.603219,
+                    23.923763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201107180001",
                 "name": "私立識真美語短期補習班",
                 "county": "彰化縣",
@@ -9195,6 +9212,23 @@
                 "coordinates": [
                     120.443282,
                     24.059898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305020001",
+                "name": "私立高騰文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.434262,
+                    24.051255
                 ]
             }
         },
@@ -12193,6 +12227,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201812110001",
+                "name": "彰化縣私立福瑞斯特美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.586836,
+                    23.957706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201812120001",
                 "name": "彰化縣私立蕾貝卡美語短期補習班平和分班",
                 "county": "彰化縣",
@@ -14975,6 +15026,23 @@
                 "coordinates": [
                     120.459999,
                     24.006294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202210110001",
+                "name": "彰化縣私立萊恩文理短期補習班中正分班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544058,
+                    24.027179
                 ]
             }
         },
