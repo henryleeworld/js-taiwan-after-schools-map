@@ -12516,6 +12516,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200501219012",
+                "name": "私立布魯卡美語短期補習班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.255172,
+                    22.861619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200501240001",
                 "name": "私立華漢文理短期補習班",
                 "county": "高雄市",
@@ -12561,23 +12578,6 @@
                 "coordinates": [
                     120.360024,
                     22.616705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200501279002",
-                "name": "私立千馨文德文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.352984,
-                    22.640284
                 ]
             }
         },
