@@ -1330,23 +1330,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200205200016",
-                "name": "臺南市私立恩得文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.225029,
-                    22.972352
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200205200022",
                 "name": "臺南市私立中央文理短期補習班",
                 "county": "台南市",
@@ -15648,7 +15631,7 @@
                 "name": "巨匠電腦股份有限公司附設臺南市私立巨匠成功文理短期補習班",
                 "county": "台南市",
                 "class": "外語類,",
-                "students": "成人(18歲以上),高中,國中"
+                "students": "高中,成人(18歲以上),國中"
             },
             "geometry": {
                 "type": "Point",
@@ -23628,6 +23611,91 @@
                 "coordinates": [
                     120.208613,
                     23.035105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202409160001",
+                "name": "臺南市私立喬智文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232775,
+                    22.995343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202409160002",
+                "name": "臺南市私立森山思塾科學文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.220059,
+                    23.01112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202409160003",
+                "name": "蘋果芽數位科技股份有限公司附設臺南市私立橘子蘋果電腦文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,資訊類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.215924,
+                    22.992651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202409160004",
+                "name": "杏薪教育科技股份有限公司臺南市私立愛德光文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225921,
+                    22.980391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202409160005",
+                "name": "杏薪教育科技股份有限公司臺南市私立愛文元文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200616,
+                    23.01532
                 ]
             }
         }

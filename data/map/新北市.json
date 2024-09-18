@@ -17056,10 +17056,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200711300001",
-                "name": "私立新邦仁語文文理短期補習班",
+                "name": "新邦仁語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小、幼兒"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -48533,6 +48533,23 @@
                 "coordinates": [
                     121.516344,
                     25.015737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202409160001",
+                "name": "私立星玥藝術學苑技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37124,
+                    25.078441
                 ]
             }
         }
