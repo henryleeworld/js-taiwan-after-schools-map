@@ -12584,6 +12584,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200501279002",
+                "name": "私立千馨文德文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.352984,
+                    22.640284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200501279003",
                 "name": "私立高如文理短期補習班青年分班",
                 "county": "高雄市",
@@ -16828,23 +16845,6 @@
                 "coordinates": [
                     120.326804,
                     22.734214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200707030001",
-                "name": "私立亞太優生文理技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.326474,
-                    22.734655
                 ]
             }
         },

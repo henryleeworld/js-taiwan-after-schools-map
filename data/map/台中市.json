@@ -22393,6 +22393,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201202210001",
+                "name": "臺中市私立力達文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.531518,
+                    24.255279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201203200001",
                 "name": "達人資產管理有限公司附設臺中市私立典僑文理短期補習班",
                 "county": "台中市",
