@@ -5329,7 +5329,7 @@
                 "name": "私立安誠文理語文數學短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -15525,6 +15525,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33201609010001",
+                "name": "私立美美育育音樂短期補習班",
+                "county": "桃園市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.210928,
+                    24.956311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33201609130001",
                 "name": "私立傑聖文理語文短期補習班",
                 "county": "桃園市",
@@ -16318,23 +16335,6 @@
                 "coordinates": [
                     121.298642,
                     24.958807
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33201711290001",
-                "name": "私立尚品語文短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.296809,
-                    25.015521
                 ]
             }
         },
@@ -18681,23 +18681,6 @@
                 "coordinates": [
                     121.220373,
                     24.947292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33202008260001",
-                "name": "私立衛理美語短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.295717,
-                    25.022793
                 ]
             }
         },

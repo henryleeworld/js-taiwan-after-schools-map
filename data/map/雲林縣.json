@@ -4322,6 +4322,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55201307180001",
+                "name": "私立張鈞文理短期補習班鎮東分班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.552333,
+                    23.708587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55201307220001",
                 "name": "十全贏股份有限公司附設雲林縣私立十全贏英語文理短期補習班",
                 "county": "雲林縣",
@@ -5829,6 +5846,23 @@
                 "coordinates": [
                     120.542168,
                     23.715595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202409190001",
+                "name": "私立數學加文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.433289,
+                    23.704998
                 ]
             }
         }
