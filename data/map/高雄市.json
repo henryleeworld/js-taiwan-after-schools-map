@@ -1840,23 +1840,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022291",
-                "name": "私立佑昌文理珠心算短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "學齡前,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291847,
-                    22.711247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022294",
                 "name": "私立相如文理短期補習班",
                 "county": "高雄市",
@@ -7148,7 +7131,7 @@
                 "name": "瀚將教育科技股份有限公司附設百瀚文理短期補習班復興分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16957,7 +16940,7 @@
                 "name": "瀚將教育科技股份有限公司附設百瀚文理短期補習班華夏分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -18963,7 +18946,7 @@
                 "name": "瀚將教育科技股份有限公司附設百瀚文理短期補習班農十六分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -23380,7 +23363,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70201302070003",
-                "name": "私立全能外語文理短期補習班新光分班",
+                "name": "私立傑能外語文理短期補習班新光分班",
                 "county": "高雄市",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
@@ -31319,10 +31302,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70202306150001",
-                "name": "私立小星星學堂文理短期補習班",
+                "name": "私立小星星學堂文理外語技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國中,成人(18歲以上),學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31839,6 +31822,23 @@
                 "coordinates": [
                     120.301171,
                     22.635901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202409180001",
+                "name": "赫越電腦有限公司附設赫越電腦短期補習班建國分班",
+                "county": "高雄市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "成人(18歲以上),高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299599,
+                    22.637605
                 ]
             }
         }

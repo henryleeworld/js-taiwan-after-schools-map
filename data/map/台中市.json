@@ -20166,6 +20166,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201009099004",
+                "name": "臺中市私立鎵文私塾文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717178,
+                    24.123902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201009099006",
                 "name": "私立曹老師文理短期補習班",
                 "county": "台中市",
@@ -23458,6 +23475,23 @@
                 "coordinates": [
                     120.700151,
                     24.0642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201211260002",
+                "name": "臺中市私立大林數學理化短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706933,
+                    24.154085
                 ]
             }
         },
@@ -33919,23 +33953,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42202012170001",
-                "name": "美甲花有限公司附設臺中市私立花美甲美甲短期補習班",
-                "county": "台中市",
-                "class": "美容、美髮理髮類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.656542,
-                    24.112573
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42202012180001",
                 "name": "臺中市私立莘快樂兒童文理短期補習班",
                 "county": "台中市",
@@ -40026,7 +40043,7 @@
                 "name": "臺中市私立聯合文理短期補習班大德分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
