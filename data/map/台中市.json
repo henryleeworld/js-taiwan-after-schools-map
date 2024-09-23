@@ -18636,23 +18636,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200910149002",
-                "name": "臺中市私立崇恩文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.697061,
-                    24.194533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200910149003",
                 "name": "誠浩西點文教事業有限公司附設臺中市私立誠儒文理短期補習班",
                 "county": "台中市",
@@ -21628,23 +21611,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201107270002",
-                "name": "臺中市私立十方樂集音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "成人(18歲以上),國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.635778,
-                    24.149291
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201107290001",
                 "name": "愛格特有限公司附設臺中市私立愛格特英語短期補習班賴厝分班",
                 "county": "台中市",
@@ -21809,23 +21775,6 @@
                 "coordinates": [
                     120.65933,
                     24.170182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201109290001",
-                "name": "台中市私立百育文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.64743,
-                    24.144759
                 ]
             }
         },
@@ -24750,23 +24699,6 @@
                 "coordinates": [
                     120.676362,
                     24.110972
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201401140001",
-                "name": "中國青年救國團台中市團務指導委員會附設臺中市私立復興語文技藝短期補習班",
-                "county": "台中市",
-                "class": "外語類,家政、插花、烹飪類,音樂、舞蹈類,",
-                "students": "學齡前,國中,成人(18歲以上),國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.655216,
-                    24.114764
                 ]
             }
         },
@@ -39533,7 +39465,7 @@
                 "name": "臺中市私立月曜新光文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "高中,國小,國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",

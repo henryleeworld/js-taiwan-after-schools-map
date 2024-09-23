@@ -2847,7 +2847,7 @@
                 "name": "新竹縣私立春天寫作文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,國小,高中,國中"
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4564,7 +4564,7 @@
                 "name": "新竹縣私立向上文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "學齡前,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -5540,23 +5540,6 @@
                 "coordinates": [
                     121.015202,
                     24.834467
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36201910170002",
-                "name": "新竹縣私立親兒園文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.044597,
-                    24.894915
                 ]
             }
         },
@@ -7964,7 +7947,7 @@
                 "name": "新竹縣私立學儷文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",

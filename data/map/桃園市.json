@@ -7416,6 +7416,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200711120002",
+                "name": "私立經緯文理美語短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270796,
+                    24.975631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200712030001",
                 "name": "私立海鷗音樂短期補習班",
                 "county": "桃園市",
@@ -20204,7 +20221,7 @@
                 "name": "學旅文創有限公司附設私立舞動世界藝文技藝短期補習班",
                 "county": "桃園市",
                 "class": "音樂、舞蹈類,",
-                "students": "國小,成人(18歲以上)"
+                "students": "成人(18歲以上),國小"
             },
             "geometry": {
                 "type": "Point",
