@@ -2575,7 +2575,7 @@
                 "name": "新竹市私立琳達文理短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -7937,6 +7937,23 @@
                 "coordinates": [
                     120.973981,
                     24.797758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202409230001",
+                "name": "明陵文教有限公司附設新竹市私立明陵文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.979566,
+                    24.813098
                 ]
             }
         }

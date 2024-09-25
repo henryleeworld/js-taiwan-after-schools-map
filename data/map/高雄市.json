@@ -17888,6 +17888,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200803289004",
+                "name": "私立優優文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340282,
+                    22.653113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200803310001",
                 "name": "私立大東海法律會計短期補習班楠梓分班",
                 "county": "高雄市",
@@ -31686,6 +31703,23 @@
                 "coordinates": [
                     120.336371,
                     22.675062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202404170001",
+                "name": "私立貝力達文理短期補習班憲政分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.323514,
+                    22.636227
                 ]
             }
         },
