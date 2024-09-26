@@ -9371,23 +9371,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200908030001",
-                "name": "私立高第文理語文短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.30425,
-                    25.000222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200908270001",
                 "name": "私立智勝文理語文短期補習班",
                 "county": "桃園市",
@@ -22557,6 +22540,23 @@
                 "coordinates": [
                     121.205108,
                     24.952532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202409240001",
+                "name": "極合教育科技股份有限公司附設私立極上一對一光明文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.292743,
+                    25.046644
                 ]
             }
         }

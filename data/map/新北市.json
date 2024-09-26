@@ -4530,7 +4530,7 @@
                 "name": "私立宏仁文理珠心算語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21509,23 +21509,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201003250001",
-                "name": "私立貝朵舞苑舞蹈瑜珈短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,瑜珈類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.486571,
-                    25.059716
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201003250002",
                 "name": "私立啟育文理短期補習班",
                 "county": "新北市",
@@ -26967,10 +26950,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201210240001",
-                "name": "私立馬理蘭文理語文短期補習班",
+                "name": "馬理蘭文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中,(不限年齡)"
+                "students": "(不限年齡),國中"
             },
             "geometry": {
                 "type": "Point",
