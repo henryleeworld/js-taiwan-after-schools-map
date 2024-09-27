@@ -5635,7 +5635,7 @@
                 "name": "私立德和文理語文電腦短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,資訊類,",
-                "students": "國中、小,成人(18歲以上)"
+                "students": "成人(18歲以上),國中、小"
             },
             "geometry": {
                 "type": "Point",
@@ -47377,23 +47377,6 @@
                 "coordinates": [
                     121.418657,
                     25.02356
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202403190001",
-                "name": "韋德文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡,未填寫"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.37724,
-                    24.940093
                 ]
             }
         },

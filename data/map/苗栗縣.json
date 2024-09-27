@@ -1449,6 +1449,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37200605110001",
+                "name": "苗栗縣私立超強文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654915,
+                    24.443166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37200605250001",
                 "name": "苗栗縣私立嘉偉文理短期補習班",
                 "county": "苗栗縣",
@@ -2956,23 +2973,6 @@
                 "coordinates": [
                     120.82356,
                     24.501608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "37201110250001",
-                "name": "苗栗縣私立高昇文理短期補習班",
-                "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.910456,
-                    24.69557
                 ]
             }
         },
