@@ -107,9 +107,9 @@
             "type": "Feature",
             "properties": {
                 "code": "24200205060005",
-                "name": "基隆市私立東明心珠算短期補習班",
+                "name": "基隆市私立東明文理短期補習班",
                 "county": "基隆市",
-                "class": "商類：珠算、心算、會計,",
+                "class": "文理類,",
                 "students": "國小"
             },
             "geometry": {
@@ -2684,23 +2684,6 @@
                 "coordinates": [
                     121.709301,
                     25.13988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24201507140001",
-                "name": "基隆市私立上勤文理短期補習班",
-                "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.747367,
-                    25.127489
                 ]
             }
         },

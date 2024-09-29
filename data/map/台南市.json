@@ -18806,23 +18806,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201903060001",
-                "name": "臺南市私立維多文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.24814,
-                    23.017347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201903180001",
                 "name": "臺南市私立楊煜文理短期補習班",
                 "county": "台南市",
@@ -23638,7 +23621,7 @@
                 "name": "蘋果芽數位科技股份有限公司附設臺南市私立橘子蘋果電腦文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "台南市",
                 "class": "文理類,資訊類,",
-                "students": "高中,國小,國中"
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -23696,6 +23679,23 @@
                 "coordinates": [
                     120.195033,
                     23.026566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202409270001",
+                "name": "臺南市私立理奧文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.246152,
+                    23.01418
                 ]
             }
         }

@@ -31369,6 +31369,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202307190001",
+                "name": "精誠資訊股份有限公司附設恆毅電腦短期補習班",
+                "county": "高雄市",
+                "class": "資訊類,其他類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302907,
+                    22.612871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202308030001",
                 "name": "私立育名文理短期補習班桂華分班",
                 "county": "高雄市",
@@ -31771,6 +31788,23 @@
                 "coordinates": [
                     120.390685,
                     22.560834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202405230001",
+                "name": "私立高明一對一學習有限公司附設高明一對一文理短期補習班美術館分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.292548,
+                    22.655117
                 ]
             }
         },

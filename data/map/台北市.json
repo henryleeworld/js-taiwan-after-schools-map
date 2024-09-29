@@ -531,6 +531,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811180112",
+                "name": "臺北市私立哈利波頓文理語文短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.553151,
+                    25.020106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811180117",
                 "name": "學研文教股份有限公司附設臺北市私立學研日文文理短期補習班",
                 "county": "台北市",
@@ -1120,23 +1137,6 @@
                 "coordinates": [
                     121.563267,
                     25.032261
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811180239",
-                "name": "財團法人語言訓練測驗中心附設臺北市私立新紀元語文短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "無限制"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.519954,
-                    25.030847
                 ]
             }
         },

@@ -16154,23 +16154,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200706040001",
-                "name": "私立伯斯特文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.620414,
-                    25.002424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200706040002",
                 "name": "私立信福珠心算短期補習班",
                 "county": "新北市",
@@ -18433,10 +18416,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200809010004",
-                "name": "私立陳樺英文文理短期補習班",
+                "name": "陳樺英文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中"
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -23686,7 +23669,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201101280003",
-                "name": "私立新重新語文短期補習班",
+                "name": "新重新語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小"
@@ -27351,23 +27334,6 @@
                 "coordinates": [
                     121.536756,
                     24.971271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201301040002",
-                "name": "私立立捷文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.618112,
-                    25.046721
                 ]
             }
         },
