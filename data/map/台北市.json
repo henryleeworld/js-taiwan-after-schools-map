@@ -1143,6 +1143,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811180239",
+                "name": "財團法人語言訓練測驗中心附設臺北市私立新紀元語文短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "無限制"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519954,
+                    25.030847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811180241",
                 "name": "臺北市私立博克萊文理短期補習班",
                 "county": "台北市",

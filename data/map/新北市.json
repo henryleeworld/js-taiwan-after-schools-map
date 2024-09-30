@@ -16154,6 +16154,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200706040001",
+                "name": "私立伯斯特文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.620414,
+                    25.002424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200706040002",
                 "name": "私立信福珠心算短期補習班",
                 "county": "新北市",
