@@ -2146,6 +2146,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "39200707090002",
+                "name": "私立安啾文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.760819,
+                    24.723462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "39200707190002",
                 "name": "私立倍立方文理短期補習班",
                 "county": "宜蘭縣",
@@ -2633,23 +2650,6 @@
                 "coordinates": [
                     121.764289,
                     24.679592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "39201007280002",
-                "name": "私立育橋文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.768546,
-                    24.705666
                 ]
             }
         },
@@ -5183,6 +5183,23 @@
                 "coordinates": [
                     121.764821,
                     24.74823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202409300001",
+                "name": "私立金育文理短期補習班宜蘭分班",
+                "county": "宜蘭縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.757525,
+                    24.761417
                 ]
             }
         }

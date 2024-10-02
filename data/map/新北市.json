@@ -2830,7 +2830,7 @@
                 "name": "私立白鷺鷥珠算短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "其他"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -17633,23 +17633,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200804180003",
-                "name": "私立林立文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.412612,
-                    25.005917
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200804210001",
                 "name": "私立新概念文理短期補習班",
                 "county": "新北市",
@@ -17678,23 +17661,6 @@
                 "coordinates": [
                     121.475678,
                     25.086606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200804220001",
-                "name": "私立威至文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.489363,
-                    25.053726
                 ]
             }
         },
