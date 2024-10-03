@@ -16320,6 +16320,40 @@
                     23.953415
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202410010001",
+                "name": "彰化縣私立弘育文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.497434,
+                    24.08148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202410010002",
+                "name": "彰化縣私立頂大精英文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548121,
+                    24.08942
+                ]
+            }
         }
     ]
 }

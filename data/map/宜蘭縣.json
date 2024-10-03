@@ -446,23 +446,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39200208070048",
-                "name": "私立小博士英語會話短期補習班",
-                "county": "宜蘭縣",
-                "class": "外語類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.823905,
-                    24.855502
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39200208070057",
                 "name": "私立福爾摩莎英語會話短期補習班",
                 "county": "宜蘭縣",
@@ -2656,6 +2639,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "39201007280002",
+                "name": "私立育橋文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.768546,
+                    24.705666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "39201008110001",
                 "name": "私立勤易文理短期補習班",
                 "county": "宜蘭縣",
@@ -4122,7 +4122,7 @@
                 "name": "私立蒲公英文理短期補習班",
                 "county": "宜蘭縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
