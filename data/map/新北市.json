@@ -16239,6 +16239,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200706110009",
+                "name": "私立美季美語短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466947,
+                    24.994831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200706220001",
                 "name": "私立金冠文理短期補習班",
                 "county": "新北市",
@@ -17933,6 +17950,23 @@
                 "coordinates": [
                     121.533702,
                     24.975469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200806020005",
+                "name": "私立創新文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.541461,
+                    24.971595
                 ]
             }
         },
@@ -25063,7 +25097,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201110120002",
-                "name": "私立捷越文理短期補習班",
+                "name": "捷越文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中"
@@ -37371,7 +37405,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201905090001",
-                "name": "私立優時代文理短期補習班",
+                "name": "優時代文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -38646,7 +38680,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201912100003",
-                "name": "私立小丑魚文理技藝短期補習班",
+                "name": "小丑魚文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "不限年齡,國小、國中、高中"
@@ -39088,7 +39122,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202003040003",
-                "name": "私立文欣文理美語短期補習班",
+                "name": "文欣文理美語短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中"
