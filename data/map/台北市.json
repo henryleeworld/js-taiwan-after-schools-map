@@ -19996,6 +19996,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201104060005",
+                "name": "臺北市私立創進語文文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546032,
+                    24.99906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201104150001",
                 "name": "高明一對一學習有限公司附設臺北市私立高明一對一文理短期補習班信義分班",
                 "county": "台北市",
@@ -28020,6 +28037,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201703140326",
+                "name": "臺北市私立泰安文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.524888,
+                    25.101486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201703140328",
                 "name": "優尼克技藝補習班",
                 "county": "台北市",
@@ -28031,6 +28065,23 @@
                 "coordinates": [
                     121.498938,
                     25.022454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140331",
+                "name": "臺北市私立捷和文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542649,
+                    25.033197
                 ]
             }
         },
