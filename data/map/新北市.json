@@ -3541,9 +3541,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022694",
-                "name": "私立芝加哥美語短期補習班",
+                "name": "芝加哥美語短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "其他"
             },
             "geometry": {
@@ -6390,23 +6390,6 @@
                 "coordinates": [
                     121.450765,
                     25.102194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200304030004",
-                "name": "私立良華美術語文文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.450824,
-                    25.102171
                 ]
             }
         },
@@ -48533,6 +48516,40 @@
                 "coordinates": [
                     121.447744,
                     25.052852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202410040001",
+                "name": "私立三格湖文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.381306,
+                    25.074611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202410040002",
+                "name": "私立愛德文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.490396,
+                    25.052927
                 ]
             }
         }
