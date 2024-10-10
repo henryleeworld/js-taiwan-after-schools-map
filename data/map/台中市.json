@@ -11190,23 +11190,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200510279009",
-                "name": "臺中市私立萬將文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.637868,
-                    24.108936
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200511010001",
                 "name": "私立安堡文理短期補習班",
                 "county": "台中市",
@@ -39516,7 +39499,7 @@
                 "name": "臺中市私立劉轍文理短期補習班西屯分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
