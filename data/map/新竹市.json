@@ -7990,6 +7990,40 @@
                     24.78758
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202410110001",
+                "name": "新竹市私立東昇文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "高中,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.972135,
+                    24.80364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202410110002",
+                "name": "新竹市私立築鑫升大學文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.979665,
+                    24.796335
+                ]
+            }
         }
     ]
 }

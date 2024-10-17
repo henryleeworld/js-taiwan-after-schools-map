@@ -9865,7 +9865,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200501199011",
-                "name": "私立仲英電腦文理短期補習班",
+                "name": "臺中市私立仲英電腦文理短期補習班",
                 "county": "台中市",
                 "class": "資訊類,",
                 "students": "國小"
@@ -13078,7 +13078,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200611039005",
-                "name": "私立羅得文理短期補習班",
+                "name": "臺中市私立羅得文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中"
@@ -34107,7 +34107,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42202102220001",
-                "name": "臺中市私立菁奇文理短期補習班",
+                "name": "臺中市私立智碩文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,學齡前,國中"
@@ -40203,6 +40203,23 @@
                 "coordinates": [
                     120.651159,
                     24.170537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202410110001",
+                "name": "郝強文化事業有限公司附設臺中市私立郝強文理短期補習班中華分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63435,
+                    24.108339
                 ]
             }
         }

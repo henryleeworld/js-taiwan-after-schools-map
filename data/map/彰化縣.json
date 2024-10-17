@@ -2673,23 +2673,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200210250007",
-                "name": "私立安連音樂短期補習班",
-                "county": "彰化縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.481294,
-                    23.960249
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200210290001",
                 "name": "彰化縣私立喬英文理短期補習班",
                 "county": "彰化縣",
@@ -7726,13 +7709,13 @@
                 "name": "私立葉老師美語短期補習班",
                 "county": "彰化縣",
                 "class": "外語類,",
-                "students": "國小+國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.463843,
-                    24.104589
+                    120.459279,
+                    24.10814
                 ]
             }
         },
@@ -15611,7 +15594,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47202310250001",
-                "name": "彰化縣私立宋媽媽文理短期補習班",
+                "name": "彰化縣私立展語文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
                 "students": "國小"
