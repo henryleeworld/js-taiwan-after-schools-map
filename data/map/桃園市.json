@@ -15342,7 +15342,7 @@
                 "name": "私立瑞吉歐文理語文數學短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22540,6 +22540,23 @@
                 "coordinates": [
                     121.212903,
                     25.008721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202410160001",
+                "name": "私立祥恩文理短期補習班恆美分班",
+                "county": "桃園市",
+                "class": "外語類,其他類,",
+                "students": "國小、國中混合上課,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207437,
+                    24.946771
                 ]
             }
         }
