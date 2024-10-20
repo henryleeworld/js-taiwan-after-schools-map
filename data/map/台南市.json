@@ -17599,23 +17599,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201707180001",
-                "name": "臺南市私立冠穎文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.173765,
-                    23.163247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201707180002",
                 "name": "臺南市私立大王文理短期補習班",
                 "county": "台南市",
@@ -23679,6 +23662,23 @@
                 "coordinates": [
                     120.200493,
                     23.017779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202410170001",
+                "name": "臺南市私立蓋數文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.171524,
+                    23.161246
                 ]
             }
         }

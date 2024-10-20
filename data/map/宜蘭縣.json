@@ -3923,8 +3923,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.751077,
-                    24.751391
+                    121.751144,
+                    24.751637
                 ]
             }
         },
@@ -5200,6 +5200,23 @@
                 "coordinates": [
                     121.757525,
                     24.761417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202410160001",
+                "name": "私立冠昇文理短期補習班羅東分班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.765073,
+                    24.680069
                 ]
             }
         }
