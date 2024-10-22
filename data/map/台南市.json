@@ -23681,6 +23681,40 @@
                     23.161246
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202410200001",
+                "name": "臺南市私立小熊熊文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308484,
+                    23.119008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202410200002",
+                "name": "臺南市私立伊堡文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.251893,
+                    23.015213
+                ]
+            }
         }
     ]
 }
