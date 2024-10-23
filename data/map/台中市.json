@@ -3187,7 +3187,7 @@
                 "name": "臺中市私立亦陶然英語數學短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -20187,7 +20187,7 @@
                 "name": "臺中市私立馬爾斯文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "成人(18歲以上),國中,國小"
+                "students": "國中,國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -40237,6 +40237,23 @@
                 "coordinates": [
                     120.636336,
                     24.109605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202410210001",
+                "name": "臺中市私立百威文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.691935,
+                    24.114087
                 ]
             }
         }
