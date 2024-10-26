@@ -1517,6 +1517,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24200509210001",
+                "name": "基隆市私立五餅二魚文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.748847,
+                    25.126995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24200509210003",
                 "name": "基隆市私立華盛頓語文短期補習班",
                 "county": "基隆市",
@@ -3466,6 +3483,23 @@
                 "coordinates": [
                     121.748444,
                     25.128196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202410240001",
+                "name": "柳吟文教事業股份有限公司附設基隆市私立柳吟文理短期補習班短期補習班",
+                "county": "基隆市",
+                "class": "文理類,",
+                "students": "國中,高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.747265,
+                    25.129322
                 ]
             }
         }
