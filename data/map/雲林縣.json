@@ -5870,7 +5870,7 @@
             "type": "Feature",
             "properties": {
                 "code": "55202410210001",
-                "name": "私立朵拉叢林短期補習班",
+                "name": "私立朵拉叢林文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
                 "students": "國中,國小,學齡前"
@@ -5880,6 +5880,23 @@
                 "coordinates": [
                     120.348517,
                     23.7588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202410280001",
+                "name": "私立格林式文理技藝短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,音樂、舞蹈類,其他類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49771,
+                    23.755924
                 ]
             }
         }

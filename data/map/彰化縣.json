@@ -361,23 +361,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012105",
-                "name": "私立真善美文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.517863,
-                    23.898616
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012106",
                 "name": "私立大嘴鳥文理短期補習班",
                 "county": "彰化縣",
@@ -4136,7 +4119,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47200506270005",
-                "name": "私立高仲文理短期補習班",
+                "name": "彰化縣私立高仲文理技藝短期補習班",
                 "county": "彰化縣",
                 "class": "外語類,",
                 "students": "國中,國小,高中"
@@ -6815,23 +6798,6 @@
                 "coordinates": [
                     120.428549,
                     24.054701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47200904270002",
-                "name": "私立宥森數學短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.533609,
-                    24.108364
                 ]
             }
         },
@@ -16352,6 +16318,23 @@
                 "coordinates": [
                     120.532845,
                     24.060586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202410280001",
+                "name": "彰化縣私立學優文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545513,
+                    24.080585
                 ]
             }
         }

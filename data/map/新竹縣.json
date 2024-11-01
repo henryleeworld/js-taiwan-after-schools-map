@@ -6332,7 +6332,7 @@
                 "name": "新竹縣私立源興文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -8141,6 +8141,40 @@
                 "coordinates": [
                     121.031096,
                     24.812426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202410240001",
+                "name": "新竹縣私立馬莎美語文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,外語類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035013,
+                    24.813249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202410240002",
+                "name": "立朗文教事業股份有限公司附設新竹縣私立布朗文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,外語類,",
+                "students": "國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.041847,
+                    24.808941
                 ]
             }
         }

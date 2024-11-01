@@ -6804,6 +6804,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120855",
+                "name": "臺中市私立耕德才藝中心",
+                "county": "台中市",
+                "class": "其他類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.658216,
+                    24.166768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120863",
                 "name": "臺中市私立瑪德兒才藝中心",
                 "county": "台中市",

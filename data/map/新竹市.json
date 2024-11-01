@@ -5810,8 +5810,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.973681,
-                    24.804333
+                    120.972555,
+                    24.804293
                 ]
             }
         },
@@ -6502,7 +6502,7 @@
                 "name": "啟宸有限公司附設新竹市私立啟宸文理短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8022,6 +8022,23 @@
                 "coordinates": [
                     120.979665,
                     24.796335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202410290001",
+                "name": "新竹市私立高樺文理技藝短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018312,
+                    24.785468
                 ]
             }
         }
