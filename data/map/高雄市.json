@@ -10272,23 +10272,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200311030002",
-                "name": "私立相如文理短期補習班明華分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.308926,
-                    22.663004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200311110004",
                 "name": "私立奇恩外語短期補習班和平分班",
                 "county": "高雄市",
@@ -10606,6 +10589,23 @@
                 "coordinates": [
                     120.357769,
                     22.628852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200402049018",
+                "name": "私立愛兒堡美語短期補習班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259975,
+                    22.856489
                 ]
             }
         },
