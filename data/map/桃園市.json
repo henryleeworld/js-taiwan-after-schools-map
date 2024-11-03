@@ -19622,23 +19622,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33202110040001",
-                "name": "私立考上文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "升四技二專大專"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.226435,
-                    24.955347
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33202110060001",
                 "name": "私立風禾日光語文數學短期補習班",
                 "county": "桃園市",
@@ -22540,6 +22523,23 @@
                 "coordinates": [
                     121.230726,
                     24.964913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202411010001",
+                "name": "私立心夢想文理短期補習班新明分班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21528,
+                    24.95856
                 ]
             }
         }
