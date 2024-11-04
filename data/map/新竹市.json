@@ -5988,6 +5988,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201907240001",
+                "name": "新竹市私立恆悅文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.938323,
+                    24.837866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201907240002",
                 "name": "財團法人台灣基督長老教會聖經學院附設新竹市私立築聖仁光文理技藝短期補習班",
                 "county": "新竹市",
