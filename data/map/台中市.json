@@ -6345,23 +6345,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120575",
-                "name": "志光教育科技股份有限公司附設臺中市私立學儒財稅金融法律事務公職證照短期補習班",
-                "county": "台中市",
-                "class": "文理類,法政類,",
-                "students": "成人(18歲以上),公職人員考試"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683593,
-                    24.137374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120590",
                 "name": "私立新生代珠心算短期補習班",
                 "county": "台中市",
@@ -12380,23 +12363,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200607130002",
-                "name": "臺中市私立密西根美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.690662,
-                    24.17962
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200607180001",
                 "name": "地球村語文資訊有限公司附設臺中市私立北屯地球村語文短期補習班",
                 "county": "台中市",
@@ -17304,6 +17270,23 @@
                 "coordinates": [
                     120.618466,
                     24.349708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200812040001",
+                "name": "私立程光文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636479,
+                    24.151579
                 ]
             }
         },
@@ -40271,6 +40254,23 @@
                 "coordinates": [
                     120.691935,
                     24.114087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202411040001",
+                "name": "永大有限公司附設臺中市私立永大文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683862,
+                    24.244876
                 ]
             }
         }

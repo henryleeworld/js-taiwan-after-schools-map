@@ -804,7 +804,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200204021057",
-                "name": "私立植科升學文理短期補習班",
+                "name": "私立知傳文理短期補習班民族分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國中,國小,高中"
@@ -10538,23 +10538,6 @@
                 "coordinates": [
                     120.394295,
                     22.606943
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200402049009",
-                "name": "私立國王文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.39185,
-                    22.507694
                 ]
             }
         },
@@ -30693,7 +30676,7 @@
                 "name": "私立愛繪會文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+                "students": "國小,國中,高中,成人(18歲以上),學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -31424,7 +31407,7 @@
                 "name": "明光青年文教有限公司附設明光青年文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小,高中"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31509,7 +31492,7 @@
                 "name": "私立達標文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "高中,國中"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -31907,6 +31890,23 @@
                 "coordinates": [
                     120.299599,
                     22.637605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202410290001",
+                "name": "私立先端文理短期補習班 澄德分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,學齡前,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344057,
+                    22.685698
                 ]
             }
         }

@@ -4747,23 +4747,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35201510050004",
-                "name": "新竹市私立耕福田文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.97854,
-                    24.808615
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35201510050005",
                 "name": "新竹市私立名城美容美髮短期補習班",
                 "county": "新竹市",
@@ -8039,6 +8022,23 @@
                 "coordinates": [
                     121.018312,
                     24.785468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202411040001",
+                "name": "新竹市私立喜閱文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.978983,
+                    24.798676
                 ]
             }
         }

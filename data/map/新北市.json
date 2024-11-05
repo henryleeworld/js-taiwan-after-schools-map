@@ -11548,7 +11548,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200507060001",
-                "name": "私立聯城電腦有限公司附設聯成電腦短期補習班",
+                "name": "聯城電腦有限公司附設聯成電腦短期補習班",
                 "county": "新北市",
                 "class": "資訊類,",
                 "students": "不限年齡"
@@ -22863,23 +22863,6 @@
                 "coordinates": [
                     121.454204,
                     25.050986
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201010270001",
-                "name": "私立碩豐文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.459345,
-                    24.986118
                 ]
             }
         },
@@ -41722,23 +41705,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21202105190001",
-                "name": "私立新劍聲文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.541996,
-                    24.977015
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21202106010001",
                 "name": "私立新育群文理技藝短期補習班",
                 "county": "新北市",
@@ -48550,6 +48516,23 @@
                 "coordinates": [
                     121.477886,
                     25.081448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202411040001",
+                "name": "苡杏創意空間有限公司附設私立DGB技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371422,
+                    25.07889
                 ]
             }
         }

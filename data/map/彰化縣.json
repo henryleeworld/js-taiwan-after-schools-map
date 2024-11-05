@@ -1738,23 +1738,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012294",
-                "name": "私立主恩珠心算短期補習班",
-                "county": "彰化縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.470823,
-                    24.131477
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012296",
                 "name": "私立凱祥珠算作文短期補習班",
                 "county": "彰化縣",
@@ -5455,23 +5438,6 @@
                 "coordinates": [
                     120.539625,
                     24.062847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47200704090003",
-                "name": "私立立功文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.586202,
-                    23.902162
                 ]
             }
         },
@@ -9229,6 +9195,23 @@
                 "coordinates": [
                     120.585666,
                     23.898893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305210002",
+                "name": "台灣拓人教育事業股份有限公司附設彰化縣私立拓人文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579492,
+                    23.959841
                 ]
             }
         },
@@ -16318,6 +16301,23 @@
                 "coordinates": [
                     120.545513,
                     24.080585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202411040001",
+                "name": "彰化縣私立樂享音樂技藝短期補習班",
+                "county": "彰化縣",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前至成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.542837,
+                    24.063869
                 ]
             }
         }
