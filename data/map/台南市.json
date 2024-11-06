@@ -2877,23 +2877,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200208069060",
-                "name": "臺南市私立昕揚文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295288,
-                    23.081295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200208069062",
                 "name": "臺南市私立凱仕蘭文理短期補習班",
                 "county": "台南市",
@@ -14233,23 +14216,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201110210001",
-                "name": "臺南市私立高頡文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.292921,
-                    23.131024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201110240001",
                 "name": "臺南市私立邁斯文理短期補習班",
                 "county": "台南市",
@@ -23689,7 +23655,7 @@
                 "name": "臺南市私立小熊熊文理短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "台南市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小,學齡前"
+                "students": "國中,學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -23730,6 +23696,23 @@
                 "coordinates": [
                     120.163105,
                     22.987401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202411050001",
+                "name": "台南魏宏泰物理有限公司附設臺南市私立權一文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.207963,
+                    22.995133
                 ]
             }
         }

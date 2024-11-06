@@ -12363,6 +12363,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200607130002",
+                "name": "臺中市私立密西根美語短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690662,
+                    24.17962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200607180001",
                 "name": "地球村語文資訊有限公司附設臺中市私立北屯地球村語文短期補習班",
                 "county": "台中市",
@@ -26212,23 +26229,6 @@
                 "coordinates": [
                     120.694148,
                     24.109434
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201503090001",
-                "name": "臺中市私立斐設美髮短期補習班",
-                "county": "台中市",
-                "class": "美容、美髮理髮類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.663786,
-                    24.148002
                 ]
             }
         },

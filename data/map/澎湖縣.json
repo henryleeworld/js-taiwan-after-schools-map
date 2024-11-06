@@ -493,6 +493,40 @@
                     23.577061
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "69202411050001",
+                "name": "私立和風小學堂文理短期補習班",
+                "county": "澎湖縣",
+                "class": "文理類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.571864,
+                    23.573189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "69202411050002",
+                "name": "私立小樹苗短期補習班",
+                "county": "澎湖縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.570206,
+                    23.578468
+                ]
+            }
         }
     ]
 }
