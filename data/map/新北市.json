@@ -6822,7 +6822,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200306130006",
-                "name": "時尚地球村語文資訊有限公司附設地球村語文短期補習班",
+                "name": "地球村出版有限公司附設私立地球村語文文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "小學、國中、高中、成人"
@@ -14380,23 +14380,6 @@
                 "coordinates": [
                     121.375553,
                     24.930319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200607270002",
-                "name": "私立詹浩教育股份有限公司附設詹浩海山文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.470989,
-                    25.008759
                 ]
             }
         },
@@ -41689,7 +41672,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202105040002",
-                "name": "私立緻遠數學文理短期補習班",
+                "name": "緻遠數學文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "高中"
@@ -48533,6 +48516,23 @@
                 "coordinates": [
                     121.371422,
                     25.07889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202411070001",
+                "name": "私立飛揚文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.460711,
+                    25.024184
                 ]
             }
         }
