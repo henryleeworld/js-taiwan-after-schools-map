@@ -2320,7 +2320,7 @@
                 "name": "私立蘇荷美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中"
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -3085,7 +3085,7 @@
                 "name": "私立蘇荷美術短期補習班中原分班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -4648,7 +4648,7 @@
                 "code": "33200507060006",
                 "name": "私立承聖語文文理短期補習班",
                 "county": "桃園市",
-                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "class": "文理類,外語類,",
                 "students": "國小,國中"
             },
             "geometry": {
@@ -4904,7 +4904,7 @@
                 "name": "私立蘇沛美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -6016,6 +6016,23 @@
                 "coordinates": [
                     121.320042,
                     25.009872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200612210026",
+                "name": "私立加斯德珠心算短期補習班",
+                "county": "桃園市",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293425,
+                    25.013593
                 ]
             }
         },
@@ -7250,7 +7267,7 @@
                 "name": "私立創藝家美術音樂短期補習班",
                 "county": "桃園市",
                 "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8797,7 +8814,7 @@
                 "name": "私立蘇荷美術短期補習班青溪分班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -9732,7 +9749,7 @@
                 "name": "私立晴天美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -9970,7 +9987,7 @@
                 "name": "私立美地美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -10650,7 +10667,7 @@
                 "name": "私立格西文理語文數學美術短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11024,7 +11041,7 @@
                 "name": "私立蘇荷美術短期補習班南崁分班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -12146,7 +12163,7 @@
                 "name": "私立火星美語美術短期補習班",
                 "county": "桃園市",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小至成人,國小至成"
             },
             "geometry": {
                 "type": "Point",
@@ -14050,7 +14067,7 @@
                 "name": "私立童畫家族美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14356,7 +14373,7 @@
                 "name": "私立悠悠中央圍棋短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14424,7 +14441,7 @@
                 "name": "私立老獅美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14883,7 +14900,7 @@
                 "name": "私立百勝文理語文技藝短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17365,7 +17382,7 @@
                 "name": "私立紅蘋果美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "小一至以上"
             },
             "geometry": {
                 "type": "Point",
@@ -17824,7 +17841,7 @@
                 "name": "私立志意美術短期補習班",
                 "county": "桃園市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中"
+                "students": "國中以上"
             },
             "geometry": {
                 "type": "Point",
@@ -19320,7 +19337,7 @@
                 "name": "私立樂光音樂短期補習班",
                 "county": "桃園市",
                 "class": "音樂、舞蹈類,",
-                "students": "國小,國中,高中,成人(18歲以上)"
+                "students": "高中,國小,國中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -20544,7 +20561,7 @@
                 "name": "私立皮克西文理技藝短期補習班",
                 "county": "桃園市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,高中,成人(18歲以上)"
+                "students": "國中,高中,國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -21173,7 +21190,7 @@
                 "name": "私立遇見舞蹈技藝短期補習班",
                 "county": "桃園市",
                 "class": "音樂、舞蹈類,",
-                "students": "國小,國中,高中及成人"
+                "students": "國小,高中及成人,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -21853,7 +21870,7 @@
                 "name": "私立荼荼舞蹈空間技藝短期補習班",
                 "county": "桃園市",
                 "class": "音樂、舞蹈類,",
-                "students": "小一以上,成人(18歲以上)"
+                "students": "成人(18歲以上),小一以上"
             },
             "geometry": {
                 "type": "Point",

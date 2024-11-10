@@ -14386,6 +14386,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200607270002",
+                "name": "私立詹浩教育股份有限公司附設詹浩海山文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.470989,
+                    25.008759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200607270003",
                 "name": "私立柏克來兒美美語短期補習班",
                 "county": "新北市",
@@ -19282,23 +19299,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200903120001",
-                "name": "私立孩子堡文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡,國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.461285,
-                    25.023551
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200903120002",
                 "name": "私立立晟文理語文短期補習班",
                 "county": "新北市",
@@ -22311,14 +22311,14 @@
                 "code": "21201008190003",
                 "name": "美加語文短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.412751,
-                    25.027479
+                    121.412836,
+                    25.027942
                 ]
             }
         },
@@ -22360,7 +22360,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201008290001",
-                "name": "私立玄儒語文文理珠心算短期補習班",
+                "name": "玄儒語文文理珠心算短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "其他,國中"
@@ -35773,7 +35773,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201807120002",
-                "name": "精執個別指導股份有限公司附設私立精習塾文理技藝短期補習班",
+                "name": "精孰個別指導股份有限公司附設私立精習塾文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "不限年齡"
