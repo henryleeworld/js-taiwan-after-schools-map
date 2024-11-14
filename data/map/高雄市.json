@@ -1840,23 +1840,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022294",
-                "name": "私立相如文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.344863,
-                    22.644665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022296",
                 "name": "私立向興教育文理短期補習班",
                 "county": "高雄市",
@@ -10527,6 +10510,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200402049009",
+                "name": "私立國王文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39185,
+                    22.507694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200402049013",
                 "name": "私立優百士文理短期補習班",
                 "county": "高雄市",
@@ -11167,6 +11167,23 @@
                 "coordinates": [
                     120.323357,
                     22.649578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200405050002",
+                "name": "私立來佳文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300833,
+                    22.665006
                 ]
             }
         },
