@@ -8457,7 +8457,7 @@
                 "name": "彰化縣私立徐樂文理短期補習班",
                 "county": "彰化縣",
                 "class": "外語類,",
-                "students": "國小,國中"
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -16318,6 +16318,23 @@
                 "coordinates": [
                     120.542837,
                     24.063869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202411130001",
+                "name": "彰化縣私立皓玥文林文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.543346,
+                    24.027809
                 ]
             }
         }

@@ -2231,23 +2231,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319419",
-                "name": "臺中市私立言展語文短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.622479,
-                    24.348704
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319420",
                 "name": "臺中市私立三育美語短期補習班",
                 "county": "台中市",
@@ -6040,7 +6023,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200208120419",
-                "name": "私立普霖斯頓美語短期補習班",
+                "name": "臺中市私立普霖斯頓美語短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "學齡前,國小"
@@ -10249,6 +10232,23 @@
                 "coordinates": [
                     120.703104,
                     24.108695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200504299004",
+                "name": "臺中市私立正亭文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651902,
+                    24.223683
                 ]
             }
         },
@@ -20289,7 +20289,7 @@
                 "name": "臺中市私立嘉樂文理美術短期補習班",
                 "county": "台中市",
                 "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",

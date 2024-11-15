@@ -1552,10 +1552,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022359",
-                "name": "私立紅外套美術補習班",
+                "name": "紅外套美術補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "其他"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -21173,7 +21173,7 @@
                 "name": "文綦文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國小、國中"
+                "students": "國小、國中、高中,國中、高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -35399,10 +35399,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201805050002",
-                "name": "私立玩藝基地美術短期補習班",
+                "name": "玩藝基地美術短期補習班",
                 "county": "新北市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -39700,7 +39700,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202007130004",
-                "name": "私立永拓文理短期補習班",
+                "name": "適才文教有限公司附設私立柳吟文理短期補習班永和分班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡,不限年齡(國語2小時、數學2小時、社會1小時、自然1小時)"
@@ -48533,6 +48533,23 @@
                 "coordinates": [
                     121.460711,
                     25.024184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202411130001",
+                "name": "私立世學文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,其他類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447235,
+                    24.998525
                 ]
             }
         }

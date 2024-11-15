@@ -20731,7 +20731,7 @@
                 "name": "私立同學家文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -22540,6 +22540,23 @@
                 "coordinates": [
                     121.21528,
                     24.95856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202411130001",
+                "name": "私立浤昇文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.392891,
+                    25.045048
                 ]
             }
         }

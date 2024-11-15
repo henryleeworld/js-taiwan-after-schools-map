@@ -1840,6 +1840,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022294",
+                "name": "私立相如文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344863,
+                    22.644665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022296",
                 "name": "私立向興教育文理短期補習班",
                 "county": "高雄市",
@@ -9749,7 +9766,7 @@
                 "name": "私立捷勝文理短期補習班道明分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "高中"
             },
             "geometry": {
                 "type": "Point",
@@ -15077,23 +15094,6 @@
                 "coordinates": [
                     120.291831,
                     22.790886
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200608109012",
-                "name": "私立竑家文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.259097,
-                    22.857652
                 ]
             }
         },
@@ -31567,6 +31567,23 @@
                 "coordinates": [
                     120.31589,
                     22.620182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202401260001",
+                "name": "孔孟文化事業有限公司附設高雄市私立孔孟苓雅文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,高中,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310816,
+                    22.622668
                 ]
             }
         },
