@@ -14386,23 +14386,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200602060001",
-                "name": "私立高碩文理短期補習班自由分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.313451,
-                    22.680613
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200602069002",
                 "name": "私立毓群文理短期補習班",
                 "county": "高雄市",
@@ -15094,6 +15077,23 @@
                 "coordinates": [
                     120.291831,
                     22.790886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200608109012",
+                "name": "私立竑家文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259097,
+                    22.857652
                 ]
             }
         },
@@ -31577,7 +31577,7 @@
                 "name": "孔孟文化事業有限公司附設高雄市私立孔孟苓雅文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,高中,國小,國中"
+                "students": "高中,國中,學齡前,國小"
             },
             "geometry": {
                 "type": "Point",

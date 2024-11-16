@@ -12618,6 +12618,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200608100001",
+                "name": "私立幼獅美語數學短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647479,
+                    24.153451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200608250001",
                 "name": "臺中市私立親貝爾文理短期補習班",
                 "county": "台中市",
@@ -19684,23 +19701,6 @@
                 "coordinates": [
                     120.656415,
                     24.257145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201006080001",
-                "name": "臺中市私立傅野音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.700708,
-                    24.167308
                 ]
             }
         },
@@ -29095,7 +29095,7 @@
                 "name": "臺中市私立班恩傑爾文理短期補習班梧棲分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -40254,6 +40254,23 @@
                 "coordinates": [
                     120.713618,
                     24.306557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202411140001",
+                "name": "臺中市私立立毅學創文理短期補習班豐東分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.728873,
+                    24.246252
                 ]
             }
         }
