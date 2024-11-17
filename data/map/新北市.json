@@ -1552,7 +1552,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022359",
-                "name": "紅外套美術補習班",
+                "name": "紅外套美術短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -16692,6 +16692,23 @@
                 "coordinates": [
                     121.371804,
                     24.930692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200709270004",
+                "name": "私立孫奇文理美語短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "其他"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.415584,
+                    25.001685
                 ]
             }
         },
@@ -35384,7 +35401,7 @@
                 "code": "21201805050002",
                 "name": "玩藝基地文理技藝短期補習班",
                 "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小"
             },
             "geometry": {
@@ -36266,7 +36283,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201810180001",
-                "name": "私立潔式文理短期補習班",
+                "name": "潔式文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -36274,8 +36291,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.426965,
-                    24.985429
+                    121.427137,
+                    24.997513
                 ]
             }
         },
@@ -48567,6 +48584,23 @@
                 "coordinates": [
                     121.407526,
                     25.015247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202411150001",
+                "name": "私立暿晰文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.530141,
+                    24.973819
                 ]
             }
         }

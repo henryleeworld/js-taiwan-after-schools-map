@@ -14386,6 +14386,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200602060001",
+                "name": "私立高碩文理短期補習班自由分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.313451,
+                    22.680613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200602069002",
                 "name": "私立毓群文理短期補習班",
                 "county": "高雄市",
@@ -31924,6 +31941,23 @@
                 "coordinates": [
                     120.344057,
                     22.685698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202410300001",
+                "name": "台灣拓人教育事業股份有限公司附設拓人文理短期補習班高雄美術館分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.291343,
+                    22.659348
                 ]
             }
         }

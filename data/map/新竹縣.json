@@ -6638,7 +6638,7 @@
                 "name": "新竹縣私立家豐文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,音樂、舞蹈類,",
-                "students": "學齡前,國小,國中"
+                "students": "國中,學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8175,6 +8175,40 @@
                 "coordinates": [
                     121.041847,
                     24.808941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202411150001",
+                "name": "新竹縣私立藝苼技藝短期補習班",
+                "county": "新竹縣",
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033935,
+                    24.806053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202411150002",
+                "name": "新竹縣私立承山文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.037619,
+                    24.804163
                 ]
             }
         }

@@ -14369,23 +14369,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200707109014",
-                "name": "私立馬克文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "成人(18歲以上),國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.550448,
-                    24.261533
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200707109015",
                 "name": "臺中市私立小魔法美語電腦短期補習班",
                 "county": "台中市",
@@ -19701,6 +19684,23 @@
                 "coordinates": [
                     120.656415,
                     24.257145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201006080001",
+                "name": "臺中市私立傅野音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700708,
+                    24.167308
                 ]
             }
         },
@@ -40230,7 +40230,7 @@
                 "name": "永大有限公司附設臺中市私立永大文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
