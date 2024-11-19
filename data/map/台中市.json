@@ -19707,6 +19707,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201006080001",
+                "name": "臺中市私立傅野音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700708,
+                    24.167308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201006230003",
                 "name": "臺中市私立百大福科文理短期補習班",
                 "county": "台中市",
