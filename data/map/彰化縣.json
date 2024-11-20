@@ -7433,23 +7433,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201009150002",
-                "name": "私立成名文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.481367,
-                    23.967701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201009300003",
                 "name": "私立育冠專業文理短期補習班",
                 "county": "彰化縣",
@@ -16073,7 +16056,7 @@
                 "name": "彰化縣私立亞瑟文理技藝短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
-                "students": "學齡前,國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",

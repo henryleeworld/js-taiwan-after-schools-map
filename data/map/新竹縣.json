@@ -3676,6 +3676,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201407070001",
+                "name": "新竹縣私立莉蒂亞文理才藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,其他類,",
+                "students": "國小,國中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.015969,
+                    24.817354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201407070002",
                 "name": "新竹縣私立采詩集閱讀寫作學苑文理短期補習班",
                 "county": "新竹縣",
