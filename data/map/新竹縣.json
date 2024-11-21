@@ -4442,10 +4442,10 @@
             "type": "Feature",
             "properties": {
                 "code": "36201703160001",
-                "name": "新竹縣私立康寧二重文理才藝短期補習班",
+                "name": "極上教育諮詢股份有限公司附設新竹縣私立極上塾二重文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,外語類,",
-                "students": "國小至成人,國中,國小,學齡前"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -5710,23 +5710,6 @@
                 "coordinates": [
                     121.016974,
                     24.817488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36202003100002",
-                "name": "新竹縣私立勁棋文教事業有限公司附設新竹縣私立勁棋文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.031497,
-                    24.810231
                 ]
             }
         },
@@ -8151,7 +8134,7 @@
                 "name": "新竹縣私立馬莎美語文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,外語類,",
-                "students": "國小,學齡前"
+                "students": "學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8185,7 +8168,7 @@
                 "name": "新竹縣私立藝苼技藝短期補習班",
                 "county": "新竹縣",
                 "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": ""
+                "students": "學齡前-成人"
             },
             "geometry": {
                 "type": "Point",
@@ -8202,7 +8185,7 @@
                 "name": "新竹縣私立承山文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": ""
+                "students": "學齡前,國小,國中-成人,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",

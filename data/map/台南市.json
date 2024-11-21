@@ -1674,7 +1674,7 @@
                 "name": "臺南市私立明祥文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小.國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -6849,6 +6849,23 @@
                 "coordinates": [
                     120.199645,
                     23.122098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200408109003",
+                "name": "臺南市私立傑盛文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293114,
+                    23.079681
                 ]
             }
         },
@@ -20048,7 +20065,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202011180002",
-                "name": "臺南市私立金政文理短期補習班",
+                "name": "臺南市私立翔晟文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國中,國小"
