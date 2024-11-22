@@ -10527,6 +10527,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33201010150001",
+                "name": "私立快樂園語文文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.12345,
+                    24.936623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33201010190002",
                 "name": "私立惠翔語文短期補習班",
                 "county": "桃園市",

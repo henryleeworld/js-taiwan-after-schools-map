@@ -3506,23 +3506,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319581",
-                "name": "臺中市私立傑弗遜美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.652591,
-                    24.221473
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319587",
                 "name": "臺中市私立成皓英語短期補習班",
                 "county": "台中市",
@@ -40288,6 +40271,57 @@
                 "coordinates": [
                     120.728873,
                     24.246252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202411200001",
+                "name": "臺中市私立唐興國際文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65193,
+                    24.157054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202411200002",
+                "name": "臺中市私立順德堡文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.566561,
+                    24.211017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202411200003",
+                "name": "臺中市私立橡樹文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,學齡前,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722321,
+                    24.166744
                 ]
             }
         }
