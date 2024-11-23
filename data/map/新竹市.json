@@ -4764,6 +4764,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201510050005",
+                "name": "新竹市私立名城美容美髮短期補習班",
+                "county": "新竹市",
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971949,
+                    24.803951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201510230002",
                 "name": "新竹市私立聯合文理短期補習班光華分班",
                 "county": "新竹市",
@@ -8039,6 +8056,23 @@
                 "coordinates": [
                     120.978983,
                     24.798676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202411210001",
+                "name": "新竹市私立蓓拉美語文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "其他,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013022,
+                    24.790128
                 ]
             }
         }
