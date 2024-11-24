@@ -9746,10 +9746,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200409270003",
-                "name": "美育音樂短期補習班",
+                "name": "私立雅歌音樂舞蹈文理技藝短期補習班",
                 "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "未填寫"
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -18330,23 +18330,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200808280001",
-                "name": "私立陽光森林文教股份有限公司台北縣分公司附設文化文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.47304,
-                    25.030445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200809010001",
                 "name": "私立想學窩文理技藝短期補習班",
                 "county": "新北市",
@@ -23594,6 +23577,23 @@
                 "coordinates": [
                     121.487987,
                     25.055454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201101280003",
+                "name": "新重新語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.495703,
+                    25.061743
                 ]
             }
         },
@@ -39275,7 +39275,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202004290001",
-                "name": "私立重興文理短期補習班",
+                "name": "重興文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小"
@@ -45429,7 +45429,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202305020001",
-                "name": "私立良科文理短期補習班",
+                "name": "私立睿成文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年玲"

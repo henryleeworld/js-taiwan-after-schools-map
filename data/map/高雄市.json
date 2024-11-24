@@ -2180,23 +2180,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022359",
-                "name": "私立佳昌音樂短期補習班",
-                "county": "高雄市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.293469,
-                    22.713488
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022361",
                 "name": "私立奇勤音樂短期補習班",
                 "county": "高雄市",
@@ -2395,23 +2378,6 @@
                 "coordinates": [
                     120.328374,
                     22.645783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200204022413",
-                "name": "私立智橋文理技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307737,
-                    22.667113
                 ]
             }
         },
@@ -3986,7 +3952,7 @@
                 "name": "私立博登文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中,學齡前"
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -25457,7 +25423,7 @@
                 "name": "私立亞亞文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
