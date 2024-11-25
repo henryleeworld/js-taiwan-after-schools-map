@@ -15270,23 +15270,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200612210001",
-                "name": "私立城市美瑜伽短期補習班",
-                "county": "新北市",
-                "class": "瑜珈類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.442127,
-                    24.975518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200612210002",
                 "name": "私立恆育登峰文理短期補習班",
                 "county": "新北市",
@@ -18324,6 +18307,23 @@
                 "coordinates": [
                     121.430853,
                     24.98795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200808280001",
+                "name": "私立陽光森林文教股份有限公司台北縣分公司附設文化文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47304,
+                    25.030445
                 ]
             }
         },
@@ -23577,23 +23577,6 @@
                 "coordinates": [
                     121.487987,
                     25.055454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201101280003",
-                "name": "新重新語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.495703,
-                    25.061743
                 ]
             }
         },

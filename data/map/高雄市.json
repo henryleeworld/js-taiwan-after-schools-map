@@ -2180,6 +2180,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022359",
+                "name": "私立佳昌音樂短期補習班",
+                "county": "高雄市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293469,
+                    22.713488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022361",
                 "name": "私立奇勤音樂短期補習班",
                 "county": "高雄市",
@@ -2378,6 +2395,23 @@
                 "coordinates": [
                     120.328374,
                     22.645783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200204022413",
+                "name": "私立智橋文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307737,
+                    22.667113
                 ]
             }
         },
@@ -5172,23 +5206,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089073",
-                "name": "私立資優柏克萊文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307143,
-                    22.793949
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089083",
                 "name": "私立喬頓文理短期補習班",
                 "county": "高雄市",
@@ -6798,23 +6815,6 @@
                 "coordinates": [
                     120.349808,
                     22.629133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200205089381",
-                "name": "私立英樂音樂短期補習班",
-                "county": "高雄市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295494,
-                    22.795432
                 ]
             }
         },
