@@ -3357,13 +3357,13 @@
                 "name": "新竹縣私立勵學成功文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.016874,
-                    24.818142
+                    121.017477,
+                    24.817886
                 ]
             }
         },
@@ -8209,6 +8209,40 @@
                 "coordinates": [
                     121.037619,
                     24.804163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202411250001",
+                "name": "新竹縣私立思壯文教文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.002515,
+                    24.833055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202411250002",
+                "name": "新竹縣私立詩采集國文寫作學苑文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.037575,
+                    24.812521
                 ]
             }
         }

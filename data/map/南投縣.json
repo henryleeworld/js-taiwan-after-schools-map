@@ -1194,23 +1194,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "49200509270001",
-                "name": "南投縣私立吉佑文理短期補習班",
-                "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.690447,
-                    23.76272
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "49200509280001",
                 "name": "南投縣私立領導者文理短期補習班",
                 "county": "南投縣",
@@ -3517,6 +3500,23 @@
                 "coordinates": [
                     120.678148,
                     23.912183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202411250001",
+                "name": "南投縣私立金榜文理短期補習班",
+                "county": "南投縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698663,
+                    23.97704
                 ]
             }
         }

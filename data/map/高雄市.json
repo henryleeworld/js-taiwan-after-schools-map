@@ -5431,13 +5431,13 @@
                 "name": "私立高名文理短期補習班鳳新分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.344606,
-                    22.61193
+                    120.344804,
+                    22.611945
                 ]
             }
         },
@@ -18851,23 +18851,6 @@
                 "coordinates": [
                     120.243652,
                     22.789349
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200903310001",
-                "name": "私立繽紛文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,高中,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.317411,
-                    22.611706
                 ]
             }
         },
