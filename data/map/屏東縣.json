@@ -1976,6 +1976,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87200706140001",
+                "name": "屏東縣私立上林美語文理短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.468417,
+                    22.613878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87200706210001",
                 "name": "屏東縣私立村風畫語繪畫短期補習班",
                 "county": "屏東縣",

@@ -5533,7 +5533,7 @@
                 "name": "晉毅語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "其他"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -7172,23 +7172,6 @@
                 "coordinates": [
                     121.54205,
                     24.980675
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200307300001",
-                "name": "私立瑞恩語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.446732,
-                    24.98805
                 ]
             }
         },
@@ -15264,6 +15247,23 @@
                 "coordinates": [
                     121.473996,
                     25.015709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200612210001",
+                "name": "私立城市美瑜伽短期補習班",
+                "county": "新北市",
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442127,
+                    24.975518
                 ]
             }
         },
@@ -23577,23 +23577,6 @@
                 "coordinates": [
                     121.487987,
                     25.055454
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201101280003",
-                "name": "新重新語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.495703,
-                    25.061743
                 ]
             }
         },
@@ -45925,7 +45908,7 @@
                 "name": "常裕事業股份有限公司附設私立知識樹學苑文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡,國小,學齡前"
+                "students": "不限年齡,國小、國中"
             },
             "geometry": {
                 "type": "Point",
