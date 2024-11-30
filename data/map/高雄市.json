@@ -6958,10 +6958,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70200205210009",
-                "name": "私立育祥外語電腦短期補習班",
+                "name": "私立育祥文理技藝短期補習班",
                 "county": "高雄市",
-                "class": "外語類,",
-                "students": "國中,國小"
+                "class": "外語類,資訊類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8277,6 +8277,23 @@
                 "coordinates": [
                     120.35486,
                     22.620336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200210029005",
+                "name": "私立佳宥文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.26577,
+                    22.758545
                 ]
             }
         },
@@ -31873,6 +31890,23 @@
                 "coordinates": [
                     120.301171,
                     22.635901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202407220001",
+                "name": "私立新芽文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329376,
+                    22.619534
                 ]
             }
         },

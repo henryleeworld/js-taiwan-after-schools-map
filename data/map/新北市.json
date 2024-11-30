@@ -2793,7 +2793,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022583",
-                "name": "私立大世紀語文補習班",
+                "name": "私立大世紀語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "其他"
@@ -4734,7 +4734,7 @@
                 "name": "勝立文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -13621,23 +13621,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200603310005",
-                "name": "私立欣欣寶貝屋文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.333417,
-                    24.9585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200603310007",
                 "name": "私立劉宇文理短期補習班",
                 "county": "新北市",
@@ -15305,7 +15288,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200612280001",
-                "name": "私立愛生堡美語短期補習班",
+                "name": "愛生堡美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國中"
@@ -19395,6 +19378,23 @@
                 "coordinates": [
                     121.433812,
                     25.056889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200903230004",
+                "name": "私立冠金文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.490402,
+                    24.989402
                 ]
             }
         },
@@ -24315,7 +24315,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201107050002",
-                "name": "私立全球學堂文理語文",
+                "name": "全球學堂文理語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國中,不限年齡"

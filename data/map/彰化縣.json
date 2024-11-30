@@ -1891,23 +1891,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012312",
-                "name": "彰化縣私立菲特文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.532493,
-                    24.084569
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012314",
                 "name": "私立旭陽文理短期補習班",
                 "county": "彰化縣",
@@ -15971,7 +15954,7 @@
                 "name": "彰化縣私立仁美文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
