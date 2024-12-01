@@ -1024,6 +1024,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200205170095",
+                "name": "臺南市私立三元文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211083,
+                    22.9967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200205170099",
                 "name": "臺南市私立益大文理短期補習班",
                 "county": "台南市",

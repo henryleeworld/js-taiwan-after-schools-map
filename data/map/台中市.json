@@ -1670,6 +1670,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200207319322",
+                "name": "私立新紀元文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547008,
+                    24.151962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200207319323",
                 "name": "臺中市私立語堂美語短期補習班",
                 "county": "台中市",
