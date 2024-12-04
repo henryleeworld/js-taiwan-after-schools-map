@@ -5066,6 +5066,40 @@
                     24.569456
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202412020001",
+                "name": "苗栗縣私立音耀技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,成人(18歲以上),國中,高中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.816244,
+                    24.570216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202412020002",
+                "name": "苗栗縣私立開心文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "學齡前,國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.797316,
+                    24.615008
+                ]
+            }
         }
     ]
 }
