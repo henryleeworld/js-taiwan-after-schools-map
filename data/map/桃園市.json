@@ -3235,7 +3235,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33200302100008",
-                "name": "私立芸瀚英語短期補習班",
+                "name": "私立芸瀚文理短期補習班",
                 "county": "桃園市",
                 "class": "外語類,",
                 "students": "國小"
@@ -22574,6 +22574,23 @@
                 "coordinates": [
                     121.392866,
                     25.045709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202412030001",
+                "name": "私立學海文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.207232,
+                    24.914741
                 ]
             }
         }

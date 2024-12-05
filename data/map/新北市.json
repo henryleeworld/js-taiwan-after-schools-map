@@ -906,7 +906,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022243",
-                "name": "私立圓音符音樂語文短期補習班",
+                "name": "圓音符音樂語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國中,其他"
@@ -20897,23 +20897,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200912160003",
-                "name": "台灣拓人教育事業股份有限公司附設拓人5文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.543088,
-                    24.984017
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200912230002",
                 "name": "私立盈韻音樂短期補習班",
                 "county": "新北市",
@@ -21163,6 +21146,23 @@
                 "coordinates": [
                     121.462907,
                     25.002929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201002110001",
+                "name": "創造菁英文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中,不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.413738,
+                    25.023108
                 ]
             }
         },
@@ -33520,8 +33520,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.473946,
-                    25.027183
+                    121.471526,
+                    25.021003
                 ]
             }
         },

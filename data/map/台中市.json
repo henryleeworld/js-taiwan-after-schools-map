@@ -6804,6 +6804,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120871",
+                "name": "臺中市私立快雪時晴文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678113,
+                    24.167951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120872",
                 "name": "臺中市私立全國國際語文技藝短期補習班",
                 "county": "台中市",
@@ -8437,9 +8454,9 @@
             "type": "Feature",
             "properties": {
                 "code": "42200403029005",
-                "name": "臺中市私立巨邁豐盛技藝文理短期補習班",
+                "name": "臺中市私立米斯米國技藝文理短期補習班",
                 "county": "台中市",
-                "class": "文理類,",
+                "class": "文理類,音樂、舞蹈類,",
                 "students": "國中,國小"
             },
             "geometry": {
