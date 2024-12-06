@@ -15852,7 +15852,7 @@
                 "name": "群倫文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -16658,23 +16658,6 @@
                 "coordinates": [
                     121.371804,
                     24.930692
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200709270004",
-                "name": "私立孫奇文理美語短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.415584,
-                    25.001685
                 ]
             }
         },
@@ -20891,6 +20874,23 @@
                 "coordinates": [
                     121.505315,
                     24.990932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200912160003",
+                "name": "台灣拓人教育事業股份有限公司附設拓人5文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.543088,
+                    24.984017
                 ]
             }
         },
@@ -26287,7 +26287,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201207100003",
-                "name": "私立威斯康語文短期補習班",
+                "name": "威斯康語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小"
@@ -35962,7 +35962,7 @@
                 "code": "21201809060001",
                 "name": "私立四季小鹿文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,資訊類,商類：珠算、心算、會計,",
                 "students": "不限年齡"
             },
             "geometry": {
@@ -48499,6 +48499,23 @@
                 "coordinates": [
                     121.522808,
                     25.002562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202412040001",
+                "name": "私立四季小鹿頭前分校文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462438,
+                    25.053651
                 ]
             }
         }

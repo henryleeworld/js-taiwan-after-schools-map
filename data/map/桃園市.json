@@ -191,23 +191,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200207220044",
-                "name": "私立小太陽成長天地美語短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.176937,
-                    24.909701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200207220046",
                 "name": "私立心夢想文理短期補習班",
                 "county": "桃園市",
@@ -6791,7 +6774,7 @@
                 "name": "私立盛彬文理語文短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小,高中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
