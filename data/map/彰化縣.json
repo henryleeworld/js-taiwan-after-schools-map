@@ -7280,6 +7280,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201006150007",
+                "name": "私立滿分美語圍棋短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.587023,
+                    23.861653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201006180002",
                 "name": "私立雅各文理短期補習班",
                 "county": "彰化縣",
@@ -16352,6 +16369,23 @@
                 "coordinates": [
                     120.477761,
                     23.963971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202412050001",
+                "name": "彰化縣私立廣育智能機器人技藝短期補習班",
+                "county": "彰化縣",
+                "class": "其他類,",
+                "students": "學齡前,國小,成人(18歲以上),國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545312,
+                    24.080858
                 ]
             }
         }

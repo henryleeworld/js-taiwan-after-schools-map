@@ -16664,17 +16664,17 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200709270005",
-                "name": "私立美德生文理短期補習班",
+                "code": "21200709270004",
+                "name": "私立孫奇文理美語短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國小"
+                "students": "其他"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.337582,
-                    24.954165
+                    121.415584,
+                    25.001685
                 ]
             }
         },
@@ -23821,23 +23821,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201104200001",
-                "name": "私立明安文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中,其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.461462,
-                    24.994529
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201104250001",
                 "name": "私立亞特音樂短期補習班",
                 "county": "新北市",
@@ -28123,7 +28106,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201308010001",
-                "name": "私立芽米音樂文理短期補習班",
+                "name": "芽米音樂文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,音樂、舞蹈類,",
                 "students": "國小,國中"
@@ -30248,7 +30231,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201410310001",
-                "name": "私立精英國際教育管理顧問股份有限公司附設海山文理短期補習班",
+                "name": "精英國際教育管理顧問股份有限公司附設海山文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上"
@@ -31601,23 +31584,6 @@
                 "coordinates": [
                     121.519186,
                     25.004597
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201510240001",
-                "name": "私立睿智忠孝語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.370302,
-                    25.069769
                 ]
             }
         },
@@ -36691,7 +36657,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201901210001",
-                "name": "私立揚信股份有限公司附設陳逸文理短期補習班",
+                "name": "揚信股份有限公司附設陳逸文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上"
@@ -48516,6 +48482,23 @@
                 "coordinates": [
                     121.462438,
                     25.053651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202412050001",
+                "name": "曜偲學創文教事業有限公司附設私立偲塾文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372167,
+                    25.070641
                 ]
             }
         }

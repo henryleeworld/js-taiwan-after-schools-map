@@ -923,10 +923,10 @@
             "type": "Feature",
             "properties": {
                 "code": "52200305120001",
-                "name": "嘉義市私立橡樹子文理短期補習班",
+                "name": "嘉義市私立橡樹子文理技藝短期補習班",
                 "county": "嘉義市",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -967,6 +967,23 @@
                 "coordinates": [
                     120.423109,
                     23.4758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52200307080002",
+                "name": "高元進階智庫有限公司附設嘉義市私立高元文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,",
+                "students": "大學"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.44988,
+                    23.47406
                 ]
             }
         },
@@ -2011,7 +2028,7 @@
             "type": "Feature",
             "properties": {
                 "code": "52201102230001",
-                "name": "嘉義市私立佩珞拉技藝短期補習班",
+                "name": "夏沐堤",
                 "county": "嘉義市",
                 "class": "美容、美髮理髮類,",
                 "students": "成人(18歲以上)"
