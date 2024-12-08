@@ -2371,7 +2371,7 @@
                 "name": "陳老師文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4554,23 +4554,6 @@
                 "coordinates": [
                     121.426401,
                     25.023499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200208022884",
-                "name": "新泰文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.448222,
-                    25.036162
                 ]
             }
         },
@@ -7187,8 +7170,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.4594,
-                    25.006481
+                    121.459544,
+                    25.006795
                 ]
             }
         },
@@ -16681,6 +16664,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200709270005",
+                "name": "私立美德生文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.337582,
+                    24.954165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200709270008",
                 "name": "私立晨暉語文文理短期補習班",
                 "county": "新北市",
@@ -17753,7 +17753,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200805200001",
-                "name": "私立幻多奇文理技藝短期補習班",
+                "name": "幻多奇文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "不限年齡"
@@ -30319,7 +30319,7 @@
                 "name": "教育學院文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國中以上"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -31584,6 +31584,23 @@
                 "coordinates": [
                     121.519186,
                     25.004597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201510240001",
+                "name": "私立睿智忠孝語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370302,
+                    25.069769
                 ]
             }
         },

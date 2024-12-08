@@ -5563,6 +5563,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120250",
+                "name": "百年樹人科技股份有限公司附設臺中市私立明儒文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651186,
+                    24.152665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120254",
                 "name": "臺中市私立大中文理短期補習班",
                 "county": "台中市",
@@ -9977,6 +9994,23 @@
                 "coordinates": [
                     120.666518,
                     24.130994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200502250001",
+                "name": "臺中市私立哈佛文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648691,
+                    24.145399
                 ]
             }
         },
@@ -14849,7 +14883,7 @@
                 "name": "雲門國際事業股份有限公司台中分公司附設臺中市私立律動舞蹈短期補習班",
                 "county": "台中市",
                 "class": "音樂、舞蹈類,",
-                "students": "成人(18歲以上),學齡前,國小,國中,高中"
+                "students": "國小,國中,高中,成人(18歲以上),學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -32424,7 +32458,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42202001220001",
-                "name": "臺中市私立士綸文理短期補習班",
+                "name": "臺中市私立諾亞星程文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小"
