@@ -9711,6 +9711,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200501119011",
+                "name": "臺中市私立品承音樂語文短期補習班",
+                "county": "台中市",
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.708293,
+                    24.207864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200501140002",
                 "name": "臺中市私立小鍾文理短期補習班",
                 "county": "台中市",
@@ -20772,6 +20789,23 @@
                 "coordinates": [
                     120.66231,
                     24.19629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201012070001",
+                "name": "臺中市私立學康文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683539,
+                    24.158519
                 ]
             }
         },
@@ -40373,6 +40407,23 @@
                 "coordinates": [
                     120.612064,
                     24.192233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202412090001",
+                "name": "臺中市私立沐森文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.642716,
+                    24.180542
                 ]
             }
         }
