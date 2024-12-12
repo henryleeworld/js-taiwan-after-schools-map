@@ -3591,6 +3591,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37201603250001",
+                "name": "苗栗縣私立穆西克技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "音樂、舞蹈類,",
+                "students": "13歲以上"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8156,
+                    24.569001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37201603290001",
                 "name": "苗栗縣私立莊鎮文理短期補習班大營分班",
                 "county": "苗栗縣",
@@ -4061,23 +4078,6 @@
                 "coordinates": [
                     120.901135,
                     24.692802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "37201910230001",
-                "name": "苗栗縣私立品昇文理短期補習班",
-                "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.912167,
-                    24.692322
                 ]
             }
         },
