@@ -940,7 +940,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319209",
-                "name": "臺中市私立金牛頓語文數學短期補習班",
+                "name": "臺中市私立橡樹子文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,外語類,",
                 "students": "國小,國中"
@@ -15661,23 +15661,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200801300004",
-                "name": "臺中市私立文達文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682199,
-                    24.17389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200802219003",
                 "name": "臺中市私立小孔子文理短期補習班",
                 "county": "台中市",
@@ -18867,7 +18850,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.649516,
-                    24.22133
+                    24.221331
                 ]
             }
         },
@@ -40424,6 +40407,23 @@
                 "coordinates": [
                     120.642716,
                     24.180542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202412110001",
+                "name": "耶魯教育股份有限公司附設臺中市私立敦笙文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652823,
+                    24.15332
                 ]
             }
         }

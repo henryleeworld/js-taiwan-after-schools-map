@@ -4084,6 +4084,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37201910230001",
+                "name": "苗栗縣私立品昇文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.912167,
+                    24.692322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37201910230002",
                 "name": "苗栗縣私立嵐林美術技藝短期補習班",
                 "county": "苗栗縣",
