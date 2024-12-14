@@ -22054,7 +22054,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33202406130001",
-                "name": "成鋼國際股份有限公司附設私立樂青英語文理短期補習班",
+                "name": "私立樂青英語文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
                 "students": "國小"
@@ -22557,6 +22557,40 @@
                 "coordinates": [
                     121.207232,
                     24.914741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202412120001",
+                "name": "私立格翼文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.259236,
+                    24.952021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202412120002",
+                "name": "私立青青文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.232722,
+                    24.948619
                 ]
             }
         }
