@@ -5410,6 +5410,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200210150002",
+                "name": "私立吉尼士美語短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國小、國中、高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.428813,
+                    24.987404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200210170001",
                 "name": "私立何嘉仁文教事業股份有限公司附設嘉禾文理短期補習班",
                 "county": "新北市",

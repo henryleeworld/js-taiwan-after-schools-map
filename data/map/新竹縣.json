@@ -6260,6 +6260,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202105180001",
+                "name": "新竹縣私立種籽文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.99607,
+                    24.873617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202105260001",
                 "name": "新竹縣私立安䕟文理技藝短期補習班",
                 "county": "新竹縣",
@@ -7964,7 +7981,7 @@
                 "name": "新竹縣私立竹中橋文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "高中,國中,學齡前,國小"
+                "students": "高中,學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
