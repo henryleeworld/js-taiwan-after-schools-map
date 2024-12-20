@@ -1126,6 +1126,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37200411200004",
+                "name": "苗栗縣私立芹毅文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.81579,
+                    24.552741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37200411200005",
                 "name": "苗栗縣私立立昇文理短期補習班",
                 "county": "苗栗縣",

@@ -2826,23 +2826,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022506",
-                "name": "私立今藝美容美髮短期補習班",
-                "county": "高雄市",
-                "class": "美容、美髮理髮類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.304073,
-                    22.637457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022512",
                 "name": "私立蓉帛房美容短期補習班",
                 "county": "高雄市",
@@ -12554,7 +12537,7 @@
                 "name": "私立高如文理短期補習班青年分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -31815,7 +31798,7 @@
                 "name": "私立金守文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
