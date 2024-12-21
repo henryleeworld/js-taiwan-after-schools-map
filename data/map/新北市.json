@@ -12367,7 +12367,7 @@
                 "name": "景新美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "未填寫"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -15662,7 +15662,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200703060008",
-                "name": "私立山姆叔叔文理短期補習班",
+                "name": "山姆叔叔文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小至成人"
@@ -21163,6 +21163,23 @@
                 "coordinates": [
                     121.413738,
                     25.023108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201002110002",
+                "name": "私立P&amp;J音樂技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367949,
+                    25.071399
                 ]
             }
         },
@@ -42998,7 +43015,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202202090004",
-                "name": "私立晨智文理短期補習班",
+                "name": "晨智文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
