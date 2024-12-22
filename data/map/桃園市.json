@@ -11140,16 +11140,16 @@
             "type": "Feature",
             "properties": {
                 "code": "33201106080001",
-                "name": "私立巴洛克音樂短期補習班",
+                "name": "私立巴洛克音樂技藝短期補習班",
                 "county": "桃園市",
                 "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "students": "國中、高中及成人,國中及高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.298407,
-                    25.020533
+                    121.295318,
+                    25.018337
                 ]
             }
         },
@@ -22591,6 +22591,23 @@
                 "coordinates": [
                     121.232722,
                     24.948619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202412190001",
+                "name": "私立汶莘文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.172185,
+                    24.907115
                 ]
             }
         }
