@@ -133,7 +133,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.73197,
-                    24.140578
+                    24.140579
                 ]
             }
         },
@@ -5183,6 +5183,23 @@
                 "coordinates": [
                     120.684346,
                     24.131139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200208120104",
+                "name": "臺中市私立傅正文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.669141,
+                    24.122497
                 ]
             }
         },
@@ -25984,7 +26001,7 @@
                 "name": "高僑國際文教股份有限公司附設臺中市私立宜僑文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -36337,7 +36354,7 @@
                 "name": "高僑國際文教股份有限公司附設臺中市私立達人文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
