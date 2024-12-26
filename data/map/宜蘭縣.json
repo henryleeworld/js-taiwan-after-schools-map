@@ -1203,8 +1203,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.772405,
-                    24.692985
+                    121.770371,
+                    24.690448
                 ]
             }
         },
@@ -5217,6 +5217,40 @@
                 "coordinates": [
                     121.765073,
                     24.680069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202412230001",
+                "name": "私立小禾文創藝術短期補習班",
+                "county": "宜蘭縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.738952,
+                    24.746619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202412230002",
+                "name": "私立沐夏美術才藝短期補習班",
+                "county": "宜蘭縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742536,
+                    24.75346
                 ]
             }
         }

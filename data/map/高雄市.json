@@ -31573,6 +31573,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202401310001",
+                "name": "瀚將教育科技股份有限公司附設百瀚文理短期補習班仁武分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33368,
+                    22.689186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202402230001",
                 "name": "私立敲一敲藝術空間文理技藝短期補習班",
                 "county": "高雄市",
