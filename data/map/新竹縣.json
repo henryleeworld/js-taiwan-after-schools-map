@@ -2418,23 +2418,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201009140001",
-                "name": "新竹縣私立華興美語短期補習班",
-                "county": "新竹縣",
-                "class": "外語類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.002084,
-                    24.839437
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201009140002",
                 "name": "新竹縣私立邱傅老師文理短期補習班",
                 "county": "新竹縣",
@@ -4581,7 +4564,7 @@
                 "name": "皇家棋藝有限公司附設新竹縣私立皇家文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中-成人,國小"
+                "students": "學齡前-國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8243,6 +8226,57 @@
                 "coordinates": [
                     121.037575,
                     24.812521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202412240001",
+                "name": "勁吾文教事業有限公司附設新竹縣私立勁吾文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027909,
+                    24.826102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202412240002",
+                "name": "新竹縣私立家庭文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,資訊類,",
+                "students": "國中,學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027193,
+                    24.807151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202412240003",
+                "name": "新竹縣私立瑪書塾文教文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.031521,
+                    24.812398
                 ]
             }
         }
