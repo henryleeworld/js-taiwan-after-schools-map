@@ -17752,23 +17752,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33201910160001",
-                "name": "私立先勝文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.299201,
-                    25.054774
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33201910160002",
                 "name": "私立理捷英文短期補習班",
                 "county": "桃園市",
@@ -21597,7 +21580,7 @@
                 "code": "33202311130001",
                 "name": "私立青峰文理短期補習班",
                 "county": "桃園市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "國小"
             },
             "geometry": {
@@ -21836,7 +21819,7 @@
                 "name": "私立荼荼舞蹈空間技藝文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,音樂、舞蹈類,",
-                "students": "國小,成人(18歲以上),小一以上"
+                "students": "國小,小一以上,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -22414,7 +22397,7 @@
                 "name": "極合教育科技股份有限公司附設私立極上一對一光明文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小,高中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
