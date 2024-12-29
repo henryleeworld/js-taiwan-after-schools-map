@@ -15678,23 +15678,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200801300004",
-                "name": "臺中市私立文達文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682199,
-                    24.17389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200802219003",
                 "name": "臺中市私立小孔子文理短期補習班",
                 "county": "台中市",
@@ -25695,7 +25678,7 @@
                 "name": "臺中市私立學利文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",

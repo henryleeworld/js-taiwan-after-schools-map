@@ -5699,6 +5699,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47200708210002",
+                "name": "人荷文化事業有限公司附設彰化縣私立冠霖文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580534,
+                    23.959319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47200708310001",
                 "name": "私立明門文理短期補習班",
                 "county": "彰化縣",
