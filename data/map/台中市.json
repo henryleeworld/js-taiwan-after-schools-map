@@ -26728,6 +26728,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201508100001",
+                "name": "臺中市私立金像獎文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,外語類,音樂、舞蹈類,商類：珠算、心算、會計,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668117,
+                    24.17131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201508190001",
                 "name": "臺中市私立巧意美術短期補習班",
                 "county": "台中市",

@@ -1568,23 +1568,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39200507150001",
-                "name": "私立貝斯特文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.767763,
-                    24.754175
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39200507150002",
                 "name": "私立黃主任文理短期補習班",
                 "county": "宜蘭縣",
@@ -5251,6 +5234,23 @@
                 "coordinates": [
                     121.742536,
                     24.75346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202412300001",
+                "name": "私立我思文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.739383,
+                    24.752203
                 ]
             }
         }
