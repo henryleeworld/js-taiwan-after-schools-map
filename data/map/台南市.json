@@ -4254,23 +4254,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200208089084",
-                "name": "臺南市私立皇品文理短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國小,國中,成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.316325,
-                    23.309455
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200208089088",
                 "name": "臺南市私立維也納美語短期補習班",
                 "county": "台南市",
@@ -10368,6 +10351,23 @@
                 "coordinates": [
                     120.199109,
                     23.016054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200708130001",
+                "name": "臺南市私立蒂芬妮美容短期補習班",
+                "county": "台南市",
+                "class": "美容、美髮理髮類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.221328,
+                    22.973146
                 ]
             }
         },

@@ -24654,6 +24654,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201109130001",
+                "name": "私立大眼睛美術短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.456661,
+                    25.084498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201109130002",
                 "name": "私立潔恩英語短期補習班",
                 "county": "新北市",
@@ -24893,10 +24910,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201110120002",
-                "name": "捷越文理短期補習班",
+                "name": "私立捷越文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "國中"
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "國中,國小,國小、國中"
             },
             "geometry": {
                 "type": "Point",
@@ -25403,16 +25420,16 @@
             "type": "Feature",
             "properties": {
                 "code": "21201202130001",
-                "name": "私立菁鋒文理語文短期補習班",
+                "name": "私立菁鋒文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "不限年齡,國中以上"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.42631,
-                    25.016698
+                    121.426342,
+                    25.01683
                 ]
             }
         },
@@ -41842,7 +41859,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202108100001",
-                "name": "私立揚信股份有限公司附設揚才文理短期補習班",
+                "name": "揚信股份有限公司附設揚才文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -44681,7 +44698,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202212260001",
-                "name": "私立揚信股份有限公司附設公園揚才文理短期補習班",
+                "name": "揚信股份有限公司附設公園揚才文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡年齡"
