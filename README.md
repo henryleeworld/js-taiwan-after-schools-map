@@ -11,8 +11,8 @@ $ git clone
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/H9JKsQd.png)
+![](https://i.imgur.com/sXuUA5o.png)
 > 短期補習班業者欲締造更好的口碑，擬定出最佳的經營策略，產生最大的經營績效與獲利
 
-![](https://i.imgur.com/bQIJTNU.png)
+![](https://i.imgur.com/aACXsz6.png)
 > 吸取不同教育理念的精華，可以為社會培育更多的棟梁之材
