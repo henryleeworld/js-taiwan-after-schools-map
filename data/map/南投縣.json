@@ -1245,6 +1245,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "49200509280005",
+                "name": "南投縣私立柯林頓文理短期補習班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687085,
+                    23.759913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "49200509280006",
                 "name": "南投縣私立龍郡文理短期補習班",
                 "county": "南投縣",
@@ -3534,6 +3551,23 @@
                 "coordinates": [
                     120.938011,
                     23.897068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202501020001",
+                "name": "南投縣私立成煖立德文理短期補習班",
+                "county": "南投縣",
+                "class": "",
+                "students": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.975301,
+                    23.961677
                 ]
             }
         }
