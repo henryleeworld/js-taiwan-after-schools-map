@@ -18347,23 +18347,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200901060005",
-                "name": "臺北市私立亞律音樂舞蹈短期補習班",
-                "county": "台北市",
-                "class": "音樂、舞蹈類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.533045,
-                    25.109254
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200901060006",
                 "name": "臺北市私立優珈文理短期補習班",
                 "county": "台北市",
@@ -44164,6 +44147,40 @@
                 "coordinates": [
                     121.550126,
                     25.051909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202501030001",
+                "name": "臺北市私立趙老師文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528162,
+                    25.11878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202501030002",
+                "name": "何嘉仁文教事業股份有限公司附設臺北市私立佳仁文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.525823,
+                    25.092753
                 ]
             }
         }

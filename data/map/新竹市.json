@@ -1042,10 +1042,10 @@
             "type": "Feature",
             "properties": {
                 "code": "35200208270002",
-                "name": "新竹市私立艾學爾文理短期補習班光華分班",
+                "name": "新竹市私立鳴謙文理短期補習班",
                 "county": "新竹市",
-                "class": "外語類,",
-                "students": "國小"
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -2973,23 +2973,6 @@
                 "coordinates": [
                     120.98308,
                     24.799768
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "35200912020002",
-                "name": "新竹市私立立弘文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.959636,
-                    24.80682
                 ]
             }
         },
