@@ -1646,7 +1646,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.202797,
-                    22.99113
+                    22.991131
                 ]
             }
         },
@@ -23696,6 +23696,40 @@
                 "coordinates": [
                     120.209754,
                     22.997727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202501060001",
+                "name": "臺南市私立寶安文理短期補習班復華分班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.248616,
+                    23.018273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202501060002",
+                "name": "臺南市私立高育文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.226056,
+                    22.971775
                 ]
             }
         }

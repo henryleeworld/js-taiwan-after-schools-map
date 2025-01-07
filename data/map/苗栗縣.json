@@ -3336,23 +3336,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "37201305140001",
-                "name": "苗栗縣私立東正文理短期補習班",
-                "county": "苗栗縣",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.909599,
-                    24.694402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "37201305140002",
                 "name": "苗栗縣私立慧圓珠心算技藝短期補習班",
                 "county": "苗栗縣",
@@ -5098,6 +5081,23 @@
                 "coordinates": [
                     120.797316,
                     24.615008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202501060001",
+                "name": "苗栗縣私立青山美語技藝文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.79018,
+                    24.491177
                 ]
             }
         }
