@@ -22601,7 +22601,7 @@
                 "name": "阿勇教育有限公司附設私立阿勇文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國小至成人,國中-成人,國小"
+                "students": "國中-成人,國小,國小至成人"
             },
             "geometry": {
                 "type": "Point",
@@ -22642,6 +22642,23 @@
                 "coordinates": [
                     121.195145,
                     25.06214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202501070001",
+                "name": "私立龍安甲子文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.275104,
+                    24.992192
                 ]
             }
         }

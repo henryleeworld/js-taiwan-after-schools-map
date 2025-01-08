@@ -3846,23 +3846,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319637",
-                "name": "臺中市私立福尼克文理技藝短期補習班",
-                "county": "台中市",
-                "class": "文理類,外語類,",
-                "students": "國小,學齡前,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.700457,
-                    24.214276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319641",
                 "name": "臺中市私立現代私塾文理短期補習班",
                 "county": "台中市",
@@ -15219,23 +15202,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200710239004",
-                "name": "私立新禾文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.709694,
-                    24.214134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200710239005",
                 "name": "臺中市私立精輔文理短期補習班",
                 "county": "台中市",
@@ -15985,7 +15951,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200804140001",
-                "name": "臺中市私立佩珞拉美容短期補習班",
+                "name": "臺中市私立海莉美容短期補習班",
                 "county": "台中市",
                 "class": "美容、美髮理髮類,",
                 "students": "成人(18歲以上)"
@@ -40475,6 +40441,23 @@
                 "coordinates": [
                     120.654051,
                     24.221299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202501070001",
+                "name": "臺中市私立百靈果文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698118,
+                    24.195606
                 ]
             }
         }
