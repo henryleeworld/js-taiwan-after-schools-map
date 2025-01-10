@@ -5478,6 +5478,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201910170001",
+                "name": "新竹縣私立上靖文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.015202,
+                    24.834467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201910170002",
                 "name": "新竹縣私立親兒園文理短期補習班",
                 "county": "新竹縣",

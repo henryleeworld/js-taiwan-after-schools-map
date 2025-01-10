@@ -15202,6 +15202,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200710239004",
+                "name": "私立新禾文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.709694,
+                    24.214134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200710239005",
                 "name": "臺中市私立精輔文理短期補習班",
                 "county": "台中市",
@@ -22465,7 +22482,7 @@
                 "name": "臺中市私立欣紐約文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -25651,23 +25668,6 @@
                 "coordinates": [
                     120.700239,
                     24.177198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201408220001",
-                "name": "美學苑有限公司附設臺中市私立美學苑美容短期補習班豐原分班",
-                "county": "台中市",
-                "class": "美容、美髮理髮類,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.720145,
-                    24.241133
                 ]
             }
         },

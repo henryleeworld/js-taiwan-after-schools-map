@@ -16311,13 +16311,47 @@
                 "name": "彰化縣私立邏輯教育技藝短期補習班",
                 "county": "彰化縣",
                 "class": "電機、汽車修護、建築、工藝、製圖類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.541451,
                     24.082828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202501080001",
+                "name": "彰化縣私立吉泥村技藝文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,高中,學齡前至高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.475659,
+                    23.961831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202501080002",
+                "name": "彰化縣私立昊宸文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495577,
+                    24.110602
                 ]
             }
         }

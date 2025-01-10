@@ -1688,7 +1688,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022396",
-                "name": "私立柏克萊美語文理短期補習班",
+                "name": "柏克萊美語文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中"
@@ -21146,6 +21146,23 @@
                 "coordinates": [
                     121.413738,
                     25.023108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201002110002",
+                "name": "私立P&amp;J音樂技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.367949,
+                    25.071399
                 ]
             }
         },
