@@ -13149,7 +13149,7 @@
                 "name": "私立李勳數學文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國中、高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -22659,6 +22659,23 @@
                 "coordinates": [
                     121.275104,
                     24.992192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202501090001",
+                "name": "私立向心力文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.33171,
+                    24.996706
                 ]
             }
         }
