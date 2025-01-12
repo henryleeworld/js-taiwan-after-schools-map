@@ -787,10 +787,10 @@
             "type": "Feature",
             "properties": {
                 "code": "87200403300001",
-                "name": "三槐文教科技股份有限公司附設屏東縣私立三槐數學短期補習班",
+                "name": "屏東縣私立建行文理短期補習班國高中部",
                 "county": "屏東縣",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4622,23 +4622,6 @@
                 "coordinates": [
                     120.511868,
                     22.664338
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "87201507070007",
-                "name": "屏東縣私立同文美語文理短期補習班",
-                "county": "屏東縣",
-                "class": "文理類,外語類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.476674,
-                    22.685137
                 ]
             }
         },

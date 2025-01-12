@@ -4816,10 +4816,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022925",
-                "name": "步步高升文理短期補習班",
+                "name": "私立步步高升文理技藝短期補習班",
                 "county": "新北市",
-                "class": "電機、汽車修護、建築、工藝、製圖類,",
-                "students": "其他"
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -6141,6 +6141,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200302210003",
+                "name": "私立大珍文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小、中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.637063,
+                    25.221257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200302270002",
                 "name": "私立科德語文文理短期補習班",
                 "county": "新北市",
@@ -6747,23 +6764,6 @@
                 "coordinates": [
                     121.454746,
                     25.054252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200306130006",
-                "name": "地球村出版有限公司附設私立地球村語文文理短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "小學、國中、高中、成人"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.459835,
-                    25.00757
                 ]
             }
         },
@@ -10290,10 +10290,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200412290001",
-                "name": "悅筌文理短期補習班",
+                "name": "私立悅筌文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "國小,國中"
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",

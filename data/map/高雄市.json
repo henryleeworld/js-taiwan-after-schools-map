@@ -2401,23 +2401,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022413",
-                "name": "私立智橋文理技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307737,
-                    22.667113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022414",
                 "name": "私立耶魯技藝文理短期補習班",
                 "county": "高雄市",
@@ -4900,6 +4883,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205089009",
+                "name": "私立莘莘文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353278,
+                    22.702604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200205089013",
                 "name": "私立狀元文理短期補習班",
                 "county": "高雄市",
@@ -5115,6 +5115,23 @@
                 "coordinates": [
                     120.393749,
                     22.606945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200205089073",
+                "name": "私立資優柏克萊文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307143,
+                    22.793949
                 ]
             }
         },
@@ -11337,23 +11354,6 @@
                 "coordinates": [
                     120.260446,
                     22.854029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200407069006",
-                "name": "私立世庭文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35325,
-                    22.601251
                 ]
             }
         },
