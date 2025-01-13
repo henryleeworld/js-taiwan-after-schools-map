@@ -5750,6 +5750,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202003310001",
+                "name": "新竹縣私立瀚鐸文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,外語類,",
+                "students": "高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.031657,
+                    24.811363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202004080001",
                 "name": "新竹縣私立達文西文理短期補習班",
                 "county": "新竹縣",
