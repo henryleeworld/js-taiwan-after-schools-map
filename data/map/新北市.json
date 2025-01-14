@@ -4373,6 +4373,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200208022849",
+                "name": "必勝課教育科技股份有限公司附設翰林書院文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,",
+                "students": "6歲以上"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.452181,
+                    25.03669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200208022853",
                 "name": "私立慈育文理短期補習班",
                 "county": "新北市",
@@ -8753,6 +8770,23 @@
                 "coordinates": [
                     121.479249,
                     25.011635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200405280003",
+                "name": "私立協合音樂短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小、國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499016,
+                    25.002374
                 ]
             }
         },
