@@ -2435,6 +2435,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022423",
+                "name": "中華語文國際教育股份有限公司附設高雄市私立南華語文短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小,成人(18歲以上),高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301882,
+                    22.619709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022426",
                 "name": "私立千葉外語短期補習班",
                 "county": "高雄市",
@@ -12578,23 +12595,6 @@
                 "coordinates": [
                     120.3385,
                     22.566765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200503230001",
-                "name": "私立喬捷文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.396176,
-                    22.624198
                 ]
             }
         },
@@ -30897,7 +30897,7 @@
                 "name": "私立學堡文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,國小"
+                "students": "國小,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -31788,6 +31788,23 @@
                 "coordinates": [
                     120.329376,
                     22.619534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202407290001",
+                "name": "私立合和外語文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317239,
+                    22.609681
                 ]
             }
         },

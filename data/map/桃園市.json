@@ -4917,6 +4917,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200507120008",
+                "name": "私立利百加語文數學短期補習班龍山分班",
+                "county": "桃園市",
+                "class": "外語類,商類：珠算、心算、會計,其他類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270511,
+                    24.980589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200507120012",
                 "name": "私立首步英語短期補習班",
                 "county": "桃園市",
@@ -13132,7 +13149,7 @@
                 "name": "私立李勳數學文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中、高中,國小"
+                "students": "國小,國中、高中"
             },
             "geometry": {
                 "type": "Point",

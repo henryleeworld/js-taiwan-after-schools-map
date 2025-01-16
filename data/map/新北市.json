@@ -3541,7 +3541,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022707",
-                "name": "私立啟蒙文理語文珠心算短期補習班",
+                "name": "啟蒙文理語文珠心算短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
                 "students": "國中以上,不限年齡"
@@ -22972,7 +22972,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201011240003",
-                "name": "私立凱文英語短期補習班",
+                "name": "凱文英語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "其他"
@@ -27664,7 +27664,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201304180001",
-                "name": "私立倬揚文理短期補習班",
+                "name": "倬揚文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限,國中"
@@ -27902,7 +27902,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201306250001",
-                "name": "私立智道文理語文短期補習班",
+                "name": "智道文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中,不限年齡"
@@ -38748,7 +38748,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202003040001",
-                "name": "私立智蘆文理短期補習班",
+                "name": "智蘆文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡,不限年齡(國語2小時、數學2小時、社會1小時、自然1小時)"
@@ -48482,6 +48482,23 @@
                 "coordinates": [
                     121.447748,
                     25.09278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202501140001",
+                "name": "私立全榛文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446665,
+                    25.050293
                 ]
             }
         }
