@@ -2181,7 +2181,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319408",
-                "name": "私立日南文理短期補習班",
+                "name": "臺中市私立夢想家國際學院文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中,國小"
@@ -4996,23 +4996,6 @@
                 "coordinates": [
                     120.69361,
                     24.149802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200208120027",
-                "name": "台中市私立育才文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.680003,
-                    24.140424
                 ]
             }
         },
@@ -13523,7 +13506,7 @@
                 "name": "臺中市私立佳心數學舞蹈短期補習班",
                 "county": "台中市",
                 "class": "文理類,音樂、舞蹈類,",
-                "students": "國小,學齡前"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -20806,6 +20789,23 @@
                 "coordinates": [
                     120.570621,
                     24.216296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201012109001",
+                "name": "私立軸心音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717569,
+                    24.249451
                 ]
             }
         },
@@ -40179,7 +40179,7 @@
                 "name": "臺中市私立茱奕文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+                "students": "學齡前,國中,高中,國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -40315,7 +40315,7 @@
                 "name": "橡樹學苑有限公司附設臺中市私立橡樹文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,學齡前,國中"
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -40383,7 +40383,7 @@
                 "name": "約書亞探索體驗有限公司附設臺中市私立約書亞文理短期補習班太平新光分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "students": "學齡前,國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
