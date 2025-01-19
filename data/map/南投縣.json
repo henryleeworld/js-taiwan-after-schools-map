@@ -1844,7 +1844,7 @@
                 "name": "南投縣私立志學文理短期補習班",
                 "county": "南投縣",
                 "class": "文理類,",
-                "students": "國中,高中,國小"
+                "students": "其他,國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2021,23 +2021,6 @@
                 "coordinates": [
                     120.972939,
                     23.984435
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49200905110001",
-                "name": "南投縣私立真善美慧聖賢教育機構文理短期補習班",
-                "county": "南投縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684428,
-                    23.966329
                 ]
             }
         },

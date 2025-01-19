@@ -2626,7 +2626,7 @@
                 "name": "新竹縣私立弘國文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,國中,國小"
+                "students": "學齡前,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -8260,6 +8260,23 @@
                 "coordinates": [
                     121.031521,
                     24.812398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202501170001",
+                "name": "新竹縣私立恒卓文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.038799,
+                    24.90223
                 ]
             }
         }

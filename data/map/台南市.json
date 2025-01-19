@@ -7416,23 +7416,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200503180001",
-                "name": "同人文教有限公司附設臺南市私立儒苑文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.227386,
-                    22.996903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200503299002",
                 "name": "臺南市私立蔡小東文理短期補習班",
                 "county": "台南市",
@@ -10426,7 +10409,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62200708300002",
-                "name": "臺南市私立橫氏珠心算短期補習班",
+                "name": "臺南市私立橫氏珠心算技藝短期補習班",
                 "county": "台南市",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小"
@@ -16889,7 +16872,7 @@
                 "name": "臺南市私立金善文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -23655,7 +23638,7 @@
                 "name": "臺南市私立克萊爾文理短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -23764,6 +23747,40 @@
                 "coordinates": [
                     120.237678,
                     23.007757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202501170001",
+                "name": "卓躍文教有限公司附設臺南市私立叡揚文理短期補習班短期補習班新化分班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國中,高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308132,
+                    23.040334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202501170002",
+                "name": "堉宜有限公司附設臺南市私立達善文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300088,
+                    23.130883
                 ]
             }
         }
