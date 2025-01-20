@@ -17225,6 +17225,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200711279005",
+                "name": "私立智傑文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.381625,
+                    22.761313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200711279006",
                 "name": "私立高名文理短期補習班仁武分班",
                 "county": "高雄市",

@@ -10799,6 +10799,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200504120004",
+                "name": "私立卓昇文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "其他,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476384,
+                    25.08638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200504130001",
                 "name": "私立琴韻音樂文理技藝短期補習班",
                 "county": "新北市",
@@ -15213,23 +15230,6 @@
                 "coordinates": [
                     121.40465,
                     24.933481
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200612210010",
-                "name": "私立高斯文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.447354,
-                    25.048233
                 ]
             }
         },
