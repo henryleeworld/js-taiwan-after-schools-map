@@ -2146,6 +2146,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200209160016",
+                "name": "私立吳老師文理美語短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.274998,
+                    24.977914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200209160024",
                 "name": "私立慈園文理美語數學短期補習班",
                 "county": "桃園市",
