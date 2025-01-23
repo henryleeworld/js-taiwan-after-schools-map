@@ -3744,6 +3744,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200207319617",
+                "name": "私立立明文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.701288,
+                    24.19487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200207319619",
                 "name": "臺中市私立鴻祥文理短期補習班",
                 "county": "台中市",
@@ -23906,23 +23923,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201306250001",
-                "name": "臺中市私立蘊才文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.677604,
-                    24.191564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201306280001",
                 "name": "臺中市私立洪門棋院圍棋短期補習班",
                 "county": "台中市",
@@ -30479,23 +30479,6 @@
                 "coordinates": [
                     120.653722,
                     24.156842
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201810110002",
-                "name": "臺中市私立新晨文理音樂短期補習班",
-                "county": "台中市",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.807549,
-                    24.242842
                 ]
             }
         },
