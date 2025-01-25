@@ -10004,7 +10004,7 @@
                 "name": "臺中市私立維尼文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中,成人(18歲以上)"
+                "students": "國中,國小,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -10504,6 +10504,23 @@
                 "coordinates": [
                     120.625255,
                     24.343139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200507229010",
+                "name": "臺中市私立弘翊語文短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570207,
+                    24.242488
                 ]
             }
         },
@@ -32648,7 +32665,7 @@
                 "name": "臺中市私立豹兒孚文理美術短期補習班",
                 "county": "台中市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -40339,6 +40356,23 @@
                 "coordinates": [
                     120.539028,
                     24.250286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202501220001",
+                "name": "臺中市私立愛思禮英語短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683144,
+                    24.16543
                 ]
             }
         }

@@ -31607,6 +31607,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202405010001",
+                "name": "私立楠一文理短期補習班德民分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286149,
+                    22.717799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202405080001",
                 "name": "私立瑞隆音樂美語文理技藝短期補習班",
                 "county": "高雄市",
