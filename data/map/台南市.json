@@ -2588,23 +2588,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200208069006",
-                "name": "臺南市私立學達文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.309235,
-                    23.036322
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200208069007",
                 "name": "臺南市私立新孟德文理短期補習班",
                 "county": "台南市",
@@ -8338,7 +8321,7 @@
                 "name": "臺南市私立智友文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -21254,23 +21237,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62202205270001",
-                "name": "臺南市私立精創文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.201168,
-                    22.985157
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62202206070001",
                 "name": "臺南市私立承聖文理短期補習班",
                 "county": "台南市",
@@ -23329,7 +23295,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202408130001",
-                "name": "臺南市私立瑞希文理技藝短期補習班",
+                "name": "享學趣文教有限公司附設臺南市私立金崑山文理技藝短期補習班",
                 "county": "台南市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小,國中"
@@ -23798,6 +23764,23 @@
                 "coordinates": [
                     120.300088,
                     23.130883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202501230001",
+                "name": "臺南市私立薇薇文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.215643,
+                    23.054169
                 ]
             }
         }

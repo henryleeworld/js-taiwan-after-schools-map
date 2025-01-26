@@ -28565,7 +28565,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201311110001",
-                "name": "私立學冠文理短期補習班",
+                "name": "學冠文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡,國小~高中(A28人、B班18人)"
@@ -39312,7 +39312,7 @@
                 "name": "博仕博文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國小、國中、高中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -48550,6 +48550,40 @@
                 "coordinates": [
                     121.448362,
                     25.05711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202501230001",
+                "name": "私立誠嘉一對一文裡短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.41951,
+                    25.026265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202501230002",
+                "name": "私立奕果文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.423942,
+                    25.02398
                 ]
             }
         }
