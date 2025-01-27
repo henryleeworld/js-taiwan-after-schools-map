@@ -13044,7 +13044,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200601090003",
-                "name": "私立崇幼文理語文短期補習班",
+                "name": "崇幼文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中,不限年齡"
@@ -13972,23 +13972,6 @@
                 "coordinates": [
                     121.479136,
                     25.077414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200606060003",
-                "name": "私立巨匠電腦股份有限公司三重分公司附設巨六電腦短期補習班",
-                "county": "新北市",
-                "class": "資訊類,",
-                "students": "小學以上"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.498046,
-                    25.062037
                 ]
             }
         },
@@ -33579,23 +33562,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201702200001",
-                "name": "私立康和文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.489127,
-                    25.083105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201703060001",
                 "name": "私立三心文理短期補習班",
                 "county": "新北市",
@@ -48584,6 +48550,40 @@
                 "coordinates": [
                     121.423942,
                     25.02398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202501240001",
+                "name": "私立棋琳共學文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489006,
+                    25.066804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202501240002",
+                "name": "傑越文化出版事業有限公司附設私立傑越文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448992,
+                    24.983267
                 ]
             }
         }
