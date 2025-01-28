@@ -4016,6 +4016,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200208089039",
+                "name": "臺南市私立名人文理技藝短期補習班",
+                "county": "台南市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.349161,
+                    23.224837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200208089040",
                 "name": "臺南市私立普林斯頓文理短期補習班",
                 "county": "台南市",
