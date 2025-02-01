@@ -3370,6 +3370,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37201305140003",
+                "name": "苗栗縣私立大仁文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.769457,
+                    24.411805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37201305170001",
                 "name": "苗栗縣私立愛彌兒美語技藝短期補習班",
                 "county": "苗栗縣",
