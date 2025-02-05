@@ -3387,23 +3387,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201310140002",
-                "name": "亮語文創教育有限公司附設新竹縣私立亮語文創作坊文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.006565,
-                    24.828555
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201311070002",
                 "name": "新竹縣私立光點學學文理短期補習班",
                 "county": "新竹縣",
@@ -4237,6 +4220,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201608240001",
+                "name": "新竹縣私立好地美語文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中.高中.成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033908,
+                    24.806177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201608250001",
                 "name": "新竹縣私立菲翌術文理技藝短期補習班",
                 "county": "新竹縣",
@@ -4962,6 +4962,23 @@
                 "coordinates": [
                     121.08841,
                     24.740072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36201808240002",
+                "name": "新竹縣私立靖洋文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03073,
+                    24.827859
                 ]
             }
         },
@@ -7862,7 +7879,7 @@
                 "name": "新竹縣私立超勝美語文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國中,學齡前,國小"
             },
             "geometry": {
                 "type": "Point",

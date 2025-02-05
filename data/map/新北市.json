@@ -16035,23 +16035,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200706040002",
-                "name": "私立信福珠心算短期補習班",
-                "county": "新北市",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.673056,
-                    25.080522
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200706040004",
                 "name": "私立經睿文理短期補習班",
                 "county": "新北市",
@@ -17158,7 +17141,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200801300004",
-                "name": "私立喬安語文短期補習班",
+                "name": "喬安語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小"
@@ -33172,7 +33155,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201611170002",
-                "name": "私立夏綠蒂皇家文理技藝短期補習班",
+                "name": "夏綠蒂皇家文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
                 "students": "6歲以上"
@@ -48584,6 +48567,23 @@
                 "coordinates": [
                     121.448992,
                     24.983267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202502030001",
+                "name": "私立小小林圍棋文理技藝短期補習班三重分班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497985,
+                    25.062411
                 ]
             }
         }
