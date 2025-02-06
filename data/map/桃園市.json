@@ -2592,7 +2592,7 @@
                 "name": "私立祥鼎文理美語短期補習班",
                 "county": "桃園市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4187,10 +4187,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33200406240003",
-                "name": "私立弘盛文理英語短期補習班",
+                "name": "私立弘盛文理英語技藝短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -9524,23 +9524,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200910300001",
-                "name": "私立廣億音樂短期補習班",
-                "county": "桃園市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.214982,
-                    24.958565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200910300003",
                 "name": "私立崴文文理短期補習班",
                 "county": "桃園市",
@@ -12408,23 +12391,6 @@
                 "coordinates": [
                     121.225542,
                     24.957543
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33201304160003",
-                "name": "私立美門數學美語短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小、國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.211488,
-                    24.879183
                 ]
             }
         },

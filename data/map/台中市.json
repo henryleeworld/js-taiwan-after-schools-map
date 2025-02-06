@@ -40392,6 +40392,40 @@
                     24.151528
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202502040001",
+                "name": "臺中市私立宏聲文理音樂短期補習班",
+                "county": "台中市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "學齡前,國小,國中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.61214,
+                    24.148707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202502040002",
+                "name": "臺中市私立學思創新文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636153,
+                    24.10904
+                ]
+            }
         }
     ]
 }

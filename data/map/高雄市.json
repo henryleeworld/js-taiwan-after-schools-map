@@ -12091,6 +12091,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200411300001",
+                "name": "私立爬格子文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324094,
+                    22.61431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200412090001",
                 "name": "私立神話韓語文理短期補習班",
                 "county": "高雄市",
@@ -12449,7 +12466,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200502230002",
-                "name": "私立名威文理短期補習班",
+                "name": "私立允嘉文理短期補習班莊敬分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國中,國小,高中"
@@ -21322,23 +21339,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70201103010002",
-                "name": "私立逸林文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "高中,國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.323054,
-                    22.574976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70201103110001",
                 "name": "私立梵藝術空間技藝短期補習班",
                 "county": "高雄市",
@@ -21622,23 +21622,6 @@
                 "coordinates": [
                     120.327213,
                     22.591259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70201105240001",
-                "name": "私立晨星外語文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307188,
-                    22.660446
                 ]
             }
         },
@@ -31730,7 +31713,7 @@
                 "name": "私立翰生文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "高中,國中"
             },
             "geometry": {
                 "type": "Point",
