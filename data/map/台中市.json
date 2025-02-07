@@ -15152,7 +15152,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200710239005",
-                "name": "臺中市私立精輔文理短期補習班",
+                "name": "臺中市私立沐學文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中"
@@ -27650,7 +27650,7 @@
                 "name": "臺中市私立精勵文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中"
+                "students": "國小,國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -40424,6 +40424,23 @@
                 "coordinates": [
                     120.636153,
                     24.10904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202502050001",
+                "name": "臺中市私立起源文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65728,
+                    24.16838
                 ]
             }
         }

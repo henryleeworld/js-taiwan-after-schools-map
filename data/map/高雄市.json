@@ -31560,7 +31560,7 @@
                 "name": "私立楠一文理短期補習班德民分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中,高中"
+                "students": "學齡前,國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -31873,6 +31873,40 @@
                 "coordinates": [
                     120.286094,
                     22.650518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202501070001",
+                "name": "私立知傳文理短期補習班陽小分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,高中,學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334706,
+                    22.64633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202501140001",
+                "name": "私立新國際技藝文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.39805,
+                    22.604175
                 ]
             }
         }
