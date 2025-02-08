@@ -20336,6 +20336,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201010220001",
+                "name": "臺中市私立美好文理短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636347,
+                    24.155001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201010259001",
                 "name": "臺中市私立毅學文理短期補習班",
                 "county": "台中市",
