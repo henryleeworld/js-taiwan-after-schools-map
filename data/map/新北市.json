@@ -1691,7 +1691,7 @@
                 "name": "柏克萊美語文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -23788,7 +23788,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201105030001",
-                "name": "私立金站文理語文短期補習班",
+                "name": "金站文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "其他,國中"
@@ -30826,7 +30826,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201504300002",
-                "name": "私立集美唐吉君文理語文短期補習班",
+                "name": "集美唐吉君文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡,國中"
@@ -33546,7 +33546,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201703060001",
-                "name": "私立三心文理短期補習班",
+                "name": "三心文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -36402,10 +36402,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201812180002",
-                "name": "私立喜博文理短期補習班",
+                "name": "私立如是文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "國小"
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -37251,23 +37251,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201907040001",
-                "name": "私立肯尼思文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.47241,
-                    25.024103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201907060001",
                 "name": "私立君宥文理短期補習班",
                 "county": "新北市",
@@ -38051,7 +38034,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201911180001",
-                "name": "私立柏淶特文理技藝短期補習班",
+                "name": "柏淶特文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "不限年齡"
@@ -39955,7 +39938,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202009030003",
-                "name": "私立愛波文理短期補習班",
+                "name": "愛波文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上(國文4小時、英文4小時、數學4小時、自然2小時)"
@@ -42549,23 +42532,6 @@
                 "coordinates": [
                     121.546584,
                     24.97561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202112290001",
-                "name": "美泰豐文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.358532,
-                    25.07581
                 ]
             }
         },

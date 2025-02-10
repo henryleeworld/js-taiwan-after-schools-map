@@ -480,23 +480,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36200207290002",
-                "name": "私立常春藤美語文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.006058,
-                    24.831607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36200208220001",
                 "name": "臺師菁英文教事業股份有限公司附設新竹縣私立臺師9號文理短期補習班",
                 "county": "新竹縣",
@@ -2082,7 +2065,7 @@
                 "name": "新竹縣私立名人縱橫圍棋短期補習班",
                 "county": "新竹縣",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "學齡前-成人"
             },
             "geometry": {
                 "type": "Point",
@@ -3541,7 +3524,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36201404090001",
-                "name": "新竹縣私立阿布探索教室文理才藝短期補習班",
+                "name": "新竹縣私立拾藝探索教室文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,外語類,",
                 "students": "國小"
@@ -4962,6 +4945,23 @@
                 "coordinates": [
                     121.08841,
                     24.740072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36201808240002",
+                "name": "新竹縣私立靖洋文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,外語類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03073,
+                    24.827859
                 ]
             }
         },

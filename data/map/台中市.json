@@ -5359,6 +5359,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120179",
+                "name": "臺中市私立喜而愛文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.660703,
+                    24.1746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120183",
                 "name": "臺中市私立漢聲文理短期補習班",
                 "county": "台中市",
@@ -5659,6 +5676,23 @@
                 "coordinates": [
                     120.660383,
                     24.19336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200208120291",
+                "name": "台灣知識庫股份有限公司附設臺中市私立逢甲數位學堂文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "升四技二專大專"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646575,
+                    24.172824
                 ]
             }
         },
@@ -6288,6 +6322,23 @@
                 "coordinates": [
                     120.684254,
                     24.135247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200208120588",
+                "name": "臺中市私立愛育珠心算美語會話短期補習班",
+                "county": "台中市",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647329,
+                    24.173121
                 ]
             }
         },
@@ -9127,6 +9178,23 @@
                 "coordinates": [
                     120.701286,
                     24.194955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200408160003",
+                "name": "臺中市私立前進美、歐語會話短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.646453,
+                    24.172654
                 ]
             }
         },
@@ -20339,7 +20407,7 @@
                 "code": "42201010220001",
                 "name": "臺中市私立美好文理短期補習班",
                 "county": "台中市",
-                "class": "音樂、舞蹈類,",
+                "class": "文理類,",
                 "students": "國小,國中"
             },
             "geometry": {
