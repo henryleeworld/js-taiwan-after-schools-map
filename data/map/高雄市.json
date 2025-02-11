@@ -12448,6 +12448,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200502230002",
+                "name": "私立允嘉文理短期補習班莊敬分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.32256,
+                    22.654046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200502240001",
                 "name": "私立培林文理短期補習班",
                 "county": "高雄市",

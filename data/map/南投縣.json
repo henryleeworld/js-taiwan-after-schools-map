@@ -2282,6 +2282,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "49201009260005",
+                "name": "南投縣私立偉達文理短期補習班南投分班",
+                "county": "南投縣",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686473,
+                    23.91157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "49201009260006",
                 "name": "南投縣私立向上文理短期補習班",
                 "county": "南投縣",
