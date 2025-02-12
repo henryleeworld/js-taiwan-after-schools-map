@@ -8100,7 +8100,7 @@
                 "name": "弋果文化事業股份有限公司附設新竹市私立弋果香山文理技藝短期補習班",
                 "county": "新竹市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,其他"
+                "students": "其他,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8192,6 +8192,23 @@
                 "coordinates": [
                     120.965324,
                     24.811167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202502100001",
+                "name": "新竹市私立未來之星文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.963696,
+                    24.80437
                 ]
             }
         }

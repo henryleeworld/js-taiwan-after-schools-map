@@ -12214,7 +12214,7 @@
                 "name": "私立千樹成林作文短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -40526,6 +40526,23 @@
                 "coordinates": [
                     120.65728,
                     24.16838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202502100001",
+                "name": "精粹文教有限公司附設臺中市私立粹學文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634754,
+                    24.10643
                 ]
             }
         }

@@ -10289,6 +10289,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200707249002",
+                "name": "臺南市私立康林文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310004,
+                    23.033825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200707309001",
                 "name": "臺南市私立鹽水育人文理短期補習班",
                 "county": "台南市",
@@ -23771,7 +23788,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202501230001",
-                "name": "臺南市私立薇薇文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立薇薇文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國小,國中,高中"
