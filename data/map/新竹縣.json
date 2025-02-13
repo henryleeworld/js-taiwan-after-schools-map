@@ -4220,6 +4220,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201608250001",
+                "name": "新竹縣私立菲翌術文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,學齡前至國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016084,
+                    24.815684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201610140002",
                 "name": "新竹縣私立康寧興隆文理才藝短期補習班",
                 "county": "新竹縣",
@@ -8226,6 +8243,57 @@
                 "coordinates": [
                     121.038799,
                     24.90223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202502110001",
+                "name": "昊學文教股份有限公司附設新竹縣私立薈風升大文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033935,
+                    24.806053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202502110002",
+                "name": "學宇資優文化股份有限公司附設新竹縣私立乘風文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033935,
+                    24.806053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202502110003",
+                "name": "新竹縣私立念德文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027328,
+                    24.814876
                 ]
             }
         }

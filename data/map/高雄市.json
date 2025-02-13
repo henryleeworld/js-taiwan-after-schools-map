@@ -3642,6 +3642,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022693",
+                "name": "私立上智文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305241,
+                    22.624331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022697",
                 "name": "私立勤麗園文理短期補習班",
                 "county": "高雄市",
@@ -30149,7 +30166,7 @@
                 "name": "私立力乘數學文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "高中,國中,國小"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",

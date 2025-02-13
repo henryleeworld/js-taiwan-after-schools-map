@@ -361,6 +361,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82201810090001",
+                "name": "金門縣私立艾歐英語文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,",
+                "students": "國中,高中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.319003,
+                    24.435528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82201903150001",
                 "name": "金門縣私立樂樂學堂文理短期補習班",
                 "county": "金門縣",
@@ -593,6 +610,23 @@
                 "coordinates": [
                     118.318235,
                     24.435651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "82202502110001",
+                "name": "金門縣私立童言有畫文理技藝短期補習班",
+                "county": "金門縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.336559,
+                    24.45034
                 ]
             }
         }
