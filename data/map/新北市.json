@@ -4476,10 +4476,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022868",
-                "name": "宏仁文理珠心算語文短期補習班",
+                "name": "私立米豆學苑文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國中,國小"
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -7281,10 +7281,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200309100006",
-                "name": "私立新今日美語短期補習班",
+                "name": "新今日美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "未填寫"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
@@ -14200,7 +14200,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200607190002",
-                "name": "惠文領袖文理技藝短期補習班",
+                "name": "私立惠文領袖文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,音樂、舞蹈類,",
                 "students": "不限年齡(切結)"
@@ -48584,6 +48584,40 @@
                 "coordinates": [
                     121.538768,
                     24.977608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202502120001",
+                "name": "學旅文創有限公司附設私立舞動世界富國技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,瑜珈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448014,
+                    25.057125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202502120002",
+                "name": "私立莫札特音樂文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.521845,
+                    24.998092
                 ]
             }
         }

@@ -1079,7 +1079,7 @@
                 "name": "臺南市私立鼎勝文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -4979,23 +4979,6 @@
                 "coordinates": [
                     120.238302,
                     23.12206
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62200211190001",
-                "name": "奧林匹克文化事業股份有限公司附設臺南市私立昊漢文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.231578,
-                    22.998117
                 ]
             }
         },
@@ -9246,6 +9229,23 @@
                 "coordinates": [
                     120.40324,
                     23.323405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200610160001",
+                "name": "嶺瀚文教事業有限公司附設臺南市私立非凡文理短期補習班同安分班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.190719,
+                    23.041205
                 ]
             }
         },

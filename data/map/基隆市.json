@@ -212,7 +212,7 @@
                 "name": "基隆市私立新民文理短期補習班",
                 "county": "基隆市",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -593,23 +593,6 @@
                 "coordinates": [
                     121.762638,
                     25.127738
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24200208230005",
-                "name": "基隆市私立筌易文理短期補習班",
-                "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.734528,
-                    25.097835
                 ]
             }
         },
@@ -2208,23 +2191,6 @@
                 "coordinates": [
                     121.740868,
                     25.130514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "24201103290001",
-                "name": "基隆市私立英倫文理短期補習班",
-                "county": "基隆市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.7546,
-                    25.099191
                 ]
             }
         },
