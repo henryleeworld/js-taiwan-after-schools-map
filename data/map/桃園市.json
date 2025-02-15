@@ -8572,6 +8572,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200810060001",
+                "name": "私立崙晟文理美語短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270565,
+                    24.975393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200810270001",
                 "name": "私立中正美術短期補習班",
                 "county": "桃園市",
@@ -22676,6 +22693,40 @@
                 "coordinates": [
                     121.390182,
                     25.046187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202502130001",
+                "name": "私立漫思文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,高中,國中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21335,
+                    25.005349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202502130002",
+                "name": "私立兆聖文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.299038,
+                    25.047433
                 ]
             }
         }
