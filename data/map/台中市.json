@@ -11598,6 +11598,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200601100002",
+                "name": "臺中市私立大學門文理短期補習班居仁分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680695,
+                    24.135917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200601119004",
                 "name": "臺中市私立育心文理短期補習班",
                 "county": "台中市",
@@ -31712,7 +31729,7 @@
                 "code": "42201908270002",
                 "name": "臺中市私立琳達文理短期補習班新光分班",
                 "county": "台中市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "國小,學齡前"
             },
             "geometry": {
@@ -37833,7 +37850,7 @@
                 "name": "僑新錠優文教事業股份有限公司附設臺中市私立錠優文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,高中,國中"
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",

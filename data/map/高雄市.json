@@ -1283,7 +1283,7 @@
                 "name": "私立聖學文理短期補習班左營分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,高中,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -11360,23 +11360,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200407069005",
-                "name": "私立超越文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.260446,
-                    22.854029
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200407069006",
                 "name": "私立世庭文理短期補習班",
                 "county": "高雄市",
@@ -15995,23 +15978,6 @@
                 "coordinates": [
                     120.32659,
                     22.734499
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200703210001",
-                "name": "私立心品閣文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.305062,
-                    22.657727
                 ]
             }
         },
@@ -27276,7 +27242,7 @@
                 "name": "力葳文教事業有限公司附設力葳文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -28446,7 +28412,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202002100001",
-                "name": "私立金岡文理短期補習班",
+                "name": "私立學城文理短期補習班岡山分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小,國中,高中"
@@ -31863,7 +31829,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202502130001",
-                "name": "明光文教事業股份有限公司附設私立明光義塾語文文理短期補習班正興分班",
+                "name": "明光文教事業股份有限公司附設明光義塾語文文理短期補習班正興分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小,國中,高中"
