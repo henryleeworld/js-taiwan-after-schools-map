@@ -9745,23 +9745,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200409290001",
-                "name": "私立水影舞集舞蹈短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.472682,
-                    25.028748
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200409290002",
                 "name": "私立學冠海山旗鑑文理短期補習班",
                 "county": "新北市",
@@ -17474,6 +17457,23 @@
                 "coordinates": [
                     121.370591,
                     25.069445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200804180003",
+                "name": "私立林立文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.412612,
+                    25.005917
                 ]
             }
         },
