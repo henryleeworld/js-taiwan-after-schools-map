@@ -8878,23 +8878,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200901100001",
-                "name": "私立冠雄數學語文短期補習班",
-                "county": "桃園市",
-                "class": "外語類,其他類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.299923,
-                    25.051957
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200901190002",
                 "name": "私立立育文理語文短期補習班",
                 "county": "桃園市",
@@ -13386,7 +13369,7 @@
                 "code": "33201407040005",
                 "name": "私立宏育文理語文數學短期補習班",
                 "county": "桃園市",
-                "class": "外語類,其他類,",
+                "class": "文理類,外語類,其他類,",
                 "students": "國小,國中"
             },
             "geometry": {

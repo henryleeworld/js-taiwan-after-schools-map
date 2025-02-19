@@ -4135,6 +4135,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200207319689",
+                "name": "私立育樂文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,法政類,",
+                "students": "高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720971,
+                    24.251303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200207319693",
                 "name": "私立皇極文理短期補習班",
                 "county": "台中市",
@@ -5513,10 +5530,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200208120250",
-                "name": "百年樹人科技股份有限公司附設臺中市私立明儒文理短期補習班",
+                "name": "百年樹人文教科技股份有限公司附設臺中市私立明儒文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -14040,23 +14057,6 @@
                 "coordinates": [
                     120.71483,
                     24.124313
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200704259003",
-                "name": "私立標竿文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.716104,
-                    24.261574
                 ]
             }
         },
@@ -40509,6 +40509,57 @@
                 "coordinates": [
                     120.634754,
                     24.10643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202502170001",
+                "name": "伯廣文教事業有限公司附設臺中市私立白老師惠文文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,學齡前,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636514,
+                    24.145485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202502170002",
+                "name": "臺中市私立佳倍恩文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.658947,
+                    24.13532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202502170003",
+                "name": "臺中市私立像愛允文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684565,
+                    24.115359
                 ]
             }
         }

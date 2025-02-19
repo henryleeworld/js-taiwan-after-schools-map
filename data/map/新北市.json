@@ -9745,6 +9745,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200409290001",
+                "name": "私立水影舞集舞蹈短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.472682,
+                    25.028748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200409290002",
                 "name": "私立學冠海山旗鑑文理短期補習班",
                 "county": "新北市",
@@ -13913,8 +13930,8 @@
                 "code": "21200605300001",
                 "name": "棋林文理語文圍棋短期補習班",
                 "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "年齡不限,國中小"
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡,年齡不限"
             },
             "geometry": {
                 "type": "Point",
@@ -31233,23 +31250,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201509020001",
-                "name": "邱瀅潔舞蹈短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.471923,
-                    25.091681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201509030001",
                 "name": "私立寶兒文理語文短期補習班",
                 "county": "新北市",
@@ -41604,7 +41604,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202108040003",
-                "name": "私立定展文理短期補習班",
+                "name": "定展文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -43882,7 +43882,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202208040001",
-                "name": "私立快樂機器人有限公司附設快樂機器人技藝短期補習班",
+                "name": "快樂機器人有限公司附設快樂機器人技藝短期補習班",
                 "county": "新北市",
                 "class": "資訊類,",
                 "students": "年齡不限"
