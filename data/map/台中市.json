@@ -6736,23 +6736,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120846",
-                "name": "臺中市私立冠廷卓越獎才藝中心",
-                "county": "台中市",
-                "class": "其他類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.656637,
-                    24.168695
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120851",
                 "name": "臺中市私立華青才藝中心",
                 "county": "台中市",
@@ -14057,6 +14040,23 @@
                 "coordinates": [
                     120.71483,
                     24.124313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200704259003",
+                "name": "私立標竿文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.716104,
+                    24.261574
                 ]
             }
         },

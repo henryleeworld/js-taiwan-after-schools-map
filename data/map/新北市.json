@@ -7556,13 +7556,13 @@
                 "name": "睿明英語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "國中"
+                "students": "不限年齡"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.518981,
-                    25.000468
+                    121.520643,
+                    25.00009
                 ]
             }
         },
@@ -8946,23 +8946,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200406230007",
-                "name": "私立昱新文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.519018,
-                    24.985541
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200406230010",
                 "name": "私立凱新美語短期補習班",
                 "county": "新北市",
@@ -10249,23 +10232,6 @@
                 "coordinates": [
                     121.492075,
                     25.08306
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200412230005",
-                "name": "私立磐石音樂文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.389712,
-                    25.078696
                 ]
             }
         },

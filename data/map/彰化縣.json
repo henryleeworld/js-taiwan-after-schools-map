@@ -16354,6 +16354,40 @@
                     24.110602
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202502180001",
+                "name": "彰化縣私立創禾美術技藝短期補習班",
+                "county": "彰化縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前至成人"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539063,
+                    24.080807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202502180002",
+                "name": "彰化縣私立文喬文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486555,
+                    24.14625
+                ]
+            }
         }
     ]
 }

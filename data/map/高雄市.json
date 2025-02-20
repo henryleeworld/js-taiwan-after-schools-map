@@ -3816,7 +3816,7 @@
                 "name": "私立龍鑫美語文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小,學齡前"
+                "students": "成人(18歲以上),學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -6917,23 +6917,6 @@
                 "coordinates": [
                     120.302342,
                     22.632375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200205210024",
-                "name": "私立精華文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.328092,
-                    22.644307
                 ]
             }
         },
