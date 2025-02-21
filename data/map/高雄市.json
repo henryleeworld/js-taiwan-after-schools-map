@@ -6923,6 +6923,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205210024",
+                "name": "私立精華文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328092,
+                    22.644307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200205210025",
                 "name": "瀚將教育科技股份有限公司附設百瀚文理短期補習班陽明分班",
                 "county": "高雄市",
@@ -31254,7 +31271,7 @@
                 "name": "私立劉威宏資優數學文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,高中,國小"
+                "students": "學齡前,國小,國中,高中"
             },
             "geometry": {
                 "type": "Point",

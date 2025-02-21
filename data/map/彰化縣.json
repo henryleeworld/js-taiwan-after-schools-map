@@ -8266,23 +8266,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201111030001",
-                "name": "私立劍僑英文短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54543,
-                    23.918783
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201111040001",
                 "name": "私立李春作文短期補習班",
                 "county": "彰化縣",
@@ -16379,13 +16362,30 @@
                 "name": "彰化縣私立文喬文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國中,國小,高中"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     120.486555,
                     24.14625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202502190001",
+                "name": "彰化縣私立樂學文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539454,
+                    24.062843
                 ]
             }
         }
