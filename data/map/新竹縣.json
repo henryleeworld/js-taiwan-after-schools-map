@@ -1637,7 +1637,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36200804250003",
-                "name": "新竹縣私立豐東文理短期補習班竹北分班",
+                "name": "新竹縣私立豐東文理短期補習",
                 "county": "新竹縣",
                 "class": "文理類,",
                 "students": "國中"
@@ -2045,7 +2045,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36200908230004",
-                "name": "私立佳欣文理短期補習班",
+                "name": "新竹縣私立佳欣文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
                 "students": "國小,國中"
@@ -5801,6 +5801,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202004130003",
+                "name": "富錦文教股份有限公司附設新竹縣私立富錦文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "高中,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.089106,
+                    24.733554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202004280001",
                 "name": "新竹縣私立惠歆音樂社才藝短期補習班",
                 "county": "新竹縣",
@@ -6128,7 +6145,7 @@
                 "name": "新竹縣私立晟峰文教文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -8277,6 +8294,40 @@
                 "coordinates": [
                     121.027328,
                     24.814876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202502210001",
+                "name": "浩學私塾股份有限公司附設新竹縣私立新創東興文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "高中,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032018,
+                    24.813572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202502210002",
+                "name": "新竹縣私立鳴典文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.017528,
+                    24.817858
                 ]
             }
         }
