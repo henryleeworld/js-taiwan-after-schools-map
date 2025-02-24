@@ -4900,23 +4900,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089009",
-                "name": "私立莘莘文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.353278,
-                    22.702604
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089013",
                 "name": "私立狀元文理短期補習班",
                 "county": "高雄市",
@@ -5132,6 +5115,23 @@
                 "coordinates": [
                     120.393749,
                     22.606945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200205089073",
+                "name": "私立資優柏克萊文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307143,
+                    22.793949
                 ]
             }
         },
@@ -6917,6 +6917,23 @@
                 "coordinates": [
                     120.328092,
                     22.644307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200205210025",
+                "name": "瀚將教育科技股份有限公司附設百瀚文理短期補習班陽明分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343053,
+                    22.642209
                 ]
             }
         },
