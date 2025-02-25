@@ -6430,6 +6430,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120660",
+                "name": "私立大睿電腦美語短期補習班",
+                "county": "台中市",
+                "class": "外語類,資訊類,",
+                "students": "國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614475,
+                    24.150106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120661",
                 "name": "臺中市私立新寶華電腦附設美語會話短期補習班",
                 "county": "台中市",
