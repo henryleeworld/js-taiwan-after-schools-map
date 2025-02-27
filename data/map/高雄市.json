@@ -1640,7 +1640,7 @@
                 "name": "私立敦皇外語短期補習班",
                 "county": "高雄市",
                 "class": "外語類,",
-                "students": "國小,國中"
+                "students": "國小"
             },
             "geometry": {
                 "type": "Point",
@@ -2429,6 +2429,23 @@
                 "coordinates": [
                     120.319057,
                     22.589739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200204022423",
+                "name": "中華語文國際教育股份有限公司附設高雄市私立南華語文短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小,成人(18歲以上),高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301882,
+                    22.619709
                 ]
             }
         },
@@ -6900,6 +6917,23 @@
                 "coordinates": [
                     120.302342,
                     22.632375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200205210024",
+                "name": "私立精華文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.328092,
+                    22.644307
                 ]
             }
         },
@@ -31703,6 +31737,23 @@
                 "coordinates": [
                     120.337767,
                     22.591476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202408050003",
+                "name": "私立北約克文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368547,
+                    22.628741
                 ]
             }
         },

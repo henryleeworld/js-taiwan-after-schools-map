@@ -5886,6 +5886,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120369",
+                "name": "臺中市私立千輝中國語文短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647619,
+                    24.169856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120392",
                 "name": "臺中市私立立頓文理短期補習班",
                 "county": "台中市",
@@ -6379,6 +6396,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120642",
+                "name": "臺中市私立母子鳥電腦附設美語短期補習班",
+                "county": "台中市",
+                "class": "資訊類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.640966,
+                    24.178158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120646",
                 "name": "私立樂學電腦附設美語短期補習班",
                 "county": "台中市",
@@ -6390,6 +6424,23 @@
                 "coordinates": [
                     120.614794,
                     24.148464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200208120649",
+                "name": "臺中市私立種籽電腦附設美語會話短期補習班",
+                "county": "台中市",
+                "class": "資訊類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.645066,
+                    24.172674
                 ]
             }
         },
@@ -8328,6 +8379,23 @@
                 "coordinates": [
                     120.679046,
                     24.101365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200401120001",
+                "name": "私立士佳文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.672012,
+                    24.13775
                 ]
             }
         },
@@ -13190,6 +13258,23 @@
                 "coordinates": [
                     120.644768,
                     24.176559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200612040001",
+                "name": "臺中市私立實力建築土木及都市短期補習班",
+                "county": "台中市",
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647387,
+                    24.170851
                 ]
             }
         },
@@ -31101,7 +31186,7 @@
                 "name": "敦興文教事業有限公司附設臺中市私立明光烏日文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "高中,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -37816,7 +37901,7 @@
                 "name": "僑新錠優文教事業股份有限公司附設臺中市私立錠優文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,高中,國小"
+                "students": "高中,國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -40451,7 +40536,7 @@
                 "name": "臺中市私立學思創新文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
