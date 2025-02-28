@@ -5971,6 +5971,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200401020002",
+                "name": "臺南市私立多那文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192453,
+                    22.977121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200401080001",
                 "name": "臺南市私立全方位文理短期補習班",
                 "county": "台南市",
@@ -9841,23 +9858,6 @@
                 "coordinates": [
                     120.173796,
                     23.166563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62200703159002",
-                "name": "臺南市私立宏智文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.289041,
-                    22.965599
                 ]
             }
         },

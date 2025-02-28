@@ -1959,23 +1959,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35200609250002",
-                "name": "新竹市私立企鵝村語文短期補習班",
-                "county": "新竹市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.979321,
-                    24.802963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35200611090002",
                 "name": "新竹市私立超優文理短期補習班",
                 "county": "新竹市",
@@ -8066,7 +8049,7 @@
                 "name": "新竹市私立君師文理短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
