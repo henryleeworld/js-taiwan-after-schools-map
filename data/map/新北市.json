@@ -13179,23 +13179,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200601190001",
-                "name": "私立詹浩教育股份有限公司附設浩學文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小以上"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.458462,
-                    25.008236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200601190002",
                 "name": "私立朝陽文理語文短期補習班",
                 "county": "新北市",
@@ -15179,6 +15162,23 @@
                 "coordinates": [
                     121.473996,
                     25.015709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200612210001",
+                "name": "私立城市美瑜伽短期補習班",
+                "county": "新北市",
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442127,
+                    24.975518
                 ]
             }
         },
