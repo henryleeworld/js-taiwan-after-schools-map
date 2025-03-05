@@ -12180,7 +12180,7 @@
                 "name": "彰化縣私立樂獅文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -16420,6 +16420,23 @@
                 "coordinates": [
                     120.465296,
                     24.136455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202503030001",
+                "name": "何嘉仁文教事業股份有限公司附設彰化縣私立伊藤文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565194,
+                    23.958997
                 ]
             }
         }

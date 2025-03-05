@@ -7994,23 +7994,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200308280004",
-                "name": "臺中市私立立卓珠心算附設美語會話短期補習班",
-                "county": "台中市",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.669851,
-                    24.116787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200309019002",
                 "name": "臺中市私立向陽文理短期補習班",
                 "county": "台中市",
@@ -9195,23 +9178,6 @@
                 "coordinates": [
                     120.646453,
                     24.172654
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200408200001",
-                "name": "臺中市私立小樹苗美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.64864,
-                    24.145873
                 ]
             }
         },
@@ -20833,7 +20799,7 @@
                 "name": "臺中市私立學康文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -32168,23 +32134,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201912160001",
-                "name": "臺中市私立波卡音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國中,學齡前,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.679705,
-                    24.168421
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201912190001",
                 "name": "臺中市私立山角形美學教育短期補習班",
                 "county": "台中市",
@@ -40594,6 +40543,23 @@
                 "coordinates": [
                     120.684565,
                     24.115359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503030001",
+                "name": "臺中市私立加音文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,學齡前,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.623507,
+                    24.105817
                 ]
             }
         }
