@@ -31641,6 +31641,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202406270002",
+                "name": "私立愛之旋文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319262,
+                    22.609274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202407020001",
                 "name": "私立耶加文理短期補習班左新分班",
                 "county": "高雄市",
@@ -31754,6 +31771,23 @@
                 "coordinates": [
                     120.299599,
                     22.637605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202410140001",
+                "name": "私立藝思藝事技藝短期補習班",
+                "county": "高雄市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324873,
+                    22.612548
                 ]
             }
         },
