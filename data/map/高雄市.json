@@ -5767,23 +5767,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089190",
-                "name": "私立麥米倫英語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.345626,
-                    22.628623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089191",
                 "name": "私立大使文理技藝短期補習班",
                 "county": "高雄市",
@@ -16141,7 +16124,7 @@
                 "name": "私立華美文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,外語類,",
-                "students": "學齡前,國小,國中,高中"
+                "students": "國小,學齡前,國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -27392,10 +27375,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70201901070001",
-                "name": "私立博士吉米文理短期補習班",
+                "name": "私立翰樺文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "學齡前,國中,高中,國小"
+                "students": "高中,學齡前,國中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -31849,13 +31832,13 @@
                 "name": "私立知傳文理短期補習班陽小分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,高中,學齡前,國小"
+                "students": "高中,國中,學齡前,國小"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.334706,
-                    22.64633
+                    120.334695,
+                    22.646366
                 ]
             }
         },
