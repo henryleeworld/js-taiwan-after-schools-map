@@ -22,7 +22,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208020034",
-                "name": "私立德利語文文理短期補習班",
+                "name": "德利語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡,不限年齡(國語10小時、英文3小時、數學3小時、社會1小時、自然2小時、作文1小時)"
@@ -668,7 +668,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022180",
-                "name": "私立加登文理短期補習班",
+                "name": "加登文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡"
@@ -1154,23 +1154,6 @@
                 "coordinates": [
                     121.469908,
                     25.006838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200208022300",
-                "name": "立行文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.510172,
-                    24.989187
                 ]
             }
         },
@@ -15213,6 +15196,23 @@
                 "coordinates": [
                     121.40465,
                     24.933481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200612210010",
+                "name": "私立高斯文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447354,
+                    25.048233
                 ]
             }
         },

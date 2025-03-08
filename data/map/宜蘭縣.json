@@ -4326,7 +4326,7 @@
                 "name": "私立新頭腦文理短期補習班",
                 "county": "宜蘭縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中,國中-成人"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -4588,23 +4588,6 @@
                 "coordinates": [
                     121.78871,
                     24.635751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "39202110050001",
-                "name": "私立陳揚英文文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "文理類,",
-                "students": "國中小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.756571,
-                    24.755703
                 ]
             }
         },

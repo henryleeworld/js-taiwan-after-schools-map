@@ -6192,23 +6192,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120492",
-                "name": "臺中市私立新成功美語會話短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.651127,
-                    24.134305
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120515",
                 "name": "臺中市私立夏卡爾美語會話短期補習班",
                 "county": "台中市",
@@ -13880,7 +13863,7 @@
                 "name": "臺中市私立新國明文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",

@@ -2359,8 +2359,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.602048,
-                    23.976628
+                    121.65982,
+                    24.149216
                 ]
             }
         },
@@ -2497,6 +2497,23 @@
                 "coordinates": [
                     121.604435,
                     23.975136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202503070001",
+                "name": "私立承莘文理短期補習班短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.602048,
+                    23.976628
                 ]
             }
         }
