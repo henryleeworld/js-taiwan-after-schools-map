@@ -3064,6 +3064,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022570",
+                "name": "私立廣鴻外語短期補習班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317226,
+                    22.684249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022576",
                 "name": "私立牛津外語短期補習班",
                 "county": "高雄市",
@@ -5744,23 +5761,6 @@
                 "coordinates": [
                     120.341157,
                     22.610797
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200205089190",
-                "name": "私立麥米倫英語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.345626,
-                    22.628623
                 ]
             }
         },
