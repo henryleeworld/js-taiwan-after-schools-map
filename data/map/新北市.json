@@ -940,7 +940,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022254",
-                "name": "私立建中文理短期補習班",
+                "name": "建中文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中"
@@ -1334,7 +1334,7 @@
                 "name": "詠平文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國中以上"
+                "students": "國小、國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -4357,9 +4357,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022849",
-                "name": "必勝課教育科技股份有限公司附設翰林書院文理短期補習班",
+                "name": "私立文城薪莊文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,資訊類,",
+                "class": "文理類,",
                 "students": "6歲以上"
             },
             "geometry": {
@@ -15162,6 +15162,23 @@
                 "coordinates": [
                     121.473996,
                     25.015709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200612210001",
+                "name": "私立城市美瑜伽短期補習班",
+                "county": "新北市",
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442127,
+                    24.975518
                 ]
             }
         },
@@ -48720,6 +48737,23 @@
                 "coordinates": [
                     121.415982,
                     25.022282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202503100001",
+                "name": "良師塾事業有限公司附設私立良師塾教育文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458618,
+                    25.008417
                 ]
             }
         }
