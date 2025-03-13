@@ -3030,23 +3030,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "39201205290001",
-                "name": "東海國際電腦資訊有限公司附設私立大東海法商文理短期補習班",
-                "county": "宜蘭縣",
-                "class": "法政類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.752767,
-                    24.757705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "39201206130001",
                 "name": "私立登竹文理短期補習班",
                 "county": "宜蘭縣",
@@ -5200,6 +5183,23 @@
                 "coordinates": [
                     121.739383,
                     24.752203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "39202503110001",
+                "name": "理想文教附設私立逸學文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,外語類,",
+                "students": "國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.762738,
+                    24.680107
                 ]
             }
         }

@@ -10629,23 +10629,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200507260001",
-                "name": "臺中市私立開文文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.692978,
-                    24.179973
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200508109001",
                 "name": "朝陽富元教育股份有限公司附設臺中市私立朝揚文理短期補習班",
                 "county": "台中市",
@@ -11925,7 +11908,7 @@
                 "name": "私立波特文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國小,國中"
             },
             "geometry": {
                 "type": "Point",
@@ -17236,23 +17219,6 @@
                 "coordinates": [
                     120.626065,
                     24.351925
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200811189003",
-                "name": "優迪文教科技股份有限公司附設臺中市私立優迪文理短期補習班瑞穗分班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.712858,
-                    24.250554
                 ]
             }
         },
@@ -40543,6 +40509,57 @@
                 "coordinates": [
                     120.623507,
                     24.105817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503110001",
+                "name": "臺中市私立佳士德美術短期補習班",
+                "county": "台中市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684549,
+                    24.162814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503110002",
+                "name": "臺中市私立郁術文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.655387,
+                    24.226157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503110003",
+                "name": "臺中市私立尚宇文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.574366,
+                    24.275185
                 ]
             }
         }
