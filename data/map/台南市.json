@@ -7739,23 +7739,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200508159001",
-                "name": "臺南市私立辛欣美語短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.171482,
-                    23.161246
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200508169001",
                 "name": "臺南市私立生學文理短期補習班",
                 "county": "台南市",
@@ -8746,7 +8729,7 @@
                 "name": "臺南市私立無敵文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "高中,國小,國中"
+                "students": "國中,高中,國小"
             },
             "geometry": {
                 "type": "Point",
@@ -19337,7 +19320,7 @@
                 "name": "臺南市私立理研堂文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中,國中、高中"
+                "students": "國中,國小,國中、高中"
             },
             "geometry": {
                 "type": "Point",
@@ -20670,23 +20653,6 @@
                 "coordinates": [
                     120.22451,
                     22.979799
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62202109030002",
-                "name": "臺南市私立竣成文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國中,高中,成人(18歲以上),國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.197085,
-                    23.026985
                 ]
             }
         },
@@ -23737,7 +23703,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202502070001",
-                "name": "孔孟文化事業有限公司附設臺南市私立孔孟文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "孔孟文化事業有限公司附設臺南市私立孔孟文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國中,高中,學齡前,國小"

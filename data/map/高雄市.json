@@ -3064,6 +3064,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022570",
+                "name": "私立廣鴻外語短期補習班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317226,
+                    22.684249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022576",
                 "name": "私立牛津外語短期補習班",
                 "county": "高雄市",
@@ -4469,23 +4486,6 @@
                 "coordinates": [
                     120.335068,
                     22.644691
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200204022921",
-                "name": "私立交大文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.348389,
-                    22.567879
                 ]
             }
         },
@@ -7675,7 +7675,7 @@
                 "name": "哈佛教育股份有限公司附設高雄市泛亞文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "高中,高四"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",
@@ -29873,6 +29873,23 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202201030001",
+                "name": "私立沛洛捷外語文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國小,高中,成人(18歲以上),國中,學齡前"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293581,
+                    22.79254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202202150001",
                 "name": "私立鑫聖文理短期補習班",
                 "county": "高雄市",
@@ -29894,7 +29911,7 @@
                 "name": "私立貝力達文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小,學齡前,高中,成人(18歲以上)"
+                "students": "國中,高中,國小,學齡前,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -30591,7 +30608,7 @@
                 "name": "私立貝力達文理短期補習班凱旋分班",
                 "county": "高雄市",
                 "class": "文理類,其他類,",
-                "students": "學齡前,國中,國小,高中,成人(18歲以上)"
+                "students": "國中,學齡前,國小,高中,成人(18歲以上)"
             },
             "geometry": {
                 "type": "Point",
@@ -31390,7 +31407,7 @@
                 "name": "私立貝力達文理短期補習班憲政分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,高中,成人(18歲以上),國中,學齡前"
+                "students": "高中,國小,成人(18歲以上),國中,學齡前"
             },
             "geometry": {
                 "type": "Point",
@@ -31448,6 +31465,23 @@
                 "coordinates": [
                     120.33346,
                     22.68939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202404290001",
+                "name": "私立貝力達文理短期補習班陽明分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國中,國小,高中,成人(18歲以上)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.33511,
+                    22.644354
                 ]
             }
         },
@@ -31543,7 +31577,7 @@
                 "name": "高明一對一學習有限公司附設高明一對一文理短期補習班美術館分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "高中,國中"
+                "students": "國中,高中"
             },
             "geometry": {
                 "type": "Point",

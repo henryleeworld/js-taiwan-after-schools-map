@@ -3507,9 +3507,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022702",
-                "name": "私立上賀語文文理短期補習班",
+                "name": "上賀語文文理短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
+                "class": "文理類,外語類,",
                 "students": "6歲以上"
             },
             "geometry": {
@@ -16624,23 +16624,6 @@
                 "coordinates": [
                     121.520347,
                     25.000301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200710040002",
-                "name": "私立靜宜文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡,學齡前"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.641586,
-                    25.066322
                 ]
             }
         },
@@ -37942,23 +37925,6 @@
                 "coordinates": [
                     121.380433,
                     25.073958
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201911140001",
-                "name": "私立賦格技藝短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "不限年齡"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.345027,
-                    24.954381
                 ]
             }
         },
