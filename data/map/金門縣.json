@@ -8,7 +8,8 @@
                 "name": "金門縣私立全音吉的堡美語教室文理短期補習班",
                 "county": "金門縣",
                 "class": "外語類,",
-                "students": "學齡前,學齡前、國小、國中、"
+                "students": "學齡前,學齡前、國小、國中、",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25,7 +26,8 @@
                 "name": "金門縣私立全音音樂教室技藝短期補習班",
                 "county": "金門縣",
                 "class": "音樂、舞蹈類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -42,7 +44,8 @@
                 "name": "金門縣私立台金大門技藝文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,高中,國中"
+                "students": "國小,高中,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -59,7 +62,8 @@
                 "name": "金門縣私立康禾文理技藝短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,學齡前,國中"
+                "students": "國小,學齡前,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -72,11 +76,30 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82200601160002",
+                "name": "金門縣私立呂易文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.318001,
+                    24.436561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82200606220001",
                 "name": "金門縣私立金學士文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國小,國中小"
+                "students": "國小,國中小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -93,7 +116,8 @@
                 "name": "金門縣私立小博識文理語文短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -110,7 +134,8 @@
                 "name": "金門縣私立東方紅短期補習班",
                 "county": "金門縣",
                 "class": "外語類,",
-                "students": "國中"
+                "students": "國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -127,7 +152,8 @@
                 "name": "金門縣私立肯利熊文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -144,7 +170,8 @@
                 "name": "金門縣私立劉碩文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國中,高中"
+                "students": "國中,高中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -161,7 +188,8 @@
                 "name": "金門縣私立伯朗文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國小、國中、高中,國小"
+                "students": "國小、國中、高中,國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -174,11 +202,30 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82200805130001",
+                "name": "金門縣私立學人文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.321305,
+                    24.438308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82200805130002",
                 "name": "金門縣私立無敵文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "成人(18歲以上),國小"
+                "students": "成人(18歲以上),國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -195,7 +242,8 @@
                 "name": "摘星教育股份有限公司附設金門縣私立星城文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國小,國中,高中"
+                "students": "國小,國中,高中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -212,7 +260,8 @@
                 "name": "金門縣私立邏輯文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國中,國小"
+                "students": "國中,國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -229,7 +278,8 @@
                 "name": "金門縣私立康橋文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -246,7 +296,8 @@
                 "name": "金門縣私立長頸鹿語文文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -259,11 +310,30 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82201509140001",
+                "name": "金門縣私立雷米技藝文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.320477,
+                    24.436957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82201608230001",
                 "name": "金門縣私立頂尖文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中,高中"
+                "students": "國小,國中,高中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -280,7 +350,8 @@
                 "name": "金門縣私立米羅技藝短期補習班",
                 "county": "金門縣",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -297,7 +368,8 @@
                 "name": "金門縣私立達人文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -310,11 +382,30 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "82201706200001",
+                "name": "金門縣私立常春藤文理短期補習班",
+                "county": "金門縣",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    118.4143,
+                    24.442459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "82201707090001",
                 "name": "金門縣私立慧成文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -331,7 +422,8 @@
                 "name": "金門縣私立雷米技藝文理短期補習班小布朗尼分班",
                 "county": "金門縣",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -348,7 +440,8 @@
                 "name": "金門縣私立童學來了小學堂文理技藝短期補習班",
                 "county": "金門縣",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -365,7 +458,8 @@
                 "name": "金門縣私立艾歐英語文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國中,高中,國小"
+                "students": "國中,高中,國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -382,7 +476,8 @@
                 "name": "金門縣私立樂樂學堂文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -399,7 +494,8 @@
                 "name": "金門縣私立邏輯文理短期補習班金城分班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國中,高中,國小"
+                "students": "國中,高中,國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -416,7 +512,8 @@
                 "name": "金門縣私立湖小旁邊未來領袖文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -433,7 +530,8 @@
                 "name": "金門縣私立新台金大門文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國中,高中"
+                "students": "國中,高中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -450,7 +548,8 @@
                 "name": "金門縣私立伊倫語文文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國中,國小"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -467,7 +566,8 @@
                 "name": "金門縣私立英文勇士美語文理短期補習班",
                 "county": "金門縣",
                 "class": "外語類,",
-                "students": "國中,國小,學齡前,高中,成人(18歲以上)"
+                "students": "國中,國小,學齡前,高中,成人(18歲以上)",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -484,7 +584,8 @@
                 "name": "金門縣私立金隼文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國小,學齡前"
+                "students": "國小,學齡前",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -501,7 +602,8 @@
                 "name": "金門縣私立台金大湖文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國中"
+                "students": "國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -518,7 +620,8 @@
                 "name": "金門縣私立安佳美語教室文理短期補習班",
                 "county": "金門縣",
                 "class": "外語類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -535,7 +638,8 @@
                 "name": "金門縣私立玩注音小學堂文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,其他類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -552,7 +656,8 @@
                 "name": "金門縣私立獺知教育文理短期補習班",
                 "county": "金門縣",
                 "class": "外語類,",
-                "students": "國小"
+                "students": "國小",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -569,7 +674,8 @@
                 "name": "金門縣私立蕭宏文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,外語類,",
-                "students": "國中"
+                "students": "國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -586,7 +692,8 @@
                 "name": "金門縣私立學而優文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "高中,國小,國中"
+                "students": "高中,國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -603,7 +710,8 @@
                 "name": "金門縣私立勻逸文理短期補習班",
                 "county": "金門縣",
                 "class": "文理類,",
-                "students": "國小,國中"
+                "students": "國小,國中",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -620,7 +728,8 @@
                 "name": "金門縣私立童言有畫文理技藝短期補習班",
                 "county": "金門縣",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前"
+                "students": "國小,學齡前",
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
