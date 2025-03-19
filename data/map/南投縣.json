@@ -2200,6 +2200,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "49200905110007",
+                "name": "智基科技開發股份有限公司附設南投私立志光法商補習班南投分班",
+                "county": "南投縣",
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "高中,公職人員考試",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688747,
+                    23.903842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "49200905110009",
                 "name": "南投縣私立高老師文理短期補習班",
                 "county": "南投縣",

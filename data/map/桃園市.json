@@ -4163,7 +4163,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33200312150006",
-                "name": "私立聯成電腦短期補習班",
+                "name": "聯成電腦股份有限公司附設私立聯成電腦短期補習班",
                 "county": "桃園市",
                 "class": "資訊類,",
                 "students": "成人(18歲以上)",
@@ -24334,6 +24334,24 @@
                 "coordinates": [
                     121.208876,
                     24.877826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202503170001",
+                "name": "私立博士龍門文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.249273,
+                    24.94261
                 ]
             }
         }
