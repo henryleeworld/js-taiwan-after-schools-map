@@ -15754,24 +15754,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200508109001",
-                "name": "朝陽富元教育股份有限公司附設臺中市私立朝揚文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.699564,
-                    24.104505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200508230002",
                 "name": "私立黃揚文理短期補習班",
                 "county": "台中市",
@@ -52198,6 +52180,24 @@
                 "coordinates": [
                     120.574366,
                     24.275185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503170001",
+                "name": "臺中市私立艾瑪文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720859,
+                    24.306374
                 ]
             }
         }

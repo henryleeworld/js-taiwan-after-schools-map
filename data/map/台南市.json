@@ -7132,24 +7132,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200406239001",
-                "name": "臺南市私立愛森堡文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.248487,
-                    23.016221
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200406239003",
                 "name": "臺南市私立佳南文理短期補習班",
                 "county": "台南市",
@@ -7450,24 +7432,6 @@
                 "coordinates": [
                     120.293114,
                     23.079681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62200408119001",
-                "name": "臺南市私立傑笙文理短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.246459,
-                    23.009409
                 ]
             }
         },
@@ -18202,24 +18166,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201603100001",
-                "name": "臺南市私立誠心文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.294002,
-                    23.080317
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201603180001",
                 "name": "臺南市私立安老師文理短期補習班",
                 "county": "台南市",
@@ -25856,7 +25802,7 @@
                 "name": "威爾森文教事業股份有限公司附設臺南市私立傑笙文理短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中,高中,學齡前",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {

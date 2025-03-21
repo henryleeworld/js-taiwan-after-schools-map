@@ -4756,6 +4756,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022921",
+                "name": "私立交大文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348389,
+                    22.567879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022924",
                 "name": "私立維也納升學文理短期補習班",
                 "county": "高雄市",
@@ -5578,24 +5596,6 @@
                 "coordinates": [
                     120.355255,
                     22.640163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200205089104",
-                "name": "私立旭安文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291735,
-                    22.792197
                 ]
             }
         },
@@ -7817,7 +7817,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200207100066",
-                "name": "私立漢林文理短期補習班",
+                "name": "私立叡揚文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國中",
@@ -33856,6 +33856,24 @@
                 "coordinates": [
                     120.308426,
                     22.656884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202503190001",
+                "name": "私立冠碩文理短期補習班右昌分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293541,
+                    22.713515
                 ]
             }
         }

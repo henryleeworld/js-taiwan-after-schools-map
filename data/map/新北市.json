@@ -3623,7 +3623,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022676",
-                "name": "振宏文理技藝短期補習班",
+                "name": "私立振宏文理技藝短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "不限年齡",
@@ -8735,7 +8735,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200404070006",
-                "name": "機會娛樂股份有限公司附設私立弦外之音音樂技藝短期補習班 ]",
+                "name": "機會娛樂股份有限公司附設私立弦外知音音樂技藝短期補習班 ]",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
                 "students": "不限年齡",
@@ -9707,7 +9707,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200407210002",
-                "name": "私立奧斯汀美語短期補習班",
+                "name": "奧斯汀美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小",
@@ -16132,6 +16132,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200612210001",
+                "name": "私立城市美瑜伽短期補習班",
+                "county": "新北市",
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442127,
+                    24.975518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200612210002",
                 "name": "私立蒔育文理技藝短期補習班",
                 "county": "新北市",
@@ -17620,6 +17638,24 @@
                 "coordinates": [
                     121.371804,
                     24.930692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200709270004",
+                "name": "私立孫奇文理美語短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.415584,
+                    25.001685
                 ]
             }
         },
@@ -29687,7 +29723,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201307240001",
-                "name": "私立幼華文理語文珠心算短期補習班",
+                "name": "幼華文理語文珠心算短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
                 "students": "國中,國小",
