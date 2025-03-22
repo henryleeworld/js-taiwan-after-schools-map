@@ -19678,24 +19678,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200612120002",
-                "name": "台中市私立東光文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.702567,
-                    24.172006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200612150002",
                 "name": "臺中市私立樂驊文理短期補習班",
                 "county": "台中市",
@@ -52198,6 +52180,24 @@
                 "coordinates": [
                     120.720859,
                     24.306374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503200001",
+                "name": "臺中市私立創興文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.651167,
+                    24.154226
                 ]
             }
         }
