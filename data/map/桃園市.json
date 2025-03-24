@@ -5476,24 +5476,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200507130018",
-                "name": "私立先進美語數學短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.081789,
-                    25.035672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200507130019",
                 "name": "私立英士堤語文短期補習班",
                 "county": "桃園市",
@@ -7108,6 +7090,24 @@
                 "coordinates": [
                     121.106127,
                     24.972404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33200706120005",
+                "name": "私立子曰美語數學自然短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.316885,
+                    24.981161
                 ]
             }
         },
