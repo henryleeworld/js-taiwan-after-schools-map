@@ -1696,6 +1696,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022231",
+                "name": "私立達心文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上),國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288608,
+                    22.635178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022233",
                 "name": "私立楊氏速讀短期補習班",
                 "county": "高雄市",
