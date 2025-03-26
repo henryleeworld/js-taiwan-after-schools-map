@@ -98,7 +98,7 @@
                 "name": "基隆市私立地球村語文短期補習班",
                 "county": "基隆市",
                 "class": "外語類,",
-                "students": "國小以上（依規招收）",
+                "students": "國小、國中、高中、成人",
                 "date_closed": ""
             },
             "geometry": {
@@ -1736,7 +1736,7 @@
                 "name": "基隆市私立大喆文理短期補習班",
                 "county": "基隆市",
                 "class": "文理類,",
-                "students": "國小",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -2902,24 +2902,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24201607040001",
-                "name": "基隆市私立多美文理短期補習班",
-                "county": "基隆市",
-                "class": "文理類,外語類,",
-                "students": "國小,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.736861,
-                    25.093052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24201607070001",
                 "name": "基隆市私立興學文理短期補習班",
                 "county": "基隆市",
@@ -3688,6 +3670,24 @@
                 "coordinates": [
                     121.747265,
                     25.129322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202503240001",
+                "name": "基隆市私立棋樂圍棋才藝短短期補習班",
+                "county": "基隆市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "幼兒、兒童、青少年、成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.742748,
+                    25.122725
                 ]
             }
         }

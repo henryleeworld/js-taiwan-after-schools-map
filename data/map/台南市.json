@@ -22148,7 +22148,7 @@
                 "name": "臺南市私立友喬文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中",
+                "students": "國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -25810,6 +25810,24 @@
                 "coordinates": [
                     120.24814,
                     23.017347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202503240001",
+                "name": "臺南市私立甲桂林文理短期補習班(為比對教職員工資料預登立案資訊)短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.207074,
+                    23.043551
                 ]
             }
         }

@@ -5242,24 +5242,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201803290002",
-                "name": "新竹縣私立曉學堂文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020252,
-                    24.845233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201803290003",
                 "name": "新竹縣私立凱荻文理短期補習班",
                 "county": "新竹縣",
@@ -5812,24 +5794,6 @@
                 "coordinates": [
                     121.050619,
                     24.891247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36201907080001",
-                "name": "新竹縣私立竹林私塾文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.998293,
-                    24.840957
                 ]
             }
         },
@@ -8972,7 +8936,7 @@
                 "name": "新竹縣私立念德文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
