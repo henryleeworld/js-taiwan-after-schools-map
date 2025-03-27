@@ -476,7 +476,7 @@
                 "name": "私立何嘉仁文理短期補習班",
                 "county": "花蓮縣",
                 "class": "外語類,",
-                "students": "國小.國中,國中",
+                "students": "國中,國小.國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -1762,6 +1762,24 @@
                 "coordinates": [
                     121.581293,
                     23.971713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200905190001",
+                "name": "私立謝老師珠心算技藝短期補習班富國分班",
+                "county": "花蓮縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.595496,
+                    23.99077
                 ]
             }
         },

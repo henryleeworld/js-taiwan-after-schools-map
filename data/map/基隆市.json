@@ -2902,6 +2902,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "24201607040001",
+                "name": "基隆市私立多美文理短期補習班",
+                "county": "基隆市",
+                "class": "文理類,外語類,",
+                "students": "國小,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.736861,
+                    25.093052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "24201607070001",
                 "name": "基隆市私立興學文理短期補習班",
                 "county": "基隆市",
@@ -3688,6 +3706,24 @@
                 "coordinates": [
                     121.742748,
                     25.122725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "24202503250001",
+                "name": "基隆市私立小禾文理技藝短期補習班",
+                "county": "基隆市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.708523,
+                    25.138998
                 ]
             }
         }

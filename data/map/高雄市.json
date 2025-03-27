@@ -3802,6 +3802,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022683",
+                "name": "私立品聖文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310873,
+                    22.668861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022690",
                 "name": "私立大順音樂短期補習班",
                 "county": "高雄市",
@@ -15485,7 +15503,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200606010002",
-                "name": "私立百世文理短期補習班龍華分班",
+                "name": "百世教育科技股份有限公司附設高雄市私立百世文理短期補習班龍華分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小,國中",
