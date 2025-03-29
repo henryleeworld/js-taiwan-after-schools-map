@@ -19264,6 +19264,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200611010001",
+                "name": "私立巨日文理短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682046,
+                    24.169132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200611020001",
                 "name": "臺中市私立耀智文理短期補習班",
                 "county": "台中市",
@@ -52198,6 +52216,24 @@
                 "coordinates": [
                     120.707398,
                     24.097647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503270001",
+                "name": "何嘉仁文教事業股份有公司附設臺中市私立嘉禾文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.63858,
+                    24.145419
                 ]
             }
         }

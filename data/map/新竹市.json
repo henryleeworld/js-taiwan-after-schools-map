@@ -6052,6 +6052,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201901080003",
+                "name": "新竹市私立築藝畫室技藝短期補習班",
+                "county": "新竹市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.985682,
+                    24.800317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201902120001",
                 "name": "新竹市私立美夢成真文理短期補習班",
                 "county": "新竹市",
@@ -8014,24 +8032,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35202307070002",
-                "name": "慧思科研股份有限公司附設新竹市私立慧思科研技藝短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國小,國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.020571,
-                    24.78756
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35202307210001",
                 "name": "新竹市私立毅啟文理短期補習班",
                 "county": "新竹市",
@@ -8180,7 +8180,7 @@
                 "name": "艾學爾國際有限公司附設新竹市私立艾學爾文理短期補習班關埔分班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {

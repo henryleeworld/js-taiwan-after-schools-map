@@ -12532,24 +12532,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33201201090002",
-                "name": "私立水雲美容短期補習班",
-                "county": "桃園市",
-                "class": "美容、美髮理髮類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.366485,
-                    25.057136
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33201202010001",
                 "name": "私立環球美語數學短期補習班",
                 "county": "桃園市",
@@ -20168,7 +20150,7 @@
                 "name": "私立金頭腦資優教育文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
