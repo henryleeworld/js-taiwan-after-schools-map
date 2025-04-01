@@ -5818,6 +5818,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201907080001",
+                "name": "新竹縣私立竹林私塾文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998293,
+                    24.840957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201908130001",
                 "name": "新竹縣私立諾亞文理短期補習班",
                 "county": "新竹縣",

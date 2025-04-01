@@ -14224,6 +14224,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200412230004",
+                "name": "臺中市私立巨申數學附設自然科學短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680026,
+                    24.16694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200412290003",
                 "name": "聯成電腦資訊發展有限公司附設臺中市私立聯誠電腦短期補習班",
                 "county": "台中市",
