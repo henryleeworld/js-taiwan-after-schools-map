@@ -16474,24 +16474,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200702120003",
-                "name": "私立有桐文理美術短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.450379,
-                    25.131114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200702120004",
                 "name": "私立浩瀚文理語文短期補習班",
                 "county": "新北市",
@@ -23333,10 +23315,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201007130002",
-                "name": "私立迪士尼文理技藝短期補習班",
+                "name": "迪士尼文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國中,不限年齡,國小",
+                "students": "國小,國中,不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -51838,6 +51820,24 @@
                 "coordinates": [
                     121.504681,
                     25.005051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202503310001",
+                "name": "私立新高分文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.431637,
+                    25.200717
                 ]
             }
         }

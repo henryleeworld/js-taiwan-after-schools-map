@@ -6052,24 +6052,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36202002030002",
-                "name": "新竹縣私立部落森數位文創有限公司附設新竹縣私立新北聯文教文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.031657,
-                    24.811363
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36202002030003",
                 "name": "新竹縣私立黃羽文理短期補習班",
                 "county": "新竹縣",
@@ -9034,6 +9016,24 @@
                 "coordinates": [
                     121.034561,
                     24.825124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202503310001",
+                "name": "巧米國際文教事業股份有限公司附設新竹縣私立米芮蒙特梭利英語文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "學齡前,學齡前-國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.035173,
+                    24.825258
                 ]
             }
         }

@@ -38272,24 +38272,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201607150001",
-                "name": "臺中市私立敦儒文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.676569,
-                    24.106336
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201607180001",
                 "name": "臺中市私立創異音樂文理短期補習班",
                 "county": "台中市",
@@ -52234,6 +52216,24 @@
                 "coordinates": [
                     120.63858,
                     24.145419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202503310001",
+                "name": "臺中市私立聖瓦文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65341,
+                    24.224032
                 ]
             }
         }
