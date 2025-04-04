@@ -1448,7 +1448,7 @@
                 "name": "私立英發文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -1916,7 +1916,7 @@
                 "name": "私立新小神童文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -2024,7 +2024,7 @@
                 "name": "私立一勤珠心算短期補習班",
                 "county": "彰化縣",
                 "class": "商類：珠算、心算、會計,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4778,7 +4778,7 @@
                 "name": "智基科技開發股份有限公司員林分公司附設私立金志光法商短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,其他類,",
-                "students": "成人(18歲以上),升大學",
+                "students": "升大學,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -9724,24 +9724,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201305210002",
-                "name": "台灣拓人教育事業股份有限公司附設彰化縣私立拓人文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.579492,
-                    23.959841
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201305210003",
                 "name": "彰化縣私立邰大資優文理短期補習班",
                 "county": "彰化縣",
@@ -13166,7 +13148,7 @@
                 "name": "彰化縣私立勇智文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,外語類,",
-                "students": "國中,高中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -17162,7 +17144,7 @@
                 "name": "彰化縣私立頂大精英文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
-                "students": "國小,國中,高中",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -17494,6 +17476,24 @@
                 "coordinates": [
                     120.583795,
                     23.899568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202504020001",
+                "name": "彰化縣私立王安文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570688,
+                    23.962192
                 ]
             }
         }
