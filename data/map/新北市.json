@@ -14386,24 +14386,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200603310007",
-                "name": "私立劉宇文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.484654,
-                    25.077984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200604070001",
                 "name": "私立龍安文教有限公司附設佳韺英語短期補習班",
                 "county": "新北市",
@@ -28366,6 +28348,24 @@
                 "coordinates": [
                     121.513962,
                     24.986781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201211070001",
+                "name": "私立未來領袖教育股份有限公司附設業鴻文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.370735,
+                    25.069554
                 ]
             }
         },
