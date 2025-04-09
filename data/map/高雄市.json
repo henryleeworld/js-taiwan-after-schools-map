@@ -1642,24 +1642,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022223",
-                "name": "私立超博士文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.319467,
-                    22.681953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022224",
                 "name": "私立全碩文理短期補習班",
                 "county": "高雄市",
@@ -14692,24 +14674,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200511150001",
-                "name": "私立聖林文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中高中,國中,國小,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.318937,
-                    22.682171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200511150002",
                 "name": "台灣知識庫股份有限公司附設大碩洋碩甄戰數位學堂文理短期補習班",
                 "county": "高雄市",
@@ -24434,7 +24398,7 @@
                 "name": "中國青年救國團高雄市團務指導委員會附設文理技藝短期補習班鳳山分班",
                 "county": "高雄市",
                 "class": "文理類,資訊類,家政、插花、烹飪類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
-                "students": "國小,高中,成人(18歲以上),國中",
+                "students": "成人(18歲以上),國小,高中,國中",
                 "date_closed": ""
             },
             "geometry": {

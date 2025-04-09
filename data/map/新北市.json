@@ -4526,7 +4526,7 @@
                 "name": "華倫文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "",
+                "students": "其他",
                 "date_closed": ""
             },
             "geometry": {
@@ -10175,7 +10175,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200409220001",
-                "name": "私立泰恩語文短期補習班",
+                "name": "泰恩語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國中、小",
@@ -14380,6 +14380,24 @@
                 "coordinates": [
                     121.333417,
                     24.9585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200603310007",
+                "name": "私立劉宇文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484654,
+                    25.077984
                 ]
             }
         },
