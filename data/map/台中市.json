@@ -2471,7 +2471,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319428",
-                "name": "私立日南佳嬅珠心算短期補習班",
+                "name": "臺中市私立日南佳嬅珠心算短期補習班",
                 "county": "台中市",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小",
@@ -2759,7 +2759,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319462",
-                "name": "臺中市私立台大文理短期補習班",
+                "name": "臺中市私立抬大文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中",
@@ -19402,6 +19402,24 @@
                 "coordinates": [
                     120.565577,
                     24.23682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200611100002",
+                "name": "私立傑人忠明文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.659483,
+                    24.159853
                 ]
             }
         },

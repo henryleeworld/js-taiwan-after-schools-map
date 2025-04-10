@@ -9221,7 +9221,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200405190001",
-                "name": "私立喬治亞文理技藝短期補習班",
+                "name": "喬治亞文理技藝短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "不限",
@@ -51874,6 +51874,60 @@
                 "coordinates": [
                     121.466544,
                     24.986277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504080001",
+                "name": "私立貝爾花園文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.381074,
+                    25.082484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504080002",
+                "name": "孔孟文化事業有限公司附設私立孔孟文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425261,
+                    25.023783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504080003",
+                "name": "私立博斯語文文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462265,
+                    25.003307
                 ]
             }
         }

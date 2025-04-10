@@ -14674,6 +14674,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200511150001",
+                "name": "私立聖林文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中高中,國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.318937,
+                    22.682171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200511150002",
                 "name": "台灣知識庫股份有限公司附設大碩洋碩甄戰數位學堂文理短期補習班",
                 "county": "高雄市",
@@ -19160,7 +19178,7 @@
                 "name": "私立武廟文理短期補習班龍華分班",
                 "county": "高雄市",
                 "class": "外語類,",
-                "students": "學齡前,國小,國中,高中",
+                "students": "國小,國中,高中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -25828,24 +25846,6 @@
                 "coordinates": [
                     120.392178,
                     22.660602
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70201408140001",
-                "name": "私立鴻壹MED運動短期補習班",
-                "county": "高雄市",
-                "class": "其他類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.329552,
-                    22.640682
                 ]
             }
         },
@@ -33766,6 +33766,24 @@
                 "coordinates": [
                     120.291343,
                     22.659348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202410300002",
+                "name": "私立首品文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.339085,
+                    22.613359
                 ]
             }
         },
