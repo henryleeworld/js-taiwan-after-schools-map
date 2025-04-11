@@ -6034,6 +6034,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201901080002",
+                "name": "極上教育諮詢股份有限公司附設新竹市私立巨拓文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97723,
+                    24.810142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201901080003",
                 "name": "新竹市私立築藝畫室技藝短期補習班",
                 "county": "新竹市",
