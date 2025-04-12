@@ -10912,6 +10912,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200305050002",
+                "name": "臺中市私立建達美語會話短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690726,
+                    24.180218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200305060001",
                 "name": "臺中市私立蕾迪文理短期補習班",
                 "county": "台中市",
@@ -36242,7 +36260,7 @@
                 "name": "臺中市私立天才文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中,成人(18歲以上)",
+                "students": "國中,國小,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -52234,6 +52252,24 @@
                 "coordinates": [
                     120.708995,
                     24.213111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504100001",
+                "name": "臺中市私立名典文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.628989,
+                    24.115467
                 ]
             }
         }

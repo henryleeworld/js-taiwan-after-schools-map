@@ -24354,6 +24354,42 @@
                     25.020527
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202504100001",
+                "name": "勝騰國際文化有限公司附設私立勝騰文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.156239,
+                    24.910736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202504100002",
+                "name": "私立良田種子文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250478,
+                    24.924376
+                ]
+            }
         }
     ]
 }

@@ -7510,24 +7510,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201002010002",
-                "name": "彰化縣私立伊力特文理技藝短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國中,國小,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.588375,
-                    23.861913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201002010003",
                 "name": "彰化縣私立嘉冠文理短期補習班",
                 "county": "彰化縣",
@@ -17494,6 +17476,24 @@
                 "coordinates": [
                     120.570688,
                     23.962192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202504100001",
+                "name": "彰化縣私立貝爾文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545285,
+                    24.069937
                 ]
             }
         }

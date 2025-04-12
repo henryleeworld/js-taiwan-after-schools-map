@@ -9044,7 +9044,7 @@
                 "name": "巧米國際文教事業股份有限公司附設新竹縣私立米芮蒙特梭利英語文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,學齡前-國小",
+                "students": "學齡前-國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -9052,6 +9052,24 @@
                 "coordinates": [
                     121.035173,
                     24.825258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202504100001",
+                "name": "新竹縣私立源教育文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033356,
+                    24.813132
                 ]
             }
         }
