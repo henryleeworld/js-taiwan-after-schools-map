@@ -20704,24 +20704,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200704240003",
-                "name": "臺中市私立劉靖文理附設美術短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.642392,
-                    24.180845
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200704250001",
                 "name": "私立亞力士文理短期補習班",
                 "county": "台中市",
@@ -52270,6 +52252,42 @@
                 "coordinates": [
                     120.628989,
                     24.115467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504110002",
+                "name": "臺中市私立雲學園文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656955,
+                    24.116724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504110003",
+                "name": "臺中市私立晨韵文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.71407,
+                    24.152679
                 ]
             }
         }

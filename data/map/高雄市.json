@@ -1660,24 +1660,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022224",
-                "name": "私立全碩文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,學齡前,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.334939,
-                    22.645161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022226",
                 "name": "私立高名文理短期補習班建國分班",
                 "county": "高雄市",
@@ -14692,6 +14674,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200511150001",
+                "name": "私立聖林文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中高中,國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.318937,
+                    22.682171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200511150002",
                 "name": "台灣知識庫股份有限公司附設大碩洋碩甄戰數位學堂文理短期補習班",
                 "county": "高雄市",
@@ -14974,24 +14974,6 @@
                 "coordinates": [
                     120.325652,
                     22.796673
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200601269010",
-                "name": "私立夏米文理技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.340132,
-                    22.653179
                 ]
             }
         },
@@ -27926,7 +27908,7 @@
                 "name": "私立賀群文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小,高中",
+                "students": "高中,國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -33794,7 +33776,7 @@
                 "name": "丹丹英語有限公司附設私立丹丹英語文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,外語類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "students": "學齡前,高中,成人(18歲以上),國小,國中",
                 "date_closed": ""
             },
             "geometry": {
