@@ -6052,6 +6052,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201901080003",
+                "name": "新竹市私立築藝畫室技藝短期補習班",
+                "county": "新竹市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.985682,
+                    24.800317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201902120001",
                 "name": "新竹市私立美夢成真文理短期補習班",
                 "county": "新竹市",
