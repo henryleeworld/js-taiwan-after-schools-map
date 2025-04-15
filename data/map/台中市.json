@@ -30280,6 +30280,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201011020001",
+                "name": "臺中市私立禾禾音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.624218,
+                    24.185534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201011030001",
                 "name": "臺中市私立恆睿文理短期補習班",
                 "county": "台中市",
