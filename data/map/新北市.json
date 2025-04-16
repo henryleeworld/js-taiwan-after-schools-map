@@ -9311,10 +9311,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200405280005",
-                "name": "私立森田音樂短期補習班",
+                "name": "森田音樂短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
-                "students": "其他",
+                "students": "4歲以上",
                 "date_closed": ""
             },
             "geometry": {
@@ -12112,6 +12112,24 @@
                 "coordinates": [
                     121.429156,
                     25.022251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200507050004",
+                "name": "同學文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491178,
+                    25.084879
                 ]
             }
         },
@@ -51910,6 +51928,24 @@
                 "coordinates": [
                     121.462265,
                     25.003307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504140001",
+                "name": "私立沐森藝術技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.53896,
+                    24.98215
                 ]
             }
         }
