@@ -1642,24 +1642,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022223",
-                "name": "私立超博士文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.319467,
-                    22.681953
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022224",
                 "name": "私立全碩文理短期補習班",
                 "county": "高雄市",
@@ -33650,7 +33632,7 @@
                 "name": "私立藝涵創意美術技藝短期補習班",
                 "county": "高雄市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,高中,成人(18歲以上),學齡前",
+                "students": "國小,高中,成人(18歲以上),學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {

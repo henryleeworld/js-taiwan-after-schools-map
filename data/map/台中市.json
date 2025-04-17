@@ -850,24 +850,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319190",
-                "name": "私立大中文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.688633,
-                    24.100052
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319191",
                 "name": "私立世界跨世紀心算數學短期補習班",
                 "county": "台中市",
@@ -14120,7 +14102,7 @@
                 "name": "誠明文教管理事業股份有限公司附設臺中市私立誠明文理短期補習班大墩分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "高中,國小,國中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -29914,24 +29896,6 @@
                 "coordinates": [
                     120.640643,
                     24.169705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201009300001",
-                "name": "敦展文教事業有限公司附設臺中市私立鑫快樂文理附設技藝短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.650151,
-                    24.134684
                 ]
             }
         },
@@ -52190,7 +52154,7 @@
                 "name": "何嘉仁文教事業股份有公司附設臺中市私立嘉禾文理技藝短期補習班",
                 "county": "台中市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中,成人(18歲以上)",
+                "students": "國小,學齡前,國中,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
