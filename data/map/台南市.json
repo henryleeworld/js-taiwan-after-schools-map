@@ -25817,7 +25817,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202503240001",
-                "name": "臺南市私立甲桂林文理短期補習班(為比對教職員工資料預登立案資訊)短期補習班",
+                "name": "臺南市私立甲桂林文理短期補習班短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國小",
@@ -25828,6 +25828,60 @@
                 "coordinates": [
                     120.207074,
                     23.043551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202504160001",
+                "name": "孔孟文化事業有限公司附設私立孔孟文理短期補習班東橋分班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "學齡前,國小,高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.235388,
+                    23.022205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202504160002",
+                "name": "臺南市私立宇士曼技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325796,
+                    23.138781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202504160003",
+                "name": "臺南市私立明星技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309683,
+                    23.112509
                 ]
             }
         }

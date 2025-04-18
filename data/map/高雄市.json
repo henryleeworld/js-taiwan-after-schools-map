@@ -1642,6 +1642,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022223",
+                "name": "私立超博士文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319467,
+                    22.681953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022224",
                 "name": "私立全碩文理短期補習班",
                 "county": "高雄市",
@@ -14668,6 +14686,24 @@
                 "coordinates": [
                     120.331202,
                     22.730249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200511150001",
+                "name": "私立聖林文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中高中,國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.318937,
+                    22.682171
                 ]
             }
         },
@@ -33766,6 +33802,24 @@
                 "coordinates": [
                     120.339085,
                     22.613359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202411280001",
+                "name": "典陸教育科技股份有限公司附設典陸文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.289518,
+                    22.652908
                 ]
             }
         },
