@@ -9072,6 +9072,42 @@
                     24.813132
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202504180001",
+                "name": "新竹縣私立北城文理短期補習班",
+                "county": "新竹縣",
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.025992,
+                    24.82406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202504180002",
+                "name": "竹獅股份有限公司附設新竹縣私立樂獅文理短期補習班",
+                "county": "新竹縣",
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.011798,
+                    24.823805
+                ]
+            }
         }
     ]
 }

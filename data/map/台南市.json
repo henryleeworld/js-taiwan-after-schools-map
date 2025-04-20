@@ -12154,6 +12154,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200802180004",
+                "name": "臺南市私立瑀安文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.219275,
+                    23.009962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200802190001",
                 "name": "臺南市私立立信文理短期補習班",
                 "county": "台南市",

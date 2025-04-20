@@ -9166,6 +9166,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201207020001",
+                "name": "私立喬安美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533809,
+                    24.059072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201207020002",
                 "name": "私立伊莉莎白文理短期補習班",
                 "county": "彰化縣",
@@ -9682,6 +9700,24 @@
                 "coordinates": [
                     120.585666,
                     23.898893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305210002",
+                "name": "台灣拓人教育事業股份有限公司附設彰化縣私立拓人文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579492,
+                    23.959841
                 ]
             }
         },
