@@ -3622,24 +3622,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "37201305140002",
-                "name": "苗栗縣私立慧圓珠心算技藝短期補習班",
-                "county": "苗栗縣",
-                "class": "商類：珠算、心算、會計,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.827509,
-                    24.309436
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "37201305140003",
                 "name": "苗栗縣私立大仁文理短期補習班",
                 "county": "苗栗縣",
@@ -4192,6 +4174,24 @@
                 "coordinates": [
                     120.796376,
                     24.616095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37201811300002",
+                "name": "苗栗縣私立必勝文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.868725,
+                    24.681929
                 ]
             }
         },

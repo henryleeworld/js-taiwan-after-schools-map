@@ -4216,24 +4216,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022784",
-                "name": "私立平成外語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.314851,
-                    22.613482
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022790",
                 "name": "私立呂老師文理短期補習班新民分班",
                 "county": "高雄市",
@@ -4642,6 +4624,24 @@
                 "coordinates": [
                     120.302083,
                     22.637079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200204022902",
+                "name": "私立幼福文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.311981,
+                    22.615271
                 ]
             }
         },
