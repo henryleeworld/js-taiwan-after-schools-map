@@ -4306,6 +4306,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200208089015",
+                "name": "臺南市私立亞堤斯文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.259269,
+                    23.028354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200208089025",
                 "name": "臺南市私立小天使美術音樂短期補習班",
                 "county": "台南市",

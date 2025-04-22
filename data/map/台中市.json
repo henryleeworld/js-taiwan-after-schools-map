@@ -21712,6 +21712,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200707319003",
+                "name": "臺中市私立勵達文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568593,
+                    24.243736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200707319004",
                 "name": "臺中市私立林欣怡音樂短期補習班",
                 "county": "台中市",
@@ -23182,24 +23200,6 @@
                 "coordinates": [
                     120.690084,
                     24.180333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200801300004",
-                "name": "臺中市私立文達文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682199,
-                    24.17389
                 ]
             }
         },
@@ -26735,7 +26735,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200906259006",
-                "name": "私立雯馨文理短期補習班",
+                "name": "臺中市私立雯馨文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小",
@@ -26753,7 +26753,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200906259007",
-                "name": "私立柏林文理短期補習班",
+                "name": "臺中市私立柏林文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中,國小",
@@ -28337,7 +28337,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201003099005",
-                "name": "私立新創藝文理短期補習班",
+                "name": "臺中市私立新創藝文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中,國小",
