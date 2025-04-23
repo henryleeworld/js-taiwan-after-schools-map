@@ -9220,24 +9220,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200210309001",
-                "name": "私立巧比資優生文理語文技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,資訊類,商類：珠算、心算、會計,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.354598,
-                    22.680792
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200210319001",
                 "name": "私立建恩文理短期補習班",
                 "county": "高雄市",
@@ -26738,7 +26720,7 @@
                 "name": "巨匠電腦股份有限公司附設文理短期補習班左營分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中,高中,成人(18歲以上)",
+                "students": "國小,成人(18歲以上),國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -33910,6 +33892,24 @@
                 "coordinates": [
                     120.293541,
                     22.713515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202504220001",
+                "name": "私立平成外語文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309317,
+                    22.622011
                 ]
             }
         }

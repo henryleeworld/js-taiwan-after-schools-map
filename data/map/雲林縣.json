@@ -3334,6 +3334,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55200710250001",
+                "name": "私立智詮珠心算才藝短期補習班",
+                "county": "雲林縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.392082,
+                    23.683446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55200710250002",
                 "name": "私立建強文理短期補習班",
                 "county": "雲林縣",
@@ -3410,7 +3428,7 @@
                 "name": "私立維德文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
-                "students": "國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -5444,7 +5462,7 @@
                 "name": "日新文教事業股份有限公司附設雲林縣私立日新文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
-                "students": "國小,國中,高中",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {

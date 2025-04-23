@@ -23206,6 +23206,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200801300004",
+                "name": "臺中市私立文達文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.682199,
+                    24.17389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200802120001",
                 "name": "私立優點文理短期補習班",
                 "county": "台中市",
@@ -43784,7 +43802,7 @@
                 "name": "星樂美語文理有限公司附設臺中市私立星樂文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,成人(18歲以上),國小,學齡前",
+                "students": "國小,學齡前,國中,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -52298,7 +52316,7 @@
                 "name": "臺中市私立三合樹義文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52306,6 +52324,42 @@
                 "coordinates": [
                     120.657977,
                     24.110228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504220001",
+                "name": "財團法人台灣聖公會附設臺中市私立景星文理美術短期補習班",
+                "county": "台中市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.729489,
+                    24.103352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504220002",
+                "name": "奧斯叮有限公司附設臺中市私立可愛文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.641407,
+                    24.173049
                 ]
             }
         }

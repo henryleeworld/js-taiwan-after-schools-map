@@ -6668,7 +6668,7 @@
                 "name": "私立喬治康文理珠心算短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -9584,7 +9584,7 @@
                 "name": "長寶國際股份有限公司附設彰化縣私立愛達英語短期補習班",
                 "county": "彰化縣",
                 "class": "外語類,",
-                "students": "國中,高中,國小,成人(18歲以上)",
+                "students": "高中,國中,國小,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -9700,6 +9700,24 @@
                 "coordinates": [
                     120.585666,
                     23.898893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305210002",
+                "name": "台灣拓人教育事業股份有限公司附設彰化縣私立拓人文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579492,
+                    23.959841
                 ]
             }
         },
