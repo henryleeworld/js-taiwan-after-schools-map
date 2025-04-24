@@ -15974,7 +15974,7 @@
                 "name": "世界機電短期補習班",
                 "county": "新北市",
                 "class": "電機、汽車修護、建築、工藝、製圖類,",
-                "students": "高中",
+                "students": "高中以上",
                 "date_closed": ""
             },
             "geometry": {
@@ -24578,7 +24578,7 @@
                 "name": "精英國際教育管理顧問股份有限公司附設精英國際重陽文理語文珠心算美術短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中,其他",
+                "students": "其他,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -30497,10 +30497,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201312180002",
-                "name": "巨匠電腦股份有限公司附設巨匠北新美語短期補習班",
+                "name": "巨匠電腦股份有限公司附設私立巨匠北新文理技藝短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "無限制",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -32552,7 +32552,7 @@
                 "name": "精英國際教育管理顧問股份有限公司附設精英國際卓越文理語文珠心算美工設計短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小、國中,國小,國中",
+                "students": "國小、國中,國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -51910,6 +51910,42 @@
                 "coordinates": [
                     121.448744,
                     25.054714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504230001",
+                "name": "私立聖雅文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449592,
+                    25.097338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504230002",
+                "name": "私立新連音音樂技藝短期補習班New Triplets Musi Education Studio",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374066,
+                    25.078543
                 ]
             }
         }

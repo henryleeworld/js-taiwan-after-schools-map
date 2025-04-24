@@ -1538,7 +1538,7 @@
                 "name": "私立才智文理技藝短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國小、國中,國小",
+                "students": "國小,國小、國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -1744,6 +1744,24 @@
                 "coordinates": [
                     121.315796,
                     23.327387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38200905140001",
+                "name": "私立小丫文理技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,資訊類,商類：珠算、心算、會計,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.581293,
+                    23.971713
                 ]
             }
         },

@@ -9220,6 +9220,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200210309001",
+                "name": "私立巧比資優生文理語文技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,資訊類,商類：珠算、心算、會計,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.354598,
+                    22.680792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200210319001",
                 "name": "私立建恩文理短期補習班",
                 "county": "高雄市",
@@ -32711,7 +32729,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202305240001",
-                "name": "私立高斯數理教育學院文理短期補習班",
+                "name": "私立賀勝數理教育學院文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小,國中,高中",

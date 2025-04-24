@@ -16010,7 +16010,7 @@
                 "name": "智基科技開發股份有限公司附設私立中正志光文理法商短期補習班",
                 "county": "桃園市",
                 "class": "文理類,法政類,",
-                "students": "高中,成人(18歲以上),公職人員考試",
+                "students": "高中,公職人員考試,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -24496,6 +24496,42 @@
                 "coordinates": [
                     121.293805,
                     24.99763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202504230001",
+                "name": "環愛國際教育管理顧問股份有限公司附設私立大方文理短期補習班龍安分班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250822,
+                    24.918962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202504230002",
+                "name": "私立育昇慈文文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.301185,
+                    25.011167
                 ]
             }
         }
