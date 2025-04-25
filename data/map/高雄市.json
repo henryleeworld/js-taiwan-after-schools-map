@@ -44,7 +44,7 @@
                 "name": "私立旭晨文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,學齡前,國中",
+                "students": "學齡前,國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4156,24 +4156,6 @@
                 "coordinates": [
                     120.330853,
                     22.606876
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200204022769",
-                "name": "私立同莘外語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.32818,
-                    22.604471
                 ]
             }
         },
@@ -10502,7 +10484,7 @@
                 "name": "私立冠群文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -14470,24 +14452,6 @@
                 "coordinates": [
                     120.21653,
                     22.906618
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200509149003",
-                "name": "私立加福文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.331108,
-                    22.886507
                 ]
             }
         },
@@ -19895,7 +19859,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200904139003",
-                "name": "私立連老師文理短期補習班",
+                "name": "私立.連老師文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國中",
@@ -33856,6 +33820,24 @@
                 "coordinates": [
                     120.39805,
                     22.604175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202502050001",
+                "name": "私立連老師文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小,高中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.268074,
+                    22.864401
                 ]
             }
         },

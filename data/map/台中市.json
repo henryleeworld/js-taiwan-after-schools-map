@@ -9814,6 +9814,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200209110003",
+                "name": "私立英皇美語會話短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.647992,
+                    24.136071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200209179002",
                 "name": "私立聖塔菲美語短期補習班",
                 "county": "台中市",
@@ -20842,24 +20860,6 @@
                 "coordinates": [
                     120.708541,
                     24.213524
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200705029005",
-                "name": "臺中市私立小樹芽電腦美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,資訊類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.722581,
-                    24.132487
                 ]
             }
         },

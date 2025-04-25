@@ -36887,7 +36887,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201801250001",
-                "name": "私立立得文理技藝短期補習班",
+                "name": "立得文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "不限年齡",
@@ -51946,6 +51946,24 @@
                 "coordinates": [
                     121.374066,
                     25.078543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504240001",
+                "name": "私立馬克堡美語學院文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.468318,
+                    25.008965
                 ]
             }
         }
