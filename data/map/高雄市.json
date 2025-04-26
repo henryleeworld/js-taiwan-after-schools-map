@@ -1156,24 +1156,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022131",
-                "name": "私立元瑞文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.314161,
-                    22.677572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022137",
                 "name": "私立成大文理短期補習班福新分班",
                 "county": "高雄市",
@@ -14458,6 +14440,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200509149003",
+                "name": "私立加福文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331108,
+                    22.886507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200509149004",
                 "name": "鼎桓教育事業有限公司附設汶舉文理短期補習班",
                 "county": "高雄市",
@@ -14470,24 +14470,6 @@
                 "coordinates": [
                     120.334594,
                     22.594382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200509149006",
-                "name": "私立成功文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.390047,
-                    22.639209
                 ]
             }
         },

@@ -18994,24 +18994,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200609220001",
-                "name": "台中市私立江亦帆一中音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.686828,
-                    24.153025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200609250001",
                 "name": "臺中市私立育鼎文理短期補習班",
                 "county": "台中市",
@@ -23200,6 +23182,24 @@
                 "coordinates": [
                     120.682199,
                     24.17389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200802120001",
+                "name": "私立優點文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,學齡前,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639713,
+                    24.139259
                 ]
             }
         },
@@ -52198,6 +52198,24 @@
                 "coordinates": [
                     120.628989,
                     24.115467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504110001",
+                "name": "臺中市私立禾鈺文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "高中,學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.700526,
+                    24.105995
                 ]
             }
         },
