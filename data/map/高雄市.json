@@ -14458,6 +14458,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200509149003",
+                "name": "私立加福文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331108,
+                    22.886507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200509149004",
                 "name": "鼎桓教育事業有限公司附設汶舉文理短期補習班",
                 "county": "高雄市",
@@ -29536,24 +29554,6 @@
                 "coordinates": [
                     120.270009,
                     22.869126
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70201908050001",
-                "name": "赫越電腦有限公司附設赫越電腦短期補習班",
-                "county": "高雄市",
-                "class": "資訊類,",
-                "students": "成人(18歲以上),國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.302576,
-                    22.634806
                 ]
             }
         },
