@@ -51948,6 +51948,42 @@
                     25.008965
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504280001",
+                "name": "揚信股份有限公司附設私立鷺江揚才文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461895,
+                    25.092326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504280002",
+                "name": "伊可文教事業股份有限公司附設私立伊可文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366719,
+                    25.075757
+                ]
+            }
         }
     ]
 }

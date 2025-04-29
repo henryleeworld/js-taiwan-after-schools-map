@@ -42718,24 +42718,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201910170001",
-                "name": "臺中市私立安科納文理音樂短期補習班",
-                "county": "台中市",
-                "class": "文理類,音樂、舞蹈類,",
-                "students": "國中,國小,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.612074,
-                    24.187394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201910240001",
                 "name": "臺中市私立喬瑟琳音樂短期補習班",
                 "county": "台中市",
@@ -52342,6 +52324,24 @@
                 "coordinates": [
                     120.641407,
                     24.173049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504280001",
+                "name": "臺中市私立迴響音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.661511,
+                    24.147521
                 ]
             }
         }

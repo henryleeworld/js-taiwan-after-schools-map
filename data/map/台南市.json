@@ -7366,6 +7366,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200408039001",
+                "name": "臺南市私立哈波小院士文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.238231,
+                    23.042773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200408099002",
                 "name": "臺南市私立史塔納文理短期補習班",
                 "county": "台南市",
@@ -25864,6 +25882,42 @@
                 "coordinates": [
                     120.248487,
                     23.016221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202504280001",
+                "name": "臺南市私立佰林果文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.197462,
+                    22.976582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202504280002",
+                "name": "劍橋瀛海國際文教有限公司附設臺南市私立慎選師塾文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國中,高中,高四、成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.209204,
+                    23.036842
                 ]
             }
         }
