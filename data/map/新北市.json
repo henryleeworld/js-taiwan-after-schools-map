@@ -3353,7 +3353,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022638",
-                "name": "私立盈俞私塾有限公司附設新貴新埔文理短期補習班",
+                "name": "盈俞私塾有限公司附設新貴新埔文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -16529,7 +16529,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200703060003",
-                "name": "私立是優文理語文短期補習班",
+                "name": "是優文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡",
@@ -20204,7 +20204,7 @@
                 "name": "熊振文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -35404,24 +35404,6 @@
                 "coordinates": [
                     121.515073,
                     25.012678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201701240001",
-                "name": "私立薪承永福文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.523658,
-                    25.007023
                 ]
             }
         },
@@ -51982,6 +51964,24 @@
                 "coordinates": [
                     121.366719,
                     25.075757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504290001",
+                "name": "私立耑蒔音樂技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.361026,
+                    25.071966
                 ]
             }
         }

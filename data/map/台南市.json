@@ -5854,24 +5854,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200305289021",
-                "name": "臺南市私立學仕堡英語短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.248891,
-                    23.181773
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200305289023",
                 "name": "臺南市私立小師大文理短期補習班",
                 "county": "台南市",
@@ -7280,7 +7262,7 @@
                 "name": "臺南市私立重點名耀文理短期補習班",
                 "county": "台南市",
                 "class": "外語類,",
-                "students": "國小,國中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -25820,7 +25802,7 @@
                 "name": "孔孟文化事業有限公司附設私立孔孟文理短期補習班東橋分班(為比對教職員工資料預登立案資訊)",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "學齡前,國小,高中,國中",
+                "students": "國中,學齡前,國小,高中",
                 "date_closed": ""
             },
             "geometry": {
