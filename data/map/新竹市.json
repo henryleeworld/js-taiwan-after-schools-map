@@ -5278,24 +5278,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35201604250001",
-                "name": "新竹市私立名師文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.955256,
-                    24.80657
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35201605100001",
                 "name": "新竹市私立民富文理技藝短期補習班",
                 "county": "新竹市",
@@ -8558,7 +8540,7 @@
                 "name": "新竹市私立愛樂思文理短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國小,國中,高中",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {

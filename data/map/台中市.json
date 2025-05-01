@@ -11200,6 +11200,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200306110004",
+                "name": "私立提卡美術短期補習班",
+                "county": "台中市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681033,
+                    24.16727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200306130003",
                 "name": "格蘭事業股份有限公司臺中文心分公司附設臺中市私立格言英語會話短期補習班",
                 "county": "台中市",
@@ -21173,7 +21191,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200707109011",
-                "name": "臺中市私立冠昱東榮文理短期補習班",
+                "name": "敦惠文教事業有限公司附設臺中市私立冠昱東榮文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中,高中",
@@ -28031,7 +28049,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200912150001",
-                "name": "書暉有限公司附設臺中市私立尚宣文理短期補習班",
+                "name": "臺中市私立佳茵文理短期補習班惠來分班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小",
@@ -52324,6 +52342,24 @@
                 "coordinates": [
                     120.661511,
                     24.147521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202504300001",
+                "name": "福聖堡文教事業有限公司附設臺中市私立進學塾福科文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.621293,
+                    24.183483
                 ]
             }
         }

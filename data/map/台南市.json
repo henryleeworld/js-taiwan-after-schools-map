@@ -5854,6 +5854,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200305289021",
+                "name": "臺南市私立學仕堡英語短期補習班",
+                "county": "台南市",
+                "class": "外語類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.248891,
+                    23.181773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200305289023",
                 "name": "臺南市私立小師大文理短期補習班",
                 "county": "台南市",
@@ -21194,7 +21212,7 @@
                 "name": "臺南市私立宏光文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "高中,國中,國小",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25900,6 +25918,24 @@
                 "coordinates": [
                     120.209204,
                     23.036842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202504300001",
+                "name": "臺南市私立百川文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348251,
+                    23.228359
                 ]
             }
         }

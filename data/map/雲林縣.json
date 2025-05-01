@@ -3352,6 +3352,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55200710250002",
+                "name": "私立建強文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.175002,
+                    23.643379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55200711300001",
                 "name": "私立新優生文理技藝短期補習班",
                 "county": "雲林縣",
@@ -3482,7 +3500,7 @@
                 "name": "私立凱英文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -3860,7 +3878,7 @@
                 "name": "私立蔡雅慧文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {

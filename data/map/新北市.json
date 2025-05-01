@@ -8249,7 +8249,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200401070002",
-                "name": "私立佳和英語短期補習班",
+                "name": "佳和英語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "其他",
@@ -13181,10 +13181,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200511140002",
-                "name": "私立巨匠電腦股份有限公司板橋分公司附設巨匠美語短期補習班",
+                "name": "巨匠電腦股份有限公司板橋分公司附設巨匠美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "其他",
+                "students": "6歲以上",
                 "date_closed": ""
             },
             "geometry": {
@@ -13631,7 +13631,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200512280007",
-                "name": "私立康乃爾語文短期補習班",
+                "name": "康乃爾語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小",
@@ -18160,24 +18160,6 @@
                 "coordinates": [
                     121.469506,
                     25.00944
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200801300004",
-                "name": "喬安語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.424519,
-                    25.040018
                 ]
             }
         },
@@ -27905,7 +27887,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201208300001",
-                "name": "私立嘉寶語文短期補習班",
+                "name": "嘉寶語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小",
@@ -30875,7 +30857,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201404200001",
-                "name": "私立發掘音樂短期補習班",
+                "name": "發掘音樂短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
                 "students": "不限(2班各11人),不限",
@@ -37861,7 +37843,7 @@
                 "code": "21201808300002",
                 "name": "科揚文理短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
+                "class": "文理類,外語類,",
                 "students": "不限年齡",
                 "date_closed": ""
             },
@@ -51982,6 +51964,24 @@
                 "coordinates": [
                     121.361026,
                     25.071966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202504300001",
+                "name": "私立鷹皇國際美語文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.49306,
+                    25.085252
                 ]
             }
         }
