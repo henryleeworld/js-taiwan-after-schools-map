@@ -2618,7 +2618,7 @@
                 "name": "臺中市私立文裕文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -37571,10 +37571,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42201602150001",
-                "name": "臺中市私立麗果藝術短期補習班",
+                "name": "臺中市私立麗果文理美術短期補習班",
                 "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,學齡前,高中,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -40235,10 +40235,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42201803190001",
-                "name": "臺中市私立英格莉斯文理短期補習班",
+                "name": "臺中市私立晨之境文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中,高中",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -50750,7 +50750,7 @@
                 "name": "臺中市私立月曜新光文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中,高中",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52360,6 +52360,24 @@
                 "coordinates": [
                     120.621293,
                     24.183483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202505010001",
+                "name": "臺中市私立端點文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小,國中,高中,成人(18歲以上),學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.657068,
+                    24.13463
                 ]
             }
         }

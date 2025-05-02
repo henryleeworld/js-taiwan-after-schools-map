@@ -14836,24 +14836,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200606060007",
-                "name": "私立勁陞文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.442308,
-                    24.97511
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200606160001",
                 "name": "私立新學林文理語文短期補習班",
                 "county": "新北市",
@@ -16259,7 +16241,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200701180005",
-                "name": "私立科見昌平語文文理美術短期補習班",
+                "name": "科見昌平語文文理美術短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "不限年齡,不限年齡(數學2.5小時、自然2.5小時、社會1小時、國文1小時)",
@@ -17375,7 +17357,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200708140001",
-                "name": "私立太平洋語文文理短期補習班",
+                "name": "太平洋語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中",
@@ -18160,6 +18142,24 @@
                 "coordinates": [
                     121.469506,
                     25.00944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200801300004",
+                "name": "喬安語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424519,
+                    25.040018
                 ]
             }
         },
@@ -27347,7 +27347,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201205140001",
-                "name": "私立新世紀語文短期補習班",
+                "name": "新世紀語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "幼童至成年",
@@ -29669,7 +29669,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201308050001",
-                "name": "私立達正文理語文技藝短期補習班",
+                "name": "私立蓓格美語文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "不限年齡",

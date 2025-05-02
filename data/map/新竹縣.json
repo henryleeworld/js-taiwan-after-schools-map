@@ -3302,7 +3302,7 @@
                 "name": "新竹縣私立聯合文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "",
+                "students": "國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -3788,7 +3788,7 @@
                 "name": "新竹縣私立小瓏英語短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,",
-                "students": "國小,國中,高中,成人(18歲以上)",
+                "students": "成人(18歲以上),國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -9106,6 +9106,24 @@
                 "coordinates": [
                     121.011798,
                     24.823805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202505010001",
+                "name": "新竹縣私立創育叢林文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國中,學齡前,國小,高中,學齡前-成人,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032765,
+                    24.803804
                 ]
             }
         }

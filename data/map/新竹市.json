@@ -76,24 +76,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "35200207030003",
-                "name": "新竹市私立哈佛英數文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.972555,
-                    24.800317
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "35200207030006",
                 "name": "新竹市私立儒林文理短期補習班",
                 "county": "新竹市",
@@ -628,24 +610,6 @@
                 "coordinates": [
                     120.979867,
                     24.813445
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "35200207090032",
-                "name": "新竹市私立東方文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.928219,
-                    24.788319
                 ]
             }
         },
@@ -5278,6 +5242,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201604250001",
+                "name": "新竹市私立名師文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.955256,
+                    24.80657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201605100001",
                 "name": "新竹市私立民富文理技藝短期補習班",
                 "county": "新竹市",
@@ -6226,24 +6208,6 @@
                 "coordinates": [
                     120.980538,
                     24.813139
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "35201905220001",
-                "name": "新竹市私立菁鷹個別指導文理短期補習班",
-                "county": "新竹市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.013042,
-                    24.789044
                 ]
             }
         },
