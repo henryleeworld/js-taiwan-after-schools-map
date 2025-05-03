@@ -1196,7 +1196,7 @@
                 "name": "南投縣私立趙老師文理技藝短期補習班",
                 "county": "南投縣",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -3410,7 +3410,7 @@
                 "name": "南投縣私立傑耀文理短期補習班",
                 "county": "南投縣",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -3670,24 +3670,6 @@
                 "coordinates": [
                     120.674055,
                     23.928212
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "49202306260001",
-                "name": "南投縣私立暘光文理短期補習班",
-                "county": "南投縣",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682394,
-                    23.907
                 ]
             }
         },

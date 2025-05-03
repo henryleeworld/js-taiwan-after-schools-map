@@ -20615,7 +20615,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33202109010001",
-                "name": "贊鴻學輔股份有限公司附設私立創意國文理語文數學美術短期補習班",
+                "name": "私立創意國文理語文數學美術短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
                 "students": "國中,高中,國小、成人,國小",
@@ -24532,6 +24532,42 @@
                 "coordinates": [
                     121.301185,
                     25.011167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202505020001",
+                "name": "私立武舞技藝短期補習班",
+                "county": "桃園市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小及國中混合上課,國中及高中混合上課,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.204539,
+                    24.957009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202505020002",
+                "name": "私立微思文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202734,
+                    24.953024
                 ]
             }
         }
