@@ -20812,6 +20812,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200704259008",
+                "name": "臺中市私立宇熙文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.558109,
+                    24.25531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200705020001",
                 "name": "臺中市私立偉文文理短期補習班",
                 "county": "台中市",
