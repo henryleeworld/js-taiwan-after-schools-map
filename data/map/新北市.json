@@ -17338,6 +17338,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200708100002",
+                "name": "私立博新文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421525,
+                    25.025316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200708130001",
                 "name": "私立書林文理短期補習班",
                 "county": "新北市",
