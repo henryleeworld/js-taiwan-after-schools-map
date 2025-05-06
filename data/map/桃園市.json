@@ -7168,6 +7168,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200706120008",
+                "name": "私立亮晶晶趣學文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.303121,
+                    24.995868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200706120009",
                 "name": "私立李紹陽文理語文短期補習班中正分班",
                 "county": "桃園市",
@@ -20600,7 +20618,7 @@
                 "name": "私立創意國文理語文數學美術短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國中,高中,國小、成人,國小",
+                "students": "國中,高中,國小,國小、成人各1班",
                 "date_closed": ""
             },
             "geometry": {
