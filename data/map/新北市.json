@@ -10030,6 +10030,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200408260007",
+                "name": "私立建成文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.474153,
+                    25.012032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200408260009",
                 "name": "私立幼獅珠心算短期補習班",
                 "county": "新北市",
@@ -28355,7 +28373,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201211160001",
-                "name": "私立諾貝爾資優文理語文短期補習班",
+                "name": "諾貝爾資優文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡",
