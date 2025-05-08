@@ -21586,6 +21586,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200707239006",
+                "name": "臺中市私立尚恩文理技藝短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570066,
+                    24.230311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200707239007",
                 "name": "臺中市私立文堂文理短期補習班",
                 "county": "台中市",
