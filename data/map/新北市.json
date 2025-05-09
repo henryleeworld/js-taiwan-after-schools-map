@@ -52002,6 +52002,42 @@
                     25.085252
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202505080001",
+                "name": "私立立思樂文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447404,
+                    25.047769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202505080002",
+                "name": "北獅企業股份有限公司附設私立樂獅永平文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小、國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.503095,
+                    25.00828
+                ]
+            }
         }
     ]
 }

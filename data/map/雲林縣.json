@@ -472,24 +472,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200207080086",
-                "name": "私立一升文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.474819,
-                    23.677564
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200207080087",
                 "name": "私立諾貝爾文理短期補習班",
                 "county": "雲林縣",
@@ -2488,24 +2470,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55200504110001",
-                "name": "私立諾兒文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.257063,
-                    23.751259
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55200504120001",
                 "name": "私立弘儒文理短期補習班",
                 "county": "雲林縣",
@@ -3626,7 +3590,7 @@
                 "name": "私立童心園文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中,學齡前",
+                "students": "國小",
                 "date_closed": ""
             },
             "geometry": {
