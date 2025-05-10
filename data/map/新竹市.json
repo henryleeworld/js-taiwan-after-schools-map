@@ -8712,6 +8712,42 @@
                     24.818478
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202505090001",
+                "name": "拓璞教育科技有限公司附設新竹市私立拓璞教育文理短期補習班光武分班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013042,
+                    24.789044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202505090002",
+                "name": "新竹市私立莊老師文理短期補習班三民分班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.979232,
+                    24.813304
+                ]
+            }
         }
     ]
 }
