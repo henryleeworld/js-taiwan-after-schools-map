@@ -8284,24 +8284,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200401090005",
-                "name": "私立花米路美語短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.505168,
-                    24.982945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200401090006",
                 "name": "私立探索文理技藝短期補習班",
                 "county": "新北市",
@@ -8350,24 +8332,6 @@
                 "coordinates": [
                     121.642711,
                     25.068071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200401120001",
-                "name": "私立詮能文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.536117,
-                    24.971335
                 ]
             }
         },
@@ -16108,6 +16072,24 @@
                 "coordinates": [
                     121.40465,
                     24.933481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200612210010",
+                "name": "私立高斯文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447354,
+                    25.048233
                 ]
             }
         },
