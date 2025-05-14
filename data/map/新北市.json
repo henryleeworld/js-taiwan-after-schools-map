@@ -4019,7 +4019,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022748",
-                "name": "私立學田文理短期補習班",
+                "name": "學田文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中",
@@ -8284,6 +8284,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200401090005",
+                "name": "私立花米路美語短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505168,
+                    24.982945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200401090006",
                 "name": "私立探索文理技藝短期補習班",
                 "county": "新北市",
@@ -8332,6 +8350,24 @@
                 "coordinates": [
                     121.642711,
                     25.068071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200401120001",
+                "name": "私立詮能文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536117,
+                    24.971335
                 ]
             }
         },
@@ -9394,24 +9430,6 @@
                 "coordinates": [
                     121.448167,
                     24.989032
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200406230005",
-                "name": "私立巨匠電腦股份有限公司新店分公司附設巨二電腦短期補習班",
-                "county": "新北市",
-                "class": "資訊類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.542741,
-                    24.974186
                 ]
             }
         },
@@ -28750,24 +28768,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201301180001",
-                "name": "私立逸騰文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小、國中、高中,不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.377062,
-                    24.940232
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201301180002",
                 "name": "私立仁僾文理語文短期補習班",
                 "county": "新北市",
@@ -29428,24 +29428,6 @@
                 "coordinates": [
                     121.654375,
                     25.063354
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201306200002",
-                "name": "私立玫瑰舞蹈短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "年齡不限",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.449937,
-                    25.052854
                 ]
             }
         },
@@ -36959,7 +36941,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201803280001",
-                "name": "私立翊芊文理短期補習班",
+                "name": "翊芊文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -48749,7 +48731,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202310250001",
-                "name": "祐維科技股份有限公司附設私立愛和好學文理技藝短期補習班",
+                "name": "川崎太太台日國際顧問有限公司附設私立愛和好學文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "不限年齡",

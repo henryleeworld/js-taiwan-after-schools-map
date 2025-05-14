@@ -5962,6 +5962,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200609130001",
+                "name": "私立阿里巴巴美語短期補習班",
+                "county": "桃園市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.234454,
+                    24.87157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200609140001",
                 "name": "私立博文文理美語短期補習班",
                 "county": "桃園市",
@@ -24550,6 +24568,42 @@
                 "coordinates": [
                     121.202734,
                     24.953024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202505120001",
+                "name": "私立馥禎文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.305631,
+                    24.989344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202505120002",
+                "name": "私立學會了英語文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.318317,
+                    24.998129
                 ]
             }
         }
