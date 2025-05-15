@@ -10139,10 +10139,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200409220001",
-                "name": "泰恩語文短期補習班",
+                "name": "私立泰恩文理短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
-                "students": "國中、小",
+                "class": "文理類,外語類,",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -16763,7 +16763,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200705040004",
-                "name": "私立奕迪語文短期補習班",
+                "name": "奕迪語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國中",
@@ -27887,10 +27887,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201208300001",
-                "name": "嘉寶語文短期補習班",
+                "name": "私立嘉寶文理短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
-                "students": "國小",
+                "class": "文理類,",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -28762,6 +28762,24 @@
                 "coordinates": [
                     121.374703,
                     25.08432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201301180001",
+                "name": "私立逸騰文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小、國中、高中,不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.377062,
+                    24.940232
                 ]
             }
         },
@@ -33938,14 +33956,14 @@
                 "name": "諾貝爾優等文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中、高中,不限年齡",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.480956,
-                    25.077141
+                    121.480885,
+                    25.077125
                 ]
             }
         },
