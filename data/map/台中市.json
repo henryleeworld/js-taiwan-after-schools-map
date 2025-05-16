@@ -7690,24 +7690,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120520",
-                "name": "私立小宇宙美語會話短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.638051,
-                    24.147321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120521",
                 "name": "臺中市私立新階美語會話短期補習班",
                 "county": "台中市",
@@ -52378,6 +52360,24 @@
                 "coordinates": [
                     120.715612,
                     24.153439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202505140001",
+                "name": "臺中市私立凱迪克文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.710886,
+                    24.21267
                 ]
             }
         }

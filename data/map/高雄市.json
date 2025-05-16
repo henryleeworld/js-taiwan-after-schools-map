@@ -9347,10 +9347,10 @@
             "type": "Feature",
             "properties": {
                 "code": "70200211250003",
-                "name": "私立嘉學外語短期補習班",
+                "name": "私立嘉學文理短期補習班",
                 "county": "高雄市",
                 "class": "外語類,",
-                "students": "國中,國小,學齡前",
+                "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -10538,7 +10538,7 @@
                 "name": "私立大局觀文理技藝短期補習班",
                 "county": "高雄市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "students": "國小,高中,成人(18歲以上),學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -14398,24 +14398,6 @@
                 "coordinates": [
                     120.334594,
                     22.594382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200509149006",
-                "name": "私立成功文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.390047,
-                    22.639209
                 ]
             }
         },
@@ -33557,7 +33539,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202409180001",
-                "name": "赫越電腦有限公司附設赫越電腦短期補習班建國分班",
+                "name": "赫越電腦有限公司附設赫越電腦短期補習班",
                 "county": "高雄市",
                 "class": "資訊類,",
                 "students": "成人(18歲以上),高中",
@@ -33640,6 +33622,24 @@
                 "coordinates": [
                     120.339085,
                     22.613359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202411070001",
+                "name": "私立心向美術文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,學齡前,成人(18歲以上),國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368699,
+                    22.628577
                 ]
             }
         },
