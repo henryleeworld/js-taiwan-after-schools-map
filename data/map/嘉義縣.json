@@ -508,6 +508,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "53200208012117",
+                "name": "私立新時代技藝短期補習班",
+                "county": "嘉義縣",
+                "class": "商類：珠算、心算、會計,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.461613,
+                    23.451606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "53200208012118",
                 "name": "私立高效能正音文理短期補習班",
                 "county": "嘉義縣",

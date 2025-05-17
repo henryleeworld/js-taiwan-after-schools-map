@@ -980,7 +980,7 @@
                 "name": "屏東縣私立愛思博文理技藝短期補習班",
                 "county": "屏東縣",
                 "class": "文理類,",
-                "students": "學齡前,國小,國中,高中,國小-成人",
+                "students": "國小,學齡前,國中,高中,國小-成人",
                 "date_closed": ""
             },
             "geometry": {
@@ -5530,24 +5530,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "87201612130002",
-                "name": "屏東縣私立三民文理技藝短期補習班",
-                "county": "屏東縣",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.486656,
-                    22.671388
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "87201612130003",
                 "name": "屏東縣私立博一文理短期補習班",
                 "county": "屏東縣",
@@ -7450,6 +7432,24 @@
                 "coordinates": [
                     120.488549,
                     22.677142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "87202505160001",
+                "name": "屏東縣私立偉群美語文理短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,外語類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.477821,
+                    22.685827
                 ]
             }
         }

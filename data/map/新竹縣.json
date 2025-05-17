@@ -9126,6 +9126,42 @@
                     24.803804
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202505150001",
+                "name": "新竹縣私立EZ英檢文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.030049,
+                    24.811677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202505160001",
+                "name": "新竹縣私立5A老爹文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.987086,
+                    24.901361
+                ]
+            }
         }
     ]
 }

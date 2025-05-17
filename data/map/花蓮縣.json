@@ -527,10 +527,10 @@
             "type": "Feature",
             "properties": {
                 "code": "38200211130005",
-                "name": "私立佳姿文理短期補習班",
+                "name": "私立佳姿文理技藝短期補習班",
                 "county": "花蓮縣",
                 "class": "外語類,資訊類,",
-                "students": "學齡前、國小",
+                "students": "學齡前.國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -2636,7 +2636,7 @@
                 "name": "私立承億文理短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,",
-                "students": "國小、國中",
+                "students": "國小.國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -2824,6 +2824,24 @@
                 "coordinates": [
                     121.573665,
                     23.989353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202505160001",
+                "name": "私立主毅文理短期補習班",
+                "county": "花蓮縣",
+                "class": "文理類,",
+                "students": "國小.國中.高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.601126,
+                    23.982315
                 ]
             }
         }

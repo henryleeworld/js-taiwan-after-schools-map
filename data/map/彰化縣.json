@@ -12752,7 +12752,7 @@
                 "name": "彰化縣私立福瑞斯特美語短期補習班",
                 "county": "彰化縣",
                 "class": "外語類,",
-                "students": "國小,學齡前",
+                "students": "學齡前,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -17512,6 +17512,24 @@
                 "coordinates": [
                     120.564265,
                     23.964067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202505150001",
+                "name": "彰化縣私立育心文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524742,
+                    23.869324
                 ]
             }
         }
