@@ -5530,6 +5530,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87201612130002",
+                "name": "屏東縣私立三民文理技藝短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.486656,
+                    22.671388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87201612130003",
                 "name": "屏東縣私立博一文理短期補習班",
                 "county": "屏東縣",
