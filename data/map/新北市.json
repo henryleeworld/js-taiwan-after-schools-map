@@ -13684,24 +13684,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200601020006",
-                "name": "私立致和文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中以上",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.491338,
-                    25.074255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200601030001",
                 "name": "私立優質生文理短期補習班",
                 "county": "新北市",
@@ -18088,6 +18070,24 @@
                 "coordinates": [
                     121.619083,
                     25.002319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200801300001",
+                "name": "私立大成樂器有限公司附設大成幸福音樂短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449147,
+                    25.049071
                 ]
             }
         },
