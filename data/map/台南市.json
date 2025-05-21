@@ -19354,24 +19354,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201712060001",
-                "name": "臺南市私立親親文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.237602,
-                    22.964858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201712100001",
                 "name": "臺南市私立觀念穩贏文理短期補習班",
                 "county": "台南市",
@@ -25493,7 +25475,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202411050001",
-                "name": "台南魏宏泰物理有限公司附設臺南市私立權一文理短期補習班",
+                "name": "台南宏泰自然有限公司附設臺南市私立權一文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "高中,國中",
@@ -25907,10 +25889,10 @@
             "type": "Feature",
             "properties": {
                 "code": "62202504280002",
-                "name": "劍橋瀛海國際文教有限公司附設臺南市私立慎選師塾文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "劍橋瀛海國際文教有限公司附設臺南市私立慎選師塾文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國中,高中,高四、成人",
+                "students": "高中,國中,高四",
                 "date_closed": ""
             },
             "geometry": {
@@ -25936,6 +25918,24 @@
                 "coordinates": [
                     120.348251,
                     23.228359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202505190001",
+                "name": "臺南市私立衡睿文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.17985,
+                    23.018366
                 ]
             }
         }

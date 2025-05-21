@@ -4028,8 +4028,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.542169,
-                    24.978401
+                    121.542737,
+                    24.974564
                 ]
             }
         },
@@ -13684,6 +13684,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200601020006",
+                "name": "私立致和文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中以上",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491338,
+                    25.074255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200601030001",
                 "name": "私立優質生文理短期補習班",
                 "county": "新北市",
@@ -16277,7 +16295,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200701190003",
-                "name": "私立巨匠電腦股份有限公司三重美語分公司附設鉅匠美語短期補習班",
+                "name": "巨匠電腦股份有限公司三重美語分公司附設鉅匠美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "無限制",
@@ -37330,24 +37348,6 @@
                 "coordinates": [
                     121.444744,
                     25.053985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201805240002",
-                "name": "私立杰生文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.51782,
-                    25.012398
                 ]
             }
         },
