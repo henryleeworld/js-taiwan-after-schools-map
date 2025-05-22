@@ -620,7 +620,7 @@
                 "name": "私立春田文理技藝短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國小",
+                "students": "國小,國小.國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -728,7 +728,7 @@
                 "name": "私立全位文理技藝短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小",
+                "students": "國小,學齡前.國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -1546,24 +1546,6 @@
                 "coordinates": [
                     121.570863,
                     23.994368
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "38200803190001",
-                "name": "私立茱莉亞音樂教室技藝短期補習班",
-                "county": "花蓮縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.602406,
-                    23.981736
                 ]
             }
         },

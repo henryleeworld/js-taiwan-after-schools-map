@@ -1552,24 +1552,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200205200058",
-                "name": "志光教育科技股份有限公司附設臺南市私立學儒志聖文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.208415,
-                    22.995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200205200059",
                 "name": "臺南市私立日東升文理短期補習班",
                 "county": "台南市",
@@ -20147,7 +20129,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62201901220001",
-                "name": "臺南市私立富裕文理短期補習班",
+                "name": "臺南市私立柏睿文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國小,國中",
@@ -20204,7 +20186,7 @@
                 "name": "臺南市私立典鑫文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "高中,國小,國中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25928,7 +25910,7 @@
                 "name": "臺南市私立衡睿文理短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {

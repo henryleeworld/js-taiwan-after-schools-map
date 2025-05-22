@@ -17608,24 +17608,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200708090001",
-                "name": "私立威利文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.319543,
-                    22.647694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200708240001",
                 "name": "喜樂泉源股份有限公司附設希伯崙文理技藝短期補習班",
                 "county": "高雄市",
@@ -33730,6 +33712,24 @@
                 "coordinates": [
                     120.39805,
                     22.604175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202502040001",
+                "name": "私立文勝學堂文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "高中,學齡前,國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315598,
+                    22.627736
                 ]
             }
         },
