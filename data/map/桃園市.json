@@ -16460,7 +16460,7 @@
                 "name": "社團法人中國青年救國團附設私立五福語文技藝短期補習班",
                 "county": "桃園市",
                 "class": "外語類,家政、插花、烹飪類,音樂、舞蹈類,瑜珈類,",
-                "students": "國中",
+                "students": "國中以上",
                 "date_closed": ""
             },
             "geometry": {
@@ -24604,6 +24604,24 @@
                 "coordinates": [
                     121.213424,
                     25.007128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202505220001",
+                "name": "私立佳覓技藝文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,其他類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.295186,
+                    25.014514
                 ]
             }
         }
