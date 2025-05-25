@@ -11632,6 +11632,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200710080001",
+                "name": "臺南市私立學學文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.241114,
+                    22.982766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200710080002",
                 "name": "臺南市私立育翔文理短期補習班",
                 "county": "台南市",
