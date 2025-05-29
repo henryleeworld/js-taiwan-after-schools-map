@@ -4612,6 +4612,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201608240001",
+                "name": "新竹縣私立好地美語文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中,高中、成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.033908,
+                    24.806177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201608250001",
                 "name": "新竹縣私立菲翌術文理技藝短期補習班",
                 "county": "新竹縣",
@@ -9170,7 +9188,7 @@
                 "name": "新竹縣私立王老師家教中心文理短期補習班達生分班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前",
+                "students": "學齡前,國小,高中,國中",
                 "date_closed": ""
             },
             "geometry": {
