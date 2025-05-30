@@ -7439,7 +7439,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200205220017",
-                "name": "私立誌展我愛美語文理短期補習班",
+                "name": "私立楠一文理短期補習班我愛分班",
                 "county": "高雄市",
                 "class": "文理類,外語類,",
                 "students": "學齡前,國小,國中,高中",
@@ -12562,6 +12562,24 @@
                 "coordinates": [
                     120.294524,
                     22.660934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200410270001",
+                "name": "私立久昌文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": "2024-01-25"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.281527,
+                    22.714365
                 ]
             }
         },
@@ -33856,6 +33874,24 @@
                 "coordinates": [
                     120.309317,
                     22.622011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202505270001",
+                "name": "弘育教育有限公司附設KH雙語共學園文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "學齡前,高中,成人(18歲以上),國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.325339,
+                    22.644097
                 ]
             }
         }

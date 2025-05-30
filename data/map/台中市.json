@@ -5368,24 +5368,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120039",
-                "name": "私立功名文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "公職人員考試",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682096,
-                    24.137626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120042",
                 "name": "臺中市私立建成文理短期補習班",
                 "county": "台中市",
@@ -13246,6 +13228,24 @@
                 "coordinates": [
                     120.562884,
                     24.243072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200407289006",
+                "name": "私立柏登文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643935,
+                    24.073924
                 ]
             }
         },
@@ -52394,8 +52394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.688189,
-                    24.129754
+                    120.682593,
+                    24.136328
                 ]
             }
         },
@@ -52406,14 +52406,32 @@
                 "name": "臺中市私立育成文理短期補習班育英分班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "",
+                "students": "學齡前,國中,國小",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.698945,
-                    24.134157
+                    120.67334,
+                    24.160942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202505270001",
+                "name": "臺中市私立綻放文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687472,
+                    24.1875
                 ]
             }
         }

@@ -6827,7 +6827,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200304100003",
-                "name": "私立雨果文理短期補習班",
+                "name": "雨果文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小,國小1班、國中1班,國中",
@@ -46948,24 +46948,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21202211240001",
-                "name": "嘉英文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.431408,
-                    25.05327
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21202212050001",
                 "name": "私立大牛津文理技藝短期補習班",
                 "county": "新北市",
@@ -51964,6 +51946,24 @@
                 "coordinates": [
                     121.512971,
                     25.013377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202505270001",
+                "name": "私立全瑧一對一文裡短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.468864,
+                    25.08567
                 ]
             }
         }

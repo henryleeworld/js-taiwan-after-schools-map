@@ -3388,6 +3388,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87200908190001",
+                "name": "屏東縣私立加語英語教育中心文理短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.524787,
+                    22.650397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87200908190002",
                 "name": "屏東縣私立弘育美語文理短期補習班",
                 "county": "屏東縣",
