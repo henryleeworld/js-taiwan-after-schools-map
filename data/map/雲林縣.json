@@ -6318,6 +6318,42 @@
                     23.731846
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202505280001",
+                "name": "私立銳師文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.55055,
+                    23.711123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202505280002",
+                "name": "私立微光點點短期補習班",
+                "county": "雲林縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.479887,
+                    23.676191
+                ]
+            }
         }
     ]
 }
