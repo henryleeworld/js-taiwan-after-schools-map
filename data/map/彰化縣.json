@@ -4144,24 +4144,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200504210004",
-                "name": "私立鴻韻音樂短期補習班",
-                "county": "彰化縣",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.580181,
-                    23.959997
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200504210005",
                 "name": "彰化縣私立威格英語短期補習班",
                 "county": "彰化縣",
@@ -9682,6 +9664,24 @@
                 "coordinates": [
                     120.544374,
                     24.090469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305270001",
+                "name": "彰化縣私立允程文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.553929,
+                    24.094188
                 ]
             }
         },

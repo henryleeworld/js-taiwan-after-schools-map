@@ -4289,10 +4289,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022789",
-                "name": "私立好強文理短期補習班",
+                "name": "私立學冠陸號文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國中",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -51964,6 +51964,60 @@
                 "coordinates": [
                     121.468864,
                     25.08567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202505290001",
+                "name": "私立安捷文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.505019,
+                    24.991148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202505290002",
+                "name": "家功場放學趣有限公司附設私立愉閱空間語感英文文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,家政、插花、烹飪類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.506485,
+                    25.006423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202505290003",
+                "name": "私立捲耳貓程式設計電腦文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.475078,
+                    25.01994
                 ]
             }
         }
