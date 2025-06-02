@@ -7024,6 +7024,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202111230001",
+                "name": "新竹縣私立藝果美語短期補習班新社分班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.998583,
+                    24.842656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202111240001",
                 "name": "蘋果芽數位科技股份有限公司附設新竹縣私立橘子蘋果電腦文理短期補習班",
                 "county": "新竹縣",

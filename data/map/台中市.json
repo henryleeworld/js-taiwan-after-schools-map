@@ -14098,24 +14098,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200412150001",
-                "name": "私立傑英英語會話短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "未填寫",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.647693,
-                    24.149119
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200412150003",
                 "name": "臺中市私立第五大道美語會話短期補習班",
                 "county": "台中市",
@@ -24244,6 +24226,24 @@
                 "coordinates": [
                     120.677984,
                     24.151896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200807099001",
+                "name": "臺中市私立昱恩美語短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654408,
+                    24.382026
                 ]
             }
         },

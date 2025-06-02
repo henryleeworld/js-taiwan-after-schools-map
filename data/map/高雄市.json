@@ -9400,6 +9400,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200212170002",
+                "name": "私立奇陣文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,學齡前,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308114,
+                    22.647428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200212189002",
                 "name": "私立大同文理短期補習班",
                 "county": "高雄市",
