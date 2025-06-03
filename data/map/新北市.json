@@ -16060,24 +16060,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200612210001",
-                "name": "私立城市美瑜伽短期補習班",
-                "county": "新北市",
-                "class": "瑜珈類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.442127,
-                    24.975518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200612210002",
                 "name": "私立蒔育文理技藝短期補習班",
                 "county": "新北市",
@@ -16090,6 +16072,24 @@
                 "coordinates": [
                     121.40465,
                     24.933481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200612210010",
+                "name": "私立高斯文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447354,
+                    25.048233
                 ]
             }
         },
