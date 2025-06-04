@@ -4630,6 +4630,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201608250001",
+                "name": "新竹縣私立菲翌術文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,學齡前至國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016084,
+                    24.815684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201610140002",
                 "name": "新竹縣私立康寧興隆文理才藝短期補習班",
                 "county": "新竹縣",
@@ -5380,24 +5398,6 @@
                 "coordinates": [
                     121.08841,
                     24.740072
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36201808240002",
-                "name": "新竹縣私立靖洋文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,外語類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.03073,
-                    24.827859
                 ]
             }
         },
