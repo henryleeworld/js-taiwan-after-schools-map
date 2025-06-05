@@ -4954,6 +4954,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201510050004",
+                "name": "新竹市私立前錦文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.97854,
+                    24.808615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201510050005",
                 "name": "新竹市私立名城美容美髮短期補習班",
                 "county": "新竹市",
@@ -6280,24 +6298,6 @@
                 "coordinates": [
                     120.97319,
                     24.792985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "35201907300001",
-                "name": "卓越文理事業有限公司附設新竹市私立卓越文理短期補習班",
-                "county": "新竹市",
-                "class": "外語類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.013845,
-                    24.792267
                 ]
             }
         },

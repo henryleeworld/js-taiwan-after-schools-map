@@ -32981,10 +32981,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201508260002",
-                "name": "聯大教育股份有限公司附設聯大陳頡文理短期補習班",
+                "name": "聯大陳頡文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國中,不限年齡",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -35972,7 +35972,7 @@
                 "name": "未來領袖教育股份有限公司附設允智文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "不限年齡,小學、國中、高中(A班27人、B班21人、C班28人)",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -46175,7 +46175,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202207070001",
-                "name": "私立南蒂亞文理短期補習班",
+                "name": "南蒂亞文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小",
@@ -46463,7 +46463,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202208240002",
-                "name": "私立力行文理短期補習班",
+                "name": "力行文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小國中",
@@ -52018,6 +52018,24 @@
                 "coordinates": [
                     121.475078,
                     25.01994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506020001",
+                "name": "私立新泰文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448113,
+                    25.036304
                 ]
             }
         }
