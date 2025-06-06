@@ -8806,24 +8806,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200512080001",
-                "name": "臺南市私立天橋美語短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.225853,
-                    22.97599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200512129003",
                 "name": "臺南市私立傑立文理短期補習班",
                 "county": "台南市",
@@ -10168,6 +10150,24 @@
                 "coordinates": [
                     120.179546,
                     23.048238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200610180001",
+                "name": "臺南市私立吳郭魚美術短期補習班",
+                "county": "台南市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.226785,
+                    22.976234
                 ]
             }
         },
@@ -15899,7 +15899,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62201207210004",
-                "name": "臺南市私立進學文理短期補習班",
+                "name": "典陸教育科技股份有限公司附設臺南市私立進學文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "高中",

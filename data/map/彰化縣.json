@@ -17478,6 +17478,42 @@
                     23.869324
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202506030001",
+                "name": "彰化縣私立立忠文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.533137,
+                    24.08564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202506030002",
+                "name": "彰化縣私立菁華文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.536518,
+                    24.07033
+                ]
+            }
         }
     ]
 }

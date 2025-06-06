@@ -3586,24 +3586,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022643",
-                "name": "私立新世紀外語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.306892,
-                    22.631304
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022646",
                 "name": "敦華英語國際文教股份有限公司附設高雄市私立敦煌英語短期補習班七賢分班",
                 "county": "高雄市",
@@ -4109,7 +4091,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200204022752",
-                "name": "私立倍思特兒文理技藝短期補習班",
+                "name": "私立金名文理技藝短期補習班五福分班",
                 "county": "高雄市",
                 "class": "文理類,外語類,音樂、舞蹈類,",
                 "students": "國小,國中",
@@ -12698,7 +12680,7 @@
                 "name": "私立爬格子文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "高中,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -33856,6 +33838,24 @@
                 "coordinates": [
                     120.309317,
                     22.622011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202505140001",
+                "name": "私立傑瑞兒美語文理短期補習班五福分班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327113,
+                    22.589841
                 ]
             }
         },

@@ -2564,7 +2564,7 @@
                 "name": "新竹市私立四季田語文短期補習班",
                 "county": "新竹市",
                 "class": "外語類,",
-                "students": "國小,國中,其他",
+                "students": "國小,國中,國小至成人",
                 "date_closed": ""
             },
             "geometry": {
@@ -3560,8 +3560,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.963224,
-                    24.812398
+                    120.963225,
+                    24.812399
                 ]
             }
         },
@@ -6298,6 +6298,24 @@
                 "coordinates": [
                     120.97319,
                     24.792985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35201907300001",
+                "name": "卓越文理事業有限公司附設新竹市私立卓越文理短期補習班",
+                "county": "新竹市",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013845,
+                    24.792267
                 ]
             }
         },
