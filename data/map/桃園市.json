@@ -3338,7 +3338,7 @@
                 "name": "私立諾亞美語文理短期補習班",
                 "county": "桃園市",
                 "class": "外語類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -8206,24 +8206,6 @@
                 "coordinates": [
                     121.364346,
                     25.060321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33200804150001",
-                "name": "台灣知識庫股份有限公司附設私立大碩百官網龍門甄戰文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "升二技插大",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.225288,
-                    24.952123
                 ]
             }
         },
@@ -16907,7 +16889,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33201706210002",
-                "name": "私立築科文理短期補習班",
+                "name": "私立立峰文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,",
                 "students": "高中,國中",
@@ -24604,6 +24586,42 @@
                 "coordinates": [
                     121.245859,
                     24.949416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202506040001",
+                "name": "私立蒙特瑞英語文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.213429,
+                    25.006976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202506040002",
+                "name": "私立擁抱文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.393246,
+                    25.045337
                 ]
             }
         }
