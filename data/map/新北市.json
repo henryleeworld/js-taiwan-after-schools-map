@@ -4325,7 +4325,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022796",
-                "name": "私立智文迪美語短期補習班",
+                "name": "智文迪美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "國小",
@@ -12298,6 +12298,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200507200003",
+                "name": "大師輕鬆學文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.432236,
+                    25.069739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200507210001",
                 "name": "私立雅森語文短期補習班",
                 "county": "新北市",
@@ -14333,7 +14351,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200603310007",
-                "name": "私立劉宇文理短期補習班",
+                "name": "劉宇文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中,國小",
@@ -52025,7 +52043,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202506040001",
-                "name": "私立墓尼克技藝短期補習班",
+                "name": "私立慕尼克技藝短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
                 "students": "不限年齡",
