@@ -4955,7 +4955,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62200208280035",
-                "name": "臺南市私立林肯美語短期補習班",
+                "name": "臺南市私立林肯美語文理短期補習班",
                 "county": "台南市",
                 "class": "外語類,",
                 "students": "國中,國小",
@@ -5200,24 +5200,6 @@
                 "coordinates": [
                     120.189957,
                     23.008223
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62200209199002",
-                "name": "臺南市私立新格蘭英語短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.303978,
-                    23.306971
                 ]
             }
         },
@@ -21140,7 +21122,7 @@
                 "name": "臺南市私立立呈文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
