@@ -16132,6 +16132,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200701150002",
+                "name": "私立綠的接觸美術文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "(不現年齡),高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.520866,
+                    25.002873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200701150003",
                 "name": "新芯語文文理短期補習班",
                 "county": "新北市",
@@ -16144,24 +16162,6 @@
                 "coordinates": [
                     121.461366,
                     25.003214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200701150005",
-                "name": "熊風圍棋文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.476201,
-                    25.026765
                 ]
             }
         },
