@@ -16168,6 +16168,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200701150005",
+                "name": "熊風圍棋文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476201,
+                    25.026765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200701180001",
                 "name": "陽升學苑文理技藝短期補習班",
                 "county": "新北市",
@@ -25900,24 +25918,6 @@
                 "coordinates": [
                     121.481164,
                     24.999952
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201109080002",
-                "name": "私立煒群文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "小學、國中、高中,不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.486525,
-                    25.057925
                 ]
             }
         },

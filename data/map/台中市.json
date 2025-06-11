@@ -6034,24 +6034,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120178",
-                "name": "私立育任文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.627605,
-                    24.118518
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120179",
                 "name": "臺中市私立喜而愛文理短期補習班",
                 "county": "台中市",
@@ -7324,24 +7306,6 @@
                 "coordinates": [
                     120.654445,
                     24.141703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200208120433",
-                "name": "私立育名英語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.627605,
-                    24.118518
                 ]
             }
         },
@@ -23218,24 +23182,6 @@
                 "coordinates": [
                     120.591708,
                     24.183264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200802219006",
-                "name": "私立安利美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.706805,
-                    24.239946
                 ]
             }
         },
@@ -52432,6 +52378,24 @@
                 "coordinates": [
                     120.651817,
                     24.153446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202506080001",
+                "name": "臺中市私立學德文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.637868,
+                    24.108936
                 ]
             }
         }

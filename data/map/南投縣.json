@@ -2218,6 +2218,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "49200905110009",
+                "name": "南投縣私立高老師文理短期補習班",
+                "county": "南投縣",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684203,
+                    23.973694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "49200905110013",
                 "name": "南投縣私立盈加文理短期補習班",
                 "county": "南投縣",
@@ -3823,8 +3841,8 @@
                 "code": "49202506040001",
                 "name": "南投縣私立韋瓦弟技藝文理短期補習班",
                 "county": "南投縣",
-                "class": "",
-                "students": "",
+                "class": "音樂、舞蹈類,",
+                "students": "學齡前,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
