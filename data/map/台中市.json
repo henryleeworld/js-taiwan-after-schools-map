@@ -18458,7 +18458,7 @@
                 "name": "臺中市私立先見文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -20762,7 +20762,7 @@
                 "name": "臺中市私立偉文文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "升二技插大,升四技二專大專,研究所",
+                "students": "研究所,升二技插大,升四技二專大專",
                 "date_closed": ""
             },
             "geometry": {
@@ -23182,6 +23182,24 @@
                 "coordinates": [
                     120.591708,
                     24.183264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200802219006",
+                "name": "私立安利美語短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706805,
+                    24.239946
                 ]
             }
         },
@@ -30356,7 +30374,7 @@
                 "name": "智基科技開發股份有限公司附設臺中市私立新志光法商文理短期補習班朝陽分班",
                 "county": "台中市",
                 "class": "文理類,法政類,商類：珠算、心算、會計,",
-                "students": "公職人員考試,高中",
+                "students": "高中,公職人員考試",
                 "date_closed": ""
             },
             "geometry": {
@@ -51164,7 +51182,7 @@
                 "name": "臺中市私立納菓語文短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "學齡前,國小,國中,成人(18歲以上),高中",
+                "students": "高中,學齡前,國小,成人(18歲以上),國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52396,6 +52414,24 @@
                 "coordinates": [
                     120.637868,
                     24.108936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202506090001",
+                "name": "臺中市私立豐樂文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.630505,
+                    24.133316
                 ]
             }
         }

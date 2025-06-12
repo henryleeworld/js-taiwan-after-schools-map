@@ -14350,24 +14350,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200603310007",
-                "name": "劉宇文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.484654,
-                    25.077984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200604070001",
                 "name": "私立龍安文教有限公司附設佳韺英語短期補習班",
                 "county": "新北市",
@@ -17008,24 +16990,6 @@
                 "coordinates": [
                     121.449753,
                     24.987545
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200706110009",
-                "name": "私立美季美語短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小、國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.466947,
-                    24.994831
                 ]
             }
         },
@@ -25918,6 +25882,24 @@
                 "coordinates": [
                     121.481164,
                     24.999952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201109080002",
+                "name": "私立煒群文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "小學、國中、高中,不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.486525,
+                    25.057925
                 ]
             }
         },
@@ -35986,24 +35968,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201708090001",
-                "name": "私立佑林圍棋技藝短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.42236,
-                    24.989888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201708140001",
                 "name": "私立翰群文理短期補習班",
                 "county": "新北市",
@@ -36041,7 +36005,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201708230001",
-                "name": "私立強森文理短期補習班",
+                "name": "強森文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "一般社會大眾(A班16人、B班9人)",
@@ -52072,6 +52036,60 @@
                 "coordinates": [
                     121.485696,
                     25.086985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506090001",
+                "name": "私立清靖文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461967,
+                    25.007851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506090002",
+                "name": "私立上學趣電腦文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516572,
+                    24.983399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506090003",
+                "name": "私立慕樂序曲文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "7歲到70歲,3歲到80歲",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.37941,
+                    25.076387
                 ]
             }
         }

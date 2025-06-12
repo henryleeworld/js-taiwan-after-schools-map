@@ -11614,24 +11614,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200405050002",
-                "name": "私立來佳文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.300833,
-                    22.665006
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200405079003",
                 "name": "私立威斯頓文理短期補習班",
                 "county": "高雄市",
@@ -33874,6 +33856,24 @@
                 "coordinates": [
                     120.325339,
                     22.644097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202506060001",
+                "name": "私立麻糬韓文外語短期補習班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.308348,
+                    22.656902
                 ]
             }
         }
