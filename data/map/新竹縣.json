@@ -5656,6 +5656,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201904090001",
+                "name": "新竹縣私立欣法文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.031469,
+                    24.81016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201904090002",
                 "name": "新竹縣私立快樂轉圈圈技藝短期補習班",
                 "county": "新竹縣",
@@ -5926,6 +5944,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201910180001",
+                "name": "史丹佛文教事業股份有限公司附設新竹縣私立史丹佛文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,成人(18歲以上),學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.032582,
+                    24.824258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201910250001",
                 "name": "翻轉文化有限公司附設新竹縣私立翻轉美語短期補習班",
                 "county": "新竹縣",
@@ -5938,24 +5974,6 @@
                 "coordinates": [
                     121.036525,
                     24.806215
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36201911010001",
-                "name": "新竹縣私立升傑文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.000294,
-                    24.838141
                 ]
             }
         },
@@ -9167,10 +9185,10 @@
             "type": "Feature",
             "properties": {
                 "code": "36202506090001",
-                "name": "新竹縣私立尚林短期補習班",
+                "name": "新竹縣私立尚林文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "學齡前,國中,國小",
+                "students": "學齡前,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -9178,6 +9196,24 @@
                 "coordinates": [
                     121.028426,
                     24.867422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202506100001",
+                "name": "新竹縣私立知禾文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.018757,
+                    24.819077
                 ]
             }
         }

@@ -25727,10 +25727,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200901100001",
-                "name": "臺中市私立真善美文理短期補習班",
+                "name": "臺中市私立征戰文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -27692,7 +27692,7 @@
                 "name": "臺中市私立小瓢蟲美語美術短期補習班",
                 "county": "台中市",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前,國中",
+                "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -30130,24 +30130,6 @@
                 "coordinates": [
                     120.696284,
                     24.195827
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201011020001",
-                "name": "臺中市私立禾禾音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.624218,
-                    24.185534
                 ]
             }
         },
