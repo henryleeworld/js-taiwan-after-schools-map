@@ -10714,6 +10714,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33201002010002",
+                "name": "私立冠軒美語數學作文短期補習班",
+                "county": "桃園市",
+                "class": "外語類,商類：珠算、心算、會計,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.282373,
+                    24.991574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33201002050001",
                 "name": "私立麥克叔叔文理語文短期補習班",
                 "county": "桃園市",
@@ -21734,7 +21752,7 @@
                 "name": "私立皮克西文理技藝短期補習班",
                 "county": "桃園市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,高中,國小,成人(18歲以上)",
+                "students": "國小,國中,高中,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -24640,6 +24658,24 @@
                 "coordinates": [
                     121.226435,
                     24.955347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202506110001",
+                "name": "私立赫成文理短期補習班桃園分班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311358,
+                    24.990182
                 ]
             }
         }

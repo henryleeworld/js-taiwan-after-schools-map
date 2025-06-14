@@ -11291,7 +11291,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200307010001",
-                "name": "四季文化事業股份有限公司附設臺中市私立北屯四季美語文理技藝短期補習班",
+                "name": "四季北屯教育事業股份有限公司附設臺中市私立北屯四季美語文理技藝短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "國小",
@@ -23062,24 +23062,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200801250001",
-                "name": "臺中市私立東洲音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.673204,
-                    24.167701
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200801300003",
                 "name": "臺中市私立達政文理短期補習班",
                 "county": "台中市",
@@ -30136,6 +30118,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201011020001",
+                "name": "臺中市私立禾禾音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.624218,
+                    24.185534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201011030001",
                 "name": "臺中市私立恆睿文理短期補習班",
                 "county": "台中市",
@@ -30472,24 +30472,6 @@
                 "coordinates": [
                     120.570621,
                     24.216296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201012109001",
-                "name": "私立軸心音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.717569,
-                    24.249451
                 ]
             }
         },
@@ -52414,6 +52396,24 @@
                 "coordinates": [
                     120.630505,
                     24.133316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202506110001",
+                "name": "臺中市私立盛田文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.677779,
+                    24.155826
                 ]
             }
         }
