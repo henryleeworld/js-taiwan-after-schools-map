@@ -25712,7 +25712,7 @@
                 "name": "臺中市私立征戰文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -30472,6 +30472,24 @@
                 "coordinates": [
                     120.570621,
                     24.216296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201012109001",
+                "name": "私立軸心音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.717569,
+                    24.249451
                 ]
             }
         },
@@ -52414,6 +52432,42 @@
                 "coordinates": [
                     120.677779,
                     24.155826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202506120001",
+                "name": "臺中市私立捷英文理短期補習班育德分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720713,
+                    24.153162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202506120002",
+                "name": "臺中市私立嵐炘文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720611,
+                    24.158575
                 ]
             }
         }

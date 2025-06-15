@@ -4631,10 +4631,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022848",
-                "name": "私立建中文教文理短期補習班",
+                "name": "建中文教文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "國小以上",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -24718,24 +24718,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201101260001",
-                "name": "私立愛學鈴文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.514,
-                    25.011669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201101260002",
                 "name": "私立李老師語文短期補習班",
                 "county": "新北市",
@@ -32261,7 +32243,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201502010001",
-                "name": "私立未來領袖教育股份有限公司附設牧群文理短期補習班",
+                "name": "未來領袖教育股份有限公司附設牧群文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡(A班19人、B班27人)",

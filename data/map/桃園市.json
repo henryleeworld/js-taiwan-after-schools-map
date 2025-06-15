@@ -24678,6 +24678,42 @@
                     24.990182
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202506120001",
+                "name": "私立方華文理短期補習班文化分班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202713,
+                    24.952924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202506120002",
+                "name": "私立立勝一對一短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國中,高中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.202714,
+                    24.953107
+                ]
+            }
         }
     ]
 }
