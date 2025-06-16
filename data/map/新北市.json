@@ -23944,24 +23944,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201010250001",
-                "name": "私立新環球音樂短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.475689,
-                    25.006077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201010250002",
                 "name": "私立曜瑒文理短期補習班",
                 "county": "新北市",
@@ -24712,6 +24694,24 @@
                 "coordinates": [
                     121.44396,
                     25.049788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201101260001",
+                "name": "私立愛學鈴文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514,
+                    25.011669
                 ]
             }
         },
@@ -30515,10 +30515,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201401140001",
-                "name": "陞優語文文理短期補習班",
+                "name": "私立陞優語文文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "幼兒、國小、國中,國小、國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -52108,6 +52108,42 @@
                 "coordinates": [
                     121.427686,
                     25.191246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506130001",
+                "name": "私立好學優文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.538589,
+                    24.977467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506130002",
+                "name": "奧森文化事業有限公司附設私立儒安文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.463409,
+                    25.003001
                 ]
             }
         }

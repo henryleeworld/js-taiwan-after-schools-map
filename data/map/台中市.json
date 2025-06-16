@@ -20524,24 +20524,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200704090001",
-                "name": "私立學正文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.714775,
-                    24.173804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200704120001",
                 "name": "臺中市私立翰薪文理短期補習班",
                 "county": "台中市",
@@ -20762,7 +20744,7 @@
                 "name": "臺中市私立偉文文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "研究所,升二技插大,升四技二專大專",
+                "students": "升二技插大,升四技二專大專,研究所",
                 "date_closed": ""
             },
             "geometry": {
@@ -23074,24 +23056,6 @@
                 "coordinates": [
                     120.690084,
                     24.180333
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200801300004",
-                "name": "臺中市私立文達文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682199,
-                    24.17389
                 ]
             }
         },
