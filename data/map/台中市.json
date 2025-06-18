@@ -23098,6 +23098,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200802120001",
+                "name": "私立優點文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,學齡前,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.639713,
+                    24.139259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200802200002",
                 "name": "私立新實力土木建築短期補習班",
                 "county": "台中市",
