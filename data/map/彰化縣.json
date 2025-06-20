@@ -7330,24 +7330,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200910140006",
-                "name": "彰化縣私立高明文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54418,
-                    23.952031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200912020001",
                 "name": "彰化縣私立企鵝家族文理短期補習班",
                 "county": "彰化縣",
@@ -17548,6 +17530,24 @@
                 "coordinates": [
                     120.542646,
                     24.027296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202506170001",
+                "name": "彰化縣私立陳靜文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57119,
+                    23.967447
                 ]
             }
         }

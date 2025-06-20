@@ -3370,6 +3370,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "39201210220002",
+                "name": "私立飛揚文理短期補習班",
+                "county": "宜蘭縣",
+                "class": "文理類,",
+                "students": "國中,國小六年級",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.764581,
+                    24.675049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "39201211050001",
                 "name": "私立澳斯汀美語短期補習班",
                 "county": "宜蘭縣",

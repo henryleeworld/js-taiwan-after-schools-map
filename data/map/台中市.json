@@ -32170,24 +32170,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201202010003",
-                "name": "臺中市私立友聖文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.702364,
-                    24.085629
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201202160001",
                 "name": "臺中市私立里元語文短期補習班",
                 "county": "台中市",
@@ -32444,7 +32426,7 @@
                 "name": "臺中市私立黌閣文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -42611,7 +42593,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201911040001",
-                "name": "永旭文教有限公司附設臺中市市私立永旭文理短期補習班",
+                "name": "永旭文教有限公司附設臺中市私立永旭文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中,國小",
