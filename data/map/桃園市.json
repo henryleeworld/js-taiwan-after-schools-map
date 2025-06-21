@@ -12752,7 +12752,7 @@
                 "name": "群曜事業有限公司附設私立小劍橋文理美語短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -22724,7 +22724,7 @@
                 "name": "私立得餘文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,",
-                "students": "國中,高中,國小",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -24712,6 +24712,24 @@
                 "coordinates": [
                     121.202714,
                     24.953107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202506180001",
+                "name": "私立格拉斯文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "高中,國中,國小,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.215395,
+                    24.957475
                 ]
             }
         }

@@ -1337,7 +1337,7 @@
             "type": "Feature",
             "properties": {
                 "code": "55200207090004",
-                "name": "私立小狀元珠心算文理短期補習班",
+                "name": "兩朵雲教育有限公司附設雲林縣私立兩朵雲文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "其他,國中,國小",
@@ -6352,6 +6352,24 @@
                 "coordinates": [
                     120.479887,
                     23.676191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202506180001",
+                "name": "私立可為文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.552341,
+                    23.709539
                 ]
             }
         }

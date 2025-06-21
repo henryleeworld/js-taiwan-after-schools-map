@@ -6394,24 +6394,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200301130002",
-                "name": "私立翰林學院文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.536379,
-                    24.975003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200301200001",
                 "name": "私立維也納美術圍棋文理珠心算短期補習班",
                 "county": "新北市",
@@ -13525,8 +13507,8 @@
                 "code": "21200512200001",
                 "name": "領群文理語文珠心算短期補習班",
                 "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡,國中、高中",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -48806,7 +48788,7 @@
                 "name": "私立學浩文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
-                "students": "學齡前",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {

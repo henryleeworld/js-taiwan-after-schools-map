@@ -21172,24 +21172,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200707109016",
-                "name": "臺中市私立力通文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小,學齡前,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.52378,
-                    24.202836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200707109017",
                 "name": "優迪文教科技股份有限公司附設台中市私立優迪文理短期補習班",
                 "county": "台中市",
@@ -36242,7 +36224,7 @@
                 "name": "臺中市私立臻欣文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -52486,6 +52468,24 @@
                 "coordinates": [
                     120.703129,
                     24.093332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202506180001",
+                "name": "臺中市私立騏鴻文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.670696,
+                    24.161163
                 ]
             }
         }
