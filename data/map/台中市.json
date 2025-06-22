@@ -21172,6 +21172,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200707109016",
+                "name": "臺中市私立力通文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小,學齡前,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.52378,
+                    24.202836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200707109017",
                 "name": "優迪文教科技股份有限公司附設台中市私立優迪文理短期補習班",
                 "county": "台中市",
@@ -37088,7 +37106,7 @@
                 "name": "臺中市私立真好文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -39029,10 +39047,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42201707120001",
-                "name": "吉力利有限公司附設臺中市私立牧希文理短期補習班",
+                "name": "臺中市私立牧希文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "高中,國中,國小",
+                "students": "國小,高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -48497,7 +48515,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42202304170001",
-                "name": "臺中市私立興達文理短期補習班",
+                "name": "興達資優文教有限公司附設臺中市私立興達文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中,高中,國小",
@@ -51866,7 +51884,7 @@
                 "name": "臺中市私立尚宇文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中,學齡前",
+                "students": "學齡前,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52486,6 +52504,24 @@
                 "coordinates": [
                     120.670696,
                     24.161163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202506190001",
+                "name": "臺中市私立河神文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "學齡前,國小,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.686132,
+                    24.108624
                 ]
             }
         }

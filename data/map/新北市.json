@@ -22739,7 +22739,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201005030002",
-                "name": "聯誠電腦語文短期補習班",
+                "name": "聯成電腦股份有限公司附設私立聯成三重文理技藝短期補習班",
                 "county": "新北市",
                 "class": "外語類,資訊類,",
                 "students": "其他",
@@ -24190,24 +24190,6 @@
                 "coordinates": [
                     121.445633,
                     25.039138
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201011240002",
-                "name": "私立楊生銘美術短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.47206,
-                    25.087938
                 ]
             }
         },
@@ -47165,7 +47147,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202301120001",
-                "name": "私立福慧教育文理短期補習班",
+                "name": "福慧教育文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -51398,7 +51380,7 @@
                 "name": "私立聿群文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,其他類,",
-                "students": "國小、國中,國小",
+                "students": "國小,幼兒,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52162,6 +52144,42 @@
                 "coordinates": [
                     121.373206,
                     24.942545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506190001",
+                "name": "私立昀志文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.430248,
+                    24.987159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506190002",
+                "name": "安展文教事業有限公司附設私立安展文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.653928,
+                    25.063067
                 ]
             }
         }

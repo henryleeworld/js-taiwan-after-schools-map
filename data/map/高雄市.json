@@ -5552,7 +5552,7 @@
                 "name": "李嵩企業股份有限公司附設天下文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -12280,24 +12280,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200409039005",
-                "name": "私立艾加文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.430378,
-                    22.690683
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200409080001",
                 "name": "私立百世文理短期補習班右昌分班",
                 "county": "高雄市",
@@ -14488,24 +14470,6 @@
                 "coordinates": [
                     120.314858,
                     22.675903
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200509300001",
-                "name": "私立博仕敦文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31289,
-                    22.673772
                 ]
             }
         },
