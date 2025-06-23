@@ -2312,7 +2312,7 @@
                 "name": "新竹縣私立佳禾文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,外語類,",
-                "students": "國小",
+                "students": "國小,學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -5926,6 +5926,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201910170002",
+                "name": "新竹縣私立親兒園文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.044597,
+                    24.894915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201910180001",
                 "name": "史丹佛文教事業股份有限公司附設新竹縣私立史丹佛文理短期補習班",
                 "county": "新竹縣",
@@ -6280,6 +6298,24 @@
                 "coordinates": [
                     120.996086,
                     24.843077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202004130003",
+                "name": "富錦文教股份有限公司附設新竹縣私立富錦文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.089106,
+                    24.733554
                 ]
             }
         },
@@ -6647,10 +6683,10 @@
             "type": "Feature",
             "properties": {
                 "code": "36202104010001",
-                "name": "博登數位股份有限公司附設新竹縣私立晟峰文教文理短期補習班",
+                "name": "博登數位股份有限公司附設新竹縣私立博登文教文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
