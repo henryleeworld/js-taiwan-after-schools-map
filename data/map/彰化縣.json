@@ -7870,6 +7870,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201010130004",
+                "name": "彰化縣私立萊恩文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544726,
+                    24.026868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201010130005",
                 "name": "私立海頓音樂短期補習班",
                 "county": "彰化縣",
