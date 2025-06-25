@@ -13342,24 +13342,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200512010010",
-                "name": "私立定勤文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.462558,
-                    25.002147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200512020001",
                 "name": "耕光股份有限公司附設達儒文理短期補習班",
                 "county": "新北市",
@@ -18898,6 +18880,24 @@
                 "coordinates": [
                     121.453458,
                     25.051349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200806160001",
+                "name": "私立功成領先文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.632559,
+                    25.064751
                 ]
             }
         },
