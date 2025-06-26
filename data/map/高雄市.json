@@ -28646,7 +28646,7 @@
                 "name": "力葳文教事業有限公司附設力葳文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "高中,國小,國中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -30850,24 +30850,6 @@
                 "coordinates": [
                     120.346925,
                     22.60733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70202103080002",
-                "name": "私立微笑森林外語文理短期補習班福山分班",
-                "county": "高雄市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.317196,
-                    22.685469
                 ]
             }
         },

@@ -40,24 +40,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319041",
-                "name": "臺中市私立超越優質文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.724923,
-                    24.149585
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319042",
                 "name": "臺中市私立啄木鳥文理短期補習班",
                 "county": "台中市",
@@ -1247,7 +1229,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319238",
-                "name": "臺中市私立名安美語短期補習班",
+                "name": "臺中市私立德翰文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "國小",
@@ -8374,24 +8356,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120650",
-                "name": "臺中市私立英才環球村電腦附設美日語短期補習班",
-                "county": "台中市",
-                "class": "資訊類,",
-                "students": "成人(18歲以上),國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.66756,
-                    24.154081
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120652",
                 "name": "臺中市私立嘉學文理短期補習班",
                 "county": "台中市",
@@ -13796,7 +13760,7 @@
                 "name": "臺中市私立亞瑟文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,學齡前,國中",
+                "students": "國中,國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -26972,7 +26936,7 @@
                 "name": "私立康可兒文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國小,學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -38924,7 +38888,7 @@
                 "name": "臺中市私立思密達語文短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "高中,成人(18歲以上)",
+                "students": "成人(18歲以上),高中",
                 "date_closed": ""
             },
             "geometry": {

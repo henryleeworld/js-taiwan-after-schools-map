@@ -8573,7 +8573,7 @@
             "type": "Feature",
             "properties": {
                 "code": "35202501230001",
-                "name": "新竹市私立築鑫教育短期補習班學府分班",
+                "name": "新竹市私立築鑫教育文理短期補習班學府分班",
                 "county": "新竹市",
                 "class": "文理類,",
                 "students": "國中,高中",
@@ -8746,6 +8746,24 @@
                 "coordinates": [
                     120.972555,
                     24.800317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202506230001",
+                "name": "新竹市私立巨城圍棋技藝短期補習班",
+                "county": "新竹市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.978201,
+                    24.80836
                 ]
             }
         }
