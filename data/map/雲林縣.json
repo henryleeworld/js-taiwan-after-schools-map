@@ -1322,7 +1322,7 @@
                 "name": "兩朵雲教育有限公司附設雲林縣私立兩朵雲文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,商類：珠算、心算、會計,",
-                "students": "其他,國中,國小",
+                "students": "國小,其他,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -3928,24 +3928,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55201008130001",
-                "name": "私立耘成文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.300438,
-                    23.574566
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55201011220001",
                 "name": "私立王堉文理短期補習班",
                 "county": "雲林縣",
@@ -6344,7 +6326,7 @@
                 "name": "私立可為文理短期補習班",
                 "county": "雲林縣",
                 "class": "文理類,",
-                "students": "國中,國小,高中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {

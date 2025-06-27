@@ -3083,10 +3083,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022597",
-                "name": "辛恩語文短期補習班",
+                "name": "私立辛恩文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "國小",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -52198,6 +52198,24 @@
                 "coordinates": [
                     121.653928,
                     25.063067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202506240001",
+                "name": "私立葛萊德學苑技藝文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中以上",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366769,
+                    25.066867
                 ]
             }
         }

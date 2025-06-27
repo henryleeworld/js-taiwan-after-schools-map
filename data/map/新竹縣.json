@@ -9234,6 +9234,42 @@
                     24.819077
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202506240001",
+                "name": "新竹縣私立育禾文理技藝短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.999355,
+                    24.839153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202506240002",
+                "name": "陳立教育事業股份有限公司附設新竹縣私立陳立文理短期補習班成功分班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016874,
+                    24.818142
+                ]
+            }
         }
     ]
 }

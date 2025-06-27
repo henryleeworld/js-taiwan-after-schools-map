@@ -6143,17 +6143,17 @@
             "type": "Feature",
             "properties": {
                 "code": "33200611070008",
-                "name": "私立蘿芙莉文理語文短期補習班",
+                "name": "私立蘿芙莉文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.337706,
-                    24.9935
+                    121.340015,
+                    24.994868
                 ]
             }
         },
@@ -8719,8 +8719,8 @@
                 "code": "33200806300001",
                 "name": "私立沛思文理短期補習班",
                 "county": "桃園市",
-                "class": "文理類,外語類,其他類,",
-                "students": "國小",
+                "class": "文理類,外語類,",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -24704,7 +24704,7 @@
                 "name": "私立立勝一對一短期補習班",
                 "county": "桃園市",
                 "class": "文理類,",
-                "students": "國中,高中,國小",
+                "students": "高中,國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -24730,6 +24730,24 @@
                 "coordinates": [
                     121.215395,
                     24.957475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202506240001",
+                "name": "私立伊芮卡文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.392512,
+                    25.045382
                 ]
             }
         }
