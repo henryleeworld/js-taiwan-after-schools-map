@@ -8738,7 +8738,7 @@
                 "name": "新竹市私立小哈佛文理技藝短期補習班",
                 "county": "新竹市",
                 "class": "文理類,",
-                "students": "國中,國中至成人",
+                "students": "國中至成人,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -8764,6 +8764,24 @@
                 "coordinates": [
                     120.978201,
                     24.80836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202506250001",
+                "name": "新竹市私立凡宇拉文理技藝短期補習班",
+                "county": "新竹市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.020722,
+                    24.786619
                 ]
             }
         }

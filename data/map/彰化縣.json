@@ -1913,7 +1913,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47200208012306",
-                "name": "彰化縣私立育華珠算短期補習班",
+                "name": "私立育華珠算短期補習班",
                 "county": "彰化縣",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小",
@@ -7870,6 +7870,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201010130004",
+                "name": "彰化縣私立萊恩文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.544726,
+                    24.026868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201010130005",
                 "name": "私立海頓音樂短期補習班",
                 "county": "彰化縣",
@@ -13184,14 +13202,14 @@
                 "name": "彰化縣私立張仲文教文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,外語類,",
-                "students": "國中,高中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.481647,
-                    23.967707
+                    120.480823,
+                    23.966006
                 ]
             }
         },

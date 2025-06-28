@@ -5674,24 +5674,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089122",
-                "name": "私立勤約文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.262144,
-                    22.858509
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089123",
                 "name": "私立賴忻文理短期補習班後紅分班",
                 "county": "高雄市",
@@ -24434,7 +24416,7 @@
                 "name": "中國青年救國團高雄市團務指導委員會附設文理技藝短期補習班三民分班",
                 "county": "高雄市",
                 "class": "文理類,外語類,資訊類,家政、插花、烹飪類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "成人(18歲以上),國中,國小",
+                "students": "國小,成人(18歲以上),國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -33622,6 +33604,24 @@
                 "coordinates": [
                     120.289518,
                     22.652908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202412090001",
+                "name": "明光文教事業股份有限公司附設私立明光義塾語文文理短期補習班國昌分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.286595,
+                    22.717088
                 ]
             }
         },

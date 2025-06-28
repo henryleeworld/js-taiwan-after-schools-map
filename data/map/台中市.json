@@ -15484,6 +15484,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200507229010",
+                "name": "臺中市私立弘翊語文短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.570207,
+                    24.242488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200507259002",
                 "name": "臺中市私立普麗資語文短期補習班",
                 "county": "台中市",
@@ -15874,24 +15892,6 @@
                 "coordinates": [
                     120.635358,
                     24.15438
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200509230002",
-                "name": "何嘉仁文教事業股份有限公司台中分公司附設台中市私立何嘉仁英語短期補習班〈惠文分班〉",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.637221,
-                    24.150146
                 ]
             }
         },
