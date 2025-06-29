@@ -2218,24 +2218,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319395",
-                "name": "臺中市私立維也納音樂短期補習班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.716697,
-                    24.306916
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319398",
                 "name": "臺中市私立雅歌鋼琴短期補習班",
                 "county": "台中市",
@@ -7738,6 +7720,24 @@
                 "coordinates": [
                     120.683063,
                     24.147167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200208120546",
+                "name": "臺中市私立不倒翁珠心算速讀短期補習班",
+                "county": "台中市",
+                "class": "商類：珠算、心算、會計,速讀類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684208,
+                    24.132354
                 ]
             }
         },
@@ -25889,7 +25889,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200902099001",
-                "name": "臺中市私立揚名豐東文理短期補習班",
+                "name": "智碩正文文理教育有限公司附設臺中市私立智碩豐東文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中",
