@@ -3086,7 +3086,7 @@
                 "name": "私立宏平文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -7370,7 +7370,7 @@
                 "name": "私立高名文理短期補習班領袖分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國小,學齡前",
+                "students": "學齡前,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -23837,7 +23837,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70201208310005",
-                "name": "私立讀寫堂文理短期補習班",
+                "name": "私立讀寫堂文理短期補習班.",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小",
@@ -28618,24 +28618,6 @@
                 "coordinates": [
                     120.354119,
                     22.643761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70201810290001",
-                "name": "力葳文教事業有限公司附設力葳文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,高中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.31263,
-                    22.627179
                 ]
             }
         },
