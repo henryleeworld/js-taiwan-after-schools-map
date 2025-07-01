@@ -8752,6 +8752,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200404190001",
+                "name": "格林兒美文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.427045,
+                    25.045668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200404190002",
                 "name": "私立日群文理語文短期補習班",
                 "county": "新北市",
@@ -8782,6 +8800,24 @@
                 "coordinates": [
                     121.459333,
                     25.065382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200404190010",
+                "name": "私立碩宇電腦語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,資訊類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.449412,
+                    25.051677
                 ]
             }
         },
