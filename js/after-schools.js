@@ -1,7 +1,3 @@
-var sidebar = new ol.control.Sidebar({
-    element: 'sidebar',
-    position: 'right'
-});
 var jsonFiles, filesLength, fileKey = 0;
 
 var projection = ol.proj.get('EPSG:3857');
@@ -76,9 +72,11 @@ function pointStyle(f) {
 
     return new ol.style.Style(style);
 }
-var sidebarTitle = document.getElementById('sidebarTitle');
+var modalTitle = document.getElementById('modalTitle');
 var content = document.getElementById('infoBox');
 var slipBox = document.getElementById('slipBox');
+var contentModal = new bootstrap.Modal(document.getElementById('contentModal'));
+var filterModal = new bootstrap.Modal(document.getElementById('filterModal'));
 
 var appView = new ol.View({
     center: ol.proj.fromLonLat([121.563900, 25.034030]),
@@ -152,6 +150,9 @@ var baseLayer = new ol.layer.Tile({
 
 function countyStyle(f) {
     var p = f.getProperties();
+    if (rawMap[p.COUNTYNAME]) {
+        p.COUNTYNAME = rawMap[p.COUNTYNAME];
+    }
     if (selectedCounty === p.COUNTYNAME) {
         return null;
     }
@@ -208,7 +209,6 @@ map.once('prerender', function() {
     }
 });
 
-map.addControl(sidebar);
 var pointClicked = false;
 var selectedCounty = '';
 var pointsPool = {};
@@ -291,6 +291,7 @@ function setupSearch() {
         select: function(event, ui) {
             if (ui.item.county && ui.item.code) {
                 routie(ui.item.county + '/' + ui.item.code);
+                filterModal.hide();
             }
         }
     }).autocomplete('instance')._renderItem = function(ul, item) {
@@ -369,9 +370,9 @@ function showFeatureDetails(feature) {
         message += '<tr><th scope="row">英文地址</th><td>' + c.英文地址 + '</td></tr>';
         message += '<tr><th scope="row">補習班類別/科目</th><td>' + c["補習班類別/科目"] + '</td></tr>';
         message += '</tbody></table>';
-        sidebarTitle.innerHTML = p.name;
+        modalTitle.innerHTML = p.name;
         content.innerHTML = message;
-        sidebar.open('home');
+        contentModal.show();
         message = '';
         for (k in c.核准科目) {
             message += '<table class="table table-dark"><tbody>';
@@ -381,6 +382,10 @@ function showFeatureDetails(feature) {
             message += '</tbody></table>';
         }
         slipBox.innerHTML = message;
+
+        var detailsLink = document.getElementById('detailsLink');
+        detailsLink.href = 'https://afterschools.olc.tw/afterschools/view/' + p.code;
+        detailsLink.style.display = 'block';
     });
 }
 
@@ -388,16 +393,19 @@ routie({
     '': function() {
         currentFeature = false;
         clusterSource.getSource().refresh();
-        sidebar.close();
+        document.getElementById('detailsLink').style.display = 'none';
+        contentModal.hide();
     },
     ':countyName/:code': function(countyName, code) {
         selectedCounty = countyName;
+        if (rawMap[selectedCounty]) {
+            selectedCounty = rawMap[selectedCounty];
+        }
         if (!pointsPool[selectedCounty]) {
             $.getJSON('data/map/' + selectedCounty + '.json', function(c) {
                 pointsPool[selectedCounty] = true;
                 clusterSource.getSource().addFeatures(pointFormat.readFeatures(c));
                 clusterSource.refresh();
-
                 var features = clusterSource.getSource().getFeatures();
                 var targetFeature = features.find(f => f.get('code') === code);
                 if (targetFeature) {
@@ -438,6 +446,9 @@ map.on('singleclick', function(evt) {
                 var p = feature.getProperties();
                 if (p.COUNTYNAME) {
                     selectedCounty = p.COUNTYNAME;
+                    if (rawMap[selectedCounty]) {
+                        selectedCounty = rawMap[selectedCounty];
+                    }
                     if (!pointsPool[selectedCounty]) {
                         $.getJSON('data/map/' + selectedCounty + '.json', function(c) {
                             pointsPool[selectedCounty] = true;
@@ -463,17 +474,14 @@ map.on('singleclick', function(evt) {
                     }
                 } else {
                     clearSpider();
-                    sidebar.close();
-
+                    contentModal.hide();
                     var center = feature.getGeometry().getCoordinates();
                     var currentZoom = map.getView().getZoom();
-
                     map.getView().animate({
                         center: center,
                         zoom: currentZoom + 1,
                         duration: 500
                     });
-
                     features.forEach((f, i) => {
                         var spiderFeats = createSpiderFeature(center, f, i, features.length);
                         spiderFeatures.push(...spiderFeats);
@@ -488,8 +496,8 @@ map.on('singleclick', function(evt) {
         clearSpider();
         currentFeature = false;
         clusterSource.getSource().refresh();
-        sidebar.close();
-        routie('');
+        document.getElementById('detailsLink').style.display = 'none';
+        contentModal.hide();
     }
 });
 
@@ -557,3 +565,11 @@ map.getView().on('change:resolution', function() {
     clearSpider();
     clusterSource.getSource().refresh();
 });
+
+document.getElementById('filterBtn').addEventListener('click', function() {
+    filterModal.show();
+});
+
+document.getElementById('contentModal').addEventListener('hide.bs.modal', function() {});
+
+document.getElementById('filterModal').addEventListener('hide.bs.modal', function() {});
