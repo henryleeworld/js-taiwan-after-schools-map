@@ -20380,6 +20380,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200703299006",
+                "name": "私立澄果多多文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.727331,
+                    24.250387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200703299008",
                 "name": "臺中市私立希恩音樂短期補習班",
                 "county": "台中市",
@@ -29780,14 +29798,14 @@
                 "name": "私立藍點音樂短期補習班",
                 "county": "台中市",
                 "class": "音樂、舞蹈類,",
-                "students": "國小國中高中社會人士",
+                "students": "國小",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.715149,
-                    24.246962
+                    120.728269,
+                    24.251311
                 ]
             }
         },
@@ -33214,24 +33232,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201211060003",
-                "name": "臺中市私立美安文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.697164,
-                    24.065517
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201211140001",
                 "name": "達人資產管理有限公司附設臺中市私立育僑文理短期補習班",
                 "county": "台中市",
@@ -34586,7 +34586,7 @@
                 "name": "臺中市私立學穎文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,高中,國中",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {

@@ -760,24 +760,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012169",
-                "name": "私立晶晶語文才藝短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.434993,
-                    24.052713
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012172",
                 "name": "私立宏名數學英語短期補習班",
                 "county": "彰化縣",
@@ -9490,6 +9472,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201305030001",
+                "name": "彰化縣私立蕾貝卡美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541782,
+                    24.083362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201305100001",
                 "name": "私立茹茵美語短期補習班",
                 "county": "彰化縣",
@@ -14498,14 +14498,14 @@
                 "name": "彰化縣私立博恩文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.534428,
-                    24.068932
+                    120.534521,
+                    24.069052
                 ]
             }
         },

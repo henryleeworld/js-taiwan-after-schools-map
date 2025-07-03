@@ -13792,24 +13792,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200506130001",
-                "name": "私立康森文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,高中,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.329888,
-                    22.600847
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200506160004",
                 "name": "私立時代廣場文理短期補習班",
                 "county": "高雄市",
@@ -33604,6 +33586,24 @@
                 "coordinates": [
                     120.286595,
                     22.717088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202412310001",
+                "name": "私立嶼沐藝術技藝文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.322721,
+                    22.586513
                 ]
             }
         },

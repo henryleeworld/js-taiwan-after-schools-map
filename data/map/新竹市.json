@@ -5512,6 +5512,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201711010002",
+                "name": "新竹市私立奕碩文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.979515,
+                    24.813907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201711010003",
                 "name": "新竹市私立杜克美語文理短期補習班",
                 "county": "新竹市",
