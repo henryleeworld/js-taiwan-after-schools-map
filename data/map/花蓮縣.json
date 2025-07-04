@@ -688,24 +688,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38200401020001",
-                "name": "私立亞瑟王美語短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類,",
-                "students": "學齡前.國小生",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.601288,
-                    23.970884
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "38200401020003",
                 "name": "私立杰生文理短期補習班",
                 "county": "花蓮縣",
@@ -2759,7 +2741,7 @@
             "type": "Feature",
             "properties": {
                 "code": "38202412200001",
-                "name": "私立好時光英文文理短期補習班",
+                "name": "好時光教育有限公司附設私立好時光英文文理短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,外語類,",
                 "students": "學齡前.國小.國中.高中.成人(18歲以上)",
@@ -2842,6 +2824,24 @@
                 "coordinates": [
                     121.609632,
                     23.979503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "38202507010001",
+                "name": "私立小奇蹟技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前.國小.國中.高中.成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.588234,
+                    23.951747
                 ]
             }
         }
