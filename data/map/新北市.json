@@ -22166,7 +22166,7 @@
                 "name": "巨匠電腦股份有限公司新莊中正分公司附設巨九電腦短期補習班",
                 "county": "新北市",
                 "class": "資訊類,",
-                "students": "其他",
+                "students": "6歲以上",
                 "date_closed": ""
             },
             "geometry": {
@@ -23768,7 +23768,7 @@
                 "name": "嘉恒語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
-                "students": "其他",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -23992,6 +23992,24 @@
                 "coordinates": [
                     121.481744,
                     25.067629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201011010001",
+                "name": "私立科凡語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45404,
+                    24.991323
                 ]
             }
         },
@@ -27707,7 +27725,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201208120001",
-                "name": "私立克利鷗語文短期補習班",
+                "name": "克利鷗語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "小學、中學、成人",
@@ -30734,7 +30752,7 @@
                 "name": "發掘音樂短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
-                "students": "不限(2班各11人),不限",
+                "students": "不限,不限(2班各11人)",
                 "date_closed": ""
             },
             "geometry": {
@@ -37301,7 +37319,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201806120001",
-                "name": "私立民生文理短期補習班",
+                "name": "民生文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "7-15歲",
@@ -44627,7 +44645,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202111020001",
-                "name": "私立宏偉文化有限公司附設宏煒文理短期補習班",
+                "name": "宏偉文化有限公司附設宏煒文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上",
@@ -52234,6 +52252,42 @@
                 "coordinates": [
                     121.447418,
                     24.999247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202507020002",
+                "name": "私立戴爾伯特文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447972,
+                    25.054867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202507020003",
+                "name": "私立吉鹿文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.424404,
+                    25.019541
                 ]
             }
         }
