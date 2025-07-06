@@ -98,7 +98,7 @@
                 "name": "嘉義市私立輔大文理短期補習班",
                 "county": "嘉義市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "學齡前,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -332,7 +332,7 @@
                 "name": "嘉義市私立世界文理短期補習班",
                 "county": "嘉義市",
                 "class": "外語類,",
-                "students": "國中,高中,國小(G1、G2低年級),國小",
+                "students": "高中,國中,國小(G1、G2低年級),國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -5056,6 +5056,24 @@
                 "coordinates": [
                     120.45565,
                     23.49413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52202507030001",
+                "name": "舞士道教育股份有限公司附設私立嘉義市築夢者街舞技藝短期補習班",
+                "county": "嘉義市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小,高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.429827,
+                    23.484165
                 ]
             }
         }

@@ -2812,24 +2812,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200210040001",
-                "name": "私立小飛象文理珠心算美語短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.288621,
-                    24.876234
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200210040003",
                 "name": "私立洪明升學文理短期補習班",
                 "county": "桃園市",
@@ -5992,24 +5974,6 @@
                 "coordinates": [
                     121.299467,
                     24.934676
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33200611060001",
-                "name": "私立小領隊珠算語文短期補習班",
-                "county": "桃園市",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.293491,
-                    24.922205
                 ]
             }
         },
@@ -10222,24 +10186,6 @@
                 "coordinates": [
                     121.230031,
                     24.950531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33200911030001",
-                "name": "私立喜樂語文數學短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.236459,
-                    24.953326
                 ]
             }
         },
@@ -14819,10 +14765,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33201501270001",
-                "name": "私立凱思英語短期補習班",
+                "name": "私立凱思英語文理短期補習班",
                 "county": "桃園市",
                 "class": "外語類,",
-                "students": "國小及國中",
+                "students": "國中,國小,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -15640,24 +15586,6 @@
                 "coordinates": [
                     121.213558,
                     24.859605
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33201512100001",
-                "name": "私立美育新桃音樂舞蹈短期補習班",
-                "county": "桃園市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.299172,
-                    24.993279
                 ]
             }
         },
@@ -17584,24 +17512,6 @@
                 "coordinates": [
                     121.302785,
                     24.993559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33201805210001",
-                "name": "私立羅碁文理數學圍棋短期補習班",
-                "county": "桃園市",
-                "class": "文理類,其他類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.254867,
-                    24.971675
                 ]
             }
         },
@@ -20399,10 +20309,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33202106160001",
-                "name": "私立自強文理技藝短期補習班",
+                "name": "立儒教育事業股份有限公司附設私立自強文理技藝短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,資訊類,美術、書法、攝影、美工設計、圍棋類,其他類,",
-                "students": "國中,高中,國小,成人(18歲以上)",
+                "students": "高中,國小,成人(18歲以上),國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -24784,6 +24694,24 @@
                 "coordinates": [
                     121.298059,
                     25.016028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507030001",
+                "name": "私立諾亞楊明短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.157841,
+                    24.912482
                 ]
             }
         }

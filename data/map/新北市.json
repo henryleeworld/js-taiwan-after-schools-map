@@ -7780,24 +7780,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200309240001",
-                "name": "南平珠心算短期補習班",
-                "county": "新北市",
-                "class": "商類：珠算、心算、會計,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.502801,
-                    24.998059
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200310020001",
                 "name": "私立吉尼語文短期補習班",
                 "county": "新北市",
@@ -8296,42 +8278,6 @@
                 "coordinates": [
                     121.522358,
                     24.996362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200401090008",
-                "name": "私立如皇文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.662924,
-                    25.07339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200401090009",
-                "name": "私立士泓文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.642711,
-                    25.068071
                 ]
             }
         },
@@ -21932,7 +21878,7 @@
                 "name": "崴爾森文理美語短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
-                "students": "國小~高中,不限",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -24233,7 +24179,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201011250002",
-                "name": "私立貝登堡美術珠心算短期補習班",
+                "name": "貝登堡美術珠心算短期補習班",
                 "county": "新北市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
                 "students": "國小、國中、高中",
@@ -27736,24 +27682,6 @@
                 "coordinates": [
                     121.374055,
                     25.078814
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201208130001",
-                "name": "私立影舞者舞蹈短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "國中、國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.47234,
-                    25.017703
                 ]
             }
         },
@@ -46085,7 +46013,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202207070002",
-                "name": "私立勝利文理技藝短期補習班",
+                "name": "勝利文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
                 "students": "不限年齡,不限年齡166",
