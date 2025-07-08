@@ -9940,6 +9940,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201401290001",
+                "name": "彰化縣私立金狀元文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.522159,
+                    23.871051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201402050001",
                 "name": "彰化縣私立立新美語短期補習班",
                 "county": "彰化縣",

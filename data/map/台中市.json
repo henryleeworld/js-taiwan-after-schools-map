@@ -22612,6 +22612,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200712109003",
+                "name": "臺中市私立大智文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.546574,
+                    24.254664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200712109004",
                 "name": "臺中市私立普羅格來文理短期補習班",
                 "county": "台中市",
