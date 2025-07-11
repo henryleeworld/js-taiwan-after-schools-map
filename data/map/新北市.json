@@ -24250,6 +24250,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201011290004",
+                "name": "私立大豐音樂短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542748,
+                    24.975705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201011300001",
                 "name": "私立佳兒文理語文珠心算短期補習班",
                 "county": "新北市",
@@ -44771,7 +44789,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202112280002",
-                "name": "私立維寧國際有限公司附設維寧國際文理技藝短期補習班",
+                "name": "維寧國際有限公司附設維寧國際文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "不限年齡",
@@ -52216,6 +52234,42 @@
                 "coordinates": [
                     121.424404,
                     25.019541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202507080001",
+                "name": "私立序曲音樂學院文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,音樂、舞蹈類,瑜珈類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.511337,
+                    24.991185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202507080002",
+                "name": "私立林口極舞藝技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374567,
+                    25.084681
                 ]
             }
         }
