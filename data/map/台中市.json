@@ -20420,7 +20420,7 @@
                 "name": "臺中市私立翰薪文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -22660,6 +22660,24 @@
                 "coordinates": [
                     120.715114,
                     24.260956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200712109007",
+                "name": "臺中市私立毛毛蟲文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.718928,
+                    24.153822
                 ]
             }
         },
@@ -25187,7 +25205,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200811270001",
-                "name": "志光教育科技股份有限公司附設臺中市私立學儒志聖文理公職證照短期補習班",
+                "name": "志光教育科技股份有限公司附設臺中市私立志光學儒志聖文理公職證照短期補習班",
                 "county": "台中市",
                 "class": "文理類,法政類,",
                 "students": "成人(18歲以上)",
