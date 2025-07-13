@@ -1772,7 +1772,7 @@
                 "name": "私立元鉝文理語文短期補習班",
                 "county": "桃園市",
                 "class": "文理類,",
-                "students": "國中",
+                "students": "國中,小一至成人",
                 "date_closed": ""
             },
             "geometry": {
@@ -9112,6 +9112,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200810060001",
+                "name": "私立崙晟文理美語短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.270565,
+                    24.975393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200810270001",
                 "name": "私立中正美術短期補習班",
                 "county": "桃園市",
@@ -15632,7 +15650,7 @@
                 "name": "私立瑞苗美語文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {

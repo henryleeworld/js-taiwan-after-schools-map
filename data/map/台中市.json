@@ -4630,24 +4630,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319753",
-                "name": "臺中市私立法蘭西斯語文短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,學齡前,外國人(成人)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.728116,
-                    24.254266
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319761",
                 "name": "私立佳音英語短期補習班",
                 "county": "台中市",
@@ -6514,24 +6496,6 @@
                 "coordinates": [
                     120.698207,
                     24.169297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200208120276",
-                "name": "私立公益傑瑞文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.63768,
-                    24.151213
                 ]
             }
         },
@@ -10103,9 +10067,9 @@
             "type": "Feature",
             "properties": {
                 "code": "42200301230002",
-                "name": "臺中市私立大嘴鳥美語會話短期補習班",
+                "name": "臺中市私立巧奇小學堂文理短期補習班樹義分班",
                 "county": "台中市",
-                "class": "外語類,",
+                "class": "文理類,",
                 "students": "國小",
                 "date_closed": ""
             },
@@ -20168,7 +20132,7 @@
                 "name": "勤學文教股份有限公司附設臺中市私立多向思考文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,高中,國中",
+                "students": "高中,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -26720,7 +26684,7 @@
                 "name": "勤學文教股份有限公司附設臺中市私立多向推理文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國小,高中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -34252,24 +34216,6 @@
                 "coordinates": [
                     120.652837,
                     24.153089
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201311120002",
-                "name": "臺中市私立融信文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.688765,
-                    24.180247
                 ]
             }
         },
@@ -42542,7 +42488,7 @@
                 "name": "冠傑文教事業股份有限公司附設臺中市私立冠傑新光文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,高中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52316,7 +52262,7 @@
                 "name": "臺中市私立河神文理技藝短期補習班",
                 "county": "台中市",
                 "class": "文理類,音樂、舞蹈類,",
-                "students": "學齡前,國小,成人(18歲以上)",
+                "students": "國小,學齡前,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {

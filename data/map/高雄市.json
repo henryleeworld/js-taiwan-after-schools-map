@@ -12532,24 +12532,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200411049005",
-                "name": "私立普林斯文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中,國小,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.479986,
-                    22.890747
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200411059001",
                 "name": "私立汶舉文理短期補習班漣陞分班",
                 "county": "高雄市",
@@ -28610,7 +28592,7 @@
                 "name": "私立威強文理短期補習班新鳳山分班",
                 "county": "高雄市",
                 "class": "文理類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {

@@ -9400,6 +9400,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201305030001",
+                "name": "彰化縣私立蕾貝卡美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541782,
+                    24.083362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201305100001",
                 "name": "私立茹茵美語短期補習班",
                 "county": "彰化縣",
