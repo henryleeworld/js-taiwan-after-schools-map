@@ -14512,24 +14512,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200605160003",
-                "name": "私立慕夏音樂短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,",
-                "students": "null",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.366851,
-                    25.067924
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200605160004",
                 "name": "私立群耀語文短期補習班",
                 "county": "新北市",
@@ -31109,7 +31091,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201407300003",
-                "name": "中國青年救國團附設文北語文技藝短期補習班",
+                "name": "中國青年救國團附文北技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,資訊類,家政、插花、烹飪類,縫紉類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,瑜珈類,其他類,",
                 "students": "不限年齡",
@@ -32405,7 +32387,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201504300001",
-                "name": "私立文巽文理短期補習班",
+                "name": "文巽文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "小學、國中、高中",
@@ -40577,7 +40559,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202002230001",
-                "name": "艾加文理短期補習班",
+                "name": "私立蘆洲易上文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中",
@@ -52234,6 +52216,24 @@
                 "coordinates": [
                     121.374567,
                     25.084681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202507110001",
+                "name": "萌育有限公司附設私立萌育英語文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "3到7歲,6到12歲",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.476568,
+                    25.036598
                 ]
             }
         }
