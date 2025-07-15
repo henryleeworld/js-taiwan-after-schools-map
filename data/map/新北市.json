@@ -8248,24 +8248,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200401090008",
-                "name": "私立如皇文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.662924,
-                    25.07339
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200401090009",
                 "name": "私立士泓文理短期補習班",
                 "county": "新北市",
@@ -14206,24 +14188,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200603310003",
-                "name": "私立蒂芬妮文理短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小、國中、成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.447992,
-                    25.036887
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200603310004",
                 "name": "私立青園語文短期補習班",
                 "county": "新北市",
@@ -14506,6 +14470,24 @@
                 "coordinates": [
                     121.374818,
                     24.935738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200605160003",
+                "name": "私立慕夏音樂短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類,",
+                "students": "null",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366851,
+                    25.067924
                 ]
             }
         },
@@ -25763,7 +25745,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201109080002",
-                "name": "私立煒群文理語文短期補習班",
+                "name": "煒群文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "小學、國中、高中,不限年齡",

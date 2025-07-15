@@ -2578,6 +2578,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022423",
+                "name": "中華語文國際教育股份有限公司附設高雄市私立南華語文短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國中,國小,成人(18歲以上),高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.301882,
+                    22.619709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022426",
                 "name": "私立千葉外語短期補習班",
                 "county": "高雄市",
