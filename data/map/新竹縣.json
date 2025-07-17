@@ -530,7 +530,7 @@
                 "name": "新竹縣私立聖安朵文理技藝短期補習班",
                 "county": "新竹縣",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "學齡前,國小,學齡前至國小",
+                "students": "國小,學齡前,學齡前至國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -4534,24 +4534,6 @@
                 "coordinates": [
                     121.055873,
                     24.767703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36201604270003",
-                "name": "新竹縣私立創智積木園地技藝短期補習班",
-                "county": "新竹縣",
-                "class": "其他類,",
-                "students": "學前至成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.037675,
-                    24.801659
                 ]
             }
         },

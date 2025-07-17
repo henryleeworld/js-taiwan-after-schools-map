@@ -3677,10 +3677,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319591",
-                "name": "臺中市私立安琪兒美語短期補習班",
+                "name": "臺中市私立安琪兒文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
-                "students": "國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -27526,24 +27526,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200911249003",
-                "name": "臺中市私立頂揚文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.716917,
-                    24.131656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200911249005",
                 "name": "私立繼新文理短期補習班",
                 "county": "台中市",
@@ -34216,6 +34198,24 @@
                 "coordinates": [
                     120.652837,
                     24.153089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201311120002",
+                "name": "臺中市私立融信文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688765,
+                    24.180247
                 ]
             }
         },
@@ -50282,7 +50282,7 @@
                 "name": "臺中市私立百富鑫文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國中,國四,高中",
+                "students": "高中,國中,國四",
                 "date_closed": ""
             },
             "geometry": {

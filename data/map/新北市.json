@@ -8248,6 +8248,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200401090008",
+                "name": "私立如皇文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.662924,
+                    25.07339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200401090009",
                 "name": "私立士泓文理短期補習班",
                 "county": "新北市",
@@ -14188,6 +14206,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200603310003",
+                "name": "私立蒂芬妮文理短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國小、國中、成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447992,
+                    25.036887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200603310004",
                 "name": "私立青園語文短期補習班",
                 "county": "新北市",
@@ -14423,7 +14459,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200604280001",
-                "name": "私立欣學士文理語文短期補習班",
+                "name": "欣學士文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡",
@@ -31073,7 +31109,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201407300003",
-                "name": "中國青年救國團附文北技藝短期補習班",
+                "name": "中國青年救國團附設文北語文技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,資訊類,家政、插花、烹飪類,縫紉類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,瑜珈類,其他類,",
                 "students": "不限年齡",

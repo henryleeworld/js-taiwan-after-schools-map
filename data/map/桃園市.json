@@ -4472,7 +4472,7 @@
                 "name": "私立温老師文理數學美語短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -24712,6 +24712,24 @@
                 "coordinates": [
                     121.384545,
                     25.048715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507140001",
+                "name": "私立佳基文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.304256,
+                    25.01371
                 ]
             }
         }
