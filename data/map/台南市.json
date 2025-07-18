@@ -20453,17 +20453,17 @@
             "type": "Feature",
             "properties": {
                 "code": "62201910210001",
-                "name": "臺南市私立上達文理短期補習班",
+                "name": "臺南市私立上達黌院文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
-                "students": "國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.294426,
-                    22.967943
+                    120.28858,
+                    22.967524
                 ]
             }
         },
@@ -22228,24 +22228,6 @@
                 "coordinates": [
                     120.243277,
                     23.046601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62202108180001",
-                "name": "臺南市私立大晟文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.293245,
-                    22.969519
                 ]
             }
         },

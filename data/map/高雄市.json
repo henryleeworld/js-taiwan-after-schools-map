@@ -1678,24 +1678,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022226",
-                "name": "私立高名文理短期補習班建國分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "高中,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.324404,
-                    22.633022
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022231",
                 "name": "私立達心文理技藝短期補習班",
                 "county": "高雄市",
@@ -33784,6 +33766,24 @@
                 "coordinates": [
                     120.308348,
                     22.656902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202507150001",
+                "name": "私立普立茲外語文理短期補習班楠陽分班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.331319,
+                    22.724469
                 ]
             }
         }
