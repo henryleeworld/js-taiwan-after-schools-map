@@ -3928,6 +3928,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55201008130001",
+                "name": "私立耘成文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.300438,
+                    23.574566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55201011220001",
                 "name": "私立王堉文理短期補習班",
                 "county": "雲林縣",

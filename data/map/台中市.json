@@ -17879,10 +17879,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200605260003",
-                "name": "私立睿智圍棋文理短期補習班",
+                "name": "臺中市私立睿智文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52342,6 +52342,42 @@
                 "coordinates": [
                     120.625626,
                     24.350261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202507160001",
+                "name": "今日一起學習有限公司附設臺中市私立一起說文理美術短期補習班",
+                "county": "台中市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.668385,
+                    24.169591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202507170001",
+                "name": "臺中市私立妗睿文理美術短期補習班",
+                "county": "台中市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "學齡前,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648957,
+                    24.13452
                 ]
             }
         }

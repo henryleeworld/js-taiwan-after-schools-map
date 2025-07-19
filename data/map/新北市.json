@@ -1049,10 +1049,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022266",
-                "name": "時代語文文理短期補習班",
+                "name": "私立時代語文文理短期補習班",
                 "county": "新北市",
-                "class": "外語類,",
-                "students": "不限年齡,國中",
+                "class": "文理類,外語類,",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -13342,24 +13342,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200512140002",
-                "name": "名格文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小以上",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.472413,
-                    25.025095
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200512140003",
                 "name": "私立高勝文理語文短期補習班",
                 "county": "新北市",
@@ -17998,24 +17980,6 @@
                 "coordinates": [
                     121.449147,
                     25.049071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200801300003",
-                "name": "民治文理語文珠心算短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.469506,
-                    25.00944
                 ]
             }
         },
@@ -39551,7 +39515,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201908250001",
-                "name": "私立文明塾教育有限公司附設文明塾文理短期補習班",
+                "name": "文明塾教育有限公司附設文明塾文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中",
@@ -49534,24 +49498,6 @@
                 "coordinates": [
                     121.442767,
                     24.975976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202405090001",
-                "name": "私立育丞文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡,國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.469627,
-                    25.024227
                 ]
             }
         },
