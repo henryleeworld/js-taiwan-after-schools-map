@@ -51952,6 +51952,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42202505070001",
+                "name": "孔孟文化事業有限公司附設臺中市私立孔孟文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726277,
+                    24.248811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42202505120001",
                 "name": "臺中市私立夏天文理短期補習班",
                 "county": "台中市",
@@ -52334,7 +52352,7 @@
                 "name": "臺中市私立壹級棒文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
