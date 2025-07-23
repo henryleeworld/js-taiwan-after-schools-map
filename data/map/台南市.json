@@ -5980,6 +5980,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200308259003",
+                "name": "臺南市私立育聖美語短期補習班",
+                "county": "台南市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295951,
+                    23.075717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200308259004",
                 "name": "臺南市私立弗林美語短期補習班",
                 "county": "台南市",
@@ -8656,24 +8674,6 @@
                 "coordinates": [
                     120.200956,
                     22.985164
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62200510190001",
-                "name": "臺南市私立胡媽媽文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "國小.國中.高中.成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.196228,
-                    23.001268
                 ]
             }
         },

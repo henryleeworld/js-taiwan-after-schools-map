@@ -21046,24 +21046,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200707109017",
-                "name": "優迪文教科技股份有限公司附設台中市私立優迪文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.7148,
-                    24.262391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200707109018",
                 "name": "臺中市私立雋永文理短期補習班",
                 "county": "台中市",
@@ -52396,6 +52378,24 @@
                 "coordinates": [
                     120.648957,
                     24.13452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202507210001",
+                "name": "臺中市私立唐新文理美術短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706123,
+                    24.161434
                 ]
             }
         }

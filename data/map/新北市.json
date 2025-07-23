@@ -25438,24 +25438,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201107120001",
-                "name": "欣名揚文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國小、國中(A班30人、B班29人、C班26人),不限年齡,國小、國中(D班30人、E班29人、F班24人),國小、國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.423865,
-                    25.024
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201107140001",
                 "name": "私立蘋果村語文文理短期補習班",
                 "county": "新北市",
@@ -26915,7 +26897,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201204170001",
-                "name": "私立卓威文理短期補習班",
+                "name": "卓威文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中",
@@ -30424,24 +30406,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201401230002",
-                "name": "吉登文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.510157,
-                    24.995335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201401230003",
                 "name": "私立思躍軟實力文理短期補習班",
                 "county": "新北市",
@@ -32171,7 +32135,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201502260001",
-                "name": "私立學宏有限公司附設貝斯汀文理短期補習",
+                "name": "學宏有限公司附設貝斯汀文理短期補習",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中",
@@ -33431,7 +33395,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201601220001",
-                "name": "私立緯盛文化股份有限公司附設英勝文理語文技藝短期補習班",
+                "name": "緯盛文化股份有限公司附設英勝文理語文技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
                 "students": "不限年齡,國中",
@@ -52198,6 +52162,24 @@
                 "coordinates": [
                     121.476568,
                     25.036598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202507210001",
+                "name": "私立可登文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.451873,
+                    24.985945
                 ]
             }
         }
