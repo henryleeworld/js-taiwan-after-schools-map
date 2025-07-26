@@ -3910,24 +3910,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "55201008100001",
-                "name": "私立金陵文理短期補習班",
-                "county": "雲林縣",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.304112,
-                    23.582001
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "55201008130001",
                 "name": "私立耘成文理短期補習班",
                 "county": "雲林縣",
@@ -6334,6 +6316,24 @@
                 "coordinates": [
                     120.552341,
                     23.709539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202507230001",
+                "name": "私立墨媞司語文短期補習班",
+                "county": "雲林縣",
+                "class": "音樂、舞蹈類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.556395,
+                    23.699434
                 ]
             }
         }
