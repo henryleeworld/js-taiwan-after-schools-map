@@ -7042,24 +7042,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200706120005",
-                "name": "私立子曰美語數學自然短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.316885,
-                    24.981161
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200706120006",
                 "name": "私立洛荋得美語短期補習班",
                 "county": "桃園市",
@@ -15953,7 +15935,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33201604130001",
-                "name": "私立方華文理短期補習班南崁分班",
+                "name": "私立瑞彼特文理短期補習班",
                 "county": "桃園市",
                 "class": "外語類,",
                 "students": "國小",
@@ -24766,6 +24748,60 @@
                 "coordinates": [
                     121.301367,
                     25.051096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507250001",
+                "name": "私立文名文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,其他類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.157824,
+                    24.912203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507250002",
+                "name": "私立皇室文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.170701,
+                    25.055568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507250003",
+                "name": "私立沐弦音樂技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.38908,
+                    25.04131
                 ]
             }
         }
