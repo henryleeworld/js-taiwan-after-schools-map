@@ -21334,6 +21334,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200707239003",
+                "name": "悅界國際股份有限公司附設臺中市私立優立文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571329,
+                    24.216231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200707239005",
                 "name": "臺中市私立小傑克邏輯數學英文短期補習班新平分班",
                 "county": "台中市",
