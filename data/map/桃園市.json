@@ -21893,7 +21893,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33202302100001",
-                "name": "私立逗點展翅文理短期補習班",
+                "name": "逗點國際教育事業股份有限公司附設私立逗點文理短期補習班展翅分班",
                 "county": "桃園市",
                 "class": "文理類,",
                 "students": "國小",
@@ -24820,6 +24820,24 @@
                 "coordinates": [
                     121.38908,
                     25.04131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202507290001",
+                "name": "私立浤瀚文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.390844,
+                    25.046145
                 ]
             }
         }

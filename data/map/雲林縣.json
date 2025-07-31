@@ -2884,6 +2884,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55200607180001",
+                "name": "私立明哲文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.455972,
+                    23.798178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55200608150001",
                 "name": "私立凱薩琳英語短期補習班",
                 "county": "雲林縣",
@@ -6325,7 +6343,7 @@
                 "code": "55202507230001",
                 "name": "私立墨媞司語文短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,外語類,",
+                "class": "音樂、舞蹈類,",
                 "students": "",
                 "date_closed": ""
             },
@@ -6343,7 +6361,7 @@
                 "code": "55202507280001",
                 "name": "私立卓叡文理短期補習班",
                 "county": "雲林縣",
-                "class": "文理類,外語類,",
+                "class": "音樂、舞蹈類,",
                 "students": "",
                 "date_closed": ""
             },
