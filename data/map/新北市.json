@@ -15988,24 +15988,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200701150003",
-                "name": "新芯語文文理短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國中,不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.461366,
-                    25.003214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200701150005",
                 "name": "熊風圍棋文理短期補習班",
                 "county": "新北市",
@@ -34259,7 +34241,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201608030002",
-                "name": "私立勤學文理技藝短期補習班",
+                "name": "環愛國際教育管理顧問股份有限公司附設私立勤學文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "不限年齡",
@@ -41585,7 +41567,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202007210002",
-                "name": "私立人人學創新學習股份有限公司附設文大劍橋文理短期補習班",
+                "name": "人人學創新學習股份有限公司附設文大劍橋文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中,不限年齡",
@@ -52162,6 +52144,24 @@
                 "coordinates": [
                     121.464372,
                     25.002794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202508010001",
+                "name": "私立如晨文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.466283,
+                    25.002939
                 ]
             }
         }
