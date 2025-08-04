@@ -1030,6 +1030,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200207319213",
+                "name": "臺中市私立劉老師文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.703622,
+                    24.093315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200207319215",
                 "name": "私立上毅美語短期補習班",
                 "county": "台中市",
@@ -2590,24 +2608,6 @@
                 "coordinates": [
                     120.536776,
                     24.244834
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200207319449",
-                "name": "私立中華兒童美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,商類：珠算、心算、會計,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.533552,
-                    24.256668
                 ]
             }
         },
@@ -11032,6 +11032,24 @@
                 "coordinates": [
                     120.656049,
                     24.110834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200306110004",
+                "name": "私立提卡美術短期補習班",
+                "county": "台中市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681033,
+                    24.16727
                 ]
             }
         },
@@ -29554,24 +29572,6 @@
                 "coordinates": [
                     120.640643,
                     24.169705
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201009300001",
-                "name": "敦展文教事業有限公司附設臺中市私立鑫快樂文理附設技藝短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.650151,
-                    24.134684
                 ]
             }
         },

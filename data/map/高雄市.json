@@ -1624,6 +1624,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022223",
+                "name": "私立超博士文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.319467,
+                    22.681953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022224",
                 "name": "私立全碩文理短期補習班",
                 "county": "高雄市",
@@ -4642,6 +4660,24 @@
                 "coordinates": [
                     120.335068,
                     22.644691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200204022921",
+                "name": "私立交大文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348389,
+                    22.567879
                 ]
             }
         },
@@ -28276,24 +28312,6 @@
                 "coordinates": [
                     120.298349,
                     22.656699
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70201807090001",
-                "name": "私立椰苑菁英文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "高中,國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.329061,
-                    22.736018
                 ]
             }
         },

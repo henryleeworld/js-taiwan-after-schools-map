@@ -9472,24 +9472,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200407060007",
-                "name": "私立康析文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.462368,
-                    25.138165
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200407070002",
                 "name": "私立聖讀文理語文短期補習班",
                 "county": "新北市",
@@ -15982,6 +15964,24 @@
                 "coordinates": [
                     121.520866,
                     25.002873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200701150003",
+                "name": "新芯語文文理短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國中,不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461366,
+                    25.003214
                 ]
             }
         },
