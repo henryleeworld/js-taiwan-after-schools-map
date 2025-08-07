@@ -8482,6 +8482,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200509080002",
+                "name": "臺南市私立慈航美語美術短期補習班",
+                "county": "台南市",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.218875,
+                    23.059009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200509130001",
                 "name": "臺南市私立高傑文理短期補習班",
                 "county": "台南市",

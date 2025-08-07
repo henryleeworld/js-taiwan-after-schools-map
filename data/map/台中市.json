@@ -16978,6 +16978,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200601240002",
+                "name": "私立沛育音樂短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.681017,
+                    24.168791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200602060001",
                 "name": "臺中市私立育田技藝文理短期補習班",
                 "county": "台中市",
@@ -52432,6 +52450,24 @@
                 "coordinates": [
                     120.696491,
                     24.059302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202507280001",
+                "name": "臺中市私立林立文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684478,
+                    24.115376
                 ]
             }
         },
