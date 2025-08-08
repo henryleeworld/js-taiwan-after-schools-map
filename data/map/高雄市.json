@@ -1660,6 +1660,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022226",
+                "name": "私立高名文理短期補習班建國分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.324404,
+                    22.633022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022231",
                 "name": "私立達心文理技藝短期補習班",
                 "county": "高雄市",
@@ -1960,6 +1978,24 @@
                 "coordinates": [
                     120.313034,
                     22.607368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200204022305",
+                "name": "私立佳昇外語文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類,",
+                "students": "學齡前,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.284629,
+                    22.666732
                 ]
             }
         },
@@ -33316,6 +33352,24 @@
                 "coordinates": [
                     120.328132,
                     22.604661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202409260001",
+                "name": "私立凱莫文理技藝短期補習班義華分班",
+                "county": "高雄市",
+                "class": "資訊類,其他類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334967,
+                    22.643405
                 ]
             }
         },
