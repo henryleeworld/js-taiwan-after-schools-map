@@ -7042,24 +7042,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200406239003",
-                "name": "臺南市私立佳南文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.293694,
-                    23.080718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200406239004",
                 "name": "臺南市私立仕林文理短期補習班",
                 "county": "台南市",
@@ -9898,6 +9880,24 @@
                 "coordinates": [
                     120.218845,
                     22.985685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62200609140003",
+                "name": "屹呈教育事業股份有限公司附設臺南市私立禹呈文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.225373,
+                    22.972435
                 ]
             }
         },

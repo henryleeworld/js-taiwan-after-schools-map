@@ -3226,24 +3226,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200309040006",
-                "name": "私立優優美語短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "未填寫",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.496131,
-                    24.058727
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200311040004",
                 "name": "私立優秀文理短期補習班",
                 "county": "彰化縣",
@@ -7204,24 +7186,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200910140006",
-                "name": "彰化縣私立高明文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.54418,
-                    23.952031
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200912020001",
                 "name": "彰化縣私立企鵝家族文理短期補習班",
                 "county": "彰化縣",
@@ -9088,6 +9052,24 @@
                 "coordinates": [
                     120.526416,
                     24.073189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201209270001",
+                "name": "私立誠品文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.527413,
+                    24.063341
                 ]
             }
         },

@@ -6268,6 +6268,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202004130003",
+                "name": "富錦文教股份有限公司附設新竹縣私立富錦文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.089106,
+                    24.733554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202004280001",
                 "name": "新竹縣私立惠歆音樂社才藝短期補習班",
                 "county": "新竹縣",
@@ -6586,24 +6604,6 @@
                 "coordinates": [
                     121.088892,
                     24.741544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36202103020001",
-                "name": "新竹縣私立方舟文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.995836,
-                    24.84053
                 ]
             }
         },
@@ -9178,6 +9178,24 @@
                 "coordinates": [
                     121.016874,
                     24.818142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202508080001",
+                "name": "巖銥文教有限公司附設新竹縣私立巖銥文理短期補習班",
+                "county": "新竹縣",
+                "class": "電機、汽車修護、建築、工藝、製圖類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016313,
+                    24.833083
                 ]
             }
         }
