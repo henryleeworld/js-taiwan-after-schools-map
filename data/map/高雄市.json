@@ -7114,6 +7114,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205160001",
+                "name": "私立華納文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310798,
+                    22.611031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200205170001",
                 "name": "私立快樂營文理短期補習班",
                 "county": "高雄市",
@@ -33467,7 +33485,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202411280001",
-                "name": "典陸教育科技股份有限公司附設典陸文理短期補習班",
+                "name": "私立光昇文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小,國中,學齡前",
@@ -33485,7 +33503,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202412090001",
-                "name": "明光文教事業股份有限公司附設私立明光義塾語文文理短期補習班國昌分班",
+                "name": "明光文教事業股份有限公司附設明光義塾語文文理短期補習班國昌分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國中,高中",
@@ -33784,6 +33802,24 @@
                 "coordinates": [
                     120.331319,
                     22.724469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202508120002",
+                "name": "明光文教事業股份有限公司附設進學塾語文文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.290449,
+                    22.659506
                 ]
             }
         }
