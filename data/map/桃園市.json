@@ -976,24 +976,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200207300024",
-                "name": "大龍海文化事業有限公司附設私立大總統法商短期補習班",
-                "county": "桃園市",
-                "class": "法政類,商類：珠算、心算、會計,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.313748,
-                    24.992296
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200207300030",
                 "name": "私立華誠珠心算短期補習班",
                 "county": "桃園市",
@@ -16348,24 +16330,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33201611090001",
-                "name": "私立齊勵美語短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.249903,
-                    24.977264
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33201611160001",
                 "name": "私立上韋語文文理短期補習班",
                 "county": "桃園市",
@@ -24820,6 +24784,24 @@
                 "coordinates": [
                     121.390844,
                     25.046145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202508130001",
+                "name": "私立格格文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.281492,
+                    24.926006
                 ]
             }
         }

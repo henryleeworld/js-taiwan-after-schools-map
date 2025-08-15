@@ -1175,7 +1175,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022298",
-                "name": "私立拓遠文理珠心算補習班",
+                "name": "拓遠文理珠心算補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中",
@@ -11182,24 +11182,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200503220005",
-                "name": "福格兒語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.523822,
-                    24.999379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200504080001",
                 "name": "私立文揚文理技藝短期補習班",
                 "county": "新北市",
@@ -12580,6 +12562,24 @@
                 "coordinates": [
                     121.443237,
                     25.036863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200509270001",
+                "name": "時代國際文教有限公司附設私立時代國際外語文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "12-99歲",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.459543,
+                    25.006855
                 ]
             }
         },
@@ -23531,7 +23531,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201010060002",
-                "name": "嘉恒語文短期補習班",
+                "name": "私立嘉恒文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "不限年齡",

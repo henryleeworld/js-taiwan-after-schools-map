@@ -112,24 +112,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208010058",
-                "name": "私立建國文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.504251,
-                    24.035501
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208010062",
                 "name": "私立文學文理短期補習班",
                 "county": "彰化縣",
@@ -17422,6 +17404,24 @@
                 "coordinates": [
                     120.574681,
                     23.962919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202508130001",
+                "name": "彰化縣私立晨紘文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.443561,
+                    24.060146
                 ]
             }
         }
