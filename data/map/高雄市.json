@@ -5836,24 +5836,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089162",
-                "name": "私立聯興文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.329913,
-                    22.8838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089164",
                 "name": "私立文星文理短期補習班",
                 "county": "高雄市",
@@ -32632,6 +32614,24 @@
                 "coordinates": [
                     120.298528,
                     22.692268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202311030001",
+                "name": "松溢投資股份有限公司附設貝思文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306708,
+                    22.757472
                 ]
             }
         },

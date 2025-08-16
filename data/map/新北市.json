@@ -4865,7 +4865,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022905",
-                "name": "私立瑞格文理美語短期補習班",
+                "name": "瑞格文理美語短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中,國小、國中,國小",
@@ -4937,7 +4937,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022913",
-                "name": "私立學霖文理語文短期補習班",
+                "name": "學霖文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中",
@@ -7097,7 +7097,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200306190005",
-                "name": "一對一教育科技股份有限公司附設私立極上一對一秀朗文理短期補習班",
+                "name": "極合教育科技股份有限公司附設私立極上一對一秀朗文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "6歲以上",
@@ -11176,6 +11176,24 @@
                 "coordinates": [
                     121.450065,
                     25.035022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200503220005",
+                "name": "福格兒語文短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.523822,
+                    24.999379
                 ]
             }
         },

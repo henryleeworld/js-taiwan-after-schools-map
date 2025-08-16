@@ -7042,6 +7042,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200406239003",
+                "name": "臺南市私立佳南文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293694,
+                    23.080718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200406239004",
                 "name": "臺南市私立仕林文理短期補習班",
                 "county": "台南市",
