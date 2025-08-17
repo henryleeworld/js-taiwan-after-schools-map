@@ -580,24 +580,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36200210310001",
-                "name": "新竹縣私立米妮美語會話短期補習班",
-                "county": "新竹縣",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.088981,
-                    24.723935
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36200211250001",
                 "name": "極上教育諮詢股份有限公司附設新竹縣私立豐拓文理短期補習班",
                 "county": "新竹縣",
@@ -4649,7 +4631,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36201612290001",
-                "name": "新竹縣私立米朵文理短期補習班",
+                "name": "新竹縣私立全方位資優文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類,",
                 "students": "國小",
@@ -6208,6 +6190,24 @@
                 "coordinates": [
                     121.030368,
                     24.826757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202004130001",
+                "name": "新竹縣私立開心文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027721,
+                    24.822009
                 ]
             }
         },

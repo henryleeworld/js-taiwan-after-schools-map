@@ -14296,24 +14296,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200501199005",
-                "name": "臺中市私立安娜貝兒美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.652291,
-                    24.223521
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200501199006",
                 "name": "臺中市私立博學門文理短期補習班",
                 "county": "台中市",
@@ -52504,6 +52486,24 @@
                 "coordinates": [
                     120.73708,
                     24.252737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202508150001",
+                "name": "臺中市私立大新雅文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652897,
+                    24.224433
                 ]
             }
         }

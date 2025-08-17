@@ -976,6 +976,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200207300024",
+                "name": "大龍海文化事業有限公司附設私立大總統法商短期補習班",
+                "county": "桃園市",
+                "class": "法政類,商類：珠算、心算、會計,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.308958,
+                    24.990207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200207300030",
                 "name": "私立華誠珠心算短期補習班",
                 "county": "桃園市",

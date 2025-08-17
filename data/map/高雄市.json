@@ -5836,6 +5836,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205089162",
+                "name": "私立聯興文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329913,
+                    22.8838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200205089164",
                 "name": "私立文星文理短期補習班",
                 "county": "高雄市",
@@ -11057,7 +11075,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200402139001",
-                "name": "私立吉尼士文理短期補習班",
+                "name": "行龍數位教育股份有限公司附設吉尼士文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小,學齡前",
