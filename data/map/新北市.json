@@ -15862,6 +15862,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200612210001",
+                "name": "私立城市美瑜伽短期補習班",
+                "county": "新北市",
+                "class": "瑜珈類,",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442127,
+                    24.975518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200612210002",
                 "name": "私立蒔育文理技藝短期補習班",
                 "county": "新北市",
@@ -21904,24 +21922,6 @@
                 "coordinates": [
                     121.46083,
                     25.135721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201001290003",
-                "name": "私立博翔文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.460415,
-                    25.136433
                 ]
             }
         },
@@ -52036,6 +52036,24 @@
                 "coordinates": [
                     121.464372,
                     25.002794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202508010001",
+                "name": "私立如晨文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.463298,
+                    25.002455
                 ]
             }
         },
