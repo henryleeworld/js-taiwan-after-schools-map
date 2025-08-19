@@ -12136,24 +12136,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200402189003",
-                "name": "臺中市私立柏岳數學短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.712791,
-                    24.251366
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200402230001",
                 "name": "私立當代美語會話短期補習班",
                 "county": "台中市",
@@ -14290,6 +14272,24 @@
                 "coordinates": [
                     120.684139,
                     24.110188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200501199005",
+                "name": "臺中市私立安娜貝兒美語短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652291,
+                    24.223521
                 ]
             }
         },
@@ -17422,6 +17422,24 @@
                 "coordinates": [
                     120.714009,
                     24.178346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200604039003",
+                "name": "臺中市私立長勁文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,商類：珠算、心算、會計,",
+                "students": "國小,國中,學齡前,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.720173,
+                    24.156859
                 ]
             }
         },
