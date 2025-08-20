@@ -6791,7 +6791,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200304240001",
-                "name": "私立文冠文理短期補習班",
+                "name": "文冠文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -12580,6 +12580,24 @@
                 "coordinates": [
                     121.443237,
                     25.036863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200509270001",
+                "name": "時代國際文教有限公司附設私立時代國際外語文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "12-99歲",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.459543,
+                    25.006855
                 ]
             }
         },
@@ -32296,24 +32314,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201505230001",
-                "name": "大昇文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.462717,
-                    25.087066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201505280003",
                 "name": "私立赫全電腦有限公司附設赫全電腦短期補習班",
                 "county": "新北市",
@@ -32441,7 +32441,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201507020002",
-                "name": "私立新景文文理短期補習班",
+                "name": "新景文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中",
@@ -52072,6 +52072,24 @@
                 "coordinates": [
                     121.45088,
                     25.056671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202508180001",
+                "name": "私立博智育霖文理技藝短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519018,
+                    24.985542
                 ]
             }
         }
