@@ -3874,6 +3874,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37201603290001",
+                "name": "苗栗縣私立莊鎮文理短期補習班大營分班",
+                "county": "苗栗縣",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.873053,
+                    24.685578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37201604140002",
                 "name": "苗栗縣私立鳩特文理短期補習班",
                 "county": "苗栗縣",

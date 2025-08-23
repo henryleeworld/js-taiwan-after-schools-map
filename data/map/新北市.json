@@ -16187,7 +16187,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200702120001",
-                "name": "私立宇樂音樂短期補習班",
+                "name": "宇樂音樂短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
                 "students": "國小以下",
@@ -24394,6 +24394,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21201101210001",
+                "name": "私立杏晟文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "3歲以上(A班16人、B班13人),國小以上(A班16人、B班13人),3歲以上,不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446402,
+                    25.052855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21201101210002",
                 "name": "私立巨庫文興文理短期補習班",
                 "county": "新北市",
@@ -32416,24 +32434,6 @@
                 "coordinates": [
                     121.442437,
                     25.179926
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201507020002",
-                "name": "新景文文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.507689,
-                    24.960134
                 ]
             }
         },
@@ -43025,7 +43025,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202103230004",
-                "name": "私立高明一對一學習有限公司附設高霖文理短期補習班",
+                "name": "高明一對一學習有限公司附設高霖文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "學齡前,不限年齡",
@@ -47201,7 +47201,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202305020001",
-                "name": "私立睿成文理短期補習班",
+                "name": "私立睿成文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年玲",
@@ -52072,6 +52072,60 @@
                 "coordinates": [
                     121.519018,
                     24.985542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202508210001",
+                "name": "未來領袖教育股份有限公司附設私立允隆文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.361239,
+                    25.075013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202508210002",
+                "name": "私立聯富文理技藝短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.461352,
+                    25.047959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202508210003",
+                "name": "私立翊華三德文理技藝短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.485571,
+                    25.087628
                 ]
             }
         }

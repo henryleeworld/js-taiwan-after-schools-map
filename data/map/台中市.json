@@ -22108,24 +22108,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200710239004",
-                "name": "私立新禾文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.709694,
-                    24.214134
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200710239005",
                 "name": "臺中市私立沐學文理短期補習班",
                 "county": "台中市",
@@ -52540,6 +52522,42 @@
                 "coordinates": [
                     120.706256,
                     24.161435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202508210001",
+                "name": "臺中市私立莘學道文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.636557,
+                    24.154057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202508210002",
+                "name": "臺中市私立昕姿文理舞蹈短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.620144,
+                    24.106699
                 ]
             }
         }

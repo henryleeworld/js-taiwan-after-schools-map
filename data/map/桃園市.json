@@ -16277,7 +16277,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33201610310001",
-                "name": "私立哲宥文理語文短期補習班仁和分班",
+                "name": "私立哲青文理短期補習班仁和分班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
                 "students": "國小,國中",
@@ -24784,6 +24784,42 @@
                 "coordinates": [
                     121.281492,
                     24.926006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202508210001",
+                "name": "私立興儒文理短期補習班大有分班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314048,
+                    25.010066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202508210002",
+                "name": "私立采慧英語文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.317042,
+                    25.007811
                 ]
             }
         }
