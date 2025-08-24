@@ -10516,24 +10516,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200701180001",
-                "name": "臺南市私立偉群文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.188162,
-                    22.924508
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200701199001",
                 "name": "臺南市私立小牛頓文理短期補習班",
                 "county": "台南市",
@@ -21623,7 +21605,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202102050001",
-                "name": "臺南市私立安睿文理技藝短期補習班",
+                "name": "臺南市私立安睿教育文理技藝短期補習班",
                 "county": "台南市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小,學齡前",
@@ -24422,8 +24404,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.180471,
-                    23.00771
+                    120.180299,
+                    23.008078
                 ]
             }
         },
@@ -25702,6 +25684,24 @@
                 "coordinates": [
                     120.211372,
                     22.992287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202508220001",
+                "name": "鑫享亮文教實業有限公司附設臺南市私立鑫享亮文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.200821,
+                    23.026091
                 ]
             }
         }

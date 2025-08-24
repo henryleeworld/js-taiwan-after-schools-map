@@ -17014,24 +17014,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200602140003",
-                "name": "臺中市私立喬治金鑽文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.622059,
-                    24.185039
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200602140004",
                 "name": "私立諭熙文理短期補習班",
                 "county": "台中市",
@@ -22102,6 +22084,24 @@
                 "coordinates": [
                     120.721987,
                     24.248794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200710239004",
+                "name": "私立新禾文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.709694,
+                    24.214134
                 ]
             }
         },
