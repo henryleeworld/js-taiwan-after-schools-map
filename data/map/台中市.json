@@ -18401,7 +18401,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200607280002",
-                "name": "臺中市私立賢儒電腦附設美語短期補習班",
+                "name": "臺中市私立賢儒文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,資訊類,",
                 "students": "國小",
@@ -23830,24 +23830,6 @@
                 "coordinates": [
                     120.656971,
                     24.270038
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200806170002",
-                "name": "臺中市私立愛美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,國中,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.673396,
-                    24.135653
                 ]
             }
         },
@@ -52576,6 +52558,24 @@
                 "coordinates": [
                     120.620144,
                     24.106699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202508260001",
+                "name": "臺中市私立書菲亞文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722581,
+                    24.132487
                 ]
             }
         }

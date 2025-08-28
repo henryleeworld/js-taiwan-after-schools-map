@@ -4001,7 +4001,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022754",
-                "name": "私立地球村出版有限公司附設北新地球村語文短期補習班",
+                "name": "地球村出版有限公司附設北新地球村語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "小學到成人",
@@ -7475,7 +7475,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200308070006",
-                "name": "私立輔眾珠心算語文短期補習班",
+                "name": "輔眾珠心算語文短期補習班",
                 "county": "新北市",
                 "class": "外語類,商類：珠算、心算、會計,",
                 "students": "",
@@ -24466,24 +24466,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201101260001",
-                "name": "私立愛學鈴文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.514,
-                    25.011669
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201101260002",
                 "name": "私立李老師語文短期補習班",
                 "county": "新北市",
@@ -31595,7 +31577,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201411180001",
-                "name": "私立博麟新興文理短期補習班",
+                "name": "私立新興文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中",
@@ -52126,6 +52108,24 @@
                 "coordinates": [
                     121.485571,
                     25.087628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202508260001",
+                "name": "私立快樂窩文理短期補習班龍門分班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.499344,
+                    25.07315
                 ]
             }
         }
