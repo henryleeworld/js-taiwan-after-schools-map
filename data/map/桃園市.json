@@ -2632,24 +2632,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200209260002",
-                "name": "私立溫蒂語文短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.311418,
-                    24.983114
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200209260005",
                 "name": "私立大立昇美語短期補習班",
                 "county": "桃園市",
@@ -12238,24 +12220,6 @@
                 "coordinates": [
                     121.293435,
                     24.986516
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33201112060001",
-                "name": "私立康橋美語會話短期補習班",
-                "county": "桃園市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.294556,
-                    25.052924
                 ]
             }
         },
@@ -24802,6 +24766,24 @@
                 "coordinates": [
                     121.317042,
                     25.007811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202508270001",
+                "name": "奧斯汀文化事業有限公司附設私立正光文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.293424,
+                    24.999173
                 ]
             }
         }

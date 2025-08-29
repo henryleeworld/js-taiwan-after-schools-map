@@ -23836,6 +23836,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200806170002",
+                "name": "臺中市私立愛美語短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.673396,
+                    24.135653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200806170003",
                 "name": "臺中市私立沐風文理短期補習班",
                 "county": "台中市",
