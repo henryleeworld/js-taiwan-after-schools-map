@@ -7510,24 +7510,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200206069006",
-                "name": "私立優優文理短期補習班文德分班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.35365,
-                    22.640183
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200206069007",
                 "name": "私立一鳴文理短期補習班",
                 "county": "高雄市",
@@ -30046,24 +30028,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70202007210001",
-                "name": "私立樹下夢文理技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.313287,
-                    22.662468
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70202007270001",
                 "name": "私立金品升大文理短期補習班",
                 "county": "高雄市",
@@ -33550,6 +33514,24 @@
                 "coordinates": [
                     120.286595,
                     22.717088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202412180001",
+                "name": "私立李麥克文理短期補習班拔萃英語中心亞灣分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294233,
+                    22.620587
                 ]
             }
         },

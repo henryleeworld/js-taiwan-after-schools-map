@@ -3875,7 +3875,7 @@
             "type": "Feature",
             "properties": {
                 "code": "49202508190001",
-                "name": "南投縣私立柏駟兒童棋院技藝短期補習班",
+                "name": "南投縣私立柏駟兒童棋苑技藝短期補習班",
                 "county": "南投縣",
                 "class": "",
                 "students": "",
@@ -3886,6 +3886,24 @@
                 "coordinates": [
                     120.679231,
                     23.921076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "49202508290001",
+                "name": "南投縣私立旭成文理短期補習班",
+                "county": "南投縣",
+                "class": "",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685552,
+                    23.976377
                 ]
             }
         }
