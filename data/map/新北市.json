@@ -16240,6 +16240,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200702120004",
+                "name": "私立浩瀚文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481257,
+                    25.067025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200702120005",
                 "name": "私立長青美術文理短期補習班",
                 "county": "新北市",
@@ -29452,24 +29470,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201308280001",
-                "name": "英權文理語文電腦美術珠心算短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,資訊類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計,",
-                "students": "國中以上,其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.48569,
-                    25.060124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201308280002",
                 "name": "私立學嘉文理技藝短期補習班",
                 "county": "新北市",
@@ -30598,24 +30598,6 @@
                 "coordinates": [
                     121.664419,
                     25.066379
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201405250001",
-                "name": "私立小牛頓文理語文珠算短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,商類：珠算、心算、會計,",
-                "students": "不限,7-12,13-15歲",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.483183,
-                    25.020083
                 ]
             }
         },
@@ -36088,24 +36070,6 @@
                 "coordinates": [
                     121.436094,
                     25.080601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201712190002",
-                "name": "私立宥斌文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中至高中、高職(A班17人、B班13人、C班14人)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.438472,
-                    25.083086
                 ]
             }
         },

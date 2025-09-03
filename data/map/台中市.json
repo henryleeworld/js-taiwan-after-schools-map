@@ -23890,6 +23890,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200806250001",
+                "name": "私立綠鋼琴音樂附設文理短期補習班",
+                "county": "台中市",
+                "class": "音樂、舞蹈類,",
+                "students": "成人(18歲以上),國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.674253,
+                    24.157085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200806250002",
                 "name": "臺中市私立楽田日語短期補習班",
                 "county": "台中市",
@@ -28210,24 +28228,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201004069002",
-                "name": "台中市私立卉庭創意美術短期補習班",
-                "county": "台中市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.621932,
-                    24.352374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201004069004",
                 "name": "臺中市私立亞力山大文理短期補習班",
                 "county": "台中市",
@@ -30364,24 +30364,6 @@
                 "coordinates": [
                     120.683953,
                     24.111606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201012239001",
-                "name": "台灣知識庫股份有限公司東海分公司附設臺中市私立數位學堂文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.591386,
-                    24.183036
                 ]
             }
         },
