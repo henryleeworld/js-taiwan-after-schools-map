@@ -16618,6 +16618,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33201706070002",
+                "name": "私立敦堉文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.301253,
+                    25.051496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33201706210001",
                 "name": "私立傳騏文理短期補習班",
                 "county": "桃園市",
@@ -17026,24 +17044,6 @@
                 "coordinates": [
                     121.252377,
                     24.977394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "33201801020001",
-                "name": "私立悅善美語文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.291364,
-                    24.99312
                 ]
             }
         },

@@ -2705,7 +2705,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319460",
-                "name": "臺中市私立育達文理短期補習班",
+                "name": "臺中市私立文墭文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "高中",
@@ -15089,7 +15089,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200505240001",
-                "name": "何嘉仁文教事業股份有限公司台中分公司附設臺中市私立何嘉仁英日語短期補習班逢甲分班",
+                "name": "何嘉仁文教事業股份有限公司附設臺中市私立何嘉仁英日語短期補習班逢甲分班",
                 "county": "台中市",
                 "class": "外語類,瑜珈類,",
                 "students": "未填寫",
@@ -28228,6 +28228,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201004069002",
+                "name": "台中市私立卉庭創意美術短期補習班",
+                "county": "台中市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.621932,
+                    24.352374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201004069004",
                 "name": "臺中市私立亞力山大文理短期補習班",
                 "county": "台中市",
@@ -30364,6 +30382,24 @@
                 "coordinates": [
                     120.683953,
                     24.111606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201012239001",
+                "name": "台灣知識庫股份有限公司東海分公司附設臺中市私立數位學堂文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.591386,
+                    24.183036
                 ]
             }
         },
@@ -44878,24 +44914,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42202105310001",
-                "name": "臺中市私立新劍聲文理技藝短期補習班",
-                "county": "台中市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.649116,
-                    24.160589
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42202106030001",
                 "name": "臺中市私立科林文理短期補習班",
                 "county": "台中市",
@@ -52558,6 +52576,24 @@
                 "coordinates": [
                     120.722581,
                     24.132487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509020001",
+                "name": "歐森教育事業股份有限公司附設臺中市私立歐森文理短期補習班樹義分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.65747,
+                    24.110808
                 ]
             }
         }

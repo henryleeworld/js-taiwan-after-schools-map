@@ -13630,6 +13630,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200912310001",
+                "name": "臺南市私立永功文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.221735,
+                    22.992477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201001040001",
                 "name": "臺南市私立揚曜文理短期補習班",
                 "county": "台南市",
@@ -16864,6 +16882,24 @@
                 "coordinates": [
                     120.170973,
                     23.163965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62201407070002",
+                "name": "臺南市私立奇趣閱讀美語短期補習班",
+                "county": "台南市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.191331,
+                    23.012425
                 ]
             }
         },
