@@ -52092,6 +52092,42 @@
                     25.07315
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509050001",
+                "name": "私立婕希英文學院文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.437972,
+                    25.084699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509050002",
+                "name": "私立淇淇美語文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.448355,
+                    25.171355
+                ]
+            }
         }
     ]
 }

@@ -9814,6 +9814,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811190031",
+                "name": "臺北市私立奇異鳥音樂技藝文理短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.518632,
+                    25.109514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811190038",
                 "name": "臺北市私立星海美術短期補習班",
                 "county": "台北市",
@@ -38471,7 +38489,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20202012170001",
-                "name": "臺北市私立林瀚語文文理技藝短期補習班",
+                "name": "臺北市私立語未來文理技藝短期補習班",
                 "county": "台北市",
                 "class": "文理類,資訊類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "無限制",

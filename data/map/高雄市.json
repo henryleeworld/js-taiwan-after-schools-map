@@ -5044,6 +5044,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205089006",
+                "name": "私立名佳文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.353511,
+                    22.619551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200205089009",
                 "name": "私立莘莘文理短期補習班",
                 "county": "高雄市",
@@ -12220,24 +12238,6 @@
                 "coordinates": [
                     120.335642,
                     22.640526
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200409130003",
-                "name": "巨匠電腦股份有限公司三多分公司附設電腦短期補習班",
-                "county": "高雄市",
-                "class": "資訊類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307582,
-                    22.61514
                 ]
             }
         },

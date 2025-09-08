@@ -22648,24 +22648,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33202401080001",
-                "name": "私立弘揚文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小,高中,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.255993,
-                    24.933202
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33202401170001",
                 "name": "私立河馬美術技藝短期補習班",
                 "county": "桃園市",
@@ -24730,6 +24712,42 @@
                 "coordinates": [
                     121.293424,
                     24.999173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202509050001",
+                "name": "品學文教事業股份有限公司附設私立文青優品文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.392701,
+                    25.045709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202509050002",
+                "name": "私立哲思文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.142402,
+                    25.043693
                 ]
             }
         }
