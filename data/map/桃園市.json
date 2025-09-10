@@ -19049,7 +19049,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33202005070001",
-                "name": "私立嘉宇語文短期補習班",
+                "name": "私立嘉宇文理短期補習班",
                 "county": "桃園市",
                 "class": "外語類,",
                 "students": "國小國中",
@@ -24748,6 +24748,24 @@
                 "coordinates": [
                     121.142402,
                     25.043693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202509080001",
+                "name": "私立致誠文理數學短期補習班振聲分班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.302406,
+                    24.990705
                 ]
             }
         }
