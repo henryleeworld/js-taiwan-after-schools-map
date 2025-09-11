@@ -14044,24 +14044,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200603210003",
-                "name": "吉德語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "未填寫",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.491704,
-                    25.053049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200603220001",
                 "name": "私立紅番茄文理短期補習班",
                 "county": "新北市",
@@ -16324,24 +16306,6 @@
                 "coordinates": [
                     121.464397,
                     25.133271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200703060008",
-                "name": "山姆叔叔文理短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "國小至成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.473106,
-                    25.030515
                 ]
             }
         },
@@ -23614,6 +23578,24 @@
                 "coordinates": [
                     121.420261,
                     24.989262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201010210002",
+                "name": "私立建中昌平文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45531,
+                    25.05425
                 ]
             }
         },
@@ -44213,7 +44195,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202110260001",
-                "name": "私立愛學林口股份有限公司附設愛瑞昀文理短期補習班",
+                "name": "愛學林口股份有限公司附設愛瑞昀文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小以上",
@@ -52108,6 +52090,24 @@
                 "coordinates": [
                     121.448355,
                     25.171355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509090003",
+                "name": "私立城央文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.477497,
+                    25.065752
                 ]
             }
         }

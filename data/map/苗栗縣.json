@@ -4648,6 +4648,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37202105120002",
+                "name": "苗栗縣私立紅豆文理技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "國小,國中,幼兒,國中小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.899852,
+                    24.694004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37202105120003",
                 "name": "苗栗縣私立辰功教育機構文理短期補習班",
                 "county": "苗栗縣",
