@@ -13811,7 +13811,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200601190005",
-                "name": "私立聯城電腦短期補習班",
+                "name": "聯城電腦短期補習班",
                 "county": "新北市",
                 "class": "資訊類,",
                 "students": "6歲以上",
@@ -16312,6 +16312,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200703060008",
+                "name": "山姆叔叔文理短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "國小至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.473106,
+                    25.030515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200703060009",
                 "name": "私立安貝兒文理技藝短期補習班",
                 "county": "新北市",
@@ -18437,7 +18455,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200805220002",
-                "name": "私立睿晟文理短期補習班",
+                "name": "睿晟文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡",
@@ -22019,7 +22037,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201002120001",
-                "name": "私立智慧森林文理短期補習班",
+                "name": "",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -22028,8 +22046,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.45341,
-                    24.986314
+                    121.453553,
+                    24.986121
                 ]
             }
         },
@@ -23351,7 +23369,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201009230001",
-                "name": "私立智基科技開發股份有限公司附設珍志光文理法商短期補習班",
+                "name": "智基科技開發股份有限公司附設珍志光文理法商短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "成人、高中職",
@@ -52090,6 +52108,42 @@
                 "coordinates": [
                     121.448355,
                     25.171355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509090001",
+                "name": "私立善學文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510048,
+                    25.006824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509090002",
+                "name": "私立橙意文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.542762,
+                    24.974828
                 ]
             }
         },

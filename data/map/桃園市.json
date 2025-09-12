@@ -15647,7 +15647,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33201601060002",
-                "name": "私立培瑞語文短期補習班",
+                "name": "逗點國際教育事業股份有限公司附設私立逗點文理短期補習班晨光分班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
                 "students": "國小",
@@ -24784,6 +24784,24 @@
                 "coordinates": [
                     121.295186,
                     25.014514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202509090002",
+                "name": "私立奧爾斯文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.221162,
+                    25.017679
                 ]
             }
         }
