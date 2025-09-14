@@ -22306,24 +22306,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201004140003",
-                "name": "私立愛悅讀文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.43097,
-                    24.987883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201004150001",
                 "name": "私立生菊子美術短期補習班",
                 "county": "新北市",
@@ -52162,6 +52144,60 @@
                 "coordinates": [
                     121.477497,
                     25.065752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509120001",
+                "name": "私立華慶文理技藝短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.663651,
+                    25.067341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509120002",
+                "name": "明光三和塾教育有限公司附設私立文明文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484654,
+                    25.077984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509120003",
+                "name": "私立巧菲文創技藝短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.498679,
+                    25.057351
                 ]
             }
         }
