@@ -17266,24 +17266,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200709270001",
-                "name": "私立華碩文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.521759,
-                    25.007985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200709270003",
                 "name": "私立真成語文文理短期補習班",
                 "county": "新北市",
@@ -22300,6 +22282,24 @@
                 "coordinates": [
                     121.474716,
                     25.012899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21201004140003",
+                "name": "私立愛悅讀文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.43097,
+                    24.987883
                 ]
             }
         },
