@@ -7456,6 +7456,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205280074",
+                "name": "私立樹人文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317517,
+                    22.591097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200206050013",
                 "name": "私立及第升學文理短期補習班",
                 "county": "高雄市",
@@ -7720,6 +7738,24 @@
                 "coordinates": [
                     120.310992,
                     22.66967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200207100092",
+                "name": "時空文教諮詢有限公司附設龍門文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.340897,
+                    22.642582
                 ]
             }
         },
@@ -19042,24 +19078,6 @@
                 "coordinates": [
                     120.350573,
                     22.730205
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200808299003",
-                "name": "私立冠生文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.421584,
-                    22.575678
                 ]
             }
         },

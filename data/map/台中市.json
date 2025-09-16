@@ -12766,6 +12766,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200406080002",
+                "name": "臺中市私立仁美美語會話短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685798,
+                    24.193335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200406239001",
                 "name": "私立星球美語短期補習班",
                 "county": "台中市",
