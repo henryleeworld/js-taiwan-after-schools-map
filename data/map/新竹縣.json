@@ -4036,6 +4036,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201411110002",
+                "name": "新竹縣私立任得文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03346,
+                    24.804977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201411180001",
                 "name": "新竹縣私立哥倫比亞文理短期補習班",
                 "county": "新竹縣",
@@ -5872,24 +5890,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201911010001",
-                "name": "新竹縣私立升傑文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.000294,
-                    24.838141
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201911150001",
                 "name": "新竹縣私立卓越文理短期補習班新社分班",
                 "county": "新竹縣",
@@ -6154,24 +6154,6 @@
                 "coordinates": [
                     121.030368,
                     24.826757
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36202004130001",
-                "name": "新竹縣私立開心文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.027721,
-                    24.822009
                 ]
             }
         },

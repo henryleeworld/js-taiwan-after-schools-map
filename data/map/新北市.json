@@ -41746,24 +41746,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21202009040001",
-                "name": "私立哈爾芬語文短期補習班",
-                "county": "新北市",
-                "class": "外語類,",
-                "students": "高中、成人,國小、國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.38077,
-                    24.946864
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21202009130001",
                 "name": "私立府中畫室技藝短期補習班",
                 "county": "新北市",
@@ -52216,6 +52198,24 @@
                 "coordinates": [
                     121.498679,
                     25.057351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509150001",
+                "name": "私立御名文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.510157,
+                    24.995335
                 ]
             }
         }

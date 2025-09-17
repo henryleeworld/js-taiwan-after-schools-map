@@ -11902,24 +11902,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200801240001",
-                "name": "臺南市私立鮑爾文美語短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.228881,
-                    22.974733
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200802019001",
                 "name": "臺南市私立捷超文理短期補習班",
                 "county": "台南市",
@@ -25673,7 +25655,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202508270001",
-                "name": "臺南市私立悅讀星球文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立悅讀星球文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
@@ -25691,7 +25673,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202508270002",
-                "name": "臺南市私立學睿文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立學睿文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
@@ -25756,6 +25738,24 @@
                 "coordinates": [
                     120.308397,
                     23.119008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202509150001",
+                "name": "卓躍文教有限公司附設臺南市私立叡昕文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.227161,
+                    22.995245
                 ]
             }
         }

@@ -16654,24 +16654,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47202408300001",
-                "name": "彰化縣私立智多星文理短期補習班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國小,高中,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.533643,
-                    24.084309
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47202408300002",
                 "name": "彰化縣私立吉佑文理短期補習班湖東分班",
                 "county": "彰化縣",
@@ -17440,6 +17422,42 @@
                 "coordinates": [
                     120.528531,
                     24.064526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202509150001",
+                "name": "彰化縣私立瑞瑄文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548389,
+                    24.070665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202509150002",
+                "name": "彰化縣私立勝園文理短期補習班平和分班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53632,
+                    24.068981
                 ]
             }
         }
