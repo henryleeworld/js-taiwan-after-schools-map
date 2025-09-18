@@ -25691,7 +25691,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202508280001",
-                "name": "臺南市私立天闕文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立天闕文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
@@ -25756,6 +25756,24 @@
                 "coordinates": [
                     120.227161,
                     22.995245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202509160001",
+                "name": "臺南市私立元宇宙文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.219164,
+                    23.080241
                 ]
             }
         }
