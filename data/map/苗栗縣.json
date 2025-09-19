@@ -3461,7 +3461,7 @@
             "type": "Feature",
             "properties": {
                 "code": "37201209030002",
-                "name": "苗栗縣私立博學美語技藝短期補習班",
+                "name": "苗栗縣私立博學文理技藝短期補習班",
                 "county": "苗栗縣",
                 "class": "外語類,",
                 "students": "國小",
@@ -3832,6 +3832,24 @@
                 "coordinates": [
                     120.655886,
                     24.440626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37201603250001",
+                "name": "苗栗縣私立穆西克技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "音樂、舞蹈類,",
+                "students": "13歲以上",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.8156,
+                    24.569001
                 ]
             }
         },

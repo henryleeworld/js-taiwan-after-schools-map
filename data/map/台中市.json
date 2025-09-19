@@ -24124,24 +24124,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200807239004",
-                "name": "臺中市私立嘉升文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小,國中,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.568184,
-                    24.236726
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200807239005",
                 "name": "臺中市私立王門文理短期補習班",
                 "county": "台中市",
@@ -27293,7 +27275,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200910219003",
-                "name": "私立欣冠鈞文理短期補習班",
+                "name": "臺中市私立欣冠鈞文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小",
@@ -27302,7 +27284,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.697273,
+                    120.697274,
                     24.194579
                 ]
             }
@@ -39346,24 +39328,6 @@
                 "coordinates": [
                     120.668674,
                     24.164728
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201712120001",
-                "name": "臺中市私立格霏爾語文技藝短期補習班",
-                "county": "台中市",
-                "class": "外語類,美容、美髮理髮類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,瑜珈類,",
-                "students": "國小,國中,成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.67762,
-                    24.153576
                 ]
             }
         },
@@ -52540,6 +52504,24 @@
                 "coordinates": [
                     120.718647,
                     24.172177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509170001",
+                "name": "臺中市私立嘉音文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715149,
+                    24.246962
                 ]
             }
         }
