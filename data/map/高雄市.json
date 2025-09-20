@@ -1552,6 +1552,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022208",
+                "name": "私立佳美文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.288786,
+                    22.70998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022209",
                 "name": "私立昇任文理短期補習班",
                 "county": "高雄市",
@@ -33820,6 +33838,24 @@
                 "coordinates": [
                     120.290449,
                     22.659506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202509180001",
+                "name": "私立鑫揚文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.348611,
+                    22.678701
                 ]
             }
         }

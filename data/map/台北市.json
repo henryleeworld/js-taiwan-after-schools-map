@@ -2075,7 +2075,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20200811180413",
-                "name": "臺北市私立優兒音樂技藝短期補習班",
+                "name": "臺北市私立優兒音樂文理技藝短期補習班",
                 "county": "台北市",
                 "class": "美術、書法、攝影、美工設計、圍棋類,",
                 "students": "無限制",
@@ -12616,6 +12616,24 @@
                 "coordinates": [
                     121.516005,
                     25.116683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811190461",
+                "name": "臺北市私立皇家文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "其他,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564116,
+                    25.052371
                 ]
             }
         },

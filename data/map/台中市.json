@@ -2543,7 +2543,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319443",
-                "name": "臺中市私立佳欣美語短期補習班",
+                "name": "臺中市私立佳欣文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "國小",
@@ -24118,6 +24118,24 @@
                 "coordinates": [
                     120.561385,
                     24.243482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200807239004",
+                "name": "臺中市私立嘉升文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.568184,
+                    24.236726
                 ]
             }
         },
