@@ -52542,6 +52542,42 @@
                     24.246962
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509190001",
+                "name": "臺中市私立麓兒美語技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.605697,
+                    24.187269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509190002",
+                "name": "光點創意股份有限公司附設臺中市私立光點創意文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.614098,
+                    24.185612
+                ]
+            }
         }
     ]
 }

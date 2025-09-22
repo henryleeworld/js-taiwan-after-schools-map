@@ -19030,24 +19030,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200809010003",
-                "name": "私立恆德文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.491122,
-                    25.07394
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200809010004",
                 "name": "陳樺英文文理短期補習班",
                 "county": "新北市",
@@ -31714,24 +31696,6 @@
                 "coordinates": [
                     121.373937,
                     25.078661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21201412110001",
-                "name": "私立群冠文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4667,
-                    25.08472
                 ]
             }
         },
@@ -52234,6 +52198,60 @@
                 "coordinates": [
                     121.42913,
                     25.052794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509190001",
+                "name": "私立穩成文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517244,
+                    25.007303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509190002",
+                "name": "私立德馨文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.484833,
+                    25.064395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509190003",
+                "name": "私立以琳美語文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.383345,
+                    25.076241
                 ]
             }
         }
