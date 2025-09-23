@@ -7456,6 +7456,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200205280074",
+                "name": "私立樹人文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.317517,
+                    22.591097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200206050013",
                 "name": "私立及第升學文理短期補習班",
                 "county": "高雄市",
