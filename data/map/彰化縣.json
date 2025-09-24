@@ -886,24 +886,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012186",
-                "name": "彰化縣私立格瑞語文短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "未填寫",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.537884,
-                    24.065891
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012187",
                 "name": "私立陳姐姐語文短期補習班",
                 "county": "彰化縣",
@@ -2284,24 +2266,6 @@
                 "coordinates": [
                     120.373523,
                     23.89818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "47200208012362",
-                "name": "私立瑛瑛美術短期補習班",
-                "county": "彰化縣",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.545626,
-                    24.075171
                 ]
             }
         },
@@ -4946,7 +4910,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.564235,
+                    120.564236,
                     23.963601
                 ]
             }

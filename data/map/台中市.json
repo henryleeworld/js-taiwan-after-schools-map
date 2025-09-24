@@ -8446,6 +8446,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120670",
+                "name": "臺中市私立美食家烹飪短期補習班",
+                "county": "台中市",
+                "class": "家政、插花、烹飪類,",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.688523,
+                    24.167217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120672",
                 "name": "私立大中華餐旅烹飪短期補習班",
                 "county": "台中市",

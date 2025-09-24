@@ -25475,7 +25475,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202504170001",
-                "name": "威爾森文教事業股份有限公司附設臺南市私立永信文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "威爾森文教事業股份有限公司附設臺南市私立永信文理短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "國中,高中,國小",
@@ -25731,7 +25731,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25774,6 +25774,24 @@
                 "coordinates": [
                     120.219164,
                     23.080241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202509220001",
+                "name": "臺南市私立資優堡文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.294634,
+                    23.129339
                 ]
             }
         }
