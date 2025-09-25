@@ -5512,24 +5512,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200304020005",
-                "name": "臺南市私立功達文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.226845,
-                    22.993663
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200304020007",
                 "name": "臺南市私立智慧王美語美術短期補習班",
                 "county": "台南市",
@@ -25792,6 +25774,24 @@
                 "coordinates": [
                     120.294634,
                     23.129339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202509230001",
+                "name": "臺南市私立府成文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.237484,
+                    22.98288
                 ]
             }
         }

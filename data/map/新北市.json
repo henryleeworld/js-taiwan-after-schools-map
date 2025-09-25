@@ -383,7 +383,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022108",
-                "name": "私立育麒文理語文短期補習班",
+                "name": "育麒文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中",
@@ -15214,24 +15214,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200609150004",
-                "name": "私立金頭腦文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.4332,
-                    24.989764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200609180001",
                 "name": "學誼文理技藝短期補習班",
                 "county": "新北市",
@@ -18257,7 +18239,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200804220001",
-                "name": "私立威至文理語文短期補習班",
+                "name": "威至文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "其他",
@@ -18700,24 +18682,6 @@
                 "coordinates": [
                     121.455246,
                     24.991506
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200806240001",
-                "name": "私立彩陶技藝短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.512147,
-                    24.960985
                 ]
             }
         },
@@ -38129,7 +38093,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201901220002",
-                "name": "私立巨蒔林口文理短期補習班",
+                "name": "巨蒔林口文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡(A班17人、B班10人)",
@@ -42269,7 +42233,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202011190001",
-                "name": "私立泰瑞文理短期補習班",
+                "name": "泰瑞文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中",
@@ -52270,6 +52234,24 @@
                 "coordinates": [
                     121.383345,
                     25.076241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202509230001",
+                "name": "巨匠電腦股份有限公司附設私立巨匠電腦技藝短期補習班三重分班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.497985,
+                    25.062411
                 ]
             }
         }

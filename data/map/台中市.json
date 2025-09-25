@@ -22432,24 +22432,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200711280001",
-                "name": "私立霖恩美語短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.678011,
-                    24.136074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200712040001",
                 "name": "私立元聖心文理短期補習班",
                 "county": "台中市",
@@ -52576,6 +52558,42 @@
                 "coordinates": [
                     120.614098,
                     24.185612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509230001",
+                "name": "臺中市私立克來爾文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.698199,
+                    24.135028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509230003",
+                "name": "長寶國際股份有限公司附設臺中市私立魯本文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715791,
+                    24.153434
                 ]
             }
         }

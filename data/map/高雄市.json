@@ -7835,7 +7835,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200207100119",
-                "name": "私立吉尼仕文理短期補習班",
+                "name": "行龍數位教育股份有限公司附設高雄市私立吉尼仕文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "國小",
@@ -33226,6 +33226,24 @@
                 "coordinates": [
                     120.3036,
                     22.799568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202408050001",
+                "name": "私立華盛頓ABC文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.316186,
+                    22.619403
                 ]
             }
         },
