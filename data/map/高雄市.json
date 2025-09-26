@@ -33142,6 +33142,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202406270003",
+                "name": "私立讀寫堂文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307728,
+                    22.676876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202407020001",
                 "name": "私立耶加文理短期補習班左新分班",
                 "county": "高雄市",
@@ -33658,6 +33676,24 @@
                 "coordinates": [
                     120.308426,
                     22.656884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202503140001",
+                "name": "私立黃捷科學瘋文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.310705,
+                    22.683319
                 ]
             }
         },

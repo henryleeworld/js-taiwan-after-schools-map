@@ -52582,6 +52582,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42202509230002",
+                "name": "臺中市私立但尼爾文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.713966,
+                    24.152451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42202509230003",
                 "name": "長寶國際股份有限公司附設臺中市私立魯本文理短期補習班",
                 "county": "台中市",
@@ -52594,6 +52612,42 @@
                 "coordinates": [
                     120.715791,
                     24.153434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509230004",
+                "name": "弘暘投資股份有限公司附設臺中市私立育德尚群文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.706973,
+                    24.174753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202509240001",
+                "name": "臺中市私立哈佛文理技藝短期補習班經典分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.648893,
+                    24.146021
                 ]
             }
         }

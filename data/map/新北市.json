@@ -5153,7 +5153,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022939",
-                "name": "私立得堡美語短期補習班",
+                "name": "得堡美語短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "成年人,不限年齡",
@@ -18682,6 +18682,24 @@
                 "coordinates": [
                     121.455246,
                     24.991506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200806240001",
+                "name": "私立彩陶技藝短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512147,
+                    24.960985
                 ]
             }
         },
@@ -42226,24 +42244,6 @@
                 "coordinates": [
                     121.663289,
                     25.064603
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202011190001",
-                "name": "泰瑞文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國小、國中、高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.426792,
-                    25.02061
                 ]
             }
         },

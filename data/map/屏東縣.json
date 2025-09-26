@@ -2650,6 +2650,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87200808140001",
+                "name": "屏東縣私立奕晨美語文理短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,外語類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.490857,
+                    22.591183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87200808140003",
                 "name": "屏東縣私立恆功美語文理短期補習班",
                 "county": "屏東縣",
@@ -7234,6 +7252,24 @@
                 "coordinates": [
                     120.491117,
                     22.68757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "87202509240001",
+                "name": "屏東縣私立學築文理短期補習班明正分班",
+                "county": "屏東縣",
+                "class": "音樂、舞蹈類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49555,
+                    22.679974
                 ]
             }
         }
