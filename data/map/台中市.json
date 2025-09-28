@@ -29434,6 +29434,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201009300001",
+                "name": "敦展文教事業有限公司附設臺中市私立鑫快樂文理附設技藝短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.650151,
+                    24.134684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201010040001",
                 "name": "台中市私立李詠白文理短期補習班",
                 "county": "台中市",
