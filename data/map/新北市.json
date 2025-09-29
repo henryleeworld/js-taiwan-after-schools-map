@@ -11596,6 +11596,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200505120003",
+                "name": "私立諾頓文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.66181,
+                    25.063203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200505120006",
                 "name": "私立北峰文理短期補習班",
                 "county": "新北市",
