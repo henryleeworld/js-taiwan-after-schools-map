@@ -18994,6 +18994,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200809010003",
+                "name": "私立恆德文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.491122,
+                    25.07394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200809010004",
                 "name": "陳樺英文文理短期補習班",
                 "county": "新北市",
@@ -25457,7 +25475,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201108240002",
-                "name": "私立安奇兒美術音樂美語短期補習班",
+                "name": "安奇兒美術音樂美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類,",
                 "students": "國小",
@@ -29867,7 +29885,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201311290001",
-                "name": "私立艾微爾文理短期補習班",
+                "name": "艾微爾文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中,不限年齡",
@@ -35789,7 +35807,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201710190001",
-                "name": "私立福興文理短期補習班",
+                "name": "福興文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小",
@@ -38075,7 +38093,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201901220002",
-                "name": "巨蒔林口文理短期補習班",
+                "name": "巨蒔菻口文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡(A班17人、B班10人)",
@@ -52216,6 +52234,24 @@
                 "coordinates": [
                     121.497985,
                     25.062411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202510010001",
+                "name": "私立舞楀拾光舞蹈技藝短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.431732,
+                    24.99184
                 ]
             }
         }

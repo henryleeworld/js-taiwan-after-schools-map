@@ -25641,7 +25641,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25713,7 +25713,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25731,7 +25731,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25767,7 +25767,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25785,7 +25785,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25821,7 +25821,7 @@
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": "null"
+                "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
@@ -25846,6 +25846,24 @@
                 "coordinates": [
                     120.317392,
                     23.31101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202510010001",
+                "name": "臺南市私立甲桂林文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.207074,
+                    23.043551
                 ]
             }
         }
