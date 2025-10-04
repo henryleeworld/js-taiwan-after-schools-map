@@ -3694,6 +3694,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022670",
+                "name": "私立宏昇外語短期補習班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299847,
+                    22.617111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022672",
                 "name": "私立恩尼外語短期補習班",
                 "county": "高雄市",
@@ -4570,24 +4588,6 @@
                 "coordinates": [
                     120.31988,
                     22.620854
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200204022908",
-                "name": "私立康澤文理技藝短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.315042,
-                    22.622667
                 ]
             }
         },
@@ -33892,6 +33892,24 @@
                 "coordinates": [
                     120.348611,
                     22.678701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202510030001",
+                "name": "私立愛貝拉美語文理短期補習班龍華分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.299893,
+                    22.655141
                 ]
             }
         }

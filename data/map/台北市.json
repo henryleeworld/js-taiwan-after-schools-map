@@ -904,24 +904,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180201",
-                "name": "臺北巿私立小書包文理技藝短期補習班友友分班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.56099,
-                    25.052447
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811180202",
                 "name": "集歐管理顧問股份有限公司附設臺北市私立集歐斯語文短期補習班",
                 "county": "台北市",
@@ -1348,24 +1330,6 @@
                 "coordinates": [
                     121.533641,
                     25.119209
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811180280",
-                "name": "臺北市私立軟實力文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,外語類,",
-                "students": "其他,國小",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.550036,
-                    25.051912
                 ]
             }
         },
@@ -2398,24 +2362,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180519",
-                "name": "臺北市私立永瀚文理短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.514163,
-                    25.065677
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811180523",
                 "name": "臺北市私立凱西文理短期補習班",
                 "county": "台北市",
@@ -2668,6 +2614,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811180565",
+                "name": "臺北市私立立捷文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.616575,
+                    25.035723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811180566",
                 "name": "臺北市私立文霖第一文理技藝短期補習班",
                 "county": "台北市",
@@ -2686,42 +2650,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180568",
-                "name": "臺北市私立劉益禾文理技藝短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.615429,
-                    25.047381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811180571",
-                "name": "臺北市私立上佑文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.550202,
-                    25.078133
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811180574",
                 "name": "臺北市私立翰樺文理語文短期補習班",
                 "county": "台北市",
@@ -2734,24 +2662,6 @@
                 "coordinates": [
                     121.50393,
                     25.040319
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811180586",
-                "name": "美加文化實業股份有限公司附設臺北市私立美加美美語短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.514905,
-                    25.044796
                 ]
             }
         },
@@ -2986,6 +2896,24 @@
                 "coordinates": [
                     121.54597,
                     25.041369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811180634",
+                "name": "臺北市私立嘉維語文短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56374,
+                    25.053854
                 ]
             }
         },
@@ -3532,6 +3460,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811180723",
+                "name": "臺北市私立雲陽文理電腦短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "國小國中",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517632,
+                    25.08469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811180736",
                 "name": "臺北市私立威揚文理短期補習班中正分班",
                 "county": "台北市",
@@ -3928,24 +3874,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180804",
-                "name": "臺北市私立小書包文理技藝短期補習班",
-                "county": "台北市",
-                "class": "文理類,資訊類,家政、插花、烹飪類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.526337,
-                    25.064989
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811180805",
                 "name": "台灣山葉音樂股份有限公司附設臺北市私立研研音樂短期補習班",
                 "county": "台北市",
@@ -3958,6 +3886,24 @@
                 "coordinates": [
                     121.562139,
                     25.051248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811180807",
+                "name": "臺北市私立納尼亞音樂短期補習班",
+                "county": "台北市",
+                "class": "音樂、舞蹈類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546978,
+                    24.996006
                 ]
             }
         },
@@ -3982,36 +3928,54 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180810",
-                "name": "臺北市私立偉迪文理技藝短期補習班",
+                "code": "20200811180814",
+                "name": "臺北市私立謝爸爸文理短期補習班",
                 "county": "台北市",
-                "class": "外語類,",
-                "students": "國小",
+                "class": "文理類,",
+                "students": "無限制",
                 "date_closed": "null"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.53385,
-                    25.054691
+                    121.586984,
+                    25.042876
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180820",
-                "name": "臺北市私立大陞文理短期補習班",
+                "code": "20200811180815",
+                "name": "臺北市私立翰樺文理語文短期補習班長沙分班",
                 "county": "台北市",
                 "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.504003,
+                    25.040313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811180817",
+                "name": "巨匠電腦股份有限公司附設臺北市私立巨匠電腦短期補習班公園分班",
+                "county": "台北市",
+                "class": "資訊類,",
                 "students": "其他",
                 "date_closed": "null"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.590624,
-                    25.07788
+                    121.516857,
+                    25.044481
                 ]
             }
         },
@@ -4048,24 +4012,6 @@
                 "coordinates": [
                     121.568775,
                     25.04617
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811180826",
-                "name": "臺北市私立弗利思特語文短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.606444,
-                    25.055026
                 ]
             }
         },
@@ -4444,6 +4390,24 @@
                 "coordinates": [
                     121.619788,
                     25.041091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811180921",
+                "name": "洋學有限公司附設臺北市私立康寧文理短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.612478,
+                    25.074443
                 ]
             }
         },
@@ -5368,24 +5332,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181110",
-                "name": "臺北市私立關心語文短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.549341,
-                    25.053636
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181112",
                 "name": "劉氏文教事業股份有限公司附設臺北市私立劉氏文理技藝短期補習班",
                 "county": "台北市",
@@ -5404,24 +5350,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181118",
-                "name": "雄玉文教有限公司附設臺北市私立美台文理短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.608797,
-                    25.070018
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181122",
                 "name": "臺北市私立文呈文理短期補習班",
                 "county": "台北市",
@@ -5434,42 +5362,6 @@
                 "coordinates": [
                     121.541484,
                     24.993043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181127",
-                "name": "臺北市私立葛林斯潘文理電腦短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.618013,
-                    25.069423
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181128",
-                "name": "臺北市私立飛哥文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.512184,
-                    25.04238
                 ]
             }
         },
@@ -6268,6 +6160,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181240",
+                "name": "臺北市私立志成文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.559754,
+                    24.994678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181244",
                 "name": "臺北市私立多姿舞蹈短期補習班",
                 "county": "台北市",
@@ -6610,24 +6520,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181315",
-                "name": "臺北市私立發明造物技藝短期補習班",
-                "county": "台北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.524061,
-                    25.101825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181316",
                 "name": "沃人家庭教育有限公司附設臺北市私立葛林屋美語文理短期補習班",
                 "county": "台北市",
@@ -6874,24 +6766,6 @@
                 "coordinates": [
                     121.593175,
                     25.084178
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181365",
-                "name": "臺北市私立奇奇珠心算文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.57866,
-                    25.042808
                 ]
             }
         },
@@ -7330,42 +7204,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181441",
-                "name": "臺北市私立大嘴鳥文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "學齡前",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.52614,
-                    25.022749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181443",
-                "name": "臺北市私立惠群舞蹈短期補習班",
-                "county": "台北市",
-                "class": "音樂、舞蹈類,",
-                "students": "",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.57713,
-                    25.083081
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181445",
                 "name": "臺北市私立開心文理短期補習班",
                 "county": "台北市",
@@ -7384,54 +7222,18 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181448",
-                "name": "臺北市私立克奇技藝短期補習班",
+                "code": "20200811181447",
+                "name": "動感音樂舞蹈補習班",
                 "county": "台北市",
                 "class": "音樂、舞蹈類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.543209,
-                    24.991831
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181449",
-                "name": "臺北市私立同文館語文文理短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
                 "students": "無限制",
                 "date_closed": "null"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.526961,
-                    25.034389
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181452",
-                "name": "臺北市私立德士特文理短期補習班清江分班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.507774,
-                    25.127199
+                    121.592614,
+                    25.08143
                 ]
             }
         },
@@ -7504,24 +7306,6 @@
                 "coordinates": [
                     121.617127,
                     25.053442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181464",
-                "name": "臺北市私立吳限定律文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.609723,
-                    25.071313
                 ]
             }
         },
@@ -7762,6 +7546,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181523",
+                "name": "莫札爾特音樂語文短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515663,
+                    25.074278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181527",
                 "name": "臺北市私立好樂集音樂技藝短期補習班",
                 "county": "台北市",
@@ -7942,6 +7744,42 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181559",
+                "name": "臺北市私立博陞文理美術短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.567931,
+                    25.028027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811181563",
+                "name": "巨匠電腦股份有限公司附設臺北市私立巨匠文理短期補習班忠孝分班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550421,
+                    25.041705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181566",
                 "name": "臺北市私立立日心文理短期補習班",
                 "county": "台北市",
@@ -8014,6 +7852,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181576",
+                "name": "雲門國際事業股份有限公司附設臺北市私立石牌舞蹈短期補習班",
+                "county": "台北市",
+                "class": "音樂、舞蹈類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.516637,
+                    25.11792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181577",
                 "name": "臺北市私立友喬文理短期補習班",
                 "county": "台北市",
@@ -8068,6 +7924,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181582",
+                "name": "台灣知識庫股份有限公司附設臺北市私立龍門文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512542,
+                    25.045916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181583",
                 "name": "陳立教育事業股份有限公司附設臺北市私 立陳立美術文理短期補習班內湖乙分班",
                 "county": "台北市",
@@ -8086,18 +7960,18 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181590",
-                "name": "智基科技開發股份有限公司附設臺北市私立志光法商短期補習班",
+                "code": "20200811181587",
+                "name": "育恩文理補習班",
                 "county": "台北市",
-                "class": "文理類,商類：珠算、心算、會計,",
-                "students": "其他",
+                "class": "文理類,",
+                "students": "無限制",
                 "date_closed": "null"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.512632,
-                    25.046061
+                    121.574949,
+                    25.082978
                 ]
             }
         },
@@ -8140,24 +8014,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181601",
-                "name": "心源管理顧問有限公司附設臺北市私立心源文理技藝短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.569882,
-                    25.050678
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181610",
                 "name": "臺北市私立恩貝亞美語短期補習班",
                 "county": "台北市",
@@ -8170,6 +8026,24 @@
                 "coordinates": [
                     121.599186,
                     25.079293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811181614",
+                "name": "臺北市私立佑威文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.517636,
+                    25.084744
                 ]
             }
         },
@@ -8206,6 +8080,24 @@
                 "coordinates": [
                     121.492375,
                     25.035311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811181621",
+                "name": "台灣知識庫股份有限公司附設臺北市私立大碩文理短期補習班開封一分班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512542,
+                    25.045916
                 ]
             }
         },
@@ -8464,6 +8356,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181665",
+                "name": "臺北市私立上赫文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.528938,
+                    25.106859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181678",
                 "name": "臺北市私立詮勝烹飪調酒短期補習班",
                 "county": "台北市",
@@ -8662,6 +8572,42 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811181723",
+                "name": "八分音符音樂補習班",
+                "county": "台北市",
+                "class": "音樂、舞蹈類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.559032,
+                    25.047688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811181732",
+                "name": "創意國際服務有限公司附設臺北市私立時尚美容技藝文理短期補習班",
+                "county": "台北市",
+                "class": "美容、美髮理髮類,",
+                "students": "高中,成人(18歲以上)",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546847,
+                    25.041357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811181733",
                 "name": "臺北市私立方齡文理短期補習班",
                 "county": "台北市",
@@ -8782,24 +8728,6 @@
                 "coordinates": [
                     121.549661,
                     25.083513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811181749",
-                "name": "大總統文化事業有限公司附設臺北市私立大東海法商短期補習班公園分班",
-                "county": "台北市",
-                "class": "法政類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.517002,
-                    25.044971
                 ]
             }
         },
@@ -9274,6 +9202,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811190028",
+                "name": "臺北市私立繁田塾語文短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "成人(18歲以上)",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515127,
+                    25.045334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811190030",
                 "name": "臺北市私立厚德明明文理短期補習班",
                 "county": "台北市",
@@ -9628,24 +9574,6 @@
                 "coordinates": [
                     121.53849,
                     24.994012
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811190101",
-                "name": "儒林文教事業股份有限公司附設臺北市私立台北儒林文理短期補習班天母分班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.53086,
-                    25.119016
                 ]
             }
         },
@@ -11578,24 +11506,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811190399",
-                "name": "臺北市私立大象音樂技藝文理短期補習班",
-                "county": "台北市",
-                "class": "音樂、舞蹈類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.552347,
-                    25.035124
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811190400",
                 "name": "臺北市私立究竟畫室美術技藝短期補習班",
                 "county": "台北市",
@@ -11608,24 +11518,6 @@
                 "coordinates": [
                     121.525719,
                     25.118357
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200811190402",
-                "name": "臺北市私立志成文理補習班新光分班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.574302,
-                    24.989712
                 ]
             }
         },
@@ -11680,6 +11572,24 @@
                 "coordinates": [
                     121.550038,
                     25.041709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200811190412",
+                "name": "臺北市私立朵拉文理技藝短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.550332,
+                    25.035135
                 ]
             }
         },
@@ -17878,24 +17788,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811191698",
-                "name": "臺北市私立思佳文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.537395,
-                    25.048279
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811191700",
                 "name": "臺北市私立承淞語文文理短期補習班",
                 "county": "台北市",
@@ -18346,24 +18238,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811191784",
-                "name": "臺北市私立摩瑪美術短期補習班",
-                "county": "台北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "無限制",
-                "date_closed": "null"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.552122,
-                    25.034327
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811210002",
                 "name": "臺北市私立西格瑪文理短期補習班",
                 "county": "台北市",
@@ -18526,24 +18400,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200901060013",
-                "name": "臺北市私立金斯頓文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "無限制,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.547234,
-                    25.082066
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200901060015",
                 "name": "冠傑文教事業股份有限公司附設臺北市私立冠傑文理補習班重慶分班",
                 "county": "台北市",
@@ -18556,24 +18412,6 @@
                 "coordinates": [
                     121.513476,
                     25.066064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200901060016",
-                "name": "臺北市私立誠祥文理珠心算短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.514658,
-                    25.059553
                 ]
             }
         },
@@ -18598,6 +18436,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200901060019",
+                "name": "臺北市私立弘人文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.547687,
+                    25.028282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200901060024",
                 "name": "臺北市私立勤思明明文理短期補習班",
                 "county": "台北市",
@@ -18610,6 +18466,24 @@
                 "coordinates": [
                     121.517634,
                     25.04588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20200901060026",
+                "name": "臺北市私立幼馨文理技藝短期補習班",
+                "county": "台北市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.536473,
+                    25.054943
                 ]
             }
         },
@@ -18718,42 +18592,6 @@
                 "coordinates": [
                     121.592889,
                     25.08198
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200907060001",
-                "name": "臺北市私立點點文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.555176,
-                    25.05009
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200907150001",
-                "name": "臺北市私立輔晨美術短期補習班",
-                "county": "台北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.614317,
-                    25.069656
                 ]
             }
         },
@@ -18898,24 +18736,6 @@
                 "coordinates": [
                     121.593849,
                     25.050231
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20200909090001",
-                "name": "臺北市私立寶仁文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.555177,
-                    25.056003
                 ]
             }
         },
@@ -19168,24 +18988,6 @@
                 "coordinates": [
                     121.5732,
                     25.084043
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20201006030002",
-                "name": "臺北市私立台北全真文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.591908,
-                    25.081499
                 ]
             }
         },
@@ -19534,42 +19336,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20201010180043",
-                "name": "永群管理顧問有限公司附設臺北市私立弘群文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.603622,
-                    25.072766
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20201010180046",
-                "name": "瀚將教育科技股份有限公司附設 臺北市私立百瀚內湖文理短期補習班",
-                "county": "台北市",
-                "class": "外語類,",
-                "students": "無限制,其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.582585,
-                    25.077684
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20201010180047",
                 "name": "臺北市私立奧美加語文短期補習班",
                 "county": "台北市",
@@ -19582,6 +19348,24 @@
                 "coordinates": [
                     121.498085,
                     25.135587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201010180048",
+                "name": "臺北市私立聖利美語短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532337,
+                    25.106335
                 ]
             }
         },
@@ -19768,6 +19552,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201012010001",
+                "name": "臺北市私立保程語文短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.577997,
+                    25.040597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201012130001",
                 "name": "臺北市私立千頌音樂短期補習班",
                 "county": "台北市",
@@ -19780,42 +19582,6 @@
                 "coordinates": [
                     121.51398,
                     25.042721
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20201012150001",
-                "name": "臺北市私立喬治亞文理短期補習班",
-                "county": "台北市",
-                "class": "文理類,外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.536694,
-                    25.004382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20201012200001",
-                "name": "精英國際教育管理顧問股份有限公司附設臺北巿私立精英國際昱成文理技藝短期補習班",
-                "county": "台北市",
-                "class": "文理類,外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.521294,
-                    25.08001
                 ]
             }
         },
@@ -19870,6 +19636,24 @@
                 "coordinates": [
                     121.547258,
                     25.048308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201101140009",
+                "name": "臺北市私立愛樂技藝文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,外語類,音樂、舞蹈類,",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546277,
+                    25.042535
                 ]
             }
         },
@@ -19960,24 +19744,6 @@
                 "coordinates": [
                     121.529946,
                     25.019825
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20201105110001",
-                "name": "臺北市私立學新電腦短期補習班",
-                "county": "台北市",
-                "class": "資訊類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.543319,
-                    25.030594
                 ]
             }
         },
@@ -25690,6 +25456,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201703140009",
+                "name": "臺北市私立建翔文理短期補習班",
+                "county": "台北市",
+                "class": "外語類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564887,
+                    25.028037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201703140010",
                 "name": "臺北市私立仁大文理珠心算短期補習班",
                 "county": "台北市",
@@ -25702,6 +25486,24 @@
                 "coordinates": [
                     121.551755,
                     25.035149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140011",
+                "name": "台灣知識庫股份有限公司附設臺北市私立大碩文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.512542,
+                    25.045916
                 ]
             }
         },
@@ -26404,6 +26206,24 @@
                 "coordinates": [
                     121.522273,
                     25.027618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140121",
+                "name": "功學社音樂中心股份有限公司附設臺北市私立崧南音樂語文短期補習班",
+                "county": "台北市",
+                "class": "外語類,音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.557294,
+                    25.032382
                 ]
             }
         },
@@ -27598,6 +27418,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201703140276",
+                "name": "臺北市私立佳優文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.556884,
+                    24.982039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201703140277",
                 "name": "臺灣雙母語學殿股份有限公司附設臺北市私立開星門學殿文理技藝短期補習班",
                 "county": "台北市",
@@ -27808,6 +27646,24 @@
                 "coordinates": [
                     121.522948,
                     25.026022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140293",
+                "name": "臺北市私立書宜文理短期補習班",
+                "county": "台北市",
+                "class": "文理類,",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.540533,
+                    24.995667
                 ]
             }
         },
@@ -37310,8 +37166,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.558671,
-                    25.030716
+                    121.559675,
+                    25.030318
                 ]
             }
         },
