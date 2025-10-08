@@ -2993,7 +2993,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022590",
-                "name": "私立文城教育學院文理短期補習班",
+                "name": "文城教育學院文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中,高中",
@@ -14963,7 +14963,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200608010003",
-                "name": "育圃語文短期補習班",
+                "name": "私立育圃文理技藝短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "不限",
@@ -14972,8 +14972,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.510036,
-                    25.001332
+                    121.510193,
+                    25.001498
                 ]
             }
         },
@@ -52270,6 +52270,24 @@
                 "coordinates": [
                     121.442379,
                     24.978247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202510070001",
+                "name": "私立書軒文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.452533,
+                    24.983433
                 ]
             }
         }
