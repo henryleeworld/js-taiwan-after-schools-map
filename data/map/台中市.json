@@ -11974,6 +11974,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200401059003",
+                "name": "私立建成文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.679046,
+                    24.101365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200401060002",
                 "name": "優質文教事業有限公司附設臺中市私立優質文理短期補習班",
                 "county": "台中市",
@@ -52630,6 +52648,24 @@
                 "coordinates": [
                     120.652591,
                     24.221473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202510080001",
+                "name": "臺中市私立恩仁文理短期補習班自強分班分班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.724481,
+                    24.248163
                 ]
             }
         }

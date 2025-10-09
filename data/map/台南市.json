@@ -25763,7 +25763,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202509160001",
-                "name": "臺南市私立元宇宙文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立元宇宙文理技藝短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
@@ -25882,6 +25882,24 @@
                 "coordinates": [
                     120.227984,
                     22.991749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202510080001",
+                "name": "臺南市私立芝琴藝術技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.247607,
+                    22.98934
                 ]
             }
         }
