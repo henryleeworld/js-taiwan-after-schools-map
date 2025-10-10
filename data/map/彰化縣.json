@@ -2867,7 +2867,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47200304220001",
-                "name": "私立育林數學短期補習班",
+                "name": "彰化縣私立育林文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
                 "students": "國中",
@@ -9322,6 +9322,24 @@
                 "coordinates": [
                     120.503136,
                     24.108007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201305210001",
+                "name": "私立卓越文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585666,
+                    23.898893
                 ]
             }
         },
