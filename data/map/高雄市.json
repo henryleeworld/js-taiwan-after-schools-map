@@ -23674,24 +23674,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70201208310005",
-                "name": "私立讀寫堂文理短期補習班.",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.305744,
-                    22.658154
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70201208310006",
                 "name": "私立茂展文理短期補習班",
                 "county": "高雄市",
@@ -33928,6 +33910,24 @@
                 "coordinates": [
                     120.299893,
                     22.655141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202510130001",
+                "name": "私立澍泓文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.333591,
+                    22.64162
                 ]
             }
         }

@@ -17861,7 +17861,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200606019008",
-                "name": "臺中市私立昌宏文理短期補習班",
+                "name": "臺中市私立昌宏文理美術短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,國中",
@@ -27671,7 +27671,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200912290001",
-                "name": "台中市私立幸福外語短期補習班",
+                "name": "臺中市私立幸福外語短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "成人(18歲以上),國小",
@@ -52666,6 +52666,24 @@
                 "coordinates": [
                     120.724481,
                     24.248163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202510130001",
+                "name": "臺中市私立小小大世界創意舞蹈短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.635385,
+                    24.155164
                 ]
             }
         }

@@ -24431,7 +24431,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201101280002",
-                "name": "私立德碩文理語文短期補習班",
+                "name": "德碩文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國中,(不現年齡)",
@@ -52306,6 +52306,24 @@
                 "coordinates": [
                     121.416542,
                     25.027664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202510130001",
+                "name": "私立金田文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.515957,
+                    24.997953
                 ]
             }
         }
