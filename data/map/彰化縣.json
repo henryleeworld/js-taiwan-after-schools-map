@@ -9328,6 +9328,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201305210001",
+                "name": "私立卓越文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.585666,
+                    23.898893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201305210002",
                 "name": "台灣拓人教育事業股份有限公司附設彰化縣私立拓人文理短期補習班",
                 "county": "彰化縣",
@@ -9862,6 +9880,24 @@
                 "coordinates": [
                     120.493886,
                     23.8514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47201402200001",
+                "name": "人荷文化事業有限公司附設彰化縣私立培仁文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.580476,
+                    23.959479
                 ]
             }
         },
