@@ -18220,6 +18220,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200804220001",
+                "name": "威至文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489363,
+                    25.053726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200804220002",
                 "name": "私立福華文理技藝短期補習班",
                 "county": "新北市",
@@ -52306,6 +52324,24 @@
                 "coordinates": [
                     121.515957,
                     24.997953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202510170001",
+                "name": "私立思考力技藝文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.462037,
+                    25.089542
                 ]
             }
         }
