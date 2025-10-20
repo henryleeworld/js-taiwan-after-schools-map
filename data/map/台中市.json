@@ -17158,6 +17158,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200603020003",
+                "name": "私立正大文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680412,
+                    24.135822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200603100002",
                 "name": "私立金莉美容美髮整體造型短期補習班",
                 "county": "台中市",
@@ -18124,24 +18142,6 @@
                 "coordinates": [
                     120.690662,
                     24.17962
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200607180001",
-                "name": "地球村語文資訊有限公司附設臺中市私立北屯地球村語文短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "成人(18歲以上),高中,國小,研究所",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.695211,
-                    24.171332
                 ]
             }
         },
@@ -32764,6 +32764,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201210170003",
+                "name": "臺中市私立博思特音樂文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,音樂、舞蹈類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663937,
+                    24.120902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201210190001",
                 "name": "臺中市私立唯中文理短期補習班",
                 "county": "台中市",
@@ -32776,24 +32794,6 @@
                 "coordinates": [
                     120.687862,
                     24.153162
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201210220002",
-                "name": "臺中市私立萊斯特文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.656892,
-                    24.133894
                 ]
             }
         },

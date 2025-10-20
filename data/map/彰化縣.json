@@ -9886,6 +9886,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47201402200001",
+                "name": "彰化縣私立培人文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.581821,
+                    23.958448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47201403040001",
                 "name": "私立承品文理短期補習班",
                 "county": "彰化縣",
@@ -17386,6 +17404,24 @@
                 "coordinates": [
                     120.53632,
                     24.068981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202510160001",
+                "name": "彰化縣私立揚勝文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.52652,
+                    24.073723
                 ]
             }
         }
