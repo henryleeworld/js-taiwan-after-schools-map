@@ -18148,6 +18148,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200607180001",
+                "name": "地球村語文資訊有限公司附設臺中市私立北屯地球村語文短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "成人(18歲以上),高中,國小,研究所",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.695211,
+                    24.171332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200607259002",
                 "name": "臺中市私立玉登文理珠心算短期補習班",
                 "county": "台中市",
@@ -20482,24 +20500,6 @@
                 "coordinates": [
                     120.558109,
                     24.25531
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200705020001",
-                "name": "臺中市私立偉文文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "升二技插大,升四技二專大專,研究所",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.684167,
-                    24.137582
                 ]
             }
         },
@@ -32794,6 +32794,24 @@
                 "coordinates": [
                     120.687862,
                     24.153162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42201210220002",
+                "name": "臺中市私立萊斯特文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.656892,
+                    24.133894
                 ]
             }
         },
