@@ -20506,6 +20506,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200705020001",
+                "name": "臺中市私立偉文文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "升二技插大,升四技二專大專,研究所",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.684167,
+                    24.137582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200705029004",
                 "name": "銓盈藝文科技股份有限公司附設臺中市私立潭陽文理技藝短期補習班",
                 "county": "台中市",
@@ -51773,7 +51791,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42202505210001",
-                "name": "臺中市私立佳昀文理短期補習班",
+                "name": "臺中市私立佳昀文理美術短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,國中,學齡前",
@@ -52666,6 +52684,24 @@
                 "coordinates": [
                     120.635385,
                     24.155164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202510200001",
+                "name": "臺中市私立育達文理技藝短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.687484,
+                    24.136659
                 ]
             }
         }
