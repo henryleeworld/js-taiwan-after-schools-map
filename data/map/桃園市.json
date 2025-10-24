@@ -4919,7 +4919,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33200507060006",
-                "name": "私立承聖語文文理短期補習班",
+                "name": "私立冠奕文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,",
                 "students": "國小,國中",
@@ -4928,8 +4928,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.2258,
-                    24.947236
+                    121.225819,
+                    24.946495
                 ]
             }
         },
@@ -19967,7 +19967,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33202105030001",
-                "name": "私立博聖數學語文短期補習班",
+                "name": "私立全宇文理短期補習班",
                 "county": "桃園市",
                 "class": "外語類,其他類,",
                 "students": "國小,國小、國中、高中",
@@ -24838,6 +24838,42 @@
                 "coordinates": [
                     121.313544,
                     25.006195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202510210001",
+                "name": "私立米奇兒童街舞技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.288086,
+                    24.984233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202510220001",
+                "name": "私立史考特新世界美語村文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212045,
+                    25.006052
                 ]
             }
         }

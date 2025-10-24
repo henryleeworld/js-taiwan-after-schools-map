@@ -4037,7 +4037,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319654",
-                "name": "臺中市私立奇美珠心算數學美語短期補習班",
+                "name": "臺中市私立德聖文理短期補習班",
                 "county": "台中市",
                 "class": "商類：珠算、心算、會計,",
                 "students": "國小",
@@ -5189,7 +5189,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200208120024",
-                "name": "臺中市私立名揚文理短期補習班",
+                "name": "臺中市私立學擘文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國中",
@@ -27940,24 +27940,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42201003109004",
-                "name": "私立南陽藝術田美術短期補習班",
-                "county": "台中市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.724028,
-                    24.247294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42201003109005",
                 "name": "臺中市私立強納森語文短期補習班",
                 "county": "台中市",
@@ -30238,24 +30220,6 @@
                 "coordinates": [
                     120.659133,
                     24.135245
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201012229001",
-                "name": "國際地球村有限公司臺中豐原分公司附設臺中市私立國際地球村語文短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "成人(18歲以上),國小,高中,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.719533,
-                    24.251611
                 ]
             }
         },
@@ -52702,6 +52666,24 @@
                 "coordinates": [
                     120.687484,
                     24.136659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202510220001",
+                "name": "臺中市私立中育達文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.565797,
+                    24.236489
                 ]
             }
         }
