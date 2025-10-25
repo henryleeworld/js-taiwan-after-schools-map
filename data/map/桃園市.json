@@ -1462,24 +1462,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200208210002",
-                "name": "私立建德文理美語短期補習班",
-                "county": "桃園市",
-                "class": "文理類,外語類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.314421,
-                    24.979236
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200208210004",
                 "name": "私立艾特文理短期補習班",
                 "county": "桃園市",
@@ -24874,6 +24856,24 @@
                 "coordinates": [
                     121.212045,
                     25.006052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202510230001",
+                "name": "私立皇家國際文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.250133,
+                    24.976918
                 ]
             }
         }
