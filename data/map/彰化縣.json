@@ -5548,6 +5548,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47200706120004",
+                "name": "彰化縣私立芝蔴街文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541638,
+                    24.083504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47200706120007",
                 "name": "私立新育才文理短期補習班",
                 "county": "彰化縣",

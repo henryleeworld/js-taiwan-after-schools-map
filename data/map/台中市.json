@@ -6214,6 +6214,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120235",
+                "name": "元大教育事業股份有限公司附設臺中市私立曙光文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680942,
+                    24.137198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120240",
                 "name": "臺中市私立葳薾文理短期補習班",
                 "county": "台中市",
@@ -24874,24 +24892,6 @@
                 "coordinates": [
                     120.661287,
                     24.120976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200810289002",
-                "name": "私立伊利若音樂短期補習班大甲分班",
-                "county": "台中市",
-                "class": "音樂、舞蹈類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.618414,
-                    24.351856
                 ]
             }
         },
