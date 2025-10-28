@@ -6610,6 +6610,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35202005200002",
+                "name": "小小科學家教育事業股份有限公司附設新竹市私立科學家教育文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類,外語類,",
+                "students": "高中,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013972,
+                    24.784128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35202006100001",
                 "name": "新竹市私立辰林英語學苑文理短期補習班",
                 "county": "新竹市",
