@@ -1859,7 +1859,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319337",
-                "name": "臺中市私立博士兒文理珠心算短期補習班",
+                "name": "臺中市私立齊心文理珠心算短期補習班",
                 "county": "台中市",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "國中",
@@ -4721,7 +4721,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319780",
-                "name": "救國團臺中市團委員會附設私立技藝語文短期補習班",
+                "name": "中國青年救國團附設臺中市私立圓環南技藝語文短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "成人(18歲以上)",
@@ -7348,24 +7348,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120467",
-                "name": "臺中市私立佳鈺文理短期補習班",
-                "county": "台中市",
-                "class": "外語類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.688849,
-                    24.130908
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120472",
                 "name": "四季市政教育事業股份有限公司附設臺中市私立四季美語文理技藝短期補習班",
                 "county": "台中市",
@@ -7774,24 +7756,6 @@
                 "coordinates": [
                     120.684254,
                     24.135247
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200208120568",
-                "name": "臺中市私立典宸法商語文短期補習班",
-                "county": "台中市",
-                "class": "法政類,",
-                "students": "成人(18歲以上),公職人員考試",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.683353,
-                    24.137518
                 ]
             }
         },
@@ -19366,24 +19330,6 @@
                 "coordinates": [
                     120.684671,
                     24.174361
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200612120002",
-                "name": "臺中市私立東光文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.702567,
-                    24.172006
                 ]
             }
         },
@@ -33531,7 +33477,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.636904,
-                    24.152132
+                    24.152133
                 ]
             }
         },
@@ -34341,7 +34287,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.637022,
-                    24.154364
+                    24.154365
                 ]
             }
         },
@@ -37491,7 +37437,7 @@
                 "type": "Point",
                 "coordinates": [
                     120.636415,
-                    24.152941
+                    24.152942
                 ]
             }
         },
@@ -38570,7 +38516,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.637435,
+                    120.637436,
                     24.149608
                 ]
             }
@@ -44132,7 +44078,7 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.636731,
+                    120.636732,
                     24.153206
                 ]
             }
@@ -52648,6 +52594,24 @@
                 "coordinates": [
                     120.565797,
                     24.236489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202510270001",
+                "name": "臺中市私立塏亞文理舞蹈短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.634187,
+                    24.107567
                 ]
             }
         }
