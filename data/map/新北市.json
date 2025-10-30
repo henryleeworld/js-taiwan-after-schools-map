@@ -3118,6 +3118,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200208022608",
+                "name": "私立文德珠心算文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類,商類：珠算、心算、會計,",
+                "students": "不限年齡,國小、國中,兒童、國小、國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.460294,
+                    25.024448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200208022610",
                 "name": "私立王耀文理短期補習班",
                 "county": "新北市",
@@ -4289,7 +4307,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022804",
-                "name": "私立克萊美語短期補習班",
+                "name": "克萊美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "其他",
@@ -18365,7 +18383,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200805120002",
-                "name": "歐皇文理短期補習班",
+                "name": "私立有成文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中、高中",
@@ -20032,24 +20050,6 @@
                 "coordinates": [
                     121.6644,
                     25.068377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200903190003",
-                "name": "私立亞特波仕美術文理短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.514295,
-                    25.00758
                 ]
             }
         },
@@ -40685,7 +40685,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202005100001",
-                "name": "私立朗智思維科技有限公司附設飛行貓閱讀偵探社文理短期補習班",
+                "name": "朗智思維科技有限公司附設飛行貓閱讀偵探社文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "國小、國中(A班12小時、B班8小時、C班2小時),國小、國中",
