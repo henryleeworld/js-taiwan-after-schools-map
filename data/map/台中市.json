@@ -5476,6 +5476,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200208120091",
+                "name": "臺中市私立一二三文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.571884,
+                    24.271109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200208120094",
                 "name": "臺中市私立仁愛美語數學短期補習班",
                 "county": "台中市",
@@ -45790,24 +45808,6 @@
                 "coordinates": [
                     120.700012,
                     24.104607
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42202112100001",
-                "name": "臺中市私立育茂文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "學齡前,國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.700647,
-                    24.212436
                 ]
             }
         },
