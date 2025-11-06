@@ -6790,6 +6790,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202109300002",
+                "name": "新竹縣私立郭義科學教育文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小 國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.036471,
+                    24.802499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202110190001",
                 "name": "新竹縣私立竹仁棋院技藝短期補習班",
                 "county": "新竹縣",
