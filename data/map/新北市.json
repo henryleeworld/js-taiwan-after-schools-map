@@ -11992,6 +11992,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200507110002",
+                "name": "私立快樂美樂蒂美語短期補習班",
+                "county": "新北市",
+                "class": "外語類,",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55463,
+                    24.953434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200507110003",
                 "name": "私立東煌美語短期補習班",
                 "county": "新北市",
@@ -18196,6 +18214,24 @@
                 "coordinates": [
                     121.475678,
                     25.086606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21200804220001",
+                "name": "威至文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.489363,
+                    25.053726
                 ]
             }
         },
@@ -43367,7 +43403,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202108040005",
-                "name": "私立青子園文理短期補習班",
+                "name": "青子園文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",

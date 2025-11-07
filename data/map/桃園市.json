@@ -590,8 +590,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.307115,
-                    24.999654
+                    121.307139,
+                    24.999618
                 ]
             }
         },
@@ -24874,6 +24874,42 @@
                 "coordinates": [
                     121.169561,
                     24.907267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202511050002",
+                "name": "私立宥合數理文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.3202,
+                    24.997782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202511050003",
+                "name": "私立星點子文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.282072,
+                    24.927479
                 ]
             }
         }

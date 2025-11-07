@@ -5477,7 +5477,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200208120091",
-                "name": "臺中市私立一二三文理短期補習班",
+                "name": "臺中市私立大鈞文理短期補習班",
                 "county": "台中市",
                 "class": "文理類,",
                 "students": "國小,國中,高中",
@@ -5486,8 +5486,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.571884,
-                    24.271109
+                    120.656048,
+                    24.129999
                 ]
             }
         },
@@ -8728,24 +8728,6 @@
                 "coordinates": [
                     120.695071,
                     24.164103
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200208120723",
-                "name": "私立楊久美瑜珈短期補習班",
-                "county": "台中市",
-                "class": "瑜珈類,",
-                "students": "未填寫",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.666006,
-                    24.136965
                 ]
             }
         },
@@ -52612,6 +52594,24 @@
                 "coordinates": [
                     120.684779,
                     24.190398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202511050001",
+                "name": "菘洋科技股份有限公司附設臺中市私立文嵊文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.663072,
+                    24.157855
                 ]
             }
         }
