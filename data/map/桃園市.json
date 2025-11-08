@@ -24880,6 +24880,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202511050001",
+                "name": "私立宋分文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.247013,
+                    24.975438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202511050002",
                 "name": "私立宥合數理文理短期補習班",
                 "county": "桃園市",
@@ -24910,6 +24928,24 @@
                 "coordinates": [
                     121.282072,
                     24.927479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202511060001",
+                "name": "私立森日語文文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.283253,
+                    24.927153
                 ]
             }
         }

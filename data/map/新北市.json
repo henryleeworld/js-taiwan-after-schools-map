@@ -15503,7 +15503,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200610130006",
-                "name": "私立全盈文理語文短期補習班",
+                "name": "全盈文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "不限年齡",
@@ -37139,7 +37139,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201808230001",
-                "name": "私立國儷文理短期補習班",
+                "name": "私立國儷文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡,學齡前",
@@ -37751,7 +37751,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201811270001",
-                "name": "私立美育旺旺文化事業股份有限公司附設小飛馬音樂舞蹈技藝短期補習班",
+                "name": "美育旺旺文化事業股份有限公司附設小飛馬音樂舞蹈技藝短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類,",
                 "students": "不限年齡",
@@ -43601,7 +43601,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202108110002",
-                "name": "私立智勝文教有限公司附設權勝文理短期補習班",
+                "name": "智勝文教有限公司附設權勝文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -52360,6 +52360,60 @@
                 "coordinates": [
                     121.423942,
                     25.02398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511070001",
+                "name": "私立捷思文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.446999,
+                    25.170574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511070002",
+                "name": "私立新玩藝基地技藝短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.662888,
+                    25.067069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511070003",
+                "name": "私立A++卓越學苑文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.417968,
+                    24.980298
                 ]
             }
         }
