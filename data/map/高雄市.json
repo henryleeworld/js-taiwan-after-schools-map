@@ -3550,24 +3550,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200204022646",
-                "name": "敦華英語國際文教股份有限公司附設高雄市私立敦煌英語短期補習班七賢分班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小,國中,高中,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.307233,
-                    22.634446
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200204022649",
                 "name": "功學社音樂中心股份有限公司附設中正音樂短期補習班",
                 "county": "高雄市",
@@ -8980,24 +8962,6 @@
                 "coordinates": [
                     120.290398,
                     22.799377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200210299003",
-                "name": "私立喬智城文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.420765,
-                    22.657264
                 ]
             }
         },
@@ -28895,7 +28859,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70201906120001",
-                "name": "志光教育科技股份有限公司附設正志光法商文理公職證照短期補習班",
+                "name": "志光教育科技股份有限公司附設志光學儒志聖法商文理公職證照短期補習班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "成人(18歲以上)",
@@ -33820,6 +33784,24 @@
                 "coordinates": [
                     120.333591,
                     22.64162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202511100001",
+                "name": "私立睿獅文理短期補習班義昌分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.334429,
+                    22.641597
                 ]
             }
         }

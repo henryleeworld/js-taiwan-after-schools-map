@@ -6574,24 +6574,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120292",
-                "name": "私立昇晟文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.660069,
-                    24.14323
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120295",
                 "name": "臺中市私立大創意文理短期補習班",
                 "county": "台中市",
@@ -11903,7 +11885,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200401059002",
-                "name": "私立伊頓英語短期補習班",
+                "name": "臺中市私立伊頓英語短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "成人(18歲以上),國小,國中",
@@ -17104,24 +17086,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200603020003",
-                "name": "私立正大文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.680412,
-                    24.135822
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200603100002",
                 "name": "私立金莉美容美髮整體造型短期補習班",
                 "county": "台中市",
@@ -18772,24 +18736,6 @@
                 "coordinates": [
                     120.722359,
                     24.251802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200610029007",
-                "name": "臺中市私立首成文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.541337,
-                    24.245301
                 ]
             }
         },
@@ -41909,7 +41855,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201910130001",
-                "name": "臺中市私立中華電工技術短期補習班三民分班",
+                "name": "中華職能教育有限公司附設臺中市私立中華電工技藝技術短期補習班",
                 "county": "台中市",
                 "class": "電機、汽車修護、建築、工藝、製圖類,",
                 "students": "成人(18歲以上),高中",
@@ -52612,6 +52558,24 @@
                 "coordinates": [
                     120.663072,
                     24.157855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202511100001",
+                "name": "臺中市私立博士貓電腦文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.6372,
+                    24.150317
                 ]
             }
         }
