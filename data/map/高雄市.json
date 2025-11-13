@@ -3550,6 +3550,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70200204022646",
+                "name": "敦華英語國際文教股份有限公司附設高雄市私立敦煌英語短期補習班七賢分班",
+                "county": "高雄市",
+                "class": "外語類,",
+                "students": "國小,國中,高中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.307233,
+                    22.634446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70200204022649",
                 "name": "功學社音樂中心股份有限公司附設中正音樂短期補習班",
                 "county": "高雄市",
@@ -7504,24 +7522,6 @@
                 "coordinates": [
                     120.35365,
                     22.640183
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70200206069007",
-                "name": "私立一鳴文理短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小,高中,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.481185,
-                    22.894411
                 ]
             }
         },

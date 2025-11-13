@@ -17086,6 +17086,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200603020003",
+                "name": "私立正大文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680412,
+                    24.135822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200603100002",
                 "name": "私立金莉美容美髮整體造型短期補習班",
                 "county": "台中市",
@@ -18736,6 +18754,24 @@
                 "coordinates": [
                     120.722359,
                     24.251802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200610029007",
+                "name": "臺中市私立首成文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.541337,
+                    24.245301
                 ]
             }
         },
