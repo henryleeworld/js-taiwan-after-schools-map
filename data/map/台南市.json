@@ -2362,6 +2362,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62200208029055",
+                "name": "臺南市私立群上文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.260484,
+                    23.009608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62200208029057",
                 "name": "臺南市私立育華文理短期補習班",
                 "county": "台南市",
