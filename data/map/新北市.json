@@ -4307,7 +4307,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022804",
-                "name": "克萊美語短期補習班",
+                "name": "私立克萊文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "其他",
@@ -5099,7 +5099,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022934",
-                "name": "私立獅王文理短期補習班",
+                "name": "獅王文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "不限(英文5小時、數學5小時)",
@@ -8996,8 +8996,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.45254,
-                    24.992166
+                    121.452455,
+                    24.992451
                 ]
             }
         },
@@ -52414,6 +52414,24 @@
                 "coordinates": [
                     121.417968,
                     24.980298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511140001",
+                "name": "私立高甡技藝文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450676,
+                    25.056258
                 ]
             }
         }

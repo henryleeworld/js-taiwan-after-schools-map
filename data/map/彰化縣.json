@@ -2434,24 +2434,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200210240002",
-                "name": "網路地球村語文資訊有限公司附設彰化縣私立圓林地球村美日語短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.57065,
-                    23.958248
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200210240005",
                 "name": "私立大學城美語短期補習班",
                 "county": "彰化縣",
@@ -6838,6 +6820,24 @@
                 "coordinates": [
                     120.428549,
                     24.054701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47200904290001",
+                "name": "吾邦圖英語文教事業有限公司附設私立雷恩美語短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.481729,
+                    23.965993
                 ]
             }
         },
@@ -17350,6 +17350,24 @@
                 "coordinates": [
                     120.52652,
                     24.073723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202511130001",
+                "name": "彰化縣私立樂在指尖上技藝短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.539569,
+                    24.069692
                 ]
             }
         }
