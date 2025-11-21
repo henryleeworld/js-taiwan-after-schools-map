@@ -15647,7 +15647,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200611100002",
-                "name": "私立均明語文文理短期補習班",
+                "name": "均明語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國小",
@@ -52450,6 +52450,24 @@
                 "coordinates": [
                     121.484374,
                     25.05249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511190001",
+                "name": "私立睿思文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.442127,
+                    24.975518
                 ]
             }
         }

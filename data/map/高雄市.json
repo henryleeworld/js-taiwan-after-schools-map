@@ -6592,24 +6592,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200205089304",
-                "name": "私立新頂尖美語短期補習班",
-                "county": "高雄市",
-                "class": "外語類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.283173,
-                    22.792964
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200205089305",
                 "name": "私立睿陽文理短期補習班",
                 "county": "高雄市",
@@ -6737,7 +6719,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70200205089327",
-                "name": "聯誠電腦有限公司附設私立聯成電腦語文短期補習班",
+                "name": "聯成電腦股份有限公司附設高雄市私立聯城電腦語文短期補習班鳳山分班",
                 "county": "高雄市",
                 "class": "外語類,資訊類,",
                 "students": "成人(18歲以上)",
@@ -8980,6 +8962,24 @@
                 "coordinates": [
                     120.290398,
                     22.799377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70200210299003",
+                "name": "私立喬智城文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.420765,
+                    22.657264
                 ]
             }
         },

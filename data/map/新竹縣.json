@@ -5188,24 +5188,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "36201806100002",
-                "name": "新竹縣私立育昇文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.089361,
-                    24.733498
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "36201806100003",
                 "name": "新竹縣私立知青文理短期補習班",
                 "county": "新竹縣",
@@ -5974,6 +5956,24 @@
                 "coordinates": [
                     121.040726,
                     24.90153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202003100001",
+                "name": "勁權文教事業有限公司附設新竹縣私立勁權文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類,",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.016974,
+                    24.817488
                 ]
             }
         },
