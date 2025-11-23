@@ -7114,24 +7114,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200306230001",
-                "name": "揚昇文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.425898,
-                    25.015308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200306230002",
                 "name": "牛津文理語文短期補習班",
                 "county": "新北市",
@@ -15316,24 +15298,6 @@
                 "coordinates": [
                     121.344189,
                     24.949961
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200609260001",
-                "name": "私立新首席文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.487582,
-                    25.055575
                 ]
             }
         },
@@ -52468,6 +52432,24 @@
                 "coordinates": [
                     121.442127,
                     24.975518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511200001",
+                "name": "私立翔學文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.435704,
+                    25.071129
                 ]
             }
         }

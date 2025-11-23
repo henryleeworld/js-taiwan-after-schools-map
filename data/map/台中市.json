@@ -10930,24 +10930,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200306110004",
-                "name": "私立提卡美術短期補習班",
-                "county": "台中市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.681033,
-                    24.16727
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200306130003",
                 "name": "格蘭事業股份有限公司臺中文心分公司附設臺中市私立格言英語會話短期補習班",
                 "county": "台中市",
@@ -18754,24 +18736,6 @@
                 "coordinates": [
                     120.722359,
                     24.251802
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200610029007",
-                "name": "臺中市私立首成文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.541337,
-                    24.245301
                 ]
             }
         },
@@ -47255,7 +47219,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42202211090001",
-                "name": "臺中市私立索爾英語短期補習班",
+                "name": "臺中市私立索爾文理短期補習班",
                 "county": "台中市",
                 "class": "外語類,",
                 "students": "國中,學齡前,成人(18歲以上),國小",
@@ -47264,8 +47228,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.612655,
-                    24.152405
+                    120.611274,
+                    24.145428
                 ]
             }
         },
@@ -52612,6 +52576,24 @@
                 "coordinates": [
                     120.6372,
                     24.150317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202511200001",
+                "name": "臺中市私立育優文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.715209,
+                    24.154607
                 ]
             }
         }
