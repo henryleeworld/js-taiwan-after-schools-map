@@ -1823,7 +1823,7 @@
             "type": "Feature",
             "properties": {
                 "code": "87200702150001",
-                "name": "聯晟電腦有限公司附設屏東縣私立聯成電腦短期補習班",
+                "name": "聯成電腦股份有限公司附設屏東縣私立聯成技藝短期補習班",
                 "county": "屏東縣",
                 "class": "資訊類,",
                 "students": "國小至成人",
@@ -7270,6 +7270,24 @@
                 "coordinates": [
                     120.49555,
                     22.679974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "87202511210001",
+                "name": "屏東縣私立大學生文理技藝短期補習班",
+                "county": "屏東縣",
+                "class": "音樂、舞蹈類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.59846,
+                    22.686968
                 ]
             }
         }

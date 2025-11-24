@@ -7114,6 +7114,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200306230001",
+                "name": "揚昇文理語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.425898,
+                    25.015308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200306230002",
                 "name": "牛津文理語文短期補習班",
                 "county": "新北市",
@@ -38795,7 +38813,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201907110002",
-                "name": "私立易佰文理短期補習班",
+                "name": "易佰文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,",
                 "students": "不限年齡",
@@ -47014,24 +47032,6 @@
                 "coordinates": [
                     121.653195,
                     25.062806
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202305260001",
-                "name": "私立源昇設計技藝短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類,",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.51763,
-                    25.002535
                 ]
             }
         },
