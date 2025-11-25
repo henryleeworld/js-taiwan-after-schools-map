@@ -17122,6 +17122,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200603210001",
+                "name": "臺中市私立百宏文理短期補習班",
+                "county": "台中市",
+                "class": "外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.693668,
+                    24.16861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200603210003",
                 "name": "臺中市私立盛譽文理短期補習班",
                 "county": "台中市",
