@@ -2722,6 +2722,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87200809080004",
+                "name": "屏東縣私立協力文理短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.597415,
+                    22.384832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87200809080005",
                 "name": "屏東縣私立桃樂思美語短期補習班",
                 "county": "屏東縣",
@@ -5434,24 +5452,6 @@
                 "coordinates": [
                     120.468911,
                     22.611751
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "87201803150001",
-                "name": "屏東縣私立魔荳美語短期補習班",
-                "county": "屏東縣",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.467292,
-                    22.481152
                 ]
             }
         },

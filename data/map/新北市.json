@@ -7744,24 +7744,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200310220004",
-                "name": "中平高分文理短期補習班",
-                "county": "新北市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.447509,
-                    25.051231
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200310220005",
                 "name": "私立銘文文理短期補習班",
                 "county": "新北市",
@@ -52450,6 +52432,42 @@
                 "coordinates": [
                     121.435704,
                     25.071129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511240001",
+                "name": "長清汐止有限公司附設私立長清圍棋技藝短期補習班汐止分班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.654041,
+                    25.065483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202511240002",
+                "name": "私立汐止皇家文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.654974,
+                    25.06298
                 ]
             }
         }

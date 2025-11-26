@@ -25835,11 +25835,11 @@
             "type": "Feature",
             "properties": {
                 "code": "62202510010001",
-                "name": "臺南市私立甲桂林文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立甲桂林文理技藝短期補習班",
                 "county": "台南市",
                 "class": "文理類,",
                 "students": "",
-                "date_closed": ""
+                "date_closed": "null"
             },
             "geometry": {
                 "type": "Point",
@@ -25918,6 +25918,42 @@
                 "coordinates": [
                     120.225466,
                     22.97875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202511240001",
+                "name": "羿呈文教事業有限公司附設臺南市私立羿呈文理技藝短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.302437,
+                    23.130514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202511240002",
+                "name": "臺南市私立竣成文理短期補習班",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.194791,
+                    23.044067
                 ]
             }
         }
