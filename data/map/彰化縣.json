@@ -868,24 +868,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200208012184",
-                "name": "地球村出版有限公司彰化分公司附設彰化縣私立國際地球村美日語短期補習班",
-                "county": "彰化縣",
-                "class": "外語類,",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.537684,
-                    24.079525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200208012187",
                 "name": "私立陳姐姐語文短期補習班",
                 "county": "彰化縣",
@@ -10031,7 +10013,7 @@
             "type": "Feature",
             "properties": {
                 "code": "47201407080001",
-                "name": "彰化縣私立新立學文理短期補習班",
+                "name": "力學元宇教育有限公司附設彰化縣私立新立學文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類,",
                 "students": "國中,國小",
@@ -15844,24 +15826,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47202309070001",
-                "name": "彰化縣私立彰一文理短期補習班三民分班",
-                "county": "彰化縣",
-                "class": "文理類,",
-                "students": "國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.540982,
-                    24.084326
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47202309150001",
                 "name": "彰化縣私立沃克技藝短期補習班",
                 "county": "彰化縣",
@@ -17386,6 +17350,24 @@
                 "coordinates": [
                     120.459571,
                     24.005329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202511250001",
+                "name": "彰化縣私立幼愛文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.49256,
+                    24.146599
                 ]
             }
         }

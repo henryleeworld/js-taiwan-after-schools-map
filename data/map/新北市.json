@@ -7744,6 +7744,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200310220004",
+                "name": "中平高分文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.447509,
+                    25.051231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200310220005",
                 "name": "私立銘文文理短期補習班",
                 "county": "新北市",
@@ -11957,7 +11975,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200507110001",
-                "name": "私立牛津橋美語短期補習班",
+                "name": "牛津橋美語短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "未填寫",
