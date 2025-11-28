@@ -7474,24 +7474,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200206069005",
-                "name": "私立佳兒文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.356848,
-                    22.616658
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200206069006",
                 "name": "私立優優文理短期補習班文德分班",
                 "county": "高雄市",
@@ -27275,7 +27257,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70201708230001",
-                "name": "私立英語特區外語文理短期補習班",
+                "name": "高竿國際教育有限公司附設高雄市私立英語特區外語文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類,外語類,",
                 "students": "高中,國小,國小至成人,國中",
@@ -32818,6 +32800,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202405160001",
+                "name": "私立肯塔基文理短期補習班大寮分班",
+                "county": "高雄市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.394162,
+                    22.60663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202405160002",
                 "name": "私立必應外語文理短期補習班",
                 "county": "高雄市",
@@ -33521,7 +33521,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202503210001",
-                "name": "高竿國際教育有限公司附設私立英語特區外語文理短期補習班",
+                "name": "高竿國際教育有限公司附設高雄市私立英語特區外語文理短期補習班莒光分班",
                 "county": "高雄市",
                 "class": "文理類,",
                 "students": "",
