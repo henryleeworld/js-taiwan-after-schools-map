@@ -9364,6 +9364,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200903230003",
+                "name": "私立文化學園數學語文短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.285936,
+                    25.084468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200903240001",
                 "name": "私立得分文理語文短期補習班",
                 "county": "桃園市",
