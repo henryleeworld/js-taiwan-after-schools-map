@@ -1859,7 +1859,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200207319337",
-                "name": "臺中市私立齊心文理珠心算短期補習班",
+                "name": "臺中市私立齊心文理技藝短期補習班",
                 "county": "台中市",
                 "class": "文理類,商類：珠算、心算、會計,",
                 "students": "國中",
@@ -17296,24 +17296,6 @@
                 "coordinates": [
                     120.683003,
                     24.244382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42200604030003",
-                "name": "臺中市私立翰穎文教文理短期補習班",
-                "county": "台中市",
-                "class": "文理類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.714009,
-                    24.178346
                 ]
             }
         },
@@ -52612,6 +52594,24 @@
                 "coordinates": [
                     120.715209,
                     24.154607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202511260001",
+                "name": "臺中市私立曜堃文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.69402,
+                    24.18331
                 ]
             }
         }
