@@ -17302,6 +17302,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200604030003",
+                "name": "臺中市私立翰穎文教文理短期補習班",
+                "county": "台中市",
+                "class": "文理類,",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714009,
+                    24.178346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200604039003",
                 "name": "臺中市私立長勁文理技藝短期補習班",
                 "county": "台中市",
