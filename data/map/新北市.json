@@ -977,7 +977,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022252",
-                "name": "私立弘聲文理語文短期補習班",
+                "name": "弘聲文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,",
                 "students": "國中以上,國小以上",
@@ -12641,7 +12641,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200510030002",
-                "name": "品學美語短期補習班",
+                "name": "私立品學文理短期補習班",
                 "county": "新北市",
                 "class": "外語類,",
                 "students": "其他",
@@ -52486,6 +52486,24 @@
                 "coordinates": [
                     121.41991,
                     24.991492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202512010001",
+                "name": "私立若甯技藝文理短期補習班",
+                "county": "新北市",
+                "class": "縫紉類,",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.475644,
+                    25.016493
                 ]
             }
         }
