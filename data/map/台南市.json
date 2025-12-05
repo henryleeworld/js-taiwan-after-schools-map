@@ -5458,24 +5458,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200304010003",
-                "name": "臺南市私立傑恩美語短期補習班",
-                "county": "台南市",
-                "class": "外語類,",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.212737,
-                    23.043256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200304010006",
                 "name": "臺南市私立諾貝兒文理短期補習班",
                 "county": "台南市",
@@ -7666,24 +7648,6 @@
                 "coordinates": [
                     120.200697,
                     22.985157
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "62200501060001",
-                "name": "臺南市私立忠義舘文理短期補習班",
-                "county": "台南市",
-                "class": "文理類,",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.200691,
-                    22.992595
                 ]
             }
         },
@@ -25936,6 +25900,42 @@
                 "coordinates": [
                     120.194791,
                     23.044067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202512030001",
+                "name": "臺南市私立芝蔴階文理短期補習班(為比對教職員工資料預登立案資料)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.192725,
+                    23.042919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202512040001",
+                "name": "臺南市私立盛景文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "台南市",
+                "class": "文理類,",
+                "students": "",
+                "date_closed": "null"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305443,
+                    23.30672
                 ]
             }
         }
