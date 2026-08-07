@@ -10898,7 +10898,7 @@
                 "name": "私立迪昇文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -32530,6 +32530,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202411200001",
+                "name": "私立歐娜英文文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類",
+                "students": "國中,學齡前,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.360448,
+                    22.584021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202411280001",
                 "name": "私立光昇文理短期補習班",
                 "county": "高雄市",
@@ -32944,6 +32962,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202506030001",
+                "name": "私立百仕傑文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.256339,
+                    22.858562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202506060001",
                 "name": "私立麻糬韓文外語短期補習班",
                 "county": "高雄市",
@@ -33160,6 +33196,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202509280001",
+                "name": "海鸚文教股份有限公司附設高雄市私立帕鳻學院文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類",
+                "students": "國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.364778,
+                    22.584949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202510030001",
                 "name": "私立愛貝拉美語文理短期補習班龍華分班",
                 "county": "高雄市",
@@ -33334,6 +33388,24 @@
                 "coordinates": [
                     120.333558,
                     22.673615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202601090001",
+                "name": "蘋果芽數位科技股份有限公司附設高雄市私立橘子蘋果程式設計電腦文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,資訊類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.309385,
+                    22.661217
                 ]
             }
         },

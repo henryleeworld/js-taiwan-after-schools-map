@@ -3946,6 +3946,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "52201908300001",
+                "name": "嘉義市私立喜樂文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.43187,
+                    23.48107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "52201909230001",
                 "name": "高月雲清教育科技有限公司附設嘉義市私立賈伯斯數理教室文理技藝短期補習班",
                 "county": "嘉義市",
@@ -4145,10 +4163,10 @@
             "type": "Feature",
             "properties": {
                 "code": "52202104130001",
-                "name": "嘉義市私立沛樂多文理技藝短期補習班",
+                "name": "嘉義市私立馬蓋先英語文理短期補習班",
                 "county": "嘉義市",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小",
+                "class": "外語類",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4894,6 +4912,42 @@
                 "coordinates": [
                     120.43719,
                     23.4643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52202602100001",
+                "name": "嘉義市私立天使心音樂技藝短期補習班",
+                "county": "嘉義市",
+                "class": "音樂、舞蹈類",
+                "students": "學齡前、國小,成人(18歲以上),學齡前、國小、國中、高中、成人,國小、國中、高中、成人,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45878,
+                    23.46087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52202605110001",
+                "name": "嘉義市私立王菡文理短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.45524,
+                    23.49383
                 ]
             }
         }
