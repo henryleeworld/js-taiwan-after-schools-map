@@ -9238,6 +9238,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202605060001",
+                "name": "新竹縣私立芯樂音樂技藝短期補習班",
+                "county": "新竹縣",
+                "class": "音樂、舞蹈類",
+                "students": "學齡前,國小,國中,高中至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.034844,
+                    24.807224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202605080001",
                 "name": "理想文教有限公司附設新竹縣私立逸學文理短期補習班",
                 "county": "新竹縣",

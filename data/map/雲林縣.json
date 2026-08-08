@@ -6232,6 +6232,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55202601080001",
+                "name": "私立兆鈞文理短期補習班虎尾分班",
+                "county": "雲林縣",
+                "class": "文理類",
+                "students": "國中,高中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.428958,
+                    23.706377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55202605080001",
                 "name": "私立芮森教育文理短期補習班",
                 "county": "雲林縣",

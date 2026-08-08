@@ -25925,7 +25925,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201202200001",
-                "name": "私立友誠文理短期補習班",
+                "name": "友誠文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國中",
@@ -26483,7 +26483,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201205240002",
-                "name": "私立新友誠文理短期補習班",
+                "name": "新友誠文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡",
@@ -52270,6 +52270,42 @@
                 "coordinates": [
                     121.455416,
                     25.053263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202608060001",
+                "name": "私立新豪文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類",
+                "students": "國小、國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.372676,
+                    25.081358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202608070001",
+                "name": "私立蓁凱寧文理技藝短期補習班東湖分校",
+                "county": "新北市",
+                "class": "文理類,外語類,資訊類",
+                "students": "國小、國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.381339,
+                    25.074514
                 ]
             }
         }

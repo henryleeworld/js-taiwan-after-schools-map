@@ -14279,10 +14279,10 @@
             "type": "Feature",
             "properties": {
                 "code": "33201502120001",
-                "name": "私立總部奧斯汀美語作文短期補習班",
+                "name": "私立總部奧斯汀美語文理短期補習班",
                 "county": "桃園市",
-                "class": "外語類",
-                "students": "國小",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -24538,6 +24538,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202512120002",
+                "name": "私立聖堡登英語文理短期補習班青埔分班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國小,國中,高中,學齡前至國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.21309,
+                    25.007641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202512190001",
                 "name": "揚信股份有限公司附設私立心揚才文理短期補習班",
                 "county": "桃園市",
@@ -24568,6 +24586,24 @@
                 "coordinates": [
                     121.361846,
                     25.052026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202512290001",
+                "name": "私立漢峰文理短期補習班梅高分班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.145506,
+                    24.917315
                 ]
             }
         },
@@ -24862,6 +24898,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202604270002",
+                "name": "私立浩克英語文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "學齡前至國小混合上課,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314614,
+                    25.009054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202605260001",
                 "name": "學智文化有限公司私立品誠文理短期補習班",
                 "county": "桃園市",
@@ -24928,6 +24982,24 @@
                 "coordinates": [
                     121.272508,
                     24.983982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202606120001",
+                "name": "私立賦華文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.216632,
+                    25.0225
                 ]
             }
         },
@@ -25180,6 +25252,24 @@
                 "coordinates": [
                     121.317761,
                     24.995561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202608070001",
+                "name": "私立賦予藝術文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.388429,
+                    25.040587
                 ]
             }
         }
