@@ -400,24 +400,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "37200206110097",
-                "name": "苗栗縣私立林淑娟語文技藝短期補習班",
-                "county": "苗栗縣",
-                "class": "外語類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.874219,
-                    24.687619
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "37200206112102",
                 "name": "苗栗縣私立芝蔴園文理短期補習班",
                 "county": "苗栗縣",
@@ -2060,7 +2042,7 @@
                 "name": "苗栗縣私立時宇文理短期補習班",
                 "county": "苗栗縣",
                 "class": "外語類",
-                "students": "國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4904,7 +4886,7 @@
                 "name": "苗栗縣私立大樹文理短期補習班",
                 "county": "苗栗縣",
                 "class": "文理類",
-                "students": "國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
