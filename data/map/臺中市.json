@@ -29920,6 +29920,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201605270001",
+                "name": "臺中市私立寬丞文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.680539,
+                    24.166315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201606080001",
                 "name": "臺中市私立伊凡特文理技藝短期補習班",
                 "county": "臺中市",
