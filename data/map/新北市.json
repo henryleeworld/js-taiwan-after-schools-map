@@ -15847,8 +15847,8 @@
                 "code": "21200703060008",
                 "name": "山姆叔叔文理短期補習班",
                 "county": "新北市",
-                "class": "外語類",
-                "students": "國小至成人",
+                "class": "文理類,外語類",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -15938,14 +15938,14 @@
                 "name": "康羲學苑語文文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類",
-                "students": "國中,其他",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.461363,
-                    25.024798
+                    121.461748,
+                    25.025563
                 ]
             }
         },
@@ -29183,10 +29183,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201311150001",
-                "name": "樂奇電腦技藝短期補習班",
+                "name": "私立樂奇文理技藝短期補習班",
                 "county": "新北市",
-                "class": "資訊類,其他類",
-                "students": "國小",
+                "class": "文理類,資訊類,其他類",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -37355,10 +37355,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21201901250001",
-                "name": "積穗文理短期補習班",
+                "name": "私立永綸文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類",
-                "students": "國小、國中",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -39914,7 +39914,7 @@
                 "name": "朗智思維科技有限公司附設飛行貓閱讀偵探社文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
-                "students": "國小、國中(A班12小時、B班8小時、C班2小時),國小、國中",
+                "students": "國小、國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -41182,24 +41182,6 @@
                 "coordinates": [
                     121.444903,
                     25.046804
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202010280001",
-                "name": "點亮教育文理短期補習班",
-                "county": "新北市",
-                "class": "文理類",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.510896,
-                    24.986228
                 ]
             }
         },
@@ -45799,7 +45781,7 @@
                 "code": "21202302090002",
                 "name": "格群股份有限公司附設格群文理短期補習班",
                 "county": "新北市",
-                "class": "文理類",
+                "class": "文理類,外語類",
                 "students": "不限年齡",
                 "date_closed": ""
             },
@@ -49829,9 +49811,9 @@
             "type": "Feature",
             "properties": {
                 "code": "21202503100001",
-                "name": "良師塾事業有限公司附設私立良師塾教育文理短期補習班",
+                "name": "陳立教育事業股份有限公司附設私立陳立文理短期補習班板橋分班",
                 "county": "新北市",
-                "class": "文理類",
+                "class": "文理類,外語類",
                 "students": "不限年齡",
                 "date_closed": ""
             },
@@ -52018,6 +52000,24 @@
                 "coordinates": [
                     121.462962,
                     25.091055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202606220001",
+                "name": "私立荷童藝術創作技藝短期補習班",
+                "county": "新北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.47239,
+                    25.023913
                 ]
             }
         },

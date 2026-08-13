@@ -8266,24 +8266,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200711289001",
-                "name": "臺南市私立喬治亞文理短期補習班",
-                "county": "臺南市",
-                "class": "文理類",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.295311,
-                    22.961563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200712030001",
                 "name": "臺南市私立恩哥文理短期補習班",
                 "county": "臺南市",
@@ -8648,7 +8630,7 @@
                 "name": "臺南市私立勤學館文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國小",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -9674,7 +9656,7 @@
                 "name": "臺南市私立元孟文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "高中",
+                "students": "國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -21742,6 +21724,24 @@
                 "coordinates": [
                     120.294002,
                     23.080318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202608110001",
+                "name": "卓躍文教有限公司附設臺南市私立叡揚短期補習班安平分班(為比對教職員工資料預登立案資料)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.175864,
+                    22.995457
                 ]
             }
         }
