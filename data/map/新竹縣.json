@@ -9148,6 +9148,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36202602230001",
+                "name": "新竹縣私立北辰文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.013836,
+                    24.833134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36202603120001",
                 "name": "新竹縣私立超凡菁英文理短期補習班",
                 "county": "新竹縣",
@@ -9322,6 +9340,24 @@
                 "coordinates": [
                     121.083659,
                     24.746179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202608120001",
+                "name": "新竹縣私立銀百合音樂舞蹈技藝短期補習班",
+                "county": "新竹縣",
+                "class": "音樂、舞蹈類",
+                "students": "學齡前至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.027667,
+                    24.827246
                 ]
             }
         }

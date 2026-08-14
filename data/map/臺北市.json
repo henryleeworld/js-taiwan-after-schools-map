@@ -1138,24 +1138,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180241",
-                "name": "臺北市私立博克萊文理短期補習班",
-                "county": "臺北市",
-                "class": "文理類",
-                "students": "無限制",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.540182,
-                    24.993561
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811180243",
                 "name": "臺北市私立晶綺文理短期補習班",
                 "county": "臺北市",
@@ -1769,7 +1751,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20200811180360",
-                "name": "學霖文理珠心算補習班",
+                "name": "臺北市私立學霖文理珠心算短期補習班",
                 "county": "臺北市",
                 "class": "外語類",
                 "students": "其他",
@@ -23116,6 +23098,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201703140515",
+                "name": "臺北市私立拓昇文理短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.522285,
+                    25.094339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201703140518",
                 "name": "臺北市私立學冠文理短期補習班三民分班",
                 "county": "臺北市",
@@ -23344,6 +23344,24 @@
                 "coordinates": [
                     121.59237,
                     25.082967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140549",
+                "name": "臺北市私立讀書家文理短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.532599,
+                    25.116991
                 ]
             }
         },
@@ -23614,6 +23632,24 @@
                 "coordinates": [
                     121.519608,
                     25.069293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140587",
+                "name": "驅勢文教事業有限公司附設臺北市私立驅勢語文短期補習班內湖分班",
+                "county": "臺北市",
+                "class": "外語類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.558759,
+                    25.085171
                 ]
             }
         },
@@ -28240,24 +28276,6 @@
                 "coordinates": [
                     121.557109,
                     25.041562
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20202004220001",
-                "name": "臺北市私立陽光彤樂文理技藝短期補習班",
-                "county": "臺北市",
-                "class": "文理類,音樂、舞蹈類",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.564405,
-                    25.054352
                 ]
             }
         },
@@ -34846,24 +34864,6 @@
                 "coordinates": [
                     121.576115,
                     25.08041
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "20202410230001",
-                "name": "孔孟文化事業有限公司附設臺北市私立孔孟文理短期補習班東湖分班",
-                "county": "臺北市",
-                "class": "文理類",
-                "students": "無限制",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.616572,
-                    25.06826
                 ]
             }
         },

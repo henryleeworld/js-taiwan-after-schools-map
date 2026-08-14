@@ -24916,6 +24916,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202605110001",
+                "name": "奧斯汀文化事業有限公司私立大業文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.314644,
+                    25.009019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202605260001",
                 "name": "學智文化有限公司私立品誠文理短期補習班",
                 "county": "桃園市",
@@ -25096,6 +25114,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202606290002",
+                "name": "私立達拉米文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.28334,
+                    24.929202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202606300001",
                 "name": "私立楷俐文理短期補習班",
                 "county": "桃園市",
@@ -25108,6 +25144,24 @@
                 "coordinates": [
                     121.303098,
                     24.968277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202607030001",
+                "name": "私立瑞蒙文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.172019,
+                    24.909493
                 ]
             }
         },
@@ -25162,6 +25216,24 @@
                 "coordinates": [
                     121.367196,
                     25.055467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202607290001",
+                "name": "私立悅響音樂技藝短期補習班",
+                "county": "桃園市",
+                "class": "音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "學齡前至國小混合上課,學齡前至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.286635,
+                    25.040402
                 ]
             }
         },
