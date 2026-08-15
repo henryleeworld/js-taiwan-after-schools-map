@@ -328,6 +328,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "38200208052127",
+                "name": "私立藍海資訊技藝短期補習班",
+                "county": "花蓮縣",
+                "class": "資訊類",
+                "students": "國小、國中、高中、成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.598894,
+                    23.987137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "38200208052133",
                 "name": "私立大亞文理短期補習班",
                 "county": "花蓮縣",

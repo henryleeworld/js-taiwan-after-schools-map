@@ -6250,6 +6250,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "55202601290001",
+                "name": "私立蔚美語文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類",
+                "students": "國小,高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.545489,
+                    23.706858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "55202605080001",
                 "name": "私立芮森教育文理短期補習班",
                 "county": "雲林縣",
@@ -6298,6 +6316,42 @@
                 "coordinates": [
                     120.45288,
                     23.798351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202606300001",
+                "name": "私立匯智文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.540456,
+                    23.701312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "55202606300002",
+                "name": "私立群益教育文理短期補習班",
+                "county": "雲林縣",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42478,
+                    23.706005
                 ]
             }
         },

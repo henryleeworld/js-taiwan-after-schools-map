@@ -27022,24 +27022,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70201803310004",
-                "name": "私立雲瀚文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類",
-                "students": "國小,學齡前,國中,高中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.340566,
-                    22.646281
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70201804130001",
                 "name": "私立文化文理短期補習班",
                 "county": "高雄市",
@@ -32332,6 +32314,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202408050003",
+                "name": "私立北約克文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國小,學齡前,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.368652,
+                    22.628619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202409180001",
                 "name": "赫越電腦有限公司附設赫越電腦短期補習班",
                 "county": "高雄市",
@@ -32470,6 +32470,24 @@
                 "coordinates": [
                     120.339085,
                     22.613359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202410300003",
+                "name": "私立悅喬美語文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類,外語類",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.410133,
+                    22.592876
                 ]
             }
         },
@@ -33394,6 +33412,42 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202601160001",
+                "name": "私立數學院文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315028,
+                    22.690377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202602120001",
+                "name": "高明一對一學習有限公司附設高明一對一文理短期補習班鳳山分班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.3443,
+                    22.628602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202602250002",
                 "name": "微笑森林文教有限公司附設高雄市私立森學文理短期補習班",
                 "county": "高雄市",
@@ -33406,6 +33460,24 @@
                 "coordinates": [
                     120.333706,
                     22.689159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202603170001",
+                "name": "私立雪梨美日語文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國小,學齡前,國中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.282528,
+                    22.727348
                 ]
             }
         },

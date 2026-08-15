@@ -4,6 +4,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200206130002",
+                "name": "臺東縣私立小博士文理才藝短期補習班",
+                "county": "臺東縣",
+                "class": "文理類,商類：珠算、心算、會計",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.084378,
+                    22.77416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200206130003",
                 "name": "臺東縣私立吉尼爾美語短期補習班",
                 "county": "臺東縣",
@@ -106,6 +124,42 @@
                 "coordinates": [
                     121.15062,
                     22.754811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89200206170009",
+                "name": "臺東縣私立向日葵ABC短期補習班",
+                "county": "臺東縣",
+                "class": "外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.14633,
+                    22.754892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89200206180015",
+                "name": "臺東縣私立中華文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國小、國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.155156,
+                    22.751714
                 ]
             }
         },
