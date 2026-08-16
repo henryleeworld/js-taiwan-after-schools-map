@@ -580,6 +580,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "69202601160001",
+                "name": "私立商和短期補習班",
+                "county": "澎湖縣",
+                "class": "文理類",
+                "students": "國小六年級、國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    119.578107,
+                    23.574666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "69202606010001",
                 "name": "私立艾思短期補習班",
                 "county": "澎湖縣",

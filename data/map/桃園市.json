@@ -15938,7 +15938,7 @@
                 "name": "私立經典大成文理語文短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類",
-                "students": "國中,國小國中",
+                "students": "國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -18310,6 +18310,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202001300002",
+                "name": "私立愛利克絲語文短期補習班",
+                "county": "桃園市",
+                "class": "外語類",
+                "students": "國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.170566,
+                    24.911481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202001300003",
                 "name": "私立杜佳倫舞蹈短期補習班",
                 "county": "桃園市",
@@ -19789,7 +19807,7 @@
                 "code": "33202109110001",
                 "name": "私立永學語文數學短期補習班",
                 "county": "桃園市",
-                "class": "外語類,其他類",
+                "class": "文理類,外語類",
                 "students": "國小",
                 "date_closed": ""
             },
@@ -24604,6 +24622,24 @@
                 "coordinates": [
                     121.145506,
                     24.917315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202512310001",
+                "name": "私立誠熙文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國小,高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219248,
+                    24.942712
                 ]
             }
         },

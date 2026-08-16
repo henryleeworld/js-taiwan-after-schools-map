@@ -238,6 +238,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200612290001",
+                "name": "臺東縣私立凱琳美語短期補習班",
+                "county": "臺東縣",
+                "class": "外語類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.137452,
+                    22.762542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200701100001",
                 "name": "臺東縣私立謝老師英語教室短期補習班",
                 "county": "臺東縣",
@@ -364,6 +382,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200710260003",
+                "name": "臺東縣私立耕園語文短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.157186,
+                    22.757322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200711290001",
                 "name": "臺東縣私立全能文理技藝短期補習班",
                 "county": "臺東縣",
@@ -436,6 +472,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89201005180003",
+                "name": "臺東縣私立椰林文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "高中,國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136949,
+                    22.743639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89201011240002",
                 "name": "臺東縣私立費歐娜美語短期補習班",
                 "county": "臺東縣",
@@ -466,6 +520,24 @@
                 "coordinates": [
                     121.13536,
                     22.750578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201012310001",
+                "name": "臺東縣私立安吉利美語短期補習班",
+                "county": "臺東縣",
+                "class": "外語類",
+                "students": "國高中小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.141904,
+                    22.75011
                 ]
             }
         },
@@ -592,6 +664,24 @@
                 "coordinates": [
                     121.139877,
                     22.743534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201307100001",
+                "name": "臺東縣私立筑音音樂學苑短期補習班",
+                "county": "臺東縣",
+                "class": "音樂、舞蹈類",
+                "students": "國小、國中、高中,高中以下",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.146347,
+                    22.767101
                 ]
             }
         },

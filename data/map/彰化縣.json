@@ -6016,24 +6016,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47200804250001",
-                "name": "彰化縣私立東林文理短期補習班",
-                "county": "彰化縣",
-                "class": "外語類",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.602383,
-                    23.952919
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47200804280002",
                 "name": "彰化縣私立微妮美語短期補習班",
                 "county": "彰化縣",
@@ -17104,6 +17086,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47202602110001",
+                "name": "彰化縣私立昌華文理短期補習班",
+                "county": "彰化縣",
+                "class": "外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.57138,
+                    23.951527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47202602230001",
                 "name": "彰化縣私立英橋技藝文理短期補習班",
                 "county": "彰化縣",
@@ -17266,6 +17266,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47202606080001",
+                "name": "彰化縣私立音樂河技藝短期補習班",
+                "county": "彰化縣",
+                "class": "音樂、舞蹈類",
+                "students": "學齡前至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.495475,
+                    24.145812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47202606100001",
                 "name": "彰化縣私立謙行文理短期補習班",
                 "county": "彰化縣",
@@ -17314,6 +17332,24 @@
                 "coordinates": [
                     120.543298,
                     24.082624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202607300001",
+                "name": "彰化縣私立唐樓棋院技藝短期補習班",
+                "county": "彰化縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "學齡前至成人",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.53954,
+                    24.062843
                 ]
             }
         }

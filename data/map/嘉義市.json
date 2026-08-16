@@ -4900,6 +4900,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "52202512160002",
+                "name": "愛嘉雲有限公司附設嘉義市私立金興文理技藝短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,音樂、舞蹈類",
+                "students": "國小,國中,學齡前,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.445385,
+                    23.461852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "52202601090001",
                 "name": "嘉義市私立至德優嘉文理短期補習班",
                 "county": "嘉義市",

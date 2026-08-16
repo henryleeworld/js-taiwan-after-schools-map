@@ -4,6 +4,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "53200208010018",
+                "name": "私立健智文理短期補習班",
+                "county": "嘉義縣",
+                "class": "文理類,商類：珠算、心算、會計",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.508468,
+                    23.490445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "53200208010029",
                 "name": "私立翰林珠算短期補習班",
                 "county": "嘉義縣",
