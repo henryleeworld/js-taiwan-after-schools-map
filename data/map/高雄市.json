@@ -24772,6 +24772,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70201409180005",
+                "name": "私立勁集文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "高中,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315137,
+                    22.665547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70201409300001",
                 "name": "私立幸福文理短期補習班",
                 "county": "高雄市",
@@ -32998,6 +33016,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202506060002",
+                "name": "私立宇航國際教育文理技藝短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.327731,
+                    22.877576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202507010001",
                 "name": "力葳文教事業有限公司附設力葳文理短期補習班",
                 "county": "高雄市",
@@ -33334,6 +33370,24 @@
                 "coordinates": [
                     120.344249,
                     22.627415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202512230001",
+                "name": "私立Fun學院文理短期補習班壽豐分班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "高中,學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.29875,
+                    22.725751
                 ]
             }
         },

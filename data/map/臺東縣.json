@@ -220,6 +220,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200612250003",
+                "name": "臺東縣私立陳老師教室短期補習班",
+                "county": "臺東縣",
+                "class": "文理類,外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.120718,
+                    22.781799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200612270001",
                 "name": "臺東縣私立賢儒短期補習班",
                 "county": "臺東縣",
@@ -718,6 +736,24 @@
                 "coordinates": [
                     121.135544,
                     22.758224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201401150001",
+                "name": "臺東縣私立倫比美語短期補習班開封分校",
+                "county": "臺東縣",
+                "class": "外語類",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.138861,
+                    22.76014
                 ]
             }
         },

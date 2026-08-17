@@ -29164,6 +29164,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201706200002",
+                "name": "中國青年救國團附設臺北市私立勵忠舞蹈技藝短期補習班",
+                "county": "臺北市",
+                "class": "音樂、舞蹈類,瑜珈類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.519195,
+                    25.045971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201707030001",
                 "name": "臺北市私立天母之塾文理語文短期補習班",
                 "county": "臺北市",
@@ -33982,6 +34000,24 @@
                 "coordinates": [
                     121.559675,
                     25.030318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202010270001",
+                "name": "柳吟文教事業股份有限公司附設臺北市私立柳吟文理短期補習班大安分班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "國小、國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539113,
+                    25.033249
                 ]
             }
         },
