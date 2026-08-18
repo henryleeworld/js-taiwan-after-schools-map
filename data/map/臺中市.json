@@ -5660,7 +5660,7 @@
                 "name": "臺中市私立澄思文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國小",
+                "students": "國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -34708,6 +34708,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42201904290001",
+                "name": "臺中市私立書禾短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.547378,
+                    24.24722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42201905020001",
                 "name": "私立禾心美術數學短期補習班",
                 "county": "臺中市",
@@ -35986,6 +36004,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42202003180002",
+                "name": "翊升教育股份有限公司附設臺中市私立天晨文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.685537,
+                    24.153757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42202003190001",
                 "name": "臺中市私立劍橋國際文理短期補習班",
                 "county": "臺中市",
@@ -36034,6 +36070,24 @@
                 "coordinates": [
                     120.682178,
                     24.109821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202004200001",
+                "name": "臺中市私立歐力文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.830468,
+                    24.254494
                 ]
             }
         },
@@ -40576,6 +40630,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42202212050001",
+                "name": "億豐揚文教事業有限公司附設臺中市私立億豐揚文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.726724,
+                    24.248058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42202212060001",
                 "name": "芝塾達理股份有限公司附設臺中市私立新貴大墩文理短期補習班",
                 "county": "臺中市",
@@ -42532,6 +42604,24 @@
                 "coordinates": [
                     120.69309,
                     24.107557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202401260001",
+                "name": "臺中市私立子苗文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.596998,
+                    24.110159
                 ]
             }
         },
