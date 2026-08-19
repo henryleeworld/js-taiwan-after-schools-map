@@ -688,6 +688,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21200208022186",
+                "name": "群仁珠算語文短期補習班",
+                "county": "新北市",
+                "class": "文理類,商類：珠算、心算、會計",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.45339,
+                    24.991233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21200208022189",
                 "name": "私立再興文理語文珠心算短期補習班",
                 "county": "新北市",
@@ -13532,8 +13550,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.475528,
-                    25.016691
+                    121.475644,
+                    25.016493
                 ]
             }
         },
@@ -52240,6 +52258,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21202606250001",
+                "name": "私立政達文理技藝短期補習班",
+                "county": "新北市",
+                "class": "文理類,商類：珠算、心算、會計",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.405261,
+                    25.016561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21202606250002",
                 "name": "奧斯汀文化事業有限公司附設私立溪州文理短期補習班",
                 "county": "新北市",
@@ -52420,6 +52456,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "21202607160001",
+                "name": "私立桉可文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.656063,
+                    25.063514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "21202607200001",
                 "name": "私立樂奕文理短期補習班",
                 "county": "新北市",
@@ -52432,6 +52486,24 @@
                 "coordinates": [
                     121.371071,
                     25.070093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202607210001",
+                "name": "寰宇創新教育股份有限公司附設私立寰宇文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,外語類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.471258,
+                    25.027393
                 ]
             }
         },

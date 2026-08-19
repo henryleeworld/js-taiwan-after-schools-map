@@ -3478,6 +3478,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "87201001050001",
+                "name": "屏東縣私立國際美語文理短期補習班",
+                "county": "屏東縣",
+                "class": "文理類,外語類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.48958,
+                    22.58411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "87201001140001",
                 "name": "屏東縣私立伯利恆美語文理藝術短期補習班",
                 "county": "屏東縣",

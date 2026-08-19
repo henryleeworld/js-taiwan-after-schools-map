@@ -23224,6 +23224,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201512030001",
+                "name": "脈思文化事業股份有限公司附設臺北市私立脈思文教文理技藝短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546277,
+                    25.042535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201512030002",
                 "name": "臺北市私立鴻博文理短期補習班",
                 "county": "臺北市",
@@ -27052,6 +27070,24 @@
                 "coordinates": [
                     121.568956,
                     25.046438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140381",
+                "name": "凱莉文教股份有限公司附設臺北巿私立凱莉美語短期補習班",
+                "county": "臺北市",
+                "class": "外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.593244,
+                    25.081143
                 ]
             }
         },
