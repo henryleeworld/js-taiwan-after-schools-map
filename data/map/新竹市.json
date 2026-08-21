@@ -4846,6 +4846,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "35201603140001",
+                "name": "新竹市私立鼎上文教文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.978472,
+                    24.794823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "35201604070001",
                 "name": "新竹市私立孟德爾頌音樂藝術技藝短期補習班",
                 "county": "新竹市",
@@ -8728,6 +8746,24 @@
                 "coordinates": [
                     120.979675,
                     24.813425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202608190001",
+                "name": "新竹市私立樂嶼文理技藝短期補習班",
+                "county": "新竹市",
+                "class": "文理類,外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.962702,
+                    24.818378
                 ]
             }
         }

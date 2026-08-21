@@ -2974,6 +2974,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200211190007",
+                "name": "私立唯恩文理技藝短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國小,學齡前至國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.225028,
+                    24.949541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200211190009",
                 "name": "私立喬文文理短期補習班",
                 "county": "桃園市",
@@ -17771,7 +17789,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33201906190001",
-                "name": "私立常春藤美語數學文理短期補習班",
+                "name": "私立崴森文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,其他類",
                 "students": "國小,國中",
@@ -25396,6 +25414,24 @@
                 "coordinates": [
                     121.301296,
                     25.051285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202608200001",
+                "name": "思敏教育有限公司附設私立思敏青園文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.219392,
+                    25.01575
                 ]
             }
         }

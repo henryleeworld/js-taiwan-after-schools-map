@@ -332,7 +332,7 @@
                 "name": "嘉義市私立世界文理短期補習班",
                 "county": "嘉義市",
                 "class": "外語類",
-                "students": "國中,國小,高中,國小(G1、G2低年級)",
+                "students": "國中,國小,國小(G1、G2低年級),高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -4984,6 +4984,24 @@
                 "coordinates": [
                     120.45524,
                     23.49383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "52202608110001",
+                "name": "嘉義市私立妙妙屋文理技藝短期補習班",
+                "county": "嘉義市",
+                "class": "文理類,音樂、舞蹈類",
+                "students": "學齡前,國小(1-3年級),國小(4-6年級),國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.42922,
+                    23.48616
                 ]
             }
         }

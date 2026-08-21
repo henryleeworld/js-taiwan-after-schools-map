@@ -5314,6 +5314,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37202602060001",
+                "name": "苗栗縣私立美珈文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.903721,
+                    24.690925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37202602110001",
                 "name": "苗栗縣私立立學文理短期補習班",
                 "county": "苗栗縣",
@@ -5362,6 +5380,24 @@
                 "coordinates": [
                     120.884181,
                     24.690577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202606170001",
+                "name": "苗栗縣私立宇宙文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.897971,
+                    24.69231
                 ]
             }
         },

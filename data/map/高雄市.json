@@ -13418,7 +13418,7 @@
                 "name": "私立格林文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國中,國小,高中",
+                "students": "國小,高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -31019,7 +31019,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202303060001",
-                "name": "私立家棋文理短期補習班明城分班",
+                "name": "私立家棋文理短期補習班明誠分班",
                 "county": "高雄市",
                 "class": "文理類",
                 "students": "國小,國中,學齡前",
@@ -33604,6 +33604,24 @@
                 "coordinates": [
                     120.34333,
                     22.643259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202608200001",
+                "name": "私立心言教育文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國小,學齡前,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.344576,
+                    22.684716
                 ]
             }
         }
