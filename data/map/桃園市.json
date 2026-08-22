@@ -6484,6 +6484,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33200702260002",
+                "name": "私立及第文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371141,
+                    25.055729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33200702260003",
                 "name": "私立大灣美語短期補習班大業分班",
                 "county": "桃園市",
@@ -8870,8 +8888,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.274801,
-                    24.991727
+                    121.274798,
+                    24.991674
                 ]
             }
         },
@@ -17791,7 +17809,7 @@
                 "code": "33201906190001",
                 "name": "私立崴森文理短期補習班",
                 "county": "桃園市",
-                "class": "文理類,外語類,其他類",
+                "class": "文理類,外語類",
                 "students": "國小,國中",
                 "date_closed": ""
             },
@@ -23174,7 +23192,7 @@
                 "name": "私立日日青晨文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類",
-                "students": "國小,國中,成人(18歲以上)",
+                "students": "成人(18歲以上),國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -24826,6 +24844,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "33202603100001",
+                "name": "私立仁涵文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國中及國小,成人(18歲以上),國中,國小及國中,國中及高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.297508,
+                    24.963212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "33202603100002",
                 "name": "私立派森文理技藝短期補習班",
                 "county": "桃園市",
@@ -25316,7 +25352,7 @@
                 "name": "私立尼爾森致學文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類",
-                "students": "高中,國小,國中",
+                "students": "國小,高中,國中",
                 "date_closed": ""
             },
             "geometry": {
