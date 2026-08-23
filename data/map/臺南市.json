@@ -13234,6 +13234,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201104060001",
+                "name": "臺南市私立珊珊音樂短期補習班",
+                "county": "臺南市",
+                "class": "音樂、舞蹈類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.22828,
+                    22.972032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201105060001",
                 "name": "臺南市私立奧森英語短期補習班",
                 "county": "臺南市",
@@ -13990,6 +14008,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201207160001",
+                "name": "臺南市私立學園文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.305683,
+                    23.3043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201207160002",
                 "name": "臺南市私立維思文理短期補習班",
                 "county": "臺南市",
@@ -14254,6 +14290,24 @@
                 "coordinates": [
                     120.188506,
                     23.01282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62201211190001",
+                "name": "臺南市私立米二外語短期補習班",
+                "county": "臺南市",
+                "class": "外語類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.271129,
+                    23.006529
                 ]
             }
         },
