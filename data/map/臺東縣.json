@@ -130,6 +130,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89200206170005",
+                "name": "臺東縣私立國際美語短期補習班",
+                "county": "臺東縣",
+                "class": "外語類",
+                "students": "國小、國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.144347,
+                    22.765516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89200206170007",
                 "name": "智基科技開發股份有限公司附設臺東縣私立志光文理補習班",
                 "county": "臺東縣",
@@ -868,6 +886,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89201312170001",
+                "name": "臺東縣私立多加文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國小,國小、國中,國小、國中、高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.130805,
+                    22.766411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89201312250001",
                 "name": "臺東縣私立東台菁英文理短期補習班",
                 "county": "臺東縣",
@@ -970,6 +1006,24 @@
                 "coordinates": [
                     121.146159,
                     22.755457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201404210001",
+                "name": "臺東縣私立文達短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.149037,
+                    22.748976
                 ]
             }
         },
