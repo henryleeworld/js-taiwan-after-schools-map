@@ -15557,7 +15557,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200701180002",
-                "name": "私立東和美術短期補習班",
+                "name": "東和美術短期補習班",
                 "county": "新北市",
                 "class": "美術、書法、攝影、美工設計、圍棋類",
                 "students": "不限年齡",
@@ -17467,7 +17467,7 @@
                 "code": "21200801310001",
                 "name": "巨匠電腦股份有限公司附設私立巨匠電腦文理技藝短期補習班永和一分班",
                 "county": "新北市",
-                "class": "外語類",
+                "class": "文理類,外語類,資訊類",
                 "students": "6歲以上",
                 "date_closed": ""
             },
@@ -33719,7 +33719,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201610060002",
-                "name": "私立新日升文理短期補習班",
+                "name": "新日升文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡,國中",
@@ -45653,7 +45653,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202301060003",
-                "name": "私立劍聲國際文理技藝短期補習班",
+                "name": "劍聲國際文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,商類：珠算、心算、會計",
                 "students": "不限年齡",
@@ -52648,6 +52648,42 @@
                 "coordinates": [
                     121.430307,
                     25.196673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202608260001",
+                "name": "私立洛柏思文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.366013,
+                    25.06645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202608260002",
+                "name": "私立珮珮珠文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.450736,
+                    25.131456
                 ]
             }
         }

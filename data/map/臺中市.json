@@ -17140,6 +17140,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200607269013",
+                "name": "臺中市私立耀登文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.653511,
+                    24.382926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200607269014",
                 "name": "臺中市私立豐碩文理短期補習班",
                 "county": "臺中市",
@@ -18196,6 +18214,24 @@
                 "coordinates": [
                     120.688407,
                     24.097583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200701029003",
+                "name": "臺中市私立翰唯文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.712761,
+                    24.157516
                 ]
             }
         },
@@ -29528,7 +29564,7 @@
                 "name": "臺中市私立薇薇文理短期補習班",
                 "county": "臺中市",
                 "class": "外語類",
-                "students": "國中,高中,成人(18歲以上),國小,學齡前",
+                "students": "高中,國中,成人(18歲以上),國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -42880,24 +42916,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42202107200001",
-                "name": "臺中市私立博盛文理短期補習班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "高中,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.689258,
-                    24.180689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42202107200002",
                 "name": "臺中市私立品揚文理短期補習班",
                 "county": "臺中市",
@@ -47330,7 +47348,7 @@
                 "name": "人仁資優文化事業有限公司附設臺中市私立人仁文理短期補習班南陽分班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國中,國小,學齡前",
+                "students": "國中,學齡前,國小",
                 "date_closed": ""
             },
             "geometry": {
