@@ -7276,24 +7276,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200502229001",
-                "name": "臺南市私立翰昇文理短期補習班",
-                "county": "臺南市",
-                "class": "文理類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.265369,
-                    23.232251
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200502229002",
                 "name": "數位地球村語文資訊有限公司附設臺南市私立永康地球村文理短期補習班",
                 "county": "臺南市",
@@ -10646,7 +10628,7 @@
                 "name": "臺南市私立蕃茄文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國中",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {

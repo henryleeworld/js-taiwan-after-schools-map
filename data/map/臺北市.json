@@ -184,24 +184,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180038",
-                "name": "臺北市私立快樂芳庭語文美術短期補習班",
-                "county": "臺北市",
-                "class": "外語類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.524704,
-                    25.062351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811180040",
                 "name": "臺北市私立文芯文理短期補習班",
                 "county": "臺北市",
@@ -16258,24 +16240,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811191349",
-                "name": "臺北市私立加大文理短期補習班實踐分班",
-                "county": "臺北市",
-                "class": "外語類",
-                "students": "無限制",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.559961,
-                    24.984442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811191358",
                 "name": "臺北市私立華碩文理珠算短期補習班",
                 "county": "臺北市",
@@ -24784,6 +24748,24 @@
                 "coordinates": [
                     121.576649,
                     25.038528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201610270001",
+                "name": "高點教育科技股份有限公司附設臺北市私立高點文理短期補習班政大分班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "升四技二專大專,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.574453,
+                    24.987991
                 ]
             }
         },
