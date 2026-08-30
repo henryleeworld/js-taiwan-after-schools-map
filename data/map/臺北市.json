@@ -28174,6 +28174,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201703140443",
+                "name": "臺北市私立怡寶資優文理技藝短期補習班",
+                "county": "臺北市",
+                "class": "文理類,音樂、舞蹈類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52839,
+                    25.103765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201703140444",
                 "name": "臺北市私立維中文理短期補習班",
                 "county": "臺北市",
@@ -29831,7 +29849,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20201703140636",
-                "name": "喜樂泉源股份有限公司附設臺北市私立希伯崙文理短期補習班八德分班",
+                "name": "喜樂泉源股份有限公司附設臺北市私立希伯崙文理技藝短期補習班八德分班",
                 "county": "臺北市",
                 "class": "文理類",
                 "students": "國中,國小",
@@ -30166,6 +30184,24 @@
                 "coordinates": [
                     121.526426,
                     25.043861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140667",
+                "name": "臺北市私立施文文理短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.514582,
+                    25.112927
                 ]
             }
         },
