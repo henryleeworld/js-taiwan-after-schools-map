@@ -25654,6 +25654,60 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20201703140100",
+                "name": "臺北市私立永九文理語文短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.539496,
+                    24.993165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140105",
+                "name": "臺北市私立本能文理短期補習班",
+                "county": "臺北市",
+                "class": "外語類",
+                "students": "無限制,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.5427,
+                    25.062549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20201703140106",
+                "name": "臺北市私立星亞全腦語文短期補習班",
+                "county": "臺北市",
+                "class": "文理類,外語類,音樂、舞蹈類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.570016,
+                    25.04582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20201703140114",
                 "name": "財團法人人本教育文教基金會附設臺北市私立數學想想國文理短期補習班台大分班",
                 "county": "臺北市",
