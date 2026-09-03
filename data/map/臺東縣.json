@@ -850,6 +850,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89201306250001",
+                "name": "臺東縣私立艾爾琳美語短期補習班",
+                "county": "臺東縣",
+                "class": "外語類",
+                "students": "國中小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.139767,
+                    22.763197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89201307100001",
                 "name": "臺東縣私立筑音音樂學苑短期補習班",
                 "county": "臺東縣",
@@ -880,6 +898,24 @@
                 "coordinates": [
                     121.136404,
                     22.7599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201311040003",
+                "name": "臺東縣私立蘇菲亞文理短期補習班",
+                "county": "臺東縣",
+                "class": "外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.136146,
+                    22.76281
                 ]
             }
         },
@@ -1024,6 +1060,24 @@
                 "coordinates": [
                     121.149037,
                     22.748976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201407290001",
+                "name": "臺東縣私立德訓文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.148259,
+                    22.763102
                 ]
             }
         },
@@ -1222,6 +1276,24 @@
                 "coordinates": [
                     121.144553,
                     22.762166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89201603170001",
+                "name": "臺東縣私立小湯姆文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.159473,
+                    22.756587
                 ]
             }
         },
@@ -1462,6 +1534,42 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "89201910250001",
+                "name": "臺東縣私立三合院樂學園文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.140831,
+                    22.745123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89202002170001",
+                "name": "臺東縣私立中正文理短期補習班",
+                "county": "臺東縣",
+                "class": "文理類",
+                "students": "混齡(4~14歲)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.15063,
+                    22.758382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "89202008040001",
                 "name": "臺東縣私立尬數理工文理短期補習班",
                 "county": "臺東縣",
@@ -1492,6 +1600,24 @@
                 "coordinates": [
                     121.135318,
                     22.745568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "89202107280001",
+                "name": "中國青年救國團臺東縣團務指導委員會私立附設文理技藝短期補習班",
+                "county": "臺東縣",
+                "class": "文理類,外語類,音樂、舞蹈類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.139888,
+                    22.75408
                 ]
             }
         },
@@ -1628,7 +1754,7 @@
                 "name": "臺東縣私立高旻辰舞蹈教室短期補習班",
                 "county": "臺東縣",
                 "class": "音樂、舞蹈類",
-                "students": "學齡前,青年(6-18),成人(18歲以上)",
+                "students": "成人(18歲以上),學齡前,青年(6-18)",
                 "date_closed": ""
             },
             "geometry": {

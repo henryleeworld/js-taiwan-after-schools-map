@@ -23315,9 +23315,9 @@
             "type": "Feature",
             "properties": {
                 "code": "70201303120002",
-                "name": "私立嘉和文理短期補習班",
+                "name": "何嘉仁文教事業股份有限公司附設高雄市私立嘉和文理短期補習班",
                 "county": "高雄市",
-                "class": "外語類",
+                "class": "文理類,外語類",
                 "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
@@ -26504,7 +26504,7 @@
                 "name": "私立可達英語文理短期補習班鼎中分班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "學齡前,國中,國小",
+                "students": "國中,國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -29849,7 +29849,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70202106010002",
-                "name": "私立全能外語文理短期補習班農十六分班",
+                "name": "拔萃國際教育股份有限公司附設高雄市私立李麥克文理短期補習班美術館分班",
                 "county": "高雄市",
                 "class": "文理類,外語類",
                 "students": "國小",
@@ -33460,6 +33460,24 @@
                 "coordinates": [
                     120.3443,
                     22.628602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202602250001",
+                "name": "私立巨沐文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.293861,
+                    22.656487
                 ]
             }
         },

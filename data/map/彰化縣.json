@@ -9526,24 +9526,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "47201402140001",
-                "name": "東海國際電腦資訊有限公司附設彰化縣私立大龍海法商短期補習班",
-                "county": "彰化縣",
-                "class": "法政類,商類：珠算、心算、會計",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.479899,
-                    23.95898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "47201402190001",
                 "name": "私立超級數學短期補習班",
                 "county": "彰化縣",
@@ -17314,6 +17296,24 @@
                 "coordinates": [
                     120.579837,
                     23.96188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202607060001",
+                "name": "台灣知識庫股份有限公司附設彰化縣私立洋碩甄戰千碩數位學堂短期補習班",
+                "county": "彰化縣",
+                "class": "文理類",
+                "students": "國中,成人(18歲以上),國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.548908,
+                    24.084006
                 ]
             }
         },

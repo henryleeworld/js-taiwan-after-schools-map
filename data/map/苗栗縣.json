@@ -400,6 +400,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37200206110097",
+                "name": "苗栗縣私立林淑娟語文技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "外語類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "幼兒：需家長陪同學習,國小,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.874178,
+                    24.687419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37200206112102",
                 "name": "苗栗縣私立芝蔴園文理短期補習班",
                 "county": "苗栗縣",
@@ -4738,6 +4756,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "37202210240002",
+                "name": "苗栗縣私立樂童教育文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.899492,
+                    24.695388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "37202211180001",
                 "name": "苗栗縣私立拉曼文理短期補習班",
                 "county": "苗栗縣",
@@ -5416,6 +5452,24 @@
                 "coordinates": [
                     120.909872,
                     24.694355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202608310001",
+                "name": "苗栗縣私立行星計劃文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.879829,
+                    24.686572
                 ]
             }
         }
