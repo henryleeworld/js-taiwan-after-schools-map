@@ -19895,7 +19895,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200905060001",
-                "name": "新學成美語作文珠心算文理短期補習班",
+                "name": "私立新學成美語作文珠心算文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類,商類：珠算、心算、會計",
                 "students": "不拘,國中",
@@ -52702,6 +52702,42 @@
                 "coordinates": [
                     121.472712,
                     25.009432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609020001",
+                "name": "私立格森文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.454389,
+                    25.022643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609020002",
+                "name": "私立知凡懋懋文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.374398,
+                    25.077487
                 ]
             }
         }
