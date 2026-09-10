@@ -33484,6 +33484,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202603030001",
+                "name": "詮碩教育事業有限公司附設高雄市私立喬仁文理短期補習班鳳新分班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國中,國小,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.343511,
+                    22.6168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202603170001",
                 "name": "私立雪梨美日語文理短期補習班",
                 "county": "高雄市",

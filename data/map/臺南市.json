@@ -4145,7 +4145,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62200208089015",
-                "name": "臺南市私立亞堤斯文理短期補習班",
+                "name": "臺南市私立亞堤斯文理技藝短期補習班",
                 "county": "臺南市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
                 "students": "國小",
@@ -14750,7 +14750,7 @@
                 "name": "臺南市私立莘學文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -26026,6 +26026,24 @@
                 "coordinates": [
                     120.202845,
                     22.992813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202609040002",
+                "name": "臺南市私立學盈文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.224462,
+                    22.972964
                 ]
             }
         }
