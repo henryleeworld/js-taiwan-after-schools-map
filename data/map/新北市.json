@@ -1444,24 +1444,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200208022346",
-                "name": "巨匠電腦股份有限公司附設私立巨匠電腦文理技藝短期補習班永和分班",
-                "county": "新北市",
-                "class": "文理類,資訊類",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.514957,
-                    25.010344
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200208022350",
                 "name": "英世代語文短期補習班",
                 "county": "新北市",
@@ -20212,24 +20194,6 @@
                 "coordinates": [
                     121.445316,
                     25.012554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200907160002",
-                "name": "私立綠河文理短期補習班",
-                "county": "新北市",
-                "class": "文理類",
-                "students": "不限年齡,國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.520118,
-                    24.997924
                 ]
             }
         },
@@ -44168,8 +44132,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.454287,
-                    25.036422
+                    121.453432,
+                    25.036562
                 ]
             }
         },
