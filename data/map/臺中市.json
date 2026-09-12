@@ -32405,7 +32405,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42201305010001",
-                "name": "臺中市私立杜克語文短期補習班",
+                "name": "臺中市私立杜克文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類,外語類",
                 "students": "國小,國中",
@@ -32506,24 +32506,6 @@
                 "coordinates": [
                     120.702453,
                     24.085186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201306070002",
-                "name": "臺中市私立奧升文理短期補習班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.681333,
-                    24.170759
                 ]
             }
         },
