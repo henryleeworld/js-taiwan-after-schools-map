@@ -21208,6 +21208,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62202106210001",
+                "name": "臺南市私立友喬文理短期補習班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.240048,
+                    22.98282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62202106220001",
                 "name": "臺南市私立利合文理短期補習班",
                 "county": "臺南市",

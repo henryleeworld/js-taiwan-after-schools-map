@@ -15394,6 +15394,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "47202309020001",
+                "name": "彰化縣私立森海多元文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.579736,
+                    23.958885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "47202309150001",
                 "name": "彰化縣私立沃克技藝短期補習班",
                 "county": "彰化縣",
