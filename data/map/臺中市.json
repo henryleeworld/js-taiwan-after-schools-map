@@ -21982,24 +21982,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200801080002",
-                "name": "私立茵皇文理短期補習班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.721766,
-                    24.171943
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200801090001",
                 "name": "臺中市私立王家兒童舞蹈短期補習班",
                 "county": "臺中市",
@@ -52540,6 +52522,42 @@
                 "coordinates": [
                     120.638433,
                     24.147572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202609140001",
+                "name": "英文遊好玩留遊學教育有限公司附設臺中市私立英文遊好玩文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小,國中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.654658,
+                    24.119787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202609140002",
+                "name": "聖英捷文化有限公司附設臺中市私立松美文理技藝短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690112,
+                    24.188487
                 ]
             }
         }

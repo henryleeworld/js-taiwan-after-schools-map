@@ -14551,7 +14551,7 @@
                 "code": "21200608010003",
                 "name": "私立育圃文理技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
+                "class": "文理類,資訊類,美術、書法、攝影、美工設計、圍棋類",
                 "students": "不限年齡",
                 "date_closed": ""
             },
@@ -34906,24 +34906,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201709220001",
-                "name": "私立柯特曼美術短期補習班",
-                "county": "新北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類",
-                "students": "13-18歲",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.515466,
-                    25.014173
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201709220002",
                 "name": "私立吳艾薇文理短期補習班",
                 "county": "新北市",
@@ -37012,24 +36994,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21201812180001",
-                "name": "博思文理短期補習班",
-                "county": "新北市",
-                "class": "文理類",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.422264,
-                    24.982633
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21201812180002",
                 "name": "私立如是文理技藝短期補習班",
                 "county": "新北市",
@@ -38798,7 +38762,7 @@
                 "name": "奇異樹股份有限公司附設奇異鳥米蘭文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
-                "students": "不限年齡,7-18歲",
+                "students": "7-18歲,不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -47093,7 +47057,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202311150001",
-                "name": "私立學浩文理短期補習班",
+                "name": "私立艾瑞思美語文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡",
@@ -52630,6 +52594,42 @@
                 "coordinates": [
                     121.374398,
                     25.077487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609140001",
+                "name": "私立聖達文教文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.52061,
+                    25.007649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609140002",
+                "name": "一擇國際教育股份有限公司附設私立禾仕文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.371554,
+                    25.071471
                 ]
             }
         }

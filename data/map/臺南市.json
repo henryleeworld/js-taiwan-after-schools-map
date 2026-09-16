@@ -1642,24 +1642,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200205200080",
-                "name": "地球村出版有限公司附設臺南市私立東門地球村美日語短期補習班",
-                "county": "臺南市",
-                "class": "外語類",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.216986,
-                    22.987402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200205200081",
                 "name": "功學社音樂中心股份有限公司附設臺南市私立中正音樂短期補習班",
                 "county": "臺南市",
@@ -14242,24 +14224,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201102010002",
-                "name": "數位地球村語文資訊有限公司附設臺南市私立中正地球村美日語短期補習班",
-                "county": "臺南市",
-                "class": "文理類,外語類",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.291442,
-                    23.074094
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201103030001",
                 "name": "臺南市私立信翔文理短期補習班",
                 "county": "臺南市",
@@ -26026,6 +25990,24 @@
                 "coordinates": [
                     120.224462,
                     22.972964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202609140001",
+                "name": "臺南市私立冠成文理短期補習班復興分班(為比對教職員工資料預登立案資訊)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.240002,
+                    22.983574
                 ]
             }
         }
