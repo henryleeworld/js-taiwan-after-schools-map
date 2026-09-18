@@ -19877,7 +19877,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62201912230001",
-                "name": "臺南市私立儒田文理短期補習班",
+                "name": "臺南市私立儒田文理短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "臺南市",
                 "class": "文理類",
                 "students": "國中,國小",
@@ -25835,7 +25835,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202607060001",
-                "name": "臺南市私立學曜文理短期補習班(為比對教職員工資料預登立案資料)",
+                "name": "臺南市私立學曜文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
                 "students": "國中,國小,高中",
@@ -25961,7 +25961,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202608200001",
-                "name": "臺南市私立毅優文理短期補習班(為比對教職員工資料預登立案資料)",
+                "name": "臺南市私立毅優文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
                 "students": "國小,國中",
@@ -25978,11 +25978,29 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62202609040001",
+                "name": "臺南市私立敏智文理短期補習班(為比對教職員工資料預登立案資料)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "高中,國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.185461,
+                    23.044786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62202609040002",
                 "name": "臺南市私立學盈文理短期補習班(為比對教職員工資料預登立案資訊)",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國小,國中,高中",
+                "students": "高中,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25990,6 +26008,24 @@
                 "coordinates": [
                     120.224462,
                     22.972964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202609110001",
+                "name": "臺南市私立艾卡波尼文理短期補習班短期補習班新市分班(為比對教職員工資料預登立案資訊)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.295646,
+                    23.077449
                 ]
             }
         },
@@ -26008,6 +26044,24 @@
                 "coordinates": [
                     120.240002,
                     22.983574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202609160001",
+                "name": "德勝文教有限公司附設臺南市私立儒言文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.232673,
+                    23.021982
                 ]
             }
         }

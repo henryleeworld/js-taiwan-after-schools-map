@@ -4324,6 +4324,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811180876",
+                "name": "臺北市私立易上文理短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.527437,
+                    25.11199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811180877",
                 "name": "臺北市私立劃時代文理短期補習班",
                 "county": "臺北市",
@@ -13910,8 +13928,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.510756,
-                    25.029188
+                    121.513951,
+                    25.027873
                 ]
             }
         },
@@ -30262,24 +30280,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20201703140587",
-                "name": "驅勢文教事業有限公司附設臺北市私立驅勢語文短期補習班內湖分班",
-                "county": "臺北市",
-                "class": "外語類",
-                "students": "無限制",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.558759,
-                    25.085171
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20201703140590",
                 "name": "臺北市私立銓真文理短期補習班",
                 "county": "臺北市",
@@ -34520,8 +34520,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.526526,
-                    25.040094
+                    121.523643,
+                    25.038992
                 ]
             }
         },
@@ -47248,6 +47248,24 @@
                 "coordinates": [
                     121.565682,
                     25.051176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202609080003",
+                "name": "臺北市私立梅也家藝術技藝短期補習班",
+                "county": "臺北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.546722,
+                    25.084024
                 ]
             }
         },

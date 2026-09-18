@@ -15880,24 +15880,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200703060010",
-                "name": "私立歡樂學文理技藝短期補習班",
-                "county": "新北市",
-                "class": "文理類,其他類",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.459072,
-                    25.01395
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200703080001",
                 "name": "長陞文理語文電腦短期補習班",
                 "county": "新北市",
@@ -52612,6 +52594,24 @@
                 "coordinates": [
                     121.371554,
                     25.071471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609150001",
+                "name": "私立小歐家文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.440466,
+                    24.970764
                 ]
             }
         }

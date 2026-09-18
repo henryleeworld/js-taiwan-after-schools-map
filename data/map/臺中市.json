@@ -9310,6 +9310,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200210089003",
+                "name": "臺中市私立齊芳語文短期補習班",
+                "county": "臺中市",
+                "class": "外語類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.643339,
+                    24.074102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200210160001",
                 "name": "私立新正一文理短期補習班",
                 "county": "臺中市",
@@ -17231,9 +17249,9 @@
             "type": "Feature",
             "properties": {
                 "code": "42200606019002",
-                "name": "臺中市私立艾爾頓美語珠心算短期補習班",
+                "name": "臺中市習林文理短期補習班",
                 "county": "臺中市",
-                "class": "外語類,商類：珠算、心算、會計",
+                "class": "文理類,外語類,商類：珠算、心算、會計",
                 "students": "國小",
                 "date_closed": ""
             },
@@ -21982,6 +22000,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "42200801080002",
+                "name": "臺中市私立茵皇文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.721766,
+                    24.171943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "42200801090001",
                 "name": "臺中市私立王家兒童舞蹈短期補習班",
                 "county": "臺中市",
@@ -25180,6 +25216,24 @@
                 "coordinates": [
                     120.643748,
                     24.073808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42200904050001",
+                "name": "臺中市私立音名文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.683889,
+                    24.173092
                 ]
             }
         },
@@ -52478,7 +52532,7 @@
                 "name": "臺中市私立陳靜文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國中,國小,高中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {

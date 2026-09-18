@@ -1922,8 +1922,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.487001,
-                    23.965185
+                    120.485031,
+                    23.967459
                 ]
             }
         },
@@ -9872,7 +9872,7 @@
                 "name": "私立陳傑文理短期補習班",
                 "county": "彰化縣",
                 "class": "文理類",
-                "students": "國中,高中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -17278,6 +17278,24 @@
                 "coordinates": [
                     120.53954,
                     24.062843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "47202609010001",
+                "name": "出賢文教有限公司附設彰化縣私立啟蒙學院技藝文理短期補習班",
+                "county": "彰化縣",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "國中,國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.520075,
+                    23.876369
                 ]
             }
         },
