@@ -638,7 +638,7 @@
                 "name": "新竹縣私立華聖頓文理短期補習班",
                 "county": "新竹縣",
                 "class": "外語類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -653,7 +653,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36200310170002",
-                "name": "私立童園語文短期補習班",
+                "name": "新竹縣私立童園語文短期補習班",
                 "county": "新竹縣",
                 "class": "外語類",
                 "students": "國小",
@@ -1286,7 +1286,7 @@
                 "name": "新竹縣私立艾維尼文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類",
-                "students": "學齡前,國小,國中",
+                "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -2428,24 +2428,6 @@
                 "coordinates": [
                     121.007262,
                     24.829832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "36201006290001",
-                "name": "新竹縣私立朗恩文理短期補習班",
-                "county": "新竹縣",
-                "class": "文理類",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.989985,
-                    24.870742
                 ]
             }
         },

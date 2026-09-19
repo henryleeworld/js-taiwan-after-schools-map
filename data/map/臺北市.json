@@ -16438,24 +16438,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811191413",
-                "name": "臺北市私立湯姆貓語文短期補習班",
-                "county": "臺北市",
-                "class": "外語類",
-                "students": "無限制",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.522045,
-                    25.027252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811191414",
                 "name": "臺北市私立人合文理技藝短期補習班",
                 "county": "臺北市",
@@ -47284,6 +47266,42 @@
                 "coordinates": [
                     121.561847,
                     25.087926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202609170001",
+                "name": "臺北市私立焙匠學堂技藝短期補習班",
+                "county": "臺北市",
+                "class": "其他類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.513349,
+                    25.044959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202609170002",
+                "name": "臺北市私立悠米藝術技藝短期補習班",
+                "county": "臺北市",
+                "class": "美術、書法、攝影、美工設計、圍棋類,瑜珈類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.56893,
+                    25.041196
                 ]
             }
         }
