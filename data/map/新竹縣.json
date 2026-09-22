@@ -2434,6 +2434,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "36201006290001",
+                "name": "新竹縣私立朗恩文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.989984,
+                    24.870742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "36201007200001",
                 "name": "新竹縣私立亞格文理短期補習班",
                 "county": "新竹縣",
