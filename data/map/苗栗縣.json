@@ -5300,7 +5300,7 @@
                 "name": "苗栗縣私立有識教育文理短期補習班",
                 "county": "苗栗縣",
                 "class": "文理類",
-                "students": "國小,幼兒",
+                "students": "幼兒,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -5470,6 +5470,42 @@
                 "coordinates": [
                     120.879829,
                     24.686572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202609210001",
+                "name": "苗栗縣私立唯藝術技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "7-12歲,5-7歲",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.898838,
+                    24.68746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202609210002",
+                "name": "苗栗縣私立云益文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.894362,
+                    24.692573
                 ]
             }
         }

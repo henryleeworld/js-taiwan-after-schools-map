@@ -7691,10 +7691,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200208120611",
-                "name": "巨匠電腦股份有限公司附設臺中市私立鉅匠電腦短期補習班",
+                "name": "巨匠電腦股份有限公司附設臺中市私立鉅匠電腦美語短期補習班",
                 "county": "臺中市",
                 "class": "資訊類",
-                "students": "成人(18歲以上),國小",
+                "students": "成人(18歲以上),國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -39878,7 +39878,7 @@
                 "name": "臺中市私立登鋒文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -43838,7 +43838,7 @@
                 "name": "臺中市私立品揚文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國小,國中,高中",
+                "students": "高中,國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52630,6 +52630,24 @@
                 "coordinates": [
                     120.706251,
                     24.159281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202609170002",
+                "name": "臺中市私立染染美術短期補習班",
+                "county": "臺中市",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.644536,
+                    24.139142
                 ]
             }
         }
