@@ -616,24 +616,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "33200207240043",
-                "name": "私立大石門文理短期補習班",
-                "county": "桃園市",
-                "class": "文理類",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.217601,
-                    24.865711
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "33200207240044",
                 "name": "私立狀元教室文理數學短期補習班",
                 "county": "桃園市",
@@ -6290,7 +6272,7 @@
                 "name": "私立鐘老師語文短期補習班",
                 "county": "桃園市",
                 "class": "外語類",
-                "students": "國小,未填寫",
+                "students": "未填寫,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -7640,7 +7622,7 @@
                 "name": "私立李紹陽文理語文數學短期補習班自強分班",
                 "county": "桃園市",
                 "class": "文理類,外語類",
-                "students": "國小,國中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -24884,7 +24866,7 @@
                 "name": "私立黎恩文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類",
-                "students": "學齡前至國小,國小,國中",
+                "students": "國小,國中,學齡前至國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -25414,6 +25396,24 @@
                 "coordinates": [
                     121.168376,
                     24.961148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202609230001",
+                "name": "私立樂鎂美容技藝短期補習班",
+                "county": "桃園市",
+                "class": "美容、美髮理髮類",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.311777,
+                    24.99132
                 ]
             }
         }

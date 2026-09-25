@@ -922,24 +922,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "24200208250012",
-                "name": "岑英文教有限公司附設基隆市私立証馨文理短期補習班",
-                "county": "基隆市",
-                "class": "文理類",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.724016,
-                    25.121592
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "24200208250014",
                 "name": "基隆市私立寶寶文理短期補習班",
                 "county": "基隆市",
@@ -1445,10 +1427,10 @@
             "type": "Feature",
             "properties": {
                 "code": "24200501060001",
-                "name": "基隆市私立康捷文理短期補習班",
+                "name": "基隆市私立苗米文理短期補習班",
                 "county": "基隆市",
-                "class": "文理類",
-                "students": "國小",
+                "class": "文理類,外語類",
+                "students": "國小,幼兒、國小、國中、高中、成人",
                 "date_closed": ""
             },
             "geometry": {
@@ -3518,7 +3500,7 @@
                 "name": "基隆市私立喬語語文技藝短期補習班",
                 "county": "基隆市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {

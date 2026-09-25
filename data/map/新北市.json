@@ -2509,7 +2509,7 @@
                 "code": "21200208022535",
                 "name": "私立小寶貝文理技藝短期補習班",
                 "county": "新北市",
-                "class": "外語類,商類：珠算、心算、會計",
+                "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類,商類：珠算、心算、會計",
                 "students": "不限年齡",
                 "date_closed": ""
             },
@@ -4723,8 +4723,8 @@
                 "code": "21200208022909",
                 "name": "私立學人文理短期補習班",
                 "county": "新北市",
-                "class": "外語類,資訊類",
-                "students": "其他",
+                "class": "文理類,資訊類",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -8807,7 +8807,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200405180004",
-                "name": "私立淯聖文理語文短期補習班",
+                "name": "淯聖文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡",
@@ -13487,7 +13487,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200602070005",
-                "name": "私立天韻音樂舞蹈短期補習班",
+                "name": "天韻音樂舞蹈短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類",
                 "students": "不限年齡",
@@ -41821,7 +41821,7 @@
                 "code": "21202103250003",
                 "name": "私立睿林教育技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類",
+                "class": "資訊類",
                 "students": "國小以上",
                 "date_closed": ""
             },
@@ -43349,7 +43349,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21202201180002",
-                "name": "私立華英文理短期補習班",
+                "name": "華英文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國小",
@@ -52648,6 +52648,24 @@
                 "coordinates": [
                     121.371306,
                     25.078842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609230001",
+                "name": "私立全真一對一文理短期補習班汐止分校",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.632368,
+                    25.064573
                 ]
             }
         }

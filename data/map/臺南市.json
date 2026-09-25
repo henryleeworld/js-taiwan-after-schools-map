@@ -22130,7 +22130,7 @@
                 "name": "大山文教股份有限公司附設臺南市私立太山文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "高中,國中,國中、高中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25568,7 +25568,7 @@
                 "name": "小花園有限公司附設臺南市私立小花園文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25622,7 +25622,7 @@
                 "name": "樂優文教事業有限公司附設臺南市私立樂優教育文理技藝短期補習班",
                 "county": "臺南市",
                 "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -25640,7 +25640,7 @@
                 "name": "金裕文股份有限公司附設臺南市私立金裕文文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -25766,7 +25766,7 @@
                 "name": "臺南市私立沐學文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -25856,7 +25856,7 @@
                 "name": "臺南市私立椰子學堂文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "高中,國小,國中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25928,7 +25928,7 @@
                 "name": "卓躍文教有限公司附設臺南市私立叡揚短期補習班安平分班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國小,國中,高中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -26000,7 +26000,7 @@
                 "name": "臺南市私立學盈文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "高中,國小,國中",
+                "students": "高中,國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -26062,6 +26062,24 @@
                 "coordinates": [
                     120.232673,
                     23.021982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202609230001",
+                "name": "臺南市私立捷勝文理短期補習班站前分班(為比對教職員工資料預登立案資料)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.211026,
+                    22.996667
                 ]
             }
         }
