@@ -47056,24 +47056,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21202311210001",
-                "name": "私立漫蒔技藝短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類,瑜珈類",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.460818,
-                    25.05951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21202311230001",
                 "name": "私立心田文理短期補習班",
                 "county": "新北市",
@@ -52666,6 +52648,42 @@
                 "coordinates": [
                     121.632368,
                     25.064573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609240001",
+                "name": "私立立勝文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.437549,
+                    25.084003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609240002",
+                "name": "私立頡昇文理短期補習班長安分班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.669753,
+                    25.079051
                 ]
             }
         }
