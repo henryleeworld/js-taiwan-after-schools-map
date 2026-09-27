@@ -42074,7 +42074,7 @@
                 "name": "放學趣國際教育股份有限公司附設臺中市私立享學趣文理技藝短期補習班",
                 "county": "臺中市",
                 "class": "文理類,音樂、舞蹈類",
-                "students": "學齡前,國中,國小",
+                "students": "國小,學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -52666,6 +52666,24 @@
                 "coordinates": [
                     120.71879,
                     24.170975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202609240001",
+                "name": "臺中市私立正亭文理短期補習班大雅分班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小,國中,高中,學齡前",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.652171,
+                    24.223918
                 ]
             }
         }

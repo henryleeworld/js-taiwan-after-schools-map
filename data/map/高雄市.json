@@ -1538,7 +1538,7 @@
                 "name": "私立昇任文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國中,國小",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -33334,6 +33334,24 @@
                 "coordinates": [
                     120.333558,
                     22.673615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202601070001",
+                "name": "私立露瑪沃文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.276448,
+                    22.729641
                 ]
             }
         },
