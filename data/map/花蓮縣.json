@@ -868,24 +868,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "38200510200001",
-                "name": "私立強生文理短期補習班",
-                "county": "花蓮縣",
-                "class": "外語類",
-                "students": "國小、國中、成人",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.42315,
-                    23.667252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "38200512050001",
                 "name": "私立哈佛文理技藝短期補習班",
                 "county": "花蓮縣",
@@ -1538,7 +1520,7 @@
                 "name": "私立頌恩音樂中心文理技藝短期補習班",
                 "county": "花蓮縣",
                 "class": "文理類,音樂、舞蹈類,其他類",
-                "students": "國小",
+                "students": "國小,學齡前.國小.國中",
                 "date_closed": ""
             },
             "geometry": {

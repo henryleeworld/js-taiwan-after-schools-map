@@ -14498,7 +14498,7 @@
                 "name": "臺中市私立正亭文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "高中,國小,國中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -30428,7 +30428,7 @@
                 "name": "臺中市私立薇薇文理短期補習班",
                 "county": "臺中市",
                 "class": "外語類",
-                "students": "高中,國中,成人(18歲以上),國小,學齡前",
+                "students": "學齡前,國中,國小,高中,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -34172,7 +34172,7 @@
                 "name": "臺中市知仁文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類,商類：珠算、心算、會計",
-                "students": "學齡前,國小,國中",
+                "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -52666,6 +52666,24 @@
                 "coordinates": [
                     120.71879,
                     24.170975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202609180002",
+                "name": "臺中市私立雅茵文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690727,
+                    24.182203
                 ]
             }
         },

@@ -11128,24 +11128,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200406010002",
-                "name": "私立海原電腦文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類,外語類,資訊類",
-                "students": "國小,學齡前",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.292922,
-                    22.580304
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200406040001",
                 "name": "私立藝術童年音樂短期補習班",
                 "county": "高雄市",
@@ -18692,7 +18674,7 @@
                 "name": "天下國際文教諮詢有限公司附設高雄市私立理化文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國中,國小",
+                "students": "國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -20132,7 +20114,7 @@
                 "name": "私立揚基文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -33470,7 +33452,7 @@
                 "name": "私立雪梨美日語文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國小,學齡前,國中,成人(18歲以上)",
+                "students": "國小,國中,成人(18歲以上),學齡前",
                 "date_closed": ""
             },
             "geometry": {

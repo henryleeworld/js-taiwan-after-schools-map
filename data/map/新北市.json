@@ -4505,7 +4505,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022863",
-                "name": "私立曾才能文理短期補習班",
+                "name": "曾才能文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "其他",
@@ -12803,7 +12803,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200512010010",
-                "name": "私立定勤文理短期補習班",
+                "name": "定勤文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國中",
@@ -38960,7 +38960,7 @@
                 "name": "全真一對一文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
-                "students": "國小以上",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -39598,6 +39598,24 @@
                 "coordinates": [
                     121.37724,
                     24.940093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202004260001",
+                "name": "明光文教事業股份有限公司附設明吉文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.465033,
+                    25.018969
                 ]
             }
         },
@@ -52666,6 +52684,24 @@
                 "coordinates": [
                     121.669753,
                     25.079051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202609290001",
+                "name": "私立小木語技藝文理短期補習班",
+                "county": "新北市",
+                "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481584,
+                    25.067435
                 ]
             }
         }
