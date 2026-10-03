@@ -18148,6 +18148,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "62201707130001",
+                "name": "臺南市私立公安教學文理短期補習班",
+                "county": "臺南市",
+                "class": "法政類,其他類",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.314023,
+                    23.311718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "62201707180002",
                 "name": "臺南市私立大王文理短期補習班",
                 "county": "臺南市",
