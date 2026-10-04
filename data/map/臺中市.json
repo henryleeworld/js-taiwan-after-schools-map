@@ -7348,24 +7348,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120530",
-                "name": "私立大塊國語文短期補習班",
-                "county": "臺中市",
-                "class": "外語類",
-                "students": "未填寫",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.682999,
-                    24.174381
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120535",
                 "name": "臺中市私立科文美語會話短期補習班",
                 "county": "臺中市",
@@ -11492,7 +11474,7 @@
                 "name": "臺中市私立伊頓英語短期補習班",
                 "county": "臺中市",
                 "class": "外語類",
-                "students": "國小,國中,成人(18歲以上)",
+                "students": "國小,成人(18歲以上),國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -19049,10 +19031,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200701230001",
-                "name": "私立史乃文音樂藝術短期補習班",
+                "name": "臺中市私立程睿文理短期補習班",
                 "county": "臺中市",
-                "class": "音樂、舞蹈類",
-                "students": "國小",
+                "class": "文理類",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -43820,7 +43802,7 @@
                 "name": "臺中市私立博盛文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "高中,國中",
+                "students": "國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -45688,24 +45670,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42202208090002",
-                "name": "知識達數位科技股份有限公司附設臺中市私立高點文理短期補習班東海分班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.591177,
-                    24.183149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42202208090003",
                 "name": "臺中私立朵拉國際文理短期補習班",
                 "county": "臺中市",
@@ -46394,7 +46358,7 @@
                 "name": "旺達計劃國際事業有限公司附設臺中市私立旺達文理短期補習班漢口分班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "學齡前,國小,國中",
+                "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -52604,7 +52568,7 @@
                 "name": "聖英捷文化有限公司附設臺中市私立松美文理技藝短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "學齡前,國小,國中",
+                "students": "國小,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {

@@ -241,8 +241,8 @@
                 "code": "70200204020038",
                 "name": "私立藝術森林音樂文理技藝短期補習班",
                 "county": "高雄市",
-                "class": "音樂、舞蹈類",
-                "students": "學齡前",
+                "class": "文理類,音樂、舞蹈類",
+                "students": "國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -18836,7 +18836,7 @@
                 "name": "私立品嘉文理短期補習班",
                 "county": "高雄市",
                 "class": "文理類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -29212,24 +29212,6 @@
                 "coordinates": [
                     120.31556,
                     22.666668
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "70202101080001",
-                "name": "高點教育科技股份有限公司附設高雄市私立高點文理短期補習班鳳山分班",
-                "county": "高雄市",
-                "class": "文理類,其他類",
-                "students": "成人(18歲以上)",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.357422,
-                    22.632456
                 ]
             }
         },
