@@ -4954,24 +4954,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811181011",
-                "name": "臺北市私立喜樂地技藝短期補習班",
-                "county": "臺北市",
-                "class": "美術、書法、攝影、美工設計、圍棋類",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.550762,
-                    25.033425
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811181013",
                 "name": "臺北市私立弦昕音樂技藝文理短期補習班",
                 "county": "臺北市",
@@ -8105,7 +8087,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20200811181587",
-                "name": "育恩文理補習班",
+                "name": "臺北市私立育恩文理短期補習班",
                 "county": "臺北市",
                 "class": "文理類",
                 "students": "無限制",
@@ -13343,7 +13325,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20200811190723",
-                "name": "私立新嬌點舞蹈技藝短期補習班",
+                "name": "臺北市私立新嬌點舞蹈技藝短期補習班",
                 "county": "臺北市",
                 "class": "音樂、舞蹈類",
                 "students": "其他,成人(18歲以上)",
@@ -13865,7 +13847,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20200811190824",
-                "name": "冠大文理補習班",
+                "name": "臺北市私立冠大文理短期補習班",
                 "county": "臺北市",
                 "class": "文理類",
                 "students": "學齡前",
@@ -28733,7 +28715,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20201703140428",
-                "name": "易禧創意科技股份有限公司附設臺北市私立易禧創意設計短期補習班",
+                "name": "易禧創意科技股份有限公司附設臺北市私立易禧創意設計技藝短期補習班",
                 "county": "臺北市",
                 "class": "資訊類",
                 "students": "成人(18歲以上)",
@@ -47284,6 +47266,24 @@
                 "coordinates": [
                     121.56893,
                     25.041196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202610050001",
+                "name": "臺北市私立立禾文理短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.564593,
+                    25.061657
                 ]
             }
         }
