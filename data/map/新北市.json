@@ -2309,10 +2309,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200208022514",
-                "name": "新生社文理美語補習班",
+                "name": "新生社文理美語短期補習班",
                 "county": "新北市",
                 "class": "商類：珠算、心算、會計",
-                "students": "其他",
+                "students": "國小、國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -12874,24 +12874,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200512140005",
-                "name": "德育文理語文短期補習班",
-                "county": "新北市",
-                "class": "文理類,外語類",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.432399,
-                    25.071079
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200512160001",
                 "name": "私立勤業文理短期補習班",
                 "county": "新北市",
@@ -15494,8 +15476,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.479158,
-                    25.013369
+                    121.475644,
+                    25.016493
                 ]
             }
         },
@@ -21661,7 +21643,7 @@
                 "code": "21201004140002",
                 "name": "財團法人台北市中華基督教青年會附設板新會所文理語文技藝短期補習班",
                 "county": "新北市",
-                "class": "文理類,外語類,音樂、舞蹈類",
+                "class": "文理類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
                 "students": "不限年齡",
                 "date_closed": ""
             },
@@ -37481,7 +37463,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201904250001",
-                "name": "私立宋聿文理短期補習班",
+                "name": "宋聿文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡",
@@ -50612,8 +50594,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.485571,
-                    25.087628
+                    121.485316,
+                    25.0875
                 ]
             }
         },

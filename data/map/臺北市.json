@@ -1750,24 +1750,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20200811180370",
-                "name": "臺北市私立新世紀文理短期補習班",
-                "county": "臺北市",
-                "class": "文理類",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.552471,
-                    25.0567
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20200811180371",
                 "name": "臺北市私立親親文理短期補習班",
                 "county": "臺北市",
@@ -41548,24 +41530,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20202305160001",
-                "name": "臺北市私立立心文理短期補習班",
-                "county": "臺北市",
-                "class": "文理類",
-                "students": "其他",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.550432,
-                    25.058764
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20202305160002",
                 "name": "臺北市私立李鋒文教文理短期補習班成功分班",
                 "county": "臺北市",
@@ -43853,7 +43817,7 @@
             "type": "Feature",
             "properties": {
                 "code": "20202411110002",
-                "name": "兜樂教育有限公司附設臺北市私立兜樂文理技藝短期補習班",
+                "name": "小島之間有限公司附設臺北市私立兜樂文理技藝短期補習班",
                 "county": "臺北市",
                 "class": "文理類,家政、插花、烹飪類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
                 "students": "學齡前",
@@ -47284,6 +47248,24 @@
                 "coordinates": [
                     121.564593,
                     25.061657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202610070001",
+                "name": "愛奕啟股份有限公司附設臺北市私立愛奕啟多元智能文理技藝短期補習班",
+                "county": "臺北市",
+                "class": "文理類,資訊類,美術、書法、攝影、美工設計、圍棋類",
+                "students": "無限制",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.549425,
+                    25.078547
                 ]
             }
         }

@@ -21050,7 +21050,7 @@
                 "name": "臺中市私立三合文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -23984,7 +23984,7 @@
                 "name": "臺中市私立大今華文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "高中",
+                "students": "國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -44450,7 +44450,7 @@
                 "name": "臺中市私立上功文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "高中,國小,國中",
+                "students": "國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -48568,24 +48568,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42202404230001",
-                "name": "臺中市私立美智文理短期補習班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.663103,
-                    24.124003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42202404240001",
                 "name": "臺中市私立哈伯美語短期補習班",
                 "county": "臺中市",
@@ -52622,7 +52604,7 @@
                 "name": "臺中市私立正亭文理短期補習班大雅分班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國小,國中,高中,學齡前",
+                "students": "國小,學齡前,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
