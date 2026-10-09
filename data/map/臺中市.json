@@ -166,24 +166,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200207319071",
-                "name": "臺中市私立傑出文理短期補習班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.722608,
-                    24.124921
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200207319072",
                 "name": "臺中市私立小傑克邏輯文理技藝短期補習班",
                 "county": "臺中市",
@@ -20975,10 +20957,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42200709050001",
-                "name": "巨匠電腦股份有限公司逢甲分公司附設臺中市私立巨匠電腦短期補習班逢甲分班",
+                "name": "巨匠電腦股份有限公司附設臺中市私立巨匠電腦美語短期補習班逢甲分班",
                 "county": "臺中市",
                 "class": "資訊類",
-                "students": "成人(18歲以上)",
+                "students": "成人(18歲以上),國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -44450,7 +44432,7 @@
                 "name": "臺中市私立上功文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國小,國中,高中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -52604,7 +52586,7 @@
                 "name": "臺中市私立正亭文理短期補習班大雅分班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國小,學齡前,國中,高中",
+                "students": "國小,國中,高中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
