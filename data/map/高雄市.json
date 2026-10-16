@@ -8356,24 +8356,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70200210079002",
-                "name": "私立第一文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.394036,
-                    22.510301
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70200210079004",
                 "name": "私立美寶美語文理短期補習班",
                 "county": "高雄市",
@@ -26105,7 +26087,7 @@
             "type": "Feature",
             "properties": {
                 "code": "70201701130001",
-                "name": "私立優軒英語文理短期補習班明誠分班",
+                "name": "私立樂讀林文理短期補習班",
                 "county": "高雄市",
                 "class": "外語類",
                 "students": "學齡前,國小,國中,高中,成人(18歲以上)",
@@ -33502,6 +33484,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "70202605090001",
+                "name": "私立超能文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "學齡前,國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.306209,
+                    22.688801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "70202607020001",
                 "name": "私立名人兒童圍棋文理短期補習班陽明分班",
                 "county": "高雄市",
@@ -33604,6 +33604,24 @@
                 "coordinates": [
                     120.347,
                     22.642771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202609070002",
+                "name": "彼思國際教育股份有限公司附設高雄市私立彼思國際教育文理短期補習班",
+                "county": "高雄市",
+                "class": "文理類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.315316,
+                    22.684059
                 ]
             }
         },

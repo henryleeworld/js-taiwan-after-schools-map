@@ -15736,24 +15736,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62201307230001",
-                "name": "旭文教育科技股份有限公司附設臺南市私立旭文文理短期補習班",
-                "county": "臺南市",
-                "class": "文理類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.218082,
-                    22.986638
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62201307290001",
                 "name": "臺南市私立溫莎英語短期補習班",
                 "county": "臺南市",
@@ -17846,7 +17828,7 @@
                 "name": "大山文教股份有限公司附設臺南市私立王山文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國中,高中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25997,7 +25979,7 @@
             "type": "Feature",
             "properties": {
                 "code": "62202609140001",
-                "name": "臺南市私立冠成文理短期補習班復興分班(為比對教職員工資料預登立案資訊)",
+                "name": "臺南市私立冠成文理短期補習班復興分班",
                 "county": "臺南市",
                 "class": "文理類",
                 "students": "國中",
@@ -26062,6 +26044,24 @@
                 "coordinates": [
                     120.239727,
                     22.983195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202610140001",
+                "name": "臺南市私立天下鴻晴短期補習班(為比對教職員工資料預登立案資料)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.206995,
+                    22.99276
                 ]
             }
         }
