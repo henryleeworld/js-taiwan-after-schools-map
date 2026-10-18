@@ -7514,7 +7514,7 @@
                 "name": "新竹縣私立輝英文教文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類",
-                "students": "國中,高中",
+                "students": "高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -9358,6 +9358,24 @@
                 "coordinates": [
                     121.024879,
                     24.826081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "36202610160001",
+                "name": "新竹縣私立昊學文教文理短期補習班",
+                "county": "新竹縣",
+                "class": "文理類",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.03073,
+                    24.827859
                 ]
             }
         }

@@ -11471,10 +11471,10 @@
             "type": "Feature",
             "properties": {
                 "code": "21200506230003",
-                "name": "學華語文短期補習班",
+                "name": "私立學華文理短期補習班",
                 "county": "新北市",
-                "class": "外語類",
-                "students": "國中",
+                "class": "文理類",
+                "students": "不限年齡",
                 "date_closed": ""
             },
             "geometry": {
@@ -17098,24 +17098,6 @@
                 "coordinates": [
                     121.333318,
                     24.959147
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21200711300003",
-                "name": "高碩果文理短期補習班",
-                "county": "新北市",
-                "class": "文理類",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.445122,
-                    25.011018
                 ]
             }
         },
@@ -31757,7 +31739,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201510050001",
-                "name": "私立永愛文理語文短期補習班",
+                "name": "永愛文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類",
                 "students": "國中,年齡不限",
