@@ -5490,6 +5490,42 @@
                     24.567672
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202610190001",
+                "name": "苗栗縣私立哈維爾學苑文理短期補習班",
+                "county": "苗栗縣",
+                "class": "文理類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.898427,
+                    24.687561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "37202610190002",
+                "name": "舞譽學文創有限公司附設苗栗縣私立舞譽學技藝短期補習班",
+                "county": "苗栗縣",
+                "class": "音樂、舞蹈類",
+                "students": "2-3歲及成人,成人,3-4歲,4-5歲,6-12歲",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.897985,
+                    24.687625
+                ]
+            }
         }
     ]
 }
