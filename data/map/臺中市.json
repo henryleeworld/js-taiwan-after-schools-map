@@ -34133,10 +34133,10 @@
             "type": "Feature",
             "properties": {
                 "code": "42201408140002",
-                "name": "巨匠電腦股份有限公司 附設臺中市私立巨匠電腦美語短期補習班",
+                "name": "巨匠電腦股份有限公司附設臺中市私立巨匠電腦美語短期補習班",
                 "county": "臺中市",
                 "class": "外語類",
-                "students": "成人(18歲以上)",
+                "students": "成人(18歲以上),國小,國中,高中",
                 "date_closed": ""
             },
             "geometry": {
@@ -44324,7 +44324,7 @@
                 "name": "臺中市私立永昌文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國中,國小,高中",
+                "students": "國中,高中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -52648,6 +52648,42 @@
                 "coordinates": [
                     120.711055,
                     24.159227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202610200001",
+                "name": "臺中市私立沐光文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.714589,
+                    24.248932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202610200002",
+                "name": "臺中市私立英仕頓文理技藝短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.678732,
+                    24.133009
                 ]
             }
         }

@@ -1750,6 +1750,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811180370",
+                "name": "臺北市私立新世紀文理短期補習班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.552471,
+                    25.0567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811180371",
                 "name": "臺北市私立親親文理短期補習班",
                 "county": "臺北市",

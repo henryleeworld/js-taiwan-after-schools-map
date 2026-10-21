@@ -544,24 +544,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "53200208012129",
-                "name": "私立學林語文才藝短期補習班",
-                "county": "嘉義縣",
-                "class": "外語類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.444754,
-                    23.52698
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "53200208012130",
                 "name": "私立羅傑文理短期補習班",
                 "county": "嘉義縣",
@@ -1088,7 +1070,7 @@
                 "name": "私立全美文理短期補習班",
                 "county": "嘉義縣",
                 "class": "文理類,外語類,音樂、舞蹈類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小,國中,高中,學齡前",
+                "students": "國小,學齡前",
                 "date_closed": ""
             },
             "geometry": {
