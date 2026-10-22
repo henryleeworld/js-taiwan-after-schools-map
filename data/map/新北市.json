@@ -7312,24 +7312,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200309100005",
-                "name": "私立大觀文理短期補習班",
-                "county": "新北市",
-                "class": "文理類",
-                "students": "國小以上",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.444552,
-                    25.006661
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200309100006",
                 "name": "私立新今日文理短期補習班",
                 "county": "新北市",
@@ -15863,7 +15845,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200703270002",
-                "name": "粘晶晶音樂短期補習班",
+                "name": "私立漫聲音樂技藝短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類",
                 "students": "國中",
@@ -52648,6 +52630,24 @@
                 "coordinates": [
                     121.470705,
                     25.008654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202610210001",
+                "name": "私立昇森文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.458511,
+                    25.086355
                 ]
             }
         }

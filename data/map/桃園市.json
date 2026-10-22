@@ -13739,7 +13739,7 @@
             "type": "Feature",
             "properties": {
                 "code": "33201408040001",
-                "name": "私立康萊爾美語短期補習班",
+                "name": "私立康萊爾文理短期補習班",
                 "county": "桃園市",
                 "class": "外語類",
                 "students": "國小,國中",
@@ -25396,6 +25396,24 @@
                 "coordinates": [
                     121.157191,
                     24.911797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202610210001",
+                "name": "私立金安文理短期補習班",
+                "county": "桃園市",
+                "class": "文理類,外語類",
+                "students": "國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.257074,
+                    25.024393
                 ]
             }
         }
