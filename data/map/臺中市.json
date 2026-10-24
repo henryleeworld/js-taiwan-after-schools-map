@@ -5098,24 +5098,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200208120042",
-                "name": "臺中市私立建成文理短期補習班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "國中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.693284,
-                    24.152321
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200208120055",
                 "name": "元大教育事業股份有限公司附設臺中市私立欣德文理短期補習班",
                 "county": "臺中市",
@@ -11597,7 +11579,7 @@
             "type": "Feature",
             "properties": {
                 "code": "42200402230001",
-                "name": "私立當代美語會話短期補習班",
+                "name": "臺中市私立當代美語會話短期補習班",
                 "county": "臺中市",
                 "class": "外語類",
                 "students": "國小",
@@ -23750,7 +23732,7 @@
                 "name": "臺中市私立健康文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "國中,國小",
+                "students": "國小,國中",
                 "date_closed": ""
             },
             "geometry": {
