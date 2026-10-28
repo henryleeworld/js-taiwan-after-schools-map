@@ -12334,24 +12334,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "42200406299001",
-                "name": "私立嘉群英文短期補習班",
-                "county": "臺中市",
-                "class": "外語類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.726906,
-                    24.249954
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "42200407010001",
                 "name": "臺中市私立三合漢口英語短期補習班",
                 "county": "臺中市",
@@ -37736,7 +37718,7 @@
                 "name": "臺中市私立夢想音樂短期補習班",
                 "county": "臺中市",
                 "class": "音樂、舞蹈類",
-                "students": "國小,國中,成人(18歲以上)",
+                "students": "國中,國小,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
@@ -41894,7 +41876,7 @@
                 "name": "臺中市私立嘉昱文理技藝短期補習班",
                 "county": "臺中市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國中,國小,學齡前",
+                "students": "國小,學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -50678,14 +50660,14 @@
                 "name": "臺中市私立星心國際文理美術短期補習班",
                 "county": "臺中市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小,成人(18歲以上)",
+                "students": "國小,國中,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    120.550466,
-                    24.211433
+                    120.562084,
+                    24.208848
                 ]
             }
         },
