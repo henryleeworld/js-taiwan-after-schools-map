@@ -149,7 +149,7 @@
             "type": "Feature",
             "properties": {
                 "code": "36200206100009",
-                "name": "新竹縣私立聯合文理短期補習班博愛分班",
+                "name": "新竹縣私立唯學文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類",
                 "students": "國中",
@@ -167,10 +167,10 @@
             "type": "Feature",
             "properties": {
                 "code": "36200206100010",
-                "name": "私立小巨人文理短期補習班",
+                "name": "新竹縣私立小巨人文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類",
-                "students": "國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -2654,7 +2654,7 @@
                 "name": "新竹縣私立學成文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類",
-                "students": "國中",
+                "students": "國小,國中,高中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
@@ -6944,8 +6944,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    121.029657,
-                    24.828118
+                    121.031103,
+                    24.827629
                 ]
             }
         },
@@ -9260,7 +9260,7 @@
                 "name": "新竹縣私立學兒文理短期補習班",
                 "county": "新竹縣",
                 "class": "文理類",
-                "students": "學齡前,國小,國中,高中,成人(18歲以上)",
+                "students": "國中,高中,學齡前,國小,成人(18歲以上)",
                 "date_closed": ""
             },
             "geometry": {

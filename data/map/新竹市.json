@@ -8756,7 +8756,7 @@
                 "name": "新竹市私立樂沐兒童藝術文理技藝短期補習班",
                 "county": "新竹市",
                 "class": "外語類,音樂、舞蹈類",
-                "students": "國小,國中,6歲以上至成人",
+                "students": "國中,6歲以上至成人,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -8782,6 +8782,24 @@
                 "coordinates": [
                     120.970966,
                     24.813496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "35202611020001",
+                "name": "新竹市私立知群文理短期補習班",
+                "county": "新竹市",
+                "class": "文理類",
+                "students": "高職,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.971785,
+                    24.803353
                 ]
             }
         }
