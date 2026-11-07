@@ -20704,24 +20704,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62202012070001",
-                "name": "臺南市私立興成文理短期補習班",
-                "county": "臺南市",
-                "class": "文理類",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.238358,
-                    22.983391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62202012170002",
                 "name": "臺南市私立瑩政文理短期補習班",
                 "county": "臺南市",
@@ -26062,6 +26044,24 @@
                 "coordinates": [
                     120.175084,
                     23.158358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202611050002",
+                "name": "台灣知識庫股份有限公司附設臺南市私立龍門百官文理短期補習班(為比對教職員工資料預登立案資訊)",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "成人(18歲以上)",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.20744,
+                    22.998116
                 ]
             }
         }

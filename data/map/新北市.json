@@ -19211,7 +19211,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200902090002",
-                "name": "私立正化文理語文短期補習班",
+                "name": "正化文理語文短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類",
                 "students": "國中,其他",
@@ -29903,7 +29903,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201407160001",
-                "name": "私立子維文理短期補習班",
+                "name": "私立瑋成新市文理短期補習班",
                 "county": "新北市",
                 "class": "文理類,外語類",
                 "students": "不限年齡,不限年齡(A班22人、B班12人)",
@@ -52666,6 +52666,24 @@
                 "coordinates": [
                     121.361758,
                     25.074484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202611050002",
+                "name": "私立測試補習班1",
+                "county": "新北市",
+                "class": "",
+                "students": "",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.39295,
+                    24.85669
                 ]
             }
         }
