@@ -22670,7 +22670,7 @@
                 "name": "私立集文文理短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類",
-                "students": "國中,國小,高中",
+                "students": "高中,國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -25424,7 +25424,7 @@
                 "name": "私立晴光文理技藝短期補習班",
                 "county": "桃園市",
                 "class": "文理類,外語類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "學齡前,國小,國中",
+                "students": "國小,學齡前,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -25432,6 +25432,42 @@
                 "coordinates": [
                     121.145737,
                     25.046272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202611060001",
+                "name": "私立香草美術技藝短期補習班",
+                "county": "桃園市",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.220617,
+                    24.952611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "33202611060002",
+                "name": "私立萊尼拉美術技藝短期補習班",
+                "county": "桃園市",
+                "class": "美術、書法、攝影、美工設計、圍棋類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.212264,
+                    25.006102
                 ]
             }
         }
