@@ -23588,7 +23588,7 @@
                 "name": "臺南市私立學尚文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "國小,國中",
+                "students": "國中,國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -26062,6 +26062,24 @@
                 "coordinates": [
                     120.20744,
                     22.998116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "62202611090001",
+                "name": "卓躍文教有限公司附設臺南市私立叡揚短期補習班女中分班",
+                "county": "臺南市",
+                "class": "文理類",
+                "students": "國小,國中,高中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.209383,
+                    22.987102
                 ]
             }
         }
