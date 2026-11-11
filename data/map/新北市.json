@@ -9671,7 +9671,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200409240001",
-                "name": "點子瓬文理短期補習班",
+                "name": "私立玩扮英語文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國小、國中(2班各11、25人)",
@@ -14369,7 +14369,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200607210002",
-                "name": "私立吉瑞語文短期補習班",
+                "name": "吉瑞語文短期補習班",
                 "county": "新北市",
                 "class": "外語類",
                 "students": "null",
@@ -52684,6 +52684,24 @@
                 "coordinates": [
                     121.39295,
                     24.85669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202611100001",
+                "name": "私立A.M音樂技藝短期補習班",
+                "county": "新北市",
+                "class": "音樂、舞蹈類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.445238,
+                    25.089244
                 ]
             }
         }

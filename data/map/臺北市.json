@@ -1390,6 +1390,24 @@
         {
             "type": "Feature",
             "properties": {
+                "code": "20200811180307",
+                "name": "臺北市私立中研文理技藝短期補習班",
+                "county": "臺北市",
+                "class": "文理類,外語類,資訊類",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.615203,
+                    25.046795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "code": "20200811180311",
                 "name": "臺北市私立信望愛美語短期補習班",
                 "county": "臺北市",
@@ -41902,6 +41920,24 @@
                 "coordinates": [
                     121.551604,
                     25.038097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202308180001",
+                "name": "有意思藝文整合有限公司附設臺北市私立有意思音樂技藝文理短期補習班",
+                "county": "臺北市",
+                "class": "音樂、舞蹈類",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.554204,
+                    25.033675
                 ]
             }
         },

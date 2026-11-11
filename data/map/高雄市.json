@@ -29902,24 +29902,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "70202111110001",
-                "name": "私立子元學苑文理短期補習班",
-                "county": "高雄市",
-                "class": "文理類",
-                "students": "國小,國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.335215,
-                    22.584197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "70202111220001",
                 "name": "私立喆學文理短期補習班",
                 "county": "高雄市",
@@ -33604,6 +33586,24 @@
                 "coordinates": [
                     120.307173,
                     22.634393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "70202610150001",
+                "name": "日日樂童有限公司附設高雄市私立日日樂童技藝短期補習班",
+                "county": "高雄市",
+                "class": "音樂、舞蹈類",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.329061,
+                    22.736018
                 ]
             }
         }
