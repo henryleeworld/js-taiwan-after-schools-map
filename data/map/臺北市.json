@@ -32062,24 +32062,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "20201712270002",
-                "name": "臺北市私立繽紛文理技藝短期補習班",
-                "county": "臺北市",
-                "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.500447,
-                    25.13722
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "20201712270003",
                 "name": "英協文教有限公司附設臺北市私立石牌一文理短期補習班",
                 "county": "臺北市",
@@ -47068,6 +47050,42 @@
                 "coordinates": [
                     121.577607,
                     25.047513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202611120001",
+                "name": "統域領導力發展股份有限公司附設臺北市私立全人發展技藝短期補習班",
+                "county": "臺北市",
+                "class": "其他類",
+                "students": "其他",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.606273,
+                    25.073701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "20202611120002",
+                "name": "臺北市私立西亞特文理技藝短期補習班光復分班",
+                "county": "臺北市",
+                "class": "文理類",
+                "students": "國小",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.55711,
+                    25.040581
                 ]
             }
         }
