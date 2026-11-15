@@ -2434,24 +2434,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "62200208029073",
-                "name": "臺南市私立謙謙文理短期補習班",
-                "county": "臺南市",
-                "class": "文理類",
-                "students": "國中",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.231133,
-                    23.021162
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "62200208029075",
                 "name": "臺南市私立育承學園文理短期補習班",
                 "county": "臺南市",
@@ -19484,7 +19466,7 @@
                 "name": "臺南市私立小通儒文理短期補習班",
                 "county": "臺南市",
                 "class": "文理類",
-                "students": "高中,國小,國中,學齡前",
+                "students": "國小,高中,國中,學齡前",
                 "date_closed": ""
             },
             "geometry": {
