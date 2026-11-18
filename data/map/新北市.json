@@ -8590,24 +8590,6 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21200405050001",
-                "name": "私立舞佾舞集舞蹈短期補習班",
-                "county": "新北市",
-                "class": "音樂、舞蹈類",
-                "students": "國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.44743,
-                    25.037504
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "code": "21200405050002",
                 "name": "新榮富文理語文短期補習班",
                 "county": "新北市",
@@ -34565,7 +34547,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201708140001",
-                "name": "私立翰群文理短期補習班",
+                "name": "翰群文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "國小至高中(A班20人、B班20人、C班14人、D班11人)",
