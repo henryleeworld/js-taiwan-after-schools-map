@@ -5660,7 +5660,7 @@
                 "name": "私立志懋大昌文理短期補習班",
                 "county": "臺中市",
                 "class": "文理類",
-                "students": "高中,國小,國中",
+                "students": "國小,高中,國中",
                 "date_closed": ""
             },
             "geometry": {
@@ -34748,7 +34748,7 @@
                 "name": "正典教育事業有限公司臺中市私立新唐群文理短期補習班",
                 "county": "臺中市",
                 "class": "外語類,美術、書法、攝影、美工設計、圍棋類",
-                "students": "國小,成人(18歲以上)",
+                "students": "成人(18歲以上),國小",
                 "date_closed": ""
             },
             "geometry": {
@@ -37906,24 +37906,6 @@
                 "coordinates": [
                     120.622657,
                     24.342909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "42201711100001",
-                "name": "皓學顧問有限公司附設私立揚才文理短期補習班",
-                "county": "臺中市",
-                "class": "文理類",
-                "students": "國中,高中,國小",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    120.71041,
-                    24.171604
                 ]
             }
         },
@@ -52612,6 +52594,24 @@
                 "coordinates": [
                     120.678732,
                     24.133009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202611160001",
+                "name": "臺中市私立勇毅文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "學齡前,國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690225,
+                    24.16373
                 ]
             }
         }
