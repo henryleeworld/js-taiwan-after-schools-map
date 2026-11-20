@@ -52614,6 +52614,42 @@
                     24.16373
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202611190001",
+                "name": "臺中市私立衡鈺數學短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "高中,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.722707,
+                    24.252002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "42202611190002",
+                "name": "太學文教有限公司附設臺中市私立太學文理短期補習班",
+                "county": "臺中市",
+                "class": "文理類",
+                "students": "國小,國中",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    120.690317,
+                    24.157263
+                ]
+            }
         }
     ]
 }
