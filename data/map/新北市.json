@@ -52686,6 +52686,42 @@
                     25.089244
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202611230001",
+                "name": "大齊文教有限公司附設私立大齊文理短期補習班短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421893,
+                    24.982452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202611230002",
+                "name": "私立全真一對一文理短期補習班中興分班短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.481481,
+                    25.087173
+                ]
+            }
         }
     ]
 }
