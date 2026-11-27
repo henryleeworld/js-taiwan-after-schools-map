@@ -16421,7 +16421,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200708060004",
-                "name": "私立馨喬文理技藝短期補習班",
+                "name": "私立榮鑫文理技藝短期補習班",
                 "county": "新北市",
                 "class": "文理類,美術、書法、攝影、美工設計、圍棋類",
                 "students": "不限年齡",
@@ -16781,7 +16781,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21200710110002",
-                "name": "汎璇音樂舞蹈短期補習班",
+                "name": "私立艾利爾音樂舞蹈技藝短期補習班",
                 "county": "新北市",
                 "class": "音樂、舞蹈類",
                 "students": "4-12歲,4-6歲",
@@ -38309,7 +38309,7 @@
             "type": "Feature",
             "properties": {
                 "code": "21201910200001",
-                "name": "私立習淼文理短期補習班",
+                "name": "習淼文理短期補習班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡",
@@ -52690,26 +52690,8 @@
         {
             "type": "Feature",
             "properties": {
-                "code": "21202611230001",
-                "name": "大齊文教有限公司附設私立大齊文理短期補習班短期補習班",
-                "county": "新北市",
-                "class": "文理類",
-                "students": "不限年齡",
-                "date_closed": ""
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    121.421893,
-                    24.982452
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "code": "21202611230002",
-                "name": "私立全真一對一文理短期補習班中興分班短期補習班",
+                "code": "21202611250001",
+                "name": "私立全真一對一文理短期補習班中興分班",
                 "county": "新北市",
                 "class": "文理類",
                 "students": "不限年齡",
@@ -52720,6 +52702,24 @@
                 "coordinates": [
                     121.481481,
                     25.087173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "code": "21202611250002",
+                "name": "大齊文教有限公司附設私立大齊文理短期補習班",
+                "county": "新北市",
+                "class": "文理類",
+                "students": "不限年齡",
+                "date_closed": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    121.421893,
+                    24.982452
                 ]
             }
         }
